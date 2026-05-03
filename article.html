@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title data-i18n="article.loading">u062cu0627u0631u064a u0627u0644u062au062du0645u064au0644... u2014 u0645u0644u062au0642u0649 u0627u0644u0623u062bu0631u064au0627u0621</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&family=Cairo:wght@400;700;900&display=swap" rel="stylesheet">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💎</text></svg>" />
+</head>
+<body class="article-page">
+<div class="stars-bg" aria-hidden="true"></div>
+<div class="reading-progress" id="readingProgress"><div class="reading-bar" id="readingBar"></div></div>
+<nav class="navbar scrolled" id="navbar">
+  <a href="index.html" class="logo">
+    <div class="logo-icon">💎</div>
+    <div>
+      <span class="logo-text" data-i18n="logo.text"></span>
+      <span class="logo-sub" data-i18n="logo.sub"></span>
+    </div>
+  </a>
+  <ul class="nav-links" id="navLinks">
+    <li><a href="index.html" data-i18n="nav.home"></a></li>
+    <li><a href="markets.html" data-i18n="nav.markets"></a></li>
+    <li><a href="index.html#strategies" data-i18n="nav.strategies"></a></li>
+    <li><a href="index.html#newsletter" class="nav-cta" data-i18n="nav.subscribe"></a></li>
+  </ul>
+  <button id="langToggleBtn" class="lang-toggle-btn" onclick="toggleLanguage()"><span class="lang-globe">🌐</span><span class="lang-current">EN</span></button>
+  <button class="nav-toggle" id="navToggle"><span></span><span></span><span></span></button>
+</nav>
+<main id="articleContent" role="main"></main>
+<footer class="footer">
+  <div class="footer-grid container">
+    <div class="footer-brand">
+      <a href="index.html" class="logo" style="text-decoration:none;">
+        <div class="logo-icon">💎</div>
+        <div><span class="logo-text" data-i18n="logo.text"></span></div>
+      </a>
+    </div>
+  </div>
+  <div class="footer-bottom"><p class="footer-copy" data-i18n="footer.copy"></p></div>
+</footer>
+<script src="js/i18n.js"></script>
+<script>
+/* =========================================================
+   Moltaqa - Articles Database (16 Articles)
+   ========================================================= */
+
+window.ARTICLES = window.ARTICLES || [
+<script src="js/articles-data.js" charset="utf-8"></script>
+<script src="js/main.js"></script>
+<script>
+(function(){
+  try {
+    if(typeof initLanguage==='function') initLanguage();
+    var params=new URLSearchParams(window.location.search);
+    var articleId=parseInt(params.get('id'));
+    if(!articleId){renderArticleUI(null);return;}
+    if(typeof getArticleById!=='function') throw new Error('getArticleById missing');
+    renderArticleUI(getArticleById(articleId));
+    window.addEventListener('languageChanged',function(){renderArticleUI(getArticleById(articleId));});
+    window.addEventListener('scroll',function(){
+      var ws=document.body.scrollTop||document.documentElement.scrollTop;
+      var h=document.documentElement.scrollHeight-document.documentElement.clientHeight;
+      var bar=document.getElementById('readingBar');
+      if(bar)bar.style.width=(ws/h*100)+'%';
+    });
+    function renderArticleUI(a){
+      var el=document.getElementById('articleContent');
+      if(!a){el.innerHTML='<div style="text-align:center;padding:100px 20px;"><h1 data-i18n="article.notfound"></h1><a href="index.html" class="btn-primary">Back</a></div>';return;}
+      var lang=localStorage.getItem('site_lang')||'ar';
+      var isEn=lang==='en';
+      var title=isEn?(a.titleEn||a.title):a.title;
+      var content=isEn?(a.contentEn||a.content):a.content;
+      var category=isEn?(a.categoryEn||a.category):a.category;
+      var date=isEn?(a.dateEn||a.date):a.date;
+      var author=isEn?(a.authorEn||a.author):a.author;
+      var breadcrumb=isEn?(a.breadcrumbEn||a.breadcrumb):a.breadcrumb;
+      var toc=isEn?(a.tocEn||a.toc):a.toc;
+      document.title=title+' — Moltaqa';
+      var related='';
+      if(a.related&&a.related.length&&typeof getRelatedArticles==='function'){
+        var rels=getRelatedArticles(a.related);
+        if(rels.length){related='<div class="related-articles-section"><h3 class="related-title">'+(isEn?'Related Articles':'مقالات ذات صلة')+'</h3><div class="related-grid">'+rels.map(function(ra){if(!ra)return'';var rt=isEn?(ra.titleEn||ra.title):ra.title;var rc=isEn?(ra.categoryEn||ra.category):ra.category;return'<a href="article.html?id='+ra.id+'" class="article-card" style="text-decoration:none;"><div class="card-header-visual"><div class="card-img-placeholder" style="background:'+ra.gradient+'"><img src="'+ra.image+'" alt="'+rt+'" loading="lazy" style="width:100%;height:100%;object-fit:cover;" /></div></div><div class="card-content"><div class="card-badge-row"><span class="card-cat">'+rc+'</span></div><h3 class="card-title" style="font-size:1rem;">'+rt+'</h3><div class="card-footer"><div class="card-author"><div class="author-avatar" style="width:24px;height:24px;font-size:0.7rem;">'+ra.authorInitial+'</div><span class="author-name" style="font-size:0.7rem;">'+((isEn&&ra.authorEn)?ra.authorEn:ra.author)+'</span></div></div></div></a>';}).join('')+'</div></div>';}
+      }
+      el.innerHTML='<header class="article-hero-lux"><div class="hero-bg-overlay" style="background:'+a.gradient+'"></div><div class="hero-content-glass container"><nav class="breadcrumb-lux"><a href="index.html">'+(isEn?'Home':'الرئيسية')+'</a> <span>/</span> '+breadcrumb+'</nav><h1 class="editorial-title">'+title+'</h1><div class="editorial-meta"><div class="author-block"><div class="author-avatar">'+a.authorInitial+'</div><div class="author-info"><span class="name">'+author+'</span><span class="date">'+date+'</span></div></div><div class="reading-stats"><span class="stat">⏱ '+a.readTime+' '+(isEn?'min':'دقيقة')+'</span><span class="stat">👁 '+a.views+'</span></div></div></div></header><div class="article-main-grid container"><aside class="article-sidebar"><div class="sidebar-box toc-box"><h4 class="sidebar-label">'+(isEn?'Contents':'جدول المحتويات')+'</h4><ul class="toc-list">'+toc.map(function(item){return'<li><a href="#'+item.id+'">'+ item.text+'</a></li>';}).join('')+'</ul></div><div class="sidebar-box share-box"><h4 class="sidebar-label">Share</h4><div class="share-grid"><a href="#" class="share-btn wa">💬 WhatsApp</a></div></div></aside><article class="article-body"><div class="article-content-lux">'+content+'</div>'+related+'</article></div>';
+      if(typeof applyLanguage==='function')applyLanguage(lang);
+      document.querySelectorAll('.toc-list a').forEach(function(a){a.onclick=function(e){e.preventDefault();var t=document.getElementById(this.getAttribute('href').slice(1));if(t)window.scrollTo({top:t.getBoundingClientRect().top+window.pageYOffset-100,behavior:'smooth'});};});
+    }
+  } catch(err) {
+    console.error(err);
+    var c=document.getElementById('articleContent');
+    if(c)c.innerHTML='<div style="padding:100px 20px;text-align:center;color:#d4af37;"><h2>Error loading article</h2><a href="index.html">Back</a></div>';
+  }
+})();
+</script>
+</body>
+</html>

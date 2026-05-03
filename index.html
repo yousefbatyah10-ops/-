@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ملتقى الأثرياء — مدونة مالية نخبوية للمستثمر العربي</title>
+  <meta name="description" content="ملتقى الأثرياء: مدونة مالية متخصصة تقدم رؤى استثمارية حصرية، تحليلات أسواق المال، واستراتيجيات بناء الثروة للمستثمر العربي الطموح." />
+  <meta name="keywords" content="استثمار, ثروة, مالية شخصية, أسواق المال, ريادة أعمال, اقتصاد, مدونة مالية عربية" />
+  <meta property="og:title" content="ملتقى الأثرياء — مدونة مالية نخبوية" />
+  <meta property="og:description" content="رؤى استثمارية حصرية وتحليلات مالية للمستثمر العربي الطموح" />
+  <meta property="og:type" content="website" />
+  
+  <!-- Google Search Console Verification -->
+  <meta name="google-site-verification" content="2_bFyy63ZsintiXf-6UOTl6p8cPQQCISSsmLKHDbkks" />
+
+  <link rel="canonical" href="https://moltaqa.online/" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💎</text></svg>" />
+</head>
+<body>
+
+<!-- خلفية النجوم -->
+<div class="stars-bg" aria-hidden="true"></div>
+
+<!-- شريط التنقل -->
+<nav class="navbar" id="navbar" role="navigation" aria-label="القائمة الرئيسية">
+  <a href="index.html" class="logo" aria-label="ملتقى الأثرياء - الرئيسية">
+    <div class="logo-icon" aria-hidden="true">💎</div>
+    <div>
+      <span class="logo-text" data-i18n="logo.text">ملتقى الأثرياء</span>
+      <span class="logo-sub" data-i18n="logo.sub">النخبة المالية العربية</span>
+    </div>
+  </a>
+
+  <ul class="nav-links" role="list" id="navLinks">
+    <li><a href="index.html" class="active" id="nav-home" data-i18n="nav.home">الرئيسية</a></li>
+    <li><a href="markets.html" id="nav-markets" data-i18n="nav.markets">أخبار الأسواق</a></li>
+    <li><a href="#strategies" id="nav-strategies" data-i18n="nav.strategies">المقالات</a></li>
+    <li><a href="#entrepreneurship" id="nav-entrepreneurship" data-i18n="nav.entrepreneurship">ريادة الأعمال</a></li>
+    <li><a href="#about" id="nav-about" data-i18n="nav.about">عن الملتقى</a></li>
+    <li><a href="#newsletter" class="nav-cta" id="nav-subscribe" data-i18n="nav.subscribe">اشترك مجاناً ✦</a></li>
+  </ul>
+
+  <!-- زر تبديل اللغة -->
+  <button id="langToggleBtn" class="lang-toggle-btn" aria-label="Switch to English" onclick="toggleLanguage()">
+    <span class="lang-globe">🌐</span>
+    <span class="lang-current">EN</span>
+  </button>
+
+  <button class="nav-toggle" id="navToggle" aria-label="فتح القائمة" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container" style="background: var(--navy-deep); border-bottom: 1px solid var(--border);">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {
+  "symbols": [
+    {
+      "proName": "TADAWUL:TASI",
+      "title": "تداول السعودية"
+    },
+    {
+      "proName": "TADAWUL:2222",
+      "title": "أرامكو"
+    },
+    {
+      "proName": "DFM:DFMGI",
+      "title": "سوق دبي"
+    },
+    {
+      "proName": "FX_IDC:XAUUSD",
+      "title": "الذهب"
+    },
+    {
+      "proName": "BITSTAMP:BTCUSD",
+      "title": "Bitcoin"
+    },
+    {
+      "proName": "TVC:UKOIL",
+      "title": "النفط برنت"
+    }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "dark",
+  "isTransparent": true,
+  "displayMode": "adaptive",
+  "locale": "ar"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+
+<!-- Hero Section -->
+<section class="hero" id="hero" aria-labelledby="hero-title">
+  <div class="hero-bg" aria-hidden="true"></div>
+  <svg class="hero-chart" aria-hidden="true"></svg>
+
+  <div class="hero-content">
+    <div class="hero-text">
+      <div class="hero-badge">
+        <span class="dot" aria-hidden="true"></span>
+        <span data-i18n="hero.badge">منصة النخبة المالية العربية</span>
+      </div>
+      <h1 class="hero-title" id="hero-title">
+        <span data-i18n="hero.title.line1">استثمر بذكاء،</span>
+        <br>
+        <span class="accent" data-i18n="hero.title.accent">ابنِ ثروتك</span>
+        <br>
+        <span data-i18n="hero.title.line2">بثقة</span>
+      </h1>
+      <p class="hero-desc" data-i18n="hero.desc">
+        تحليلات مالية عمقية، استراتيجيات استثمار مجرّبة، ورؤى نخبة من الخبراء — كل ما يحتاجه المستثمر العربي الطموح في مكان واحد.
+      </p>
+      <div class="hero-actions">
+        <a href="#articles" class="btn-primary" id="hero-explore-btn">
+          <span data-i18n="hero.btn.articles">استكشف المقالات</span>
+          <span aria-hidden="true">←</span>
+        </a>
+        <a href="#newsletter" class="btn-secondary" id="hero-subscribe-btn">
+          <span data-i18n="hero.btn.newsletter">اشترك مجاناً</span>
+          <span aria-hidden="true">❆</span>
+        </a>
+      </div>
+      <div class="hero-stats" role="list" aria-label="إحصائيات الملتقى">
+        <div class="stat-item" role="listitem">
+          <span class="stat-num" data-target="12" data-suffix="K+">12K+</span>
+          <span class="stat-label" data-i18n="hero.stat.readers">مستثمر نشط</span>
+        </div>
+        <div class="stat-item" role="listitem">
+          <span class="stat-num" data-target="40" data-suffix="+">40+</span>
+          <span class="stat-label" data-i18n="hero.stat.articles">مقالة متخصصة</span>
+        </div>
+        <div class="stat-item" role="listitem">
+          <span class="stat-num" data-target="4.9" data-suffix="★">4.9★</span>
+          <span class="stat-label" data-i18n="hero.stat.years">تقييم القراء</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- البطاقة العائمة -->
+    <div class="hero-visual" aria-hidden="true">
+      <div class="hero-card-float">
+        <div class="card-header-mini">
+          <div class="card-avatar">📈</div>
+          <div>
+            <div class="card-title-mini" data-i18n="hero.card.title">محفظتي هذا الشهر</div>
+            <div class="card-sub-mini" data-i18n="hero.card.sub">أداء نمو الاستثمارات</div>
+          </div>
+        </div>
+        <svg class="mini-chart"></svg>
+        <div class="mini-stats">
+          <div class="mini-stat">
+            <span class="mini-stat-val up">+18.4%</span>
+            <span class="mini-stat-label" data-i18n="hero.card.growth">الأسهم</span>
+          </div>
+          <div class="mini-stat">
+            <span class="mini-stat-val up">+7.2%</span>
+            <span class="mini-stat-label" data-i18n="hero.card.return">العقارات</span>
+          </div>
+          <div class="mini-stat">
+            <span class="mini-stat-val up">+12.1%</span>
+            <span class="mini-stat-label" data-i18n="hero.card.risk">الذهب</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- أحدث المقالات -->
+<section id="articles" aria-labelledby="articles-title">
+  <div class="container">
+    <div class="section-header">
+      <div class="section-tag" data-i18n="section.articles.tag">❖ أحدث المقالات</div>
+      <h2 class="section-title" id="articles-title">
+        <span data-i18n="section.articles.title1">رؤى مالية</span> <span data-i18n="section.articles.title2">حصرية</span>
+      </h2>
+      <p class="section-desc" data-i18n="section.articles.desc">محتوى متخصص يكتبه خبراء ماليون بخبرة عقود في أسواق المال العربية والعالمية</p>
+    </div>
+    <div class="filter-container">
+      <div class="filter-bar" id="categoryFilter">
+        <button class="filter-btn active" data-category="all" data-i18n="filter.all">الكل</button>
+        <button class="filter-btn" data-category="stocks" data-i18n="cat.stocks">الأسهم</button>
+        <button class="filter-btn" data-category="realestate" data-i18n="cat.realestate">العقارات</button>
+        <button class="filter-btn" data-category="gold" data-i18n="cat.gold">الذهب والمعادن</button>
+        <button class="filter-btn" data-category="crypto" data-i18n="cat.crypto">العملات الرقمية</button>
+        <button class="filter-btn" data-category="startup" data-i18n="cat.startup">ريادة الأعمال</button>
+        <button class="filter-btn" data-category="passive" data-i18n="cat.passive">الدخل السلبي</button>
+        <button class="filter-btn" data-category="personal" data-i18n="cat.personal">المالية الشخصية</button>
+        <button class="filter-btn" data-category="tech" data-i18n="cat.tech">تقنية وثروة</button>
+      </div>
+    </div>
+
+    <div class="articles-grid" id="articlesGrid">
+      <!-- تُملأ ديناميكياً من articles.js -->
+    </div>
+
+    <div style="text-align: center; margin-top: 3rem;">
+      <a href="#" class="btn-secondary" id="load-more-btn" data-i18n="articles.loadmore">
+        عرض المزيد من المقالات ↓
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- قسم المقالات (التصنيفات) -->
+<section class="categories-section" id="strategies" aria-labelledby="categories-title">
+  <div class="container">
+    <div class="section-header">
+      <div class="section-tag" data-i18n="section.categories.tag">✦ تصنيفات المحتوى</div>
+      <h2 class="section-title" id="categories-title">
+        <span data-i18n="section.categories.title1">استكشف</span> <span data-i18n="section.categories.title2">مجالات الثروة</span>
+      </h2>
+      <p class="section-desc" data-i18n="section.categories.desc">اختر المجال الذي يناسب أهدافك المالية وابدأ رحلتك نحو التفوق المالي</p>
+    </div>
+
+    <div class="categories-grid" role="list" aria-label="تصنيفات المقالات">
+      <div class="cat-card fade-up" role="listitem" tabindex="0" id="cat-stocks" aria-label="الأسهم - 48 مقالة">
+        <span class="cat-icon" aria-hidden="true">📈</span>
+        <div class="cat-name" data-i18n="cat.stocks">الأسهم</div>
+        <div class="cat-count" data-i18n="cat.stocks.desc">48 مقالة</div>
+      </div>
+      <div class="cat-card fade-up" role="listitem" tabindex="0" id="cat-realestate" aria-label="العقارات - 32 مقالة">
+        <span class="cat-icon" aria-hidden="true">🏙️</span>
+        <div class="cat-name" data-i18n="cat.realestate">العقارات</div>
+        <div class="cat-count" data-i18n="cat.realestate.desc">32 مقالة</div>
+      </div>
+      <div class="cat-card fade-up" role="listitem" tabindex="0" id="cat-gold" aria-label="الذهب والمعادن - 21 مقالة">
+        <span class="cat-icon" aria-hidden="true">🥇</span>
+        <div class="cat-name" data-i18n="cat.gold">الذهب والمعادن</div>
+        <div class="cat-count" data-i18n="cat.gold.desc">21 مقالة</div>
+      </div>
+      <div class="cat-card fade-up" role="listitem" tabindex="0" id="cat-crypto" aria-label="العملات الرقمية - 19 مقالة">
+        <span class="cat-icon" aria-hidden="true">₿</span>
+        <div class="cat-name" data-i18n="cat.crypto">العملات الرقمية</div>
+        <div class="cat-count" data-i18n="cat.crypto.desc">19 مقالة</div>
+      </div>
+      <div class="cat-card fade-up" role="listitem" tabindex="0" id="cat-startup" aria-label="ريادة الأعمال - 37 مقالة">
+        <span class="cat-icon" aria-hidden="true">🚀</span>
+        <div class="cat-name" data-i18n="cat.startup">ريادة الأعمال</div>
+        <div class="cat-count" data-i18n="cat.startup.desc">37 مقالة</div>
+      </div>
+      <div class="cat-card fade-up" role="listitem" tabindex="0" id="cat-passive" aria-label="الدخل السلبي - 28 مقالة">
+        <span class="cat-icon" aria-hidden="true">💰</span>
+        <div class="cat-name" data-i18n="cat.passive">الدخل السلبي</div>
+        <div class="cat-count" data-i18n="cat.passive.desc">28 مقالة</div>
+      </div>
+      <div class="cat-card fade-up" role="listitem" tabindex="0" id="cat-personal" aria-label="المالية الشخصية - 44 مقالة">
+        <span class="cat-icon" aria-hidden="true">🎯</span>
+        <div class="cat-name" data-i18n="cat.personal">المالية الشخصية</div>
+        <div class="cat-count" data-i18n="cat.personal.desc">44 مقالة</div>
+      </div>
+      <div class="cat-card fade-up" role="listitem" tabindex="0" id="cat-tech" aria-label="تقنية وثروة - 15 مقالة">
+        <span class="cat-icon" aria-hidden="true">🤖</span>
+        <div class="cat-name" data-i18n="cat.tech">تقنية وثروة</div>
+        <div class="cat-count" data-i18n="cat.tech.desc">15 مقالة</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- قسم عن الملتقى -->
+<section id="about" aria-labelledby="about-title">
+  <div class="container" style="padding-top: 5rem; padding-bottom: 5rem;">
+    <div class="about-grid">
+      <div class="fade-up">
+        <div class="section-tag" data-i18n="about.tag">✦ عن ملتقى الأثرياء</div>
+        <h2 class="section-title" id="about-title" style="text-align: right;">
+          <span data-i18n="about.title1">لماذا</span> <span data-i18n="about.title2">نختلف</span>؟
+        </h2>
+        <p class="about-desc" data-i18n="about.desc1">
+          ملتقى الأثرياء ليس مجرد مدونة — إنه مجتمع نخبة من المستثمرين العرب الذين يؤمنون أن بناء الثروة الحقيقية يبدأ بالمعرفة الصحيحة.
+        </p>
+        <p class="about-desc" data-i18n="about.desc2" style="margin-bottom: var(--space-xl);">
+          كل مقالة نشرها تمر بمراجعة دقيقة من خبراء ماليين معتمدين، ومبنية على بيانات حقيقية ودراسات موثقة. نؤمن بالشفافية والمسؤولية تجاه قرارات قرائنا المالية.
+        </p>
+        <div class="about-features" role="list" aria-label="مميزات الملتقى">
+          <div class="about-feature-item" role="listitem">
+            <span class="about-feature-check" aria-hidden="true">✓</span>
+            <div>
+              <div class="about-feature-title" data-i18n="about.feature1.title">محتوى موثّق</div>
+              <div class="about-feature-desc" data-i18n="about.feature1.desc">مراجعة من خبراء معتمدين</div>
+            </div>
+          </div>
+          <div class="about-feature-item" role="listitem">
+            <span class="about-feature-check" aria-hidden="true">✓</span>
+            <div>
+              <div class="about-feature-title" data-i18n="about.feature2.title">تحديث أسبوعي</div>
+              <div class="about-feature-desc" data-i18n="about.feature2.desc">مقالات جديدة كل أسبوع</div>
+            </div>
+          </div>
+          <div class="about-feature-item" role="listitem">
+            <span class="about-feature-check" aria-hidden="true">✓</span>
+            <div>
+              <div class="about-feature-title" data-i18n="about.feature3.title">مجاني تماماً</div>
+              <div class="about-feature-desc" data-i18n="about.feature3.desc">لا رسوم خفية أبداً</div>
+            </div>
+          </div>
+          <div class="about-feature-item" role="listitem">
+            <span class="about-feature-check" aria-hidden="true">✓</span>
+            <div>
+              <div class="about-feature-title" data-i18n="about.feature4.title">مجتمع نشط</div>
+              <div class="about-feature-desc" data-i18n="about.feature4.desc">+12,000 مستثمر</div>
+            </div>
+          </div>
+        </div>
+        <a href="#newsletter" class="btn-primary" id="about-cta-btn" data-i18n="about.cta">انضم إلى النخبة ←</a>
+      </div>
+
+      <div class="about-visual-card fade-up" aria-hidden="true">
+        <div class="about-stats-grid">
+          <div class="about-stat-box">
+            <div class="about-stat-icon">📰</div>
+            <div class="about-stat-value dynamic-total-articles">40+</div>
+            <div class="about-stat-label" data-i18n="about.stat1.label">مقالة متخصصة</div>
+          </div>
+          <div class="about-stat-box">
+            <div class="about-stat-icon">👥</div>
+            <div class="about-stat-value">12K</div>
+            <div class="about-stat-label" data-i18n="about.stat2.label">مستثمر نشط</div>
+          </div>
+          <div class="about-stat-box">
+            <div class="about-stat-icon">🎖️</div>
+            <div class="about-stat-value">15+</div>
+            <div class="about-stat-label" data-i18n="about.stat3.label">خبير معتمد</div>
+          </div>
+          <div class="about-stat-box">
+            <div class="about-stat-icon">⭐</div>
+            <div class="about-stat-value">4.9</div>
+            <div class="about-stat-label" data-i18n="about.stat4.label">تقييم القراء</div>
+          </div>
+        </div>
+        <div class="about-award-box">
+          <span class="about-award-icon">🏆</span>
+          <div>
+            <div class="about-award-title" data-i18n="about.award.title">أفضل مدونة مالية عربية 2025</div>
+            <div class="about-award-desc" data-i18n="about.award.desc">جائزة المحتوى المالي العربي</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- النشرة البريدية -->
+<section class="newsletter-section" id="newsletter" aria-labelledby="newsletter-title">
+  <div class="container">
+    <div class="newsletter-box">
+      <span class="newsletter-icon" aria-hidden="true">💌</span>
+      <h2 class="newsletter-title" id="newsletter-title">
+        <span data-i18n="newsletter.title1">انضم إلى</span> <span data-i18n="newsletter.title2">نخبة المستثمرين</span>
+      </h2>
+      <p class="newsletter-desc" data-i18n="newsletter.desc">
+        احصل على أفضل التحليلات المالية والفرص الاستثمارية مباشرة في بريدك كل أسبوع — مجاناً وبدون إزعاج
+      </p>
+      <form class="newsletter-form" id="newsletterForm" novalidate action="MAILCHIMP_ACTION_URL" method="post" target="_blank">
+        <div style="position:absolute; left:-5000px;" aria-hidden="true">
+          <input type="text" name="b_XXXXXXXX_XXXXXXXX" tabindex="-1" value="">
+        </div>
+        <input type="email" class="newsletter-input" id="emailInput" name="EMAIL" placeholder="بريدك الإلكتروني..." data-i18n="newsletter.placeholder" autocomplete="email" aria-label="البريد الإلكتروني" required />
+        <button type="submit" class="btn-primary" id="subscribe-submit-btn" data-i18n="newsletter.btn">
+          اشترك الآن ✦
+        </button>
+      </form>
+      <div class="newsletter-perks" role="list" aria-label="مميزات الاشتراك">
+        <div class="perk" role="listitem">
+          <span class="perk-icon" aria-hidden="true">✓</span>
+          <span data-i18n="newsletter.perk1">بريد أسبوعي فقط</span>
+        </div>
+        <div class="perk" role="listitem">
+          <span class="perk-icon" aria-hidden="true">✓</span>
+          <span data-i18n="newsletter.perk2">لا إعلانات مزعجة</span>
+        </div>
+        <div class="perk" role="listitem">
+          <span class="perk-icon" aria-hidden="true">✓</span>
+          <span data-i18n="newsletter.perk3">إلغاء في أي وقت</span>
+        </div>
+        <div class="perk" role="listitem">
+          <span class="perk-icon" aria-hidden="true">✦</span>
+          <span data-i18n="newsletter.perk4">مجاني للأبد</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- الفوتر -->
+<footer class="footer" id="footer" role="contentinfo">
+  <div class="container" style="padding-top: 0; padding-bottom: 0;">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="index.html" class="logo" aria-label="ملتقى الأثرياء">
+          <div class="logo-icon" aria-hidden="true">💎</div>
+          <div>
+            <span class="logo-text" data-i18n="logo.text">ملتقى الأثرياء</span>
+            <span class="logo-sub" data-i18n="logo.sub">النخبة المالية العربية</span>
+          </div>
+        </a>
+        <p data-i18n="footer.brand.desc">منصة محتوى مالي متخصصة تهدف إلى تمكين المستثمر العربي من اتخاذ قرارات مالية واثقة ومدروسة.</p>
+        <div class="footer-social" role="list" aria-label="وسائل التواصل الاجتماعي">
+          <a href="#" class="social-btn" role="listitem" aria-label="تويتر">𝕏</a>
+          <a href="#" class="social-btn" role="listitem" aria-label="تيليجرام">✈</a>
+          <a href="#" class="social-btn" role="listitem" aria-label="يوتيوب">▶</a>
+          <a href="#" class="social-btn" role="listitem" aria-label="انستجرام">◉</a>
+        </div>
+      </div>
+
+      <nav class="footer-col" aria-label="روابط الاستثمار">
+        <h4 data-i18n="footer.col1.title">الاستثمار</h4>
+        <ul role="list">
+          <li><a href="#" data-i18n="footer.col1.item1">الأسهم السعودية</a></li>
+          <li><a href="#" data-i18n="footer.col1.item2">سوق دبي المالي</a></li>
+          <li><a href="#" data-i18n="footer.col1.item3">الصناديق الاستثمارية</a></li>
+          <li><a href="#" data-i18n="footer.col1.item4">السندات والدخل الثابت</a></li>
+          <li><a href="#" data-i18n="footer.col1.item5">الاستثمار في الذهب</a></li>
+        </ul>
+      </nav>
+
+      <nav class="footer-col" aria-label="روابط ريادة الأعمال">
+        <h4 data-i18n="footer.col2.title">ريادة الأعمال</h4>
+        <ul role="list">
+          <li><a href="#" data-i18n="footer.col2.item1">بدء مشروع تجاري</a></li>
+          <li><a href="#" data-i18n="footer.col2.item2">تمويل الشركات الناشئة</a></li>
+          <li><a href="#" data-i18n="footer.col2.item3">التجارة الإلكترونية</a></li>
+          <li><a href="#" data-i18n="footer.col2.item4">الدخل السلبي</a></li>
+          <li><a href="#" data-i18n="footer.col2.item5">التسويق الرقمي</a></li>
+        </ul>
+      </nav>
+
+      <nav class="footer-col" aria-label="روابط أخرى">
+        <h4 data-i18n="footer.col3.title">الملتقى</h4>
+        <ul role="list">
+          <li><a href="#about" data-i18n="footer.col3.item1">عن ملتقى الأثرياء</a></li>
+          <li><a href="#newsletter" data-i18n="footer.col3.item2">النشرة البريدية</a></li>
+          <li><a href="#" data-i18n="footer.col3.item3">الكتّاب والخبراء</a></li>
+          <li><a href="#" data-i18n="footer.col3.item4">سياسة الخصوصية</a></li>
+          <li><a href="#" data-i18n="footer.col3.item5">تواصل معنا</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="footer-bottom">
+      <p class="footer-copy" data-i18n="footer.copy">
+        © 2026 <span>ملتقى الأثرياء</span>. جميع الحقوق محفوظة. المحتوى للأغراض التعليمية فقط.
+      </p>
+      <div class="footer-links" role="list">
+        <a href="#" role="listitem" data-i18n="footer.link.privacy">سياسة الخصوصية</a>
+        <a href="#" role="listitem" data-i18n="footer.link.terms">شروط الاستخدام</a>
+        <a href="#" role="listitem" data-i18n="footer.link.disclaimer">إخلاء المسؤولية</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- زر العودة للأعلى -->
+<button class="scroll-top" id="scrollTopBtn" aria-label="العودة للأعلى">↑</button>
+
+<script src="js/i18n.js" charset="utf-8"></script>
+<script>
+/* =========================================================
+   Moltaqa - Articles Database
+   ========================================================= */
+
+</script>
+<script src="js/articles-data.js" charset="utf-8"></script>
+<script>
+<script src="js/main.js" charset="utf-8"></script>
+<script>
+if (typeof initLanguage === 'function') {
+  initLanguage();
+} else {
+  document.addEventListener('DOMContentLoaded', () => {
+    if (typeof initLanguage === 'function') initLanguage();
+  });
+}
+</script>
+<script>
+(function () {
+  const grid = document.getElementById('articlesGrid');
+  const filterBar = document.getElementById('categoryFilter');
+  if (!grid) { console.error('Articles grid not found'); return; }
+  if (typeof window.ARTICLES === 'undefined' || !window.ARTICLES) {
+    console.error('ARTICLES data not loaded. Check js/articles.js path and encoding.');
+    // Try to recover by showing an error message to the user
+    grid.innerHTML = '<p style="color:var(--gold-light); text-align:center; padding:2rem;">عذراً، لم نتمكن من تحميل المقالات. يرجى التأكد من تشغيل الموقع من مجلد صحيح.</p>';
+    return;
+  }
+
+  const BATCH = 6; 
+  let shown = 0;
+  let currentFilter = 'all';
+
+  // mapping categories from UI to data
+  const catMap = {
+    'stocks': 'الأسهم',
+    'realestate': 'العقارات',
+    'gold': 'الذهب والمعادن',
+    'crypto': 'العملات الرقمية',
+    'startup': 'ريادة الأعمال',
+    'passive': 'الدخل السلبي',
+    'personal': 'المالية الشخصية',
+    'tech': 'تقنية وثروة'
+  };
+
+  function getFilteredArticles() {
+    if (currentFilter === 'all') return window.ARTICLES;
+    const targetCat = catMap[currentFilter];
+    return window.window.ARTICLES.filter(a => a.category === targetCat);
+  }
+
+  function renderCard(a) {
+    const lang = localStorage.getItem('site_lang') || 'ar';
+    const isEn = lang === 'en';
+
+    const title = isEn ? (a.titleEn || a.title) : a.title;
+    const excerpt = isEn ? (a.excerptEn || a.excerpt) : a.excerpt;
+    const category = isEn ? (a.categoryEn || a.category) : a.category;
+    const date = isEn ? (a.dateEn || a.date) : a.date;
+    const author = isEn ? (a.authorEn || a.author) : a.author;
+    const readTimeSuffix = isEn ? 'min' : 'دقيقة';
+
+    return `
+      <a href="article.html?id=${a.id}" class="article-card fade-up" id="article-${a.id}">
+        <div class="card-img-placeholder" style="background: ${a.gradient}">
+          <img src="${a.image}" alt="${title}" loading="lazy" />
+        </div>
+        <div class="card-content">
+          <div class="card-meta">
+            <span class="card-cat">${category}</span>
+            <span class="card-date">🗓 ${date}</span>
+          </div>
+          <h3 class="card-title">${title}</h3>
+          <p class="card-excerpt">${excerpt}</p>
+          <div class="card-footer">
+            <div class="card-author">
+              <div class="author-avatar">${a.authorInitial}</div>
+              <span class="author-name">${author}</span>
+            </div>
+            <span class="read-time">⏱ ${a.readTime} ${readTimeSuffix}</span>
+          </div>
+        </div>
+      </a>`;
+  }
+
+  function loadArticles(reset = false) {
+    if (reset) {
+        grid.innerHTML = '';
+        shown = 0;
+    }
+    const filtered = getFilteredArticles();
+    const end = Math.min(shown + BATCH, filtered.length);
+    let html = '';
+    for (let i = shown; i < end; i++) {
+      html += renderCard(filtered[i]);
+    }
+    grid.insertAdjacentHTML('beforeend', html);
+    shown = end;
+
+    // Trigger fade-up animations
+    if (window._fadeObserver) {
+      grid.querySelectorAll('.fade-up:not(.visible)').forEach(el => window._fadeObserver.observe(el));
+    }
+
+    const btn = document.getElementById('load-more-btn');
+    if (btn) {
+      btn.style.display = (shown >= filtered.length) ? 'none' : 'inline-block';
+    }
+  }
+
+  // Categories Sync logic
+  function syncCategoryCounts() {
+    const categories = {
+        'cat-stocks': 'الأسهم',
+        'cat-realestate': 'العقارات',
+        'cat-gold': 'الذهب والمعادن',
+        'cat-crypto': 'العملات الرقمية',
+        'cat-startup': 'ريادة الأعمال',
+        'cat-passive': 'الدخل السلبي',
+        'cat-personal': 'المالية الشخصية',
+        'cat-tech': 'تقنية وثروة'
+    };
+
+    const lang = localStorage.getItem('site_lang') || 'ar';
+    const isEn = lang === 'en';
+
+    Object.keys(categories).forEach(id => {
+        const count = window.ARTICLES.filter(a => a.category === categories[id]).length;
+        const el = document.getElementById(id);
+        if (el) {
+            const countEl = el.querySelector('.cat-count');
+            if (countEl) {
+                countEl.textContent = isEn ? `${count} articles` : `${count} مقالة`;
+            }
+
+            // Clicking card also filters
+            el.onclick = () => {
+              const catKey = id.replace('cat-', '');
+              const filterBtn = filterBar.querySelector(`[data-category="${catKey}"]`);
+              if (filterBtn) filterBtn.click();
+              document.getElementById('articles').scrollIntoView({ behavior: 'smooth' });
+            };
+        }
+    });
+
+    // stats sync
+    const totalEl = document.querySelector('.dynamic-total-articles');
+    if (totalEl) totalEl.textContent = `${window.ARTICLES.length}+`;
+  }
+
+  // Filter Bar Events
+  if (filterBar) {
+    filterBar.addEventListener('click', (e) => {
+        const btn = e.target.closest('.filter-btn');
+        if (!btn) return;
+
+        filterBar.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentFilter = btn.dataset.category;
+        loadArticles(true);
+    });
+  }
+
+  try {
+    loadArticles();
+    syncCategoryCounts();
+    console.log('Articles initialized successfully');
+  } catch (err) {
+    console.error('Error during articles initialization:', err);
+    if (grid) grid.innerHTML = '<p style="color:var(--gold-light); text-align:center; padding:2rem;">حدث خطأ في عرض المقالات. يرجى تحديث الصفحة أو المحاولة لاحقاً.</p>';
+  }
+
+  const loadMoreBtn = document.getElementById('load-more-btn');
+  if (loadMoreBtn) {
+    loadMoreBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      loadArticles();
+    });
+  }
+
+  window.addEventListener('languageChanged', () => {
+    loadArticles(true);
+    syncCategoryCounts();
+  });
+})();
+</script>
+
+<style>
+  @media (max-width: 768px) {
+    .about-grid {
+      grid-template-columns: 1fr !important;
+    }
+  }
+</style>
+
+</body>
+</html>

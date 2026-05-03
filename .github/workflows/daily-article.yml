@@ -1,0 +1,36 @@
+name: Daily Article Generation
+
+on:
+  schedule:
+    # Run daily at 3:00 AM UTC (6:00 AM Saudi time)
+    - cron: '0 3 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate new article
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/generate-article.js
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "bot@moltaqa.com"
+          git config --local user.name "Moltaqa Bot"
+          git add js/articles-data.js
+          git diff --staged --quiet || git commit -m "🤖 Auto: New article added $(date +%Y-%m-%d)"
+          git push

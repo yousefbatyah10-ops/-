@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title data-i18n="markets.title">مركز الأسواق الحية — ملتقى الأثرياء</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&family=Cairo:wght@400;700;900&family=Tajawal:wght@400;700;900&display=swap" rel="stylesheet">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💎</text></svg>" />
+  <style>
+    .markets-hero {
+      padding: 120px 0 60px;
+      text-align: center;
+      background: radial-gradient(circle at top, rgba(201,168,76,0.1), transparent);
+    }
+    .widget-section {
+      padding: 40px 0;
+    }
+    .widget-grid {
+      display: grid;
+      grid-template-columns: 1fr 350px;
+      gap: 2rem;
+    }
+    .full-widget {
+      width: 100%;
+      height: 500px;
+      background: var(--navy-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+    .sidebar-widget {
+      height: 600px;
+      background: var(--navy-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+    @media (max-width: 992px) {
+      .widget-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body class="markets-page">
+
+<!-- خلفية النجوم -->
+<div class="stars-bg" aria-hidden="true"></div>
+
+<!-- شريط التنقل -->
+<nav class="navbar scrolled" id="navbar">
+  <a href="index.html" class="logo">
+    <div class="logo-icon">💎</div>
+    <div>
+      <span class="logo-text" data-i18n="logo.text">ملتقى الأثرياء</span>
+      <span class="logo-sub" data-i18n="logo.sub">النخبة المالية العربية</span>
+    </div>
+  </a>
+
+  <ul class="nav-links" id="navLinks">
+    <li><a href="index.html" data-i18n="nav.home">الرئيسية</a></li>
+    <li><a href="markets.html" class="active" data-i18n="nav.markets">أخبار الأسواق</a></li>
+    <li><a href="index.html#strategies" data-i18n="nav.strategies">استراتيجيات الاستثمار</a></li>
+    <li><a href="index.html#entrepreneurship" data-i18n="nav.entrepreneurship">ريادة الأعمال</a></li>
+    <li><a href="index.html#newsletter" class="nav-cta" data-i18n="nav.subscribe">اشترك مجاناً ✦</a></li>
+  </ul>
+
+  <button id="langToggleBtn" class="lang-toggle-btn" aria-label="Switch to English" onclick="toggleLanguage()">
+    <span class="lang-globe">🌐</span>
+    <span class="lang-current">EN</span>
+  </button>
+
+  <button class="nav-toggle" id="navToggle">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<!-- TradingView Ticker -->
+<div class="tradingview-widget-container" style="background: var(--navy-deep); border-bottom: 1px solid var(--border); margin-top: 72px;">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {
+  "symbols": [
+    { "proName": "TADAWUL:TASI", "title": "تداول السعودية" },
+    { "proName": "TADAWUL:2222", "title": "أرامكو" },
+    { "proName": "DFM:DFMGI", "title": "سوق دبي" },
+    { "proName": "FX_IDC:XAUUSD", "title": "الذهب" },
+    { "proName": "BITSTAMP:BTCUSD", "title": "Bitcoin" },
+    { "proName": "TVC:UKOIL", "title": "النفط برنت" }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "dark",
+  "isTransparent": true,
+  "displayMode": "adaptive",
+  "locale": "ar"
+}
+  </script>
+</div>
+
+<header class="markets-hero">
+  <div class="container" style="padding: 0 2rem;">
+    <div class="section-tag" data-i18n="markets.tag">✦ بيانات فورية</div>
+    <h1 class="section-title" data-i18n="markets.title">مركز الأسواق الحية</h1>
+    <p class="section-desc" data-i18n="markets.desc">تحليل شامل ومتابعة لحظية لأسواق المال العالمية والمحلية باستخدام أحدث التقنيات.</p>
+  </div>
+</header>
+
+<!-- Market Selector UI -->
+<div class="market-selector-container">
+  <div class="market-selector">
+    <div class="market-tab active" data-market="saudi">
+      <span>🇸🇦</span> <span data-i18n="market.saudi">السوق السعودي</span>
+    </div>
+    <div class="market-tab" data-market="us">
+      <span>🇺🇸</span> <span data-i18n="market.us">السوق الأمريكي</span>
+    </div>
+  </div>
+</div>
+
+<main class="container" style="padding-top: 0;">
+  
+  <!-- SAUDI MARKET VIEW -->
+  <div id="saudi-market-view" class="market-view active">
+    <!-- Market Overview Section -->
+    <section class="widget-section">
+      <h3 class="card-title" style="margin-bottom: 1.5rem;" data-i18n="markets.overview.title">نظرة عامة على السوق السعودي</h3>
+      <div class="full-widget">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+          {
+            "colorTheme": "dark",
+            "dateRange": "12M",
+            "showChart": true,
+            "locale": "ar",
+            "width": "100%",
+            "height": "100%",
+            "largeChartUrl": "",
+            "isTransparent": true,
+            "showSymbolLogo": true,
+            "showFloatingTooltip": false,
+            "tabs": [
+              {
+                "title": "المؤشرات",
+                "symbols": [
+                  { "s": "TADAWUL:TASI", "d": "تداول السعودية" },
+                  { "s": "TADAWUL:2222", "d": "أرامكو" },
+                  { "s": "DFM:DFMGI", "d": "سوق دبي" },
+                  { "s": "ADX:ADI", "d": "مؤشر أبوظبي" }
+                ]
+              },
+              {
+                "title": "السلع",
+                "symbols": [
+                  { "s": "FX_IDC:XAUUSD", "d": "الذهب" },
+                  { "s": "TVC:UKOIL", "d": "نقط برنت" },
+                  { "s": "TVC:USOIL", "d": "النفط الخام" }
+                ]
+              }
+            ]
+          }
+          </script>
+        </div>
+      </div>
+    </section>
+
+    <!-- Heatmap Section -->
+    <section class="widget-section">
+      <h3 class="card-title" style="margin-bottom: 1.5rem;" data-i18n="markets.heatmap.title">خريطة السوق السعودي الحرارية</h3>
+      <div class="full-widget" style="height: 600px;">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js" async>
+          {
+            "exchanges": [],
+            "dataSource": "all_saudi",
+            "grouping": "sector",
+            "blockSize": "market_cap_basic",
+            "blockColor": "change",
+            "locale": "ar",
+            "symbolUrl": "",
+            "colorTheme": "dark",
+            "hasTopBar": true,
+            "isTransparent": true,
+            "hasSymbolTooltip": true,
+            "width": "100%",
+            "height": "100%"
+          }
+          </script>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- US MARKET VIEW -->
+  <div id="us-market-view" class="market-view">
+    <!-- Market Overview Section -->
+    <section class="widget-section">
+      <h3 class="card-title" style="margin-bottom: 1.5rem;" data-i18n="markets.overview.us">نظرة عامة على السوق الأمريكي</h3>
+      <div class="full-widget">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+          {
+            "colorTheme": "dark",
+            "dateRange": "12M",
+            "showChart": true,
+            "locale": "ar",
+            "width": "100%",
+            "height": "100%",
+            "largeChartUrl": "",
+            "isTransparent": true,
+            "showSymbolLogo": true,
+            "showFloatingTooltip": false,
+            "tabs": [
+              {
+                "title": "المؤشرات الرئيسية",
+                "symbols": [
+                  { "s": "FOREXCOM:SPXUSD", "d": "S&P 500" },
+                  { "s": "FOREXCOM:NSXUSD", "d": "Nasdaq 100" },
+                  { "s": "FOREXCOM:DJI", "d": "Dow Jones 30" },
+                  { "s": "INDEX:DXY", "d": "مؤشر الدولار" }
+                ]
+              },
+              {
+                "title": "أهم الشركات",
+                "symbols": [
+                  { "s": "NASDAQ:AAPL", "d": "Apple" },
+                  { "s": "NASDAQ:MSFT", "d": "Microsoft" },
+                  { "s": "NASDAQ:NVDA", "d": "NVIDIA" },
+                  { "s": "NASDAQ:TSLA", "d": "Tesla" }
+                ]
+              }
+            ]
+          }
+          </script>
+        </div>
+      </div>
+    </section>
+
+    <!-- Heatmap Section -->
+    <section class="widget-section">
+      <h3 class="card-title" style="margin-bottom: 1.5rem;" data-i18n="markets.heatmap.us">خريطة S&P 500 الحرارية</h3>
+      <div class="full-widget" style="height: 600px;">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js" async>
+          {
+            "exchanges": [],
+            "dataSource": "S&P500",
+            "grouping": "sector",
+            "blockSize": "market_cap_basic",
+            "blockColor": "change",
+            "locale": "ar",
+            "symbolUrl": "",
+            "colorTheme": "dark",
+            "hasTopBar": true,
+            "isTransparent": true,
+            "hasSymbolTooltip": true,
+            "width": "100%",
+            "height": "100%"
+          }
+          </script>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Shared News & Calendar Grid -->
+  <section class="widget-section">
+    <div class="widget-grid">
+      <!-- News Timeline -->
+      <div>
+        <h3 class="card-title" style="margin-bottom: 1.5rem;" data-i18n="markets.news.title">آخر الأخبار الاقتصادية</h3>
+        <div class="sidebar-widget" style="height: 600px;">
+          <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-timeline.js" async>
+            {
+              "feedMode": "all_symbols",
+              "colorTheme": "dark",
+              "isTransparent": true,
+              "displayMode": "regular",
+              "width": "100%",
+              "height": "100%",
+              "locale": "ar"
+            }
+            </script>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Economic Calendar -->
+      <div>
+        <h3 class="card-title" style="margin-bottom: 1.5rem;" data-i18n="markets.calendar.title">المفكرة الاقتصادية</h3>
+        <div class="sidebar-widget" style="height: 600px;">
+          <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
+            {
+              "colorTheme": "dark",
+              "isTransparent": true,
+              "width": "100%",
+              "height": "100%",
+              "locale": "ar",
+              "importanceFilter": "-1,0,1",
+              "currencyFilter": "USD,SAR,EUR,GBP"
+            }
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<script>
+  // Market Selection Logic
+  document.querySelectorAll('.market-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      const market = tab.dataset.market;
+      
+      // Update UI
+      document.querySelectorAll('.market-tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      
+      // Update Views
+      document.querySelectorAll('.market-view').forEach(v => v.classList.remove('active'));
+      document.getElementById(`${market}-market-view`).classList.add('active');
+      
+      // Save preference
+      localStorage.setItem('preferred_market', market);
+    });
+  });
+
+  // Load preferred market
+  const savedMarket = localStorage.getItem('preferred_market');
+  if (savedMarket) {
+    const targetTab = document.querySelector(`.market-tab[data-market="${savedMarket}"]`);
+    if (targetTab) targetTab.click();
+  }
+</script>
+
+<!-- Footer -->
+<footer class="footer">
+  <div class="container" style="padding: 4rem 2rem;">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="index.html" class="logo">
+          <div class="logo-icon">💎</div>
+          <div>
+            <span class="logo-text" data-i18n="logo.text">ملتقى الأثرياء</span>
+            <span class="logo-sub" data-i18n="logo.sub">النخبة المالية العربية</span>
+          </div>
+        </a>
+        <p data-i18n="footer.brand.desc">منصة محتوى مالي متخصصة تهدف إلى تمكين المستثمر العربي من اتخاذ قرارات مالية واثقة ومدروسة.</p>
+      </div>
+      <nav class="footer-col">
+        <h4 data-i18n="footer.col1.title">الاستثمار</h4>
+        <ul>
+          <li><a href="#" data-i18n="footer.col1.item1">الأسهم السعودية</a></li>
+          <li><a href="#" data-i18n="footer.col1.item2">سوق دبي المالي</a></li>
+          <li><a href="#" data-i18n="footer.col1.item3">الصناديق الاستثمارية</a></li>
+        </ul>
+      </nav>
+      <nav class="footer-col">
+          <h4 data-i18n="footer.col3.title">الملتقى</h4>
+          <ul>
+            <li><a href="index.html#about" data-i18n="footer.col3.item1">عن ملتقى الأثرياء</a></li>
+            <li><a href="index.html#newsletter" data-i18n="footer.col3.item2">النشرة البريدية</a></li>
+            <li><a href="#" data-i18n="footer.col3.item4">سياسة الخصوصية</a></li>
+          </ul>
+        </nav>
+    </div>
+    <div class="footer-bottom">
+      <p class="footer-copy" data-i18n="footer.copy">© 2026 ملتقى الأثرياء. جميع الحقوق محفوظة.</p>
+    </div>
+  </div>
+</footer>
+
+<script src="js/i18n.js"></script>
+<script src="js/main.js"></script>
+<script>
+  if (typeof initLanguage === 'function') initLanguage();
+</script>
+</body>
+</html>

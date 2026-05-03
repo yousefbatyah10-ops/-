@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title data-i18n="article.loading">Ã«—Ì «· Õ„Ì·... ó „· ﬁÏ «·√À—Ì«¡</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&family=Cairo:wght@400;700;900&family=Tajawal:wght@400;700;900&display=swap" rel="stylesheet">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>??</text></svg>" />
+</head>
+<body class="article-page">
+
+<!-- Œ·›Ì… «·‰ÃÊ„ «·À«» … -->
+<div class="stars-bg" aria-hidden="true"></div>
+
+<!-- ‘—Ìÿ «· ﬁœ„ ›Ì «·ﬁ—«¡… -->
+<div class="reading-progress" id="readingProgress">
+  <div class="reading-bar" id="readingBar"></div>
+</div>
+
+<!-- ‘—Ìÿ «· ‰ﬁ· -->
+<nav class="navbar scrolled" id="navbar">
+  <a href="index.html" class="logo">
+    <div class="logo-icon">??</div>
+    <div>
+      <span class="logo-text" data-i18n="logo.text">„· ﬁÏ «·√À—Ì«¡</span>
+      <span class="logo-sub" data-i18n="logo.sub">«·‰Œ»… «·„«·Ì… «·⁄—»Ì…</span>
+    </div>
+  </a>
+
+  <ul class="nav-links" id="navLinks">
+    <li><a href="index.html" data-i18n="nav.home">«·—∆Ì”Ì…</a></li>
+    <li><a href="markets.html" data-i18n="nav.markets">√Œ»«— «·√”Ê«ﬁ</a></li>
+    <li><a href="index.html#strategies" data-i18n="nav.strategies">«·„ﬁ«·« </a></li>
+    <li><a href="index.html#entrepreneurship" data-i18n="nav.entrepreneurship">—Ì«œ… «·√⁄„«·</a></li>
+    <li><a href="index.html#newsletter" class="nav-cta" data-i18n="nav.subscribe">«‘ —ﬂ „Ã«‰« ?</a></li>
+  </ul>
+
+  <!-- “—  »œÌ· «··€… -->
+  <button id="langToggleBtn" class="lang-toggle-btn" aria-label="Switch to English" onclick="toggleLanguage()">
+    <span class="lang-globe">??</span>
+    <span class="lang-current">EN</span>
+  </button>
+
+  <button class="nav-toggle" id="navToggle">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<!-- Live Market Ticker -->
+<div class="tradingview-widget-container" style="background: var(--navy-deep); border-bottom: 1px solid var(--border); margin-top: 72px;">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {
+  "symbols": [
+    { "proName": "TADAWUL:TASI", "title": " œ«Ê· «·”⁄ÊœÌ…" },
+    { "proName": "TADAWUL:2222", "title": "√—«„ﬂÊ" },
+    { "proName": "DFM:DFMGI", "title": "”Êﬁ œ»Ì" },
+    { "proName": "FX_IDC:XAUUSD", "title": "«·–Â»" },
+    { "proName": "BITSTAMP:BTCUSD", "title": "Bitcoin" },
+    { "proName": "TVC:UKOIL", "title": "«·‰›ÿ »—‰ " }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "dark",
+  "isTransparent": true,
+  "displayMode": "adaptive",
+  "locale": "ar"
+}
+  </script>
+</div>
+
+<main class="article-container" id="articleContent">
+  <!-- «·„Õ ÊÏ Ìı»‰Ï œÌ‰«„ÌﬂÌ« »Ê«”ÿ… JS -->
+  <div style="height: 60vh; display: flex; align-items: center; justify-content: center;">
+      <div class="loader" data-i18n="article.loading">Ã«—Ì  Õ„Ì· «·„ﬁ«·…...</div>
+  </div>
+</main>
+
+<!-- „ﬁ«·«  –«  ’·… -->
+<section class="related-section" id="relatedArticlesSection" style="display: none;">
+  <div class="container">
+    <h2 class="section-title" style="text-align: right; margin-bottom: 2.5rem;" data-i18n="article.related.title">„ﬁ«·«  –«  ’·…</h2>
+    <div class="articles-grid articles-grid-lux" id="relatedArticlesGrid">
+      <!--  ı„·√ œÌ‰«„ÌﬂÌ« -->
+    </div>
+  </div>
+</section>
+
+<!-- «·›Ê — (‰›” «·‹ index) -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="index.html" class="logo">
+          <div class="logo-icon">??</div>
+          <div>
+              <span class="logo-text" data-i18n="logo.text">„· ﬁÏ «·√À—Ì«¡</span>
+              <span class="logo-sub" data-i18n="logo.sub">«·‰Œ»… «·„«·Ì… «·⁄—»Ì…</span>
+          </div>
+        </a>
+        <p data-i18n="footer.brand.desc">„‰’… „Õ ÊÏ „«·Ì „ Œ’’…  Âœ› ≈·Ï  „ﬂÌ‰ «·„” À„— «·⁄—»Ì „‰ « Œ«– ﬁ—«—«  „«·Ì… Ê«Àﬁ… Ê„œ—Ê”….</p>
+      </div>
+      <nav class="footer-col">
+        <h4 data-i18n="footer.col1.title">«·«” À„«—</h4>
+        <ul>
+          <li><a href="#" data-i18n="footer.col1.item1">«·√”Â„ «·”⁄ÊœÌ…</a></li>
+          <li><a href="#" data-i18n="footer.col1.item2">”Êﬁ œ»Ì «·„«·Ì</a></li>
+          <li><a href="#" data-i18n="footer.col1.item3">«·’‰«œÌﬁ «·«” À„«—Ì…</a></li>
+        </ul>
+      </nav>
+      <nav class="footer-col">
+          <h4 data-i18n="footer.col3.title">«·„· ﬁÏ</h4>
+          <ul>
+            <li><a href="index.html#about" data-i18n="footer.col3.item1">⁄‰ „· ﬁÏ «·√À—Ì«¡</a></li>
+            <li><a href="index.html#newsletter" data-i18n="footer.col3.item2">«·‰‘—… «·»—ÌœÌ…</a></li>
+            <li><a href="#" data-i18n="footer.col3.item4">”Ì«”… «·Œ’Ê’Ì…</a></li>
+          </ul>
+        </nav>
+    </div>
+    <div class="footer-bottom">
+      <p class="footer-copy" data-i18n="footer.copy">© 2026 „· ﬁÏ «·√À—Ì«¡. Ã„Ì⁄ «·ÕﬁÊﬁ „Õ›ÊŸ….</p>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,1392 @@
+// Auto-generated articles data file
+// Last updated: 2026-05-03
+// Total articles: 16
+// DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
+
+window.ARTICLES = [
+  {
+    "id": 1,
+    "slug": "invest-saudi-stocks",
+    "title": "كيف تبدأ الاستثمار في سوق الأسهم السعودية",
+    "titleEn": "How to Start Investing in Saudi Stocks",
+    "summary": "دليل شامل للمبتدئين في سوق تداول.",
+    "summaryEn": "A complete beginner guide to the Saudi Tadawul exchange.",
+    "excerpt": "تعلم كيف تدخل سوق الأسهم بخطوات مدروسة.",
+    "excerptEn": "Learn to enter the stock market with measured steps.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "محمد العمري",
+    "authorEn": "Mohammed Al-Omari",
+    "authorInitial": "M",
+    "date": "20 أبريل 2026",
+    "dateEn": "April 20, 2026",
+    "dateISO": "2026-04-20",
+    "readTime": "10",
+    "views": "5,240",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article1.jpg",
+    "featured": true,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "intro",
+        "text": "مقدمة عن سوق الأسهم"
+      },
+      {
+        "id": "account",
+        "text": "فتح حساب استثماري"
+      },
+      {
+        "id": "choose",
+        "text": "كيف تختار الأسهم"
+      },
+      {
+        "id": "strategies",
+        "text": "استراتيجيات المبتدئين"
+      },
+      {
+        "id": "risks",
+        "text": "إدارة المخاطر"
+      },
+      {
+        "id": "mistakes",
+        "text": "أخطاء شائعة"
+      },
+      {
+        "id": "summary",
+        "text": "خلاصة ونصائح"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "intro",
+        "text": "Stock Market Intro"
+      },
+      {
+        "id": "account",
+        "text": "Open Account"
+      },
+      {
+        "id": "choose",
+        "text": "Choose Stocks"
+      },
+      {
+        "id": "strategies",
+        "text": "Beginner Strategies"
+      },
+      {
+        "id": "risks",
+        "text": "Risk Management"
+      },
+      {
+        "id": "mistakes",
+        "text": "Common Mistakes"
+      },
+      {
+        "id": "summary",
+        "text": "Summary & Tips"
+      }
+    ],
+    "related": [
+      2
+    ],
+    "content": "<h2 id=\"intro\">مقدمة عن سوق الأسهم السعودية</h2>\n<p>سوق الأسهم السعودية (تداول) هو أكبر سوق مالي في منطقة الشرق الأوسط وشمال أفريقيا، حيث تتجاوز قيمته السوقية 10 تريليونات ريال سعودي. يضم السوق أكثر من 200 شركة مدرجة تتوزع على 20 قطاعاً اقتصادياً مختلفاً، من بينها قطاعات البنوك والطاقة والبتروكيماويات والعقارات والتقنية.</p>\n<p>منذ انضمام السوق السعودي إلى مؤشرات MSCI وFTSE العالمية، شهد تداول تدفقات استثمارية أجنبية ضخمة تجاوزت 200 مليار ريال، مما عزز من عمق السوق وسيولته. هذا يعني أن المستثمر السعودي اليوم يتداول في سوق بمعايير عالمية.</p>\n<p>الاستثمار في الأسهم ليس مقامرة كما يعتقد البعض، بل هو أداة لبناء الثروة على المدى الطويل. تاريخياً، حقق مؤشر تاسي عوائد سنوية متوسطة تتراوح بين 8-12% على المدى البعيد، متفوقاً على التضخم وعوائد الودائع البنكية بفارق كبير.</p>\n\n<h2 id=\"account\">فتح حساب استثماري</h2>\n<p>الخطوة الأولى هي فتح حساب استثماري لدى وسيط مرخص من هيئة السوق المالية (CMA). الوسطاء المرخصون في السعودية يشملون الراجحي كابيتال، الأهلي كابيتال، الجزيرة كابيتال، السعودي الفرنسي كابيتال، وغيرها. كل وسيط يقدم منصة تداول إلكترونية خاصة به.</p>\n<p><strong>المتطلبات الأساسية:</strong></p>\n<ul>\n<li>بطاقة هوية وطنية أو إقامة سارية المفعول</li>\n<li>رقم آيبان بنكي مرتبط باسمك</li>\n<li>عنوان وطني مسجل في البريد السعودي</li>\n<li>رقم جوال مفعّل لتلقي رموز التحقق</li>\n</ul>\n<p>معظم الوسطاء يتيحون التسجيل إلكترونياً عبر تطبيقاتهم خلال 24-48 ساعة. بعد فتح الحساب، ستحتاج لتحويل مبلغ مالي إلى محفظتك الاستثمارية لبدء التداول. لا يوجد حد أدنى إلزامي، لكن يُنصح بالبدء بمبلغ لا يقل عن 5,000 ريال لتتمكن من التنويع.</p>\n\n<h2 id=\"choose\">كيف تختار الأسهم المناسبة</h2>\n<p>اختيار الأسهم يتطلب دراسة وتحليل. هناك مدرستان رئيسيتان: التحليل الأساسي الذي ينظر في البيانات المالية للشركة، والتحليل الفني الذي يدرس حركة السعر والأنماط البيانية.</p>\n<p><strong>معايير التحليل الأساسي:</strong></p>\n<ul>\n<li><strong>نسبة السعر إلى الربحية (P/E):</strong> تقارن سعر السهم بأرباح الشركة. النسبة المقبولة في تداول بين 12-20</li>\n<li><strong>العائد على حقوق المساهمين (ROE):</strong> يقيس كفاءة الإدارة. ابحث عن شركات بعائد فوق 15%</li>\n<li><strong>نسبة الدين إلى حقوق الملكية:</strong> الشركات ذات الديون المنخفضة أكثر أماناً</li>\n<li><strong>نمو الأرباح:</strong> ابحث عن شركات تنمو أرباحها بنسبة 10% سنوياً على الأقل</li>\n<li><strong>توزيعات الأرباح:</strong> الشركات التي توزع أرباحاً منتظمة تدل على صحة مالية جيدة</li>\n</ul>\n<p>للمبتدئين، يُنصح بالتركيز على الشركات القيادية (Blue Chips) مثل أرامكو وسابك والراجحي وبنك الأهلي وSTC. هذه الشركات تتميز بالاستقرار والسيولة العالية وتوزيعات الأرباح المنتظمة.</p>\n\n<h2 id=\"strategies\">استراتيجيات المبتدئين</h2>\n<p><strong>1. استراتيجية الشراء والاحتفاظ (Buy & Hold):</strong> اشترِ أسهم شركات قوية واحتفظ بها لسنوات. هذه الاستراتيجية تقلل تأثير التقلبات قصيرة المدى وتستفيد من النمو طويل المدى.</p>\n<p><strong>2. متوسط التكلفة (Dollar Cost Averaging):</strong> استثمر مبلغاً ثابتاً شهرياً بغض النظر عن سعر السوق. مثلاً، 2,000 ريال شهرياً. هذا يقلل مخاطر التوقيت ويبني محفظة متوسطة التكلفة.</p>\n<p><strong>3. التنويع القطاعي:</strong> لا تضع كل أموالك في قطاع واحد. وزّع بين البنوك والطاقة والاتصالات والعقار لتقليل المخاطر.</p>\n<p><strong>4. إعادة استثمار التوزيعات:</strong> بدلاً من سحب أرباح التوزيعات، أعد استثمارها لشراء أسهم إضافية. قوة الفائدة المركبة ستضاعف ثروتك مع الوقت.</p>\n\n<h2 id=\"risks\">إدارة المخاطر</h2>\n<p>إدارة المخاطر هي الفرق بين المستثمر الناجح والخاسر. القاعدة الذهبية: لا تستثمر أموالاً تحتاجها خلال السنوات الثلاث القادمة.</p>\n<p><strong>قواعد أساسية:</strong></p>\n<ul>\n<li>نوّع محفظتك عبر 8-15 سهماً من قطاعات مختلفة</li>\n<li>لا تخصص أكثر من 15% من محفظتك لسهم واحد</li>\n<li>استخدم أوامر وقف الخسارة (Stop Loss) بنسبة 7-10% تحت سعر الشراء</li>\n<li>احتفظ بـ 10-20% من محفظتك كسيولة نقدية لاقتناص الفرص</li>\n<li>لا تتداول بالهامش (القروض) كمبتدئ أبداً</li>\n</ul>\n<p>تذكّر أن الخسارة جزء طبيعي من الاستثمار. المستثمر الناجح ليس من لا يخسر، بل من يحد خسائره ويعظم مكاسبه.</p>\n\n<h2 id=\"mistakes\">أخطاء شائعة يقع فيها المبتدئون</h2>\n<p><strong>1. القطيع:</strong> شراء سهم لأن \"الكل يشتريه\" دون بحث. غالباً تكون قد تأخرت عن الفرصة.</p>\n<p><strong>2. التداول المفرط:</strong> البيع والشراء اليومي يأكل أرباحك في العمولات ويزيد احتمالية الخطأ.</p>\n<p><strong>3. عدم التعلم:</strong> الدخول بدون فهم أساسيات التحليل المالي. خصص شهراً للتعلم قبل أول عملية شراء.</p>\n<p><strong>4. العاطفة:</strong> الطمع يجعلك تشتري في القمة، والخوف يجعلك تبيع في القاع. ضع خطة والتزم بها.</p>\n<p><strong>5. التركيز على المضاربة:</strong> المضاربة ليست استثماراً. كمبتدئ، ركّز على الاستثمار طويل المدى.</p>\n\n<h2 id=\"summary\">خلاصة ونصائح ختامية</h2>\n<p>الاستثمار في سوق الأسهم السعودية فرصة حقيقية لبناء ثروة مستدامة، لكنه يتطلب صبراً وتعلماً مستمراً. ابدأ صغيراً، تعلّم من أخطائك، ولا تتوقف عن القراءة والتثقيف المالي. مع الوقت والانضباط، ستجد أن السوق أداة قوية لتحقيق أهدافك المالية.</p>",
+    "contentEn": "<h2 id=\"intro\">Introduction to the Saudi Stock Market</h2>\n<p>The Saudi Stock Exchange (Tadawul) is the largest financial market in the Middle East and North Africa, with a market capitalization exceeding 10 trillion SAR. It lists over 200 companies across 20 economic sectors, including banking, energy, petrochemicals, real estate, and technology.</p>\n<p>Since Tadawul joined global indices like MSCI and FTSE, the market has attracted over 200 billion SAR in foreign investment inflows, deepening market liquidity. Saudi investors today trade in a market that meets international standards.</p>\n<p>Stock investing is not gambling — it's a proven wealth-building tool. Historically, the TASI index has delivered average annual returns of 8-12% over the long term, significantly outperforming inflation and bank deposits.</p>\n\n<h2 id=\"account\">Opening an Investment Account</h2>\n<p>The first step is opening an investment account with a CMA-licensed broker. Licensed brokers include Al Rajhi Capital, Alahliyyah Capital, Al Jazira Capital, and others. Each offers its own electronic trading platform.</p>\n<p><strong>Basic Requirements:</strong></p>\n<ul>\n<li>Valid national ID or residency permit</li>\n<li>Bank IBAN registered in your name</li>\n<li>National address registered with Saudi Post</li>\n<li>Active mobile number for verification codes</li>\n</ul>\n<p>Most brokers allow electronic registration within 24-48 hours. After opening your account, transfer funds to your investment portfolio. There's no mandatory minimum, but starting with at least 5,000 SAR is recommended for proper diversification.</p>\n\n<h2 id=\"choose\">How to Choose the Right Stocks</h2>\n<p>Stock selection requires research and analysis. Two main schools exist: fundamental analysis examining company financials, and technical analysis studying price movements and chart patterns.</p>\n<p><strong>Fundamental Analysis Criteria:</strong></p>\n<ul>\n<li><strong>Price-to-Earnings Ratio (P/E):</strong> Compares stock price to earnings. Acceptable range on Tadawul is 12-20</li>\n<li><strong>Return on Equity (ROE):</strong> Measures management efficiency. Look for companies above 15%</li>\n<li><strong>Debt-to-Equity Ratio:</strong> Lower-debt companies are safer</li>\n<li><strong>Earnings Growth:</strong> Seek companies growing earnings at least 10% annually</li>\n<li><strong>Dividends:</strong> Regular dividend-paying companies indicate financial health</li>\n</ul>\n<p>Beginners should focus on Blue Chip stocks like Aramco, SABIC, Al Rajhi, Al Ahli Bank, and STC — known for stability, high liquidity, and regular dividends.</p>\n\n<h2 id=\"strategies\">Beginner Strategies</h2>\n<p><strong>1. Buy & Hold:</strong> Purchase strong company stocks and hold for years. This strategy reduces short-term volatility impact and benefits from long-term growth.</p>\n<p><strong>2. Dollar Cost Averaging:</strong> Invest a fixed amount monthly regardless of market price — for example, 2,000 SAR monthly. This reduces timing risk and builds an average-cost portfolio.</p>\n<p><strong>3. Sector Diversification:</strong> Don't put all your money in one sector. Spread across banking, energy, telecom, and real estate to reduce risk.</p>\n<p><strong>4. Reinvest Dividends:</strong> Instead of withdrawing dividends, reinvest them to buy additional shares. Compound interest will multiply your wealth over time.</p>\n\n<h2 id=\"risks\">Risk Management</h2>\n<p>Risk management separates successful investors from losers. The golden rule: never invest money you'll need within the next three years.</p>\n<p><strong>Essential Rules:</strong></p>\n<ul>\n<li>Diversify across 8-15 stocks from different sectors</li>\n<li>Never allocate more than 15% of your portfolio to a single stock</li>\n<li>Use Stop Loss orders at 7-10% below purchase price</li>\n<li>Keep 10-20% of your portfolio as cash to seize opportunities</li>\n<li>Never trade on margin (loans) as a beginner</li>\n</ul>\n\n<h2 id=\"mistakes\">Common Beginner Mistakes</h2>\n<p><strong>1. Herd Mentality:</strong> Buying a stock because \"everyone is buying it\" without research.</p>\n<p><strong>2. Overtrading:</strong> Daily buying and selling eats your profits in commissions.</p>\n<p><strong>3. Not Learning:</strong> Entering without understanding financial analysis basics.</p>\n<p><strong>4. Emotional Trading:</strong> Greed makes you buy at the top; fear makes you sell at the bottom.</p>\n<p><strong>5. Speculation Focus:</strong> Speculation isn't investing. As a beginner, focus on long-term investing.</p>\n\n<h2 id=\"summary\">Summary and Final Tips</h2>\n<p>Investing in Saudi stocks is a real opportunity to build sustainable wealth, but it requires patience and continuous learning. Start small, learn from mistakes, and never stop educating yourself financially.</p>"
+  },
+  {
+    "id": 2,
+    "slug": "technical-analysis-basics",
+    "title": "التحليل الفني: أدوات أساسية لكل متداول",
+    "titleEn": "Technical Analysis: Essential Tools for Every Trader",
+    "summary": "تعلم المؤشرات الفنية الأكثر استخداماً في أسواق الأسهم.",
+    "summaryEn": "Learn the most-used technical indicators and how to apply them.",
+    "excerpt": "اكتشف أهم مؤشرات التحليل الفني وكيف تستخدمها.",
+    "excerptEn": "Discover key technical indicators for smarter trading decisions.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "خالد المحسن",
+    "authorEn": "Khalid Al-Muhsen",
+    "authorInitial": "K",
+    "date": "18 أبريل 2026",
+    "dateEn": "April 18, 2026",
+    "dateISO": "2026-04-18",
+    "readTime": "12",
+    "views": "4,120",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article2.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "intro",
+        "text": "ما هو التحليل الفني"
+      },
+      {
+        "id": "ma",
+        "text": "المتوسطات المتحركة"
+      },
+      {
+        "id": "rsi",
+        "text": "مؤشر RSI"
+      },
+      {
+        "id": "macd",
+        "text": "مؤشر MACD"
+      },
+      {
+        "id": "support",
+        "text": "الدعم والمقاومة"
+      },
+      {
+        "id": "patterns",
+        "text": "الأنماط البيانية"
+      },
+      {
+        "id": "tips",
+        "text": "نصائح عملية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "intro",
+        "text": "What is Technical Analysis"
+      },
+      {
+        "id": "ma",
+        "text": "Moving Averages"
+      },
+      {
+        "id": "rsi",
+        "text": "RSI Indicator"
+      },
+      {
+        "id": "macd",
+        "text": "MACD Indicator"
+      },
+      {
+        "id": "support",
+        "text": "Support & Resistance"
+      },
+      {
+        "id": "patterns",
+        "text": "Chart Patterns"
+      },
+      {
+        "id": "tips",
+        "text": "Practical Tips"
+      }
+    ],
+    "related": [
+      1
+    ],
+    "content": "<h2 id=\"intro\">ما هو التحليل الفني؟</h2>\n<p>التحليل الفني هو دراسة حركة الأسعار التاريخية وأحجام التداول للتنبؤ باتجاه السعر المستقبلي. يعتمد على فرضية أن التاريخ يعيد نفسه وأن سلوك المتداولين يتكرر في أنماط يمكن التعرف عليها.</p>\n<p>لا يهتم التحليل الفني بالقيمة الحقيقية للشركة (هذا دور التحليل الأساسي)، بل يركز على العرض والطلب كما ينعكسان في الرسم البياني. المحللون الفنيون يؤمنون أن \"السعر يعكس كل شيء\" — أي أن جميع المعلومات المتاحة مشمولة بالفعل في سعر السهم.</p>\n\n<h2 id=\"ma\">المتوسطات المتحركة (Moving Averages)</h2>\n<p>المتوسط المتحرك هو أبسط وأهم أدوات التحليل الفني. يحسب متوسط سعر الإغلاق لفترة زمنية محددة ويرسمه كخط على الرسم البياني.</p>\n<p><strong>أنواع المتوسطات الشائعة:</strong></p>\n<ul>\n<li><strong>MA50 (50 يوم):</strong> يعكس الاتجاه المتوسط. كسر السعر فوقه إشارة إيجابية</li>\n<li><strong>MA200 (200 يوم):</strong> يعكس الاتجاه طويل المدى. يُعتبر \"خط الفصل\" بين السوق الصاعد والهابط</li>\n<li><strong>التقاطع الذهبي:</strong> عندما يقطع MA50 فوق MA200 — إشارة شراء قوية</li>\n<li><strong>تقاطع الموت:</strong> عندما يقطع MA50 تحت MA200 — إشارة بيع تحذيرية</li>\n</ul>\n<p>نصيحة عملية: استخدم MA200 كمرجع رئيسي. إذا كان السهم فوق MA200، فالاتجاه العام صاعد والعكس صحيح.</p>\n\n<h2 id=\"rsi\">مؤشر القوة النسبية (RSI)</h2>\n<p>مؤشر RSI يقيس سرعة وحجم تغيرات السعر على مقياس من 0 إلى 100. طوّره وايلدر عام 1978 وأصبح من أكثر المؤشرات استخداماً عالمياً.</p>\n<p><strong>كيف تقرأه:</strong></p>\n<ul>\n<li><strong>فوق 70:</strong> المنطقة مشبعة شراء — السهم قد يكون مبالغاً في سعره وقد يتراجع</li>\n<li><strong>تحت 30:</strong> المنطقة مشبعة بيع — السهم قد يكون رخيصاً وقد يرتد صعوداً</li>\n<li><strong>حول 50:</strong> منطقة محايدة</li>\n</ul>\n<p><strong>الانحراف (Divergence):</strong> عندما يصعد السعر لكن RSI ينخفض، هذا تحذير من انعكاس قادم. والعكس صحيح — انخفاض السعر مع ارتفاع RSI إشارة انعكاس إيجابية.</p>\n\n<h2 id=\"macd\">مؤشر MACD</h2>\n<p>MACD (تقارب وتباعد المتوسطات) يجمع بين اتجاه الترند وزخم التغيير. يتكون من خطين وشريط بياني (Histogram).</p>\n<p><strong>مكوناته:</strong></p>\n<ul>\n<li><strong>خط MACD:</strong> الفرق بين المتوسط المتحرك الأسي 12 يوم و 26 يوم</li>\n<li><strong>خط الإشارة:</strong> المتوسط المتحرك الأسي 9 أيام لخط MACD</li>\n<li><strong>الهستوجرام:</strong> يمثل الفرق بين الخطين بصرياً</li>\n</ul>\n<p><strong>إشارات التداول:</strong> عندما يقطع خط MACD فوق خط الإشارة = إشارة شراء. عندما يقطع تحته = إشارة بيع. كلما كان التقاطع أبعد عن خط الصفر، كانت الإشارة أقوى.</p>\n\n<h2 id=\"support\">مستويات الدعم والمقاومة</h2>\n<p>الدعم هو مستوى سعري يتوقع أن يتوقف عنده الهبوط بسبب تركز الطلب. المقاومة هي مستوى يتوقع أن يتوقف عنده الصعود بسبب تركز العرض.</p>\n<p><strong>كيف تحددها:</strong></p>\n<ul>\n<li>ابحث عن مستويات سعرية ارتد منها السعر عدة مرات في الماضي</li>\n<li>الأرقام المستديرة (50، 100، 200 ريال) غالباً تكون مستويات نفسية مهمة</li>\n<li>كلما اختبر السعر مستوى معيناً أكثر، أصبح أقوى</li>\n</ul>\n<p>عندما يخترق السعر مستوى مقاومة، يتحول إلى دعم جديد والعكس صحيح.</p>\n\n<h2 id=\"patterns\">الأنماط البيانية الأساسية</h2>\n<p><strong>أنماط انعكاسية:</strong></p>\n<ul>\n<li><strong>الرأس والكتفين:</strong> نمط انعكاسي هبوطي يظهر في نهاية الاتجاه الصاعد</li>\n<li><strong>القاع المزدوج:</strong> نمط انعكاسي صعودي يشبه حرف W</li>\n<li><strong>القمة المزدوجة:</strong> نمط انعكاسي هبوطي يشبه حرف M</li>\n</ul>\n<p><strong>أنماط استمرارية:</strong></p>\n<ul>\n<li><strong>المثلث الصاعد:</strong> يشير لاستمرار الصعود</li>\n<li><strong>العلم:</strong> توقف مؤقت قبل استكمال الاتجاه</li>\n</ul>\n\n<h2 id=\"tips\">نصائح عملية للتحليل الفني</h2>\n<p><strong>1.</strong> لا تعتمد على مؤشر واحد. استخدم 2-3 مؤشرات للتأكيد المتبادل.</p>\n<p><strong>2.</strong> اجمع بين التحليل الفني والأساسي. التحليل الفني يحدد التوقيت، والأساسي يحدد الجودة.</p>\n<p><strong>3.</strong> تدرّب على حساب ورقي (Paper Trading) قبل المخاطرة بأموال حقيقية.</p>\n<p><strong>4.</strong> الإطار الزمني مهم: الرسم اليومي للمستثمر، وذو الأربع ساعات للمتداول.</p>\n<p><strong>5.</strong> لا يوجد مؤشر مثالي. كل الأدوات تعطي إشارات خاطئة أحياناً.</p>",
+    "contentEn": "<h2 id=\"intro\">What is Technical Analysis?</h2>\n<p>Technical analysis studies historical price movements and trading volumes to predict future price direction. It's based on the premise that history repeats itself and trader behavior follows recognizable patterns.</p>\n<p>Technical analysis doesn't evaluate a company's intrinsic value — that's fundamental analysis. Instead, it focuses on supply and demand as reflected in charts. Technicians believe \"price discounts everything.\"</p>\n\n<h2 id=\"ma\">Moving Averages</h2>\n<p>The moving average is the simplest and most important technical analysis tool. It calculates the average closing price over a specific period and plots it as a line on the chart.</p>\n<ul>\n<li><strong>MA50 (50-day):</strong> Reflects medium-term trend. Price crossing above it is a positive signal</li>\n<li><strong>MA200 (200-day):</strong> Reflects long-term trend. The dividing line between bull and bear markets</li>\n<li><strong>Golden Cross:</strong> When MA50 crosses above MA200 — strong buy signal</li>\n<li><strong>Death Cross:</strong> When MA50 crosses below MA200 — warning sell signal</li>\n</ul>\n\n<h2 id=\"rsi\">RSI Indicator</h2>\n<p>RSI measures the speed and magnitude of price changes on a 0-100 scale. Above 70 means overbought; below 30 means oversold. Watch for divergence: when price rises but RSI falls, a reversal may be coming.</p>\n\n<h2 id=\"macd\">MACD Indicator</h2>\n<p>MACD combines trend direction and momentum. When the MACD line crosses above the signal line = buy. Below = sell. The further from zero the crossover occurs, the stronger the signal.</p>\n\n<h2 id=\"support\">Support and Resistance Levels</h2>\n<p>Support is a price level where demand concentrates and declines are expected to pause. Resistance is where supply concentrates and advances stall. When broken, support becomes resistance and vice versa.</p>\n\n<h2 id=\"patterns\">Basic Chart Patterns</h2>\n<p>Reversal patterns include Head & Shoulders, Double Bottom (W), and Double Top (M). Continuation patterns include Ascending Triangles and Flags.</p>\n\n<h2 id=\"tips\">Practical Tips</h2>\n<p>Use 2-3 indicators for confirmation. Combine technical with fundamental analysis. Practice paper trading first. No indicator is perfect — all give false signals sometimes.</p>"
+  },
+  {
+    "id": 3,
+    "slug": "real-estate-vision-2030",
+    "title": "الاستثمار العقاري في ظل رؤية 2030",
+    "titleEn": "Real Estate Investing Under Saudi Vision 2030",
+    "summary": "كيف تستفيد من مشاريع البنية التحتية والسكن ضمن رؤية 2030.",
+    "summaryEn": "How to benefit from infrastructure and housing projects within Vision 2030.",
+    "excerpt": "السوق العقاري السعودي يشهد طفرة نمو تاريخية.",
+    "excerptEn": "The Saudi real estate market is experiencing historic growth.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "د. سامي القحطاني",
+    "authorEn": "Dr. Sami Al-Qahtani",
+    "authorInitial": "S",
+    "date": "15 أبريل 2026",
+    "dateEn": "April 15, 2026",
+    "dateISO": "2026-04-15",
+    "readTime": "11",
+    "views": "3,850",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article3.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "overview",
+        "text": "نظرة عامة"
+      },
+      {
+        "id": "mega",
+        "text": "المشاريع الكبرى"
+      },
+      {
+        "id": "cities",
+        "text": "المدن الجديدة"
+      },
+      {
+        "id": "residential",
+        "text": "القطاع السكني"
+      },
+      {
+        "id": "commercial",
+        "text": "القطاع التجاري"
+      },
+      {
+        "id": "tips",
+        "text": "نصائح المستثمر"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "overview",
+        "text": "Overview"
+      },
+      {
+        "id": "mega",
+        "text": "Mega Projects"
+      },
+      {
+        "id": "cities",
+        "text": "New Cities"
+      },
+      {
+        "id": "residential",
+        "text": "Residential"
+      },
+      {
+        "id": "commercial",
+        "text": "Commercial"
+      },
+      {
+        "id": "tips",
+        "text": "Tips"
+      }
+    ],
+    "related": [
+      4
+    ],
+    "content": "<h2 id=\"overview\">نظرة عامة على السوق العقاري السعودي</h2>\n<p>يشهد السوق العقاري السعودي تحولاً جذرياً مدفوعاً برؤية 2030 التي تهدف لتنويع الاقتصاد وبناء مدن مستقبلية. حجم القطاع العقاري يتجاوز 1.3 تريليون ريال، ويُتوقع نموه بنسبة 7% سنوياً حتى 2030. الطلب على المساكن يتزايد مع نمو السكان الذي يتجاوز 35 مليون نسمة وارتفاع نسبة تملك المواطنين من 47% إلى مستهدف 70%.</p>\n<p>عوامل الدعم الرئيسية تشمل: برنامج سكني الذي قدم أكثر من 500,000 حل سكني، وتسهيلات التمويل العقاري التي خفضت الدفعة الأولى، والمشاريع الضخمة التي تخلق طلباً هائلاً على العقارات في مناطق جديدة.</p>\n\n<h2 id=\"mega\">المشاريع الكبرى وأثرها على العقار</h2>\n<p><strong>نيوم (NEOM):</strong> مشروع بقيمة 500 مليار دولار على مساحة 26,500 كم² في شمال غرب المملكة. يشمل ذا لاين (مدينة خطية بطول 170 كم)، وتروجينا (منتجع جبلي)، وأوكساجون (مدينة صناعية عائمة). المستثمر الذكي يستبق بشراء أراضٍ في المناطق المحيطة.</p>\n<p><strong>مشروع البحر الأحمر:</strong> وجهة سياحية فاخرة تضم 50 جزيرة و90 فندقاً. الطلب على العقارات الفندقية والسكنية في المنطقة ارتفع 300% منذ إعلان المشروع.</p>\n<p><strong>القدية:</strong> مدينة ترفيهية ورياضية وثقافية جنوب الرياض بمساحة 367 كم². ستضم مدينة ملاهي عالمية ومرافق رياضية وسكنية تستوعب 300,000 ساكن.</p>\n\n<h2 id=\"cities\">المدن الجديدة وفرص الاستثمار</h2>\n<p>المملكة تبني مدناً جديدة بالكامل، مما يخلق فرصاً استثمارية لم تكن متاحة من قبل:</p>\n<ul>\n<li><strong>مدينة الملك سلمان للطاقة (سبارك):</strong> مدينة صناعية متكاملة في الأحساء لقطاع الطاقة</li>\n<li><strong>المربع الجديد بالرياض:</strong> مشروع بمساحة 19 كم² يضم أطول برج في العالم (مكعب)</li>\n<li><strong>مشروع الدرعية:</strong> إحياء المنطقة التاريخية كوجهة ثقافية وسياحية عالمية</li>\n</ul>\n<p>النمط المتكرر: الأراضي حول هذه المشاريع ترتفع بنسبة 50-200% خلال 3-5 سنوات من الإعلان. المفتاح هو الدخول مبكراً قبل اكتمال البنية التحتية.</p>\n\n<h2 id=\"residential\">فرص القطاع السكني</h2>\n<p>الطلب على الوحدات السكنية يتجاوز العرض بأكثر من 100,000 وحدة سنوياً. الشقق الصغيرة (استوديو وغرفة واحدة) في المدن الكبرى تحقق عوائد إيجارية بين 7-10% سنوياً. مناطق شمال الرياض وشرق جدة والدمام تشهد أعلى معدلات النمو السعري.</p>\n<p><strong>نصيحة:</strong> ابحث عن وحدات على الخارطة (Off-Plan) من مطورين موثوقين. الأسعار تكون أقل 15-25% من سعر التسليم، مما يمنحك ربحاً رأسمالياً فورياً عند الاستلام.</p>\n\n<h2 id=\"commercial\">القطاع التجاري والمكتبي</h2>\n<p>مع نمو بيئة الأعمال وزيادة الشركات الأجنبية في المملكة، يزداد الطلب على المكاتب والمحلات التجارية. العوائد الإيجارية للعقارات التجارية تتراوح بين 8-12% سنوياً — أعلى من السكنية لكن بمخاطر أكبر.</p>\n<p>المستودعات والمراكز اللوجستية فرصة ناشئة مع نمو التجارة الإلكترونية. الطلب عليها ارتفع 40% في آخر سنتين.</p>\n\n<h2 id=\"tips\">نصائح ذهبية للمستثمر العقاري</h2>\n<ul>\n<li>لا تشترِ بأسعار الذروة — انتظر فترات التصحيح أو ابحث عن مناطق لم تصلها الطفرة بعد</li>\n<li>ادرس الموقع بعناية: القرب من المترو والمرافق الخدمية يرفع القيمة 20-30%</li>\n<li>تأكد من سمعة المطور وسجله في التسليم في الوقت المحدد</li>\n<li>لا تنسَ تكاليف الصيانة والإدارة عند حساب العائد الفعلي</li>\n<li>صناديق ريت بديل ممتاز إذا لم تملك رأس مال كافياً للشراء المباشر</li>\n</ul>",
+    "contentEn": "<h2 id=\"overview\">Saudi Real Estate Market Overview</h2>\n<p>The Saudi real estate market is undergoing a fundamental transformation driven by Vision 2030. The sector exceeds 1.3 trillion SAR and is expected to grow 7% annually until 2030. Housing demand continues to rise with a population exceeding 35 million and homeownership targets increasing from 47% to 70%.</p>\n\n<h2 id=\"mega\">Mega Projects and Their Real Estate Impact</h2>\n<p><strong>NEOM:</strong> A $500 billion project spanning 26,500 km² including The Line, Trojena, and Oxagon. Smart investors are buying land in surrounding areas early.</p>\n<p><strong>Red Sea Project:</strong> A luxury tourism destination with 50 islands and 90 hotels. Property demand in the area has risen 300% since announcement.</p>\n<p><strong>Qiddiya:</strong> An entertainment city south of Riyadh spanning 367 km², housing 300,000 residents.</p>\n\n<h2 id=\"cities\">New Cities and Investment Opportunities</h2>\n<p>Saudi Arabia is building entirely new cities. Land around these projects typically appreciates 50-200% within 3-5 years of announcement. Key developments include King Salman Energy Park, New Murabba in Riyadh, and the Diriyah Gate project.</p>\n\n<h2 id=\"residential\">Residential Sector Opportunities</h2>\n<p>Housing demand exceeds supply by over 100,000 units annually. Small apartments in major cities yield 7-10% annual rental returns. Off-plan purchases from reputable developers offer 15-25% built-in capital gains.</p>\n\n<h2 id=\"commercial\">Commercial Real Estate</h2>\n<p>Commercial properties yield 8-12% annually. Warehouses and logistics centers are an emerging opportunity with 40% demand growth driven by e-commerce expansion.</p>\n\n<h2 id=\"tips\">Golden Tips for Real Estate Investors</h2>\n<ul>\n<li>Don't buy at peak prices — wait for corrections or find areas the boom hasn't reached</li>\n<li>Study location carefully: proximity to metro and services adds 20-30% value</li>\n<li>Verify developer reputation and delivery track record</li>\n<li>Factor in maintenance costs when calculating actual returns</li>\n<li>REITs are an excellent alternative if you lack capital for direct purchase</li>\n</ul>"
+  },
+  {
+    "id": 4,
+    "slug": "reits-smart-real-estate",
+    "title": "صناديق ريت: استثمر في العقار بمبالغ صغيرة",
+    "titleEn": "REITs: Invest in Real Estate With Small Capital",
+    "summary": "دليل شامل لصناديق الاستثمار العقاري المتداولة في تداول السعودية.",
+    "summaryEn": "A full guide to REITs traded on the Saudi Exchange.",
+    "excerpt": "الآن تستطيع الاستثمار في العقار بأقل من ألف ريال.",
+    "excerptEn": "Now you can invest in real estate for less than 1,000 SAR.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "د. سامي القحطاني",
+    "authorEn": "Dr. Sami Al-Qahtani",
+    "authorInitial": "S",
+    "date": "12 أبريل 2026",
+    "dateEn": "April 12, 2026",
+    "dateISO": "2026-04-12",
+    "readTime": "9",
+    "views": "6,100",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article4.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "what",
+        "text": "ما هي صناديق ريت"
+      },
+      {
+        "id": "how",
+        "text": "كيف تعمل"
+      },
+      {
+        "id": "types",
+        "text": "أنواع الصناديق"
+      },
+      {
+        "id": "pros",
+        "text": "المزايا والعيوب"
+      },
+      {
+        "id": "pick",
+        "text": "كيف تختار الصندوق"
+      },
+      {
+        "id": "saudi",
+        "text": "أبرز صناديق تداول"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "what",
+        "text": "What are REITs"
+      },
+      {
+        "id": "how",
+        "text": "How They Work"
+      },
+      {
+        "id": "types",
+        "text": "Types"
+      },
+      {
+        "id": "pros",
+        "text": "Pros & Cons"
+      },
+      {
+        "id": "pick",
+        "text": "How to Choose"
+      },
+      {
+        "id": "saudi",
+        "text": "Top Saudi REITs"
+      }
+    ],
+    "related": [
+      3
+    ],
+    "content": "<h2 id=\"what\">ما هي صناديق الاستثمار العقاري (ريت)؟</h2>\n<p>صناديق الاستثمار العقاري المتداولة (REITs) هي صناديق مدرجة في سوق تداول تمتلك وتدير محافظ عقارية متنوعة. تتيح للمستثمر امتلاك حصة في عقارات ضخمة بمبالغ بسيطة — يمكنك البدء بأقل من 500 ريال. بدلاً من شراء شقة بمليون ريال، تشتري حصصاً في محفظة عقارات تجارية وسكنية وتستلم حصتك من الإيجارات.</p>\n<p>النظام في السعودية يلزم صناديق ريت بتوزيع 90% على الأقل من صافي أرباحها على المستثمرين، مما يجعلها من أفضل أدوات الدخل السلبي.</p>\n\n<h2 id=\"how\">كيف تعمل صناديق ريت؟</h2>\n<p>مدير الصندوق يجمع أموال المستثمرين ويشتري بها عقارات متنوعة. إيرادات الإيجارات تُوزع على حملة الوحدات بشكل دوري (ربع سنوي عادةً). قيمة الوحدة تتغير يومياً في السوق حسب العرض والطلب.</p>\n<p><strong>دورة حياة الاستثمار:</strong></p>\n<ul>\n<li>تشتري وحدات الصندوق من سوق تداول كأي سهم</li>\n<li>تستلم توزيعات أرباح دورية من إيجارات العقارات</li>\n<li>يمكنك بيع وحداتك في أي وقت خلال ساعات التداول</li>\n<li>قيمة الوحدة قد ترتفع مع ارتفاع قيمة العقارات المملوكة</li>\n</ul>\n\n<h2 id=\"types\">أنواع صناديق ريت</h2>\n<ul>\n<li><strong>ريت تجارية:</strong> تستثمر في المكاتب والمراكز التجارية — عوائد أعلى لكن تقلبات أكبر</li>\n<li><strong>ريت سكنية:</strong> تستثمر في الشقق والمجمعات السكنية — عوائد مستقرة</li>\n<li><strong>ريت فندقية:</strong> تستثمر في الفنادق والمنتجعات — عوائد مرتفعة مرتبطة بالسياحة</li>\n<li><strong>ريت صناعية:</strong> تستثمر في المستودعات والمنشآت الصناعية — نمو قوي مع التجارة الإلكترونية</li>\n<li><strong>ريت متنوعة:</strong> تجمع بين أنواع مختلفة من العقارات — أفضل تنويع</li>\n</ul>\n\n<h2 id=\"pros\">المزايا والعيوب</h2>\n<p><strong>المزايا:</strong></p>\n<ul>\n<li>سيولة عالية — بيع وشراء فوري في السوق</li>\n<li>لا حاجة لإدارة العقار بنفسك</li>\n<li>تنويع تلقائي عبر عدة عقارات</li>\n<li>توزيعات دورية منتظمة</li>\n<li>حد أدنى منخفض جداً للاستثمار</li>\n</ul>\n<p><strong>العيوب:</strong></p>\n<ul>\n<li>تقلبات سعرية أكبر من العقار المباشر</li>\n<li>رسوم إدارة الصندوق تقلل العائد</li>\n<li>لا تتحكم في قرارات شراء أو بيع العقارات</li>\n<li>بعض الصناديق ذات جودة عقارات ضعيفة</li>\n</ul>\n\n<h2 id=\"pick\">كيف تختار صندوق ريت مناسب</h2>\n<ul>\n<li><strong>نسبة التوزيع:</strong> ابحث عن صناديق بعائد توزيع 5-8% سنوياً</li>\n<li><strong>نسبة الإشغال:</strong> يجب أن تكون فوق 85% — تحتها يعني مشاكل</li>\n<li><strong>جودة العقارات:</strong> مواقع مميزة ومستأجرون موثوقون</li>\n<li><strong>سمعة المدير:</strong> ابحث عن مديرين بسجل حافل وشفافية عالية</li>\n<li><strong>نسبة الدين:</strong> الصناديق بديون منخفضة أكثر أماناً</li>\n</ul>\n\n<h2 id=\"saudi\">أبرز صناديق ريت في تداول</h2>\n<p>سوق تداول يضم حالياً أكثر من 17 صندوق ريت. من أبرزها: الرياض ريت، جدوى ريت الحرمين، الأهلي ريت، الراجحي ريت، ودراية ريت. قارن بينها من حيث العائد ونسبة الإشغال وجودة العقارات قبل الاختيار. يُنصح بتوزيع استثمارك على 2-3 صناديق لتنويع المخاطر.</p>",
+    "contentEn": "<h2 id=\"what\">What are REITs?</h2>\n<p>Real Estate Investment Trusts (REITs) are exchange-traded funds that own and manage diversified property portfolios. They allow investors to own shares in large real estate with minimal capital — starting from under 500 SAR. Saudi regulations require REITs to distribute at least 90% of net profits, making them excellent passive income tools.</p>\n\n<h2 id=\"how\">How REITs Work</h2>\n<p>The fund manager pools investor money to purchase diverse properties. Rental income is distributed to unitholders quarterly. Unit prices fluctuate daily based on supply and demand, and you can buy or sell anytime during trading hours.</p>\n\n<h2 id=\"types\">Types of REITs</h2>\n<ul>\n<li><strong>Commercial:</strong> Offices and malls — higher yields but more volatility</li>\n<li><strong>Residential:</strong> Apartments and compounds — stable returns</li>\n<li><strong>Hospitality:</strong> Hotels and resorts — high returns linked to tourism</li>\n<li><strong>Industrial:</strong> Warehouses — strong growth with e-commerce</li>\n<li><strong>Diversified:</strong> Mix of property types — best diversification</li>\n</ul>\n\n<h2 id=\"pros\">Pros and Cons</h2>\n<p>Pros: High liquidity, no property management needed, automatic diversification, regular distributions, low minimum investment. Cons: Higher price volatility than direct real estate, management fees, no control over property decisions.</p>\n\n<h2 id=\"pick\">How to Choose a REIT</h2>\n<p>Look for 5-8% distribution yield, occupancy above 85%, quality locations, reputable managers, and low debt ratios.</p>\n\n<h2 id=\"saudi\">Top Saudi REITs</h2>\n<p>Tadawul lists over 17 REITs including Riyadh REIT, Jadwa REIT Haramain, Alahliyyah REIT, AlRajhi REIT, and Derayah REIT. Spread your investment across 2-3 funds for diversification.</p>"
+  },
+  {
+    "id": 5,
+    "slug": "gold-rise-2026",
+    "title": "لماذا يرتفع الذهب في 2026؟",
+    "titleEn": "Why Is Gold Rising in 2026?",
+    "summary": "تحليل معمق لأسباب ارتفاع الذهب وكيف تستفيد منه.",
+    "summaryEn": "A deep analysis of why gold is rising and how to benefit.",
+    "excerpt": "الذهب بلغ مستويات قياسية في 2026. هل لا يزال في متناولك؟",
+    "excerptEn": "Gold hit all-time highs in 2026. Is more upside ahead?",
+    "category": "الذهب والمعادن",
+    "categoryEn": "Gold & Metals",
+    "categoryIcon": "🧸",
+    "author": "فاطمة الشهري",
+    "authorEn": "Fatima Al-Shahri",
+    "authorInitial": "F",
+    "date": "10 أبريل 2026",
+    "dateEn": "April 10, 2026",
+    "dateISO": "2026-04-10",
+    "readTime": "8",
+    "views": "7,200",
+    "emoji": "🧸",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article5.jpg",
+    "featured": false,
+    "breadcrumb": "الذهب والمعادن",
+    "breadcrumbEn": "Gold & Metals",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "overview",
+        "text": "الذهب في 2026"
+      },
+      {
+        "id": "why",
+        "text": "أسباب الارتفاع"
+      },
+      {
+        "id": "banks",
+        "text": "البنوك المركزية"
+      },
+      {
+        "id": "dollar",
+        "text": "الدولار والتضخم"
+      },
+      {
+        "id": "invest",
+        "text": "طرق الاستثمار"
+      },
+      {
+        "id": "tips",
+        "text": "نصائح المستثمر"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "overview",
+        "text": "Gold in 2026"
+      },
+      {
+        "id": "why",
+        "text": "Reasons for Rise"
+      },
+      {
+        "id": "banks",
+        "text": "Central Banks"
+      },
+      {
+        "id": "dollar",
+        "text": "Dollar & Inflation"
+      },
+      {
+        "id": "invest",
+        "text": "How to Invest"
+      },
+      {
+        "id": "tips",
+        "text": "Investor Tips"
+      }
+    ],
+    "related": [
+      6
+    ],
+    "content": "<h2 id=\"overview\">الذهب في 2026: نظرة شاملة</h2>\n<p>تجاوز سعر الذهب حاجز 3,300 دولار للأونصة في 2026، محققاً مستويات تاريخية غير مسبوقة. خلال الخمس سنوات الماضية، ارتفع الذهب بأكثر من 80%، متفوقاً على معظم فئات الأصول الأخرى. هذا الارتفاع ليس فقاعة عابرة — بل نتيجة تحولات جوهرية في النظام المالي العالمي.</p>\n<p>الذهب يُعتبر منذ آلاف السنين \"الملاذ الآمن\" الأول للمستثمرين في أوقات عدم اليقين. في عالم تتزايد فيه التوترات الجيوسياسية والتقلبات الاقتصادية، أصبح امتلاك الذهب ليس خياراً بل ضرورة لأي محفظة استثمارية متوازنة.</p>\n\n<h2 id=\"why\">الأسباب الرئيسية لارتفاع الذهب</h2>\n<p>ارتفاع الذهب مدفوع بعدة عوامل متشابكة:</p>\n<ul>\n<li><strong>التوترات الجيوسياسية:</strong> النزاعات في أوروبا الشرقية والشرق الأوسط تدفع المستثمرين نحو الأصول الآمنة. كل تصعيد جيوسياسي يرفع سعر الذهب 2-5%</li>\n<li><strong>التضخم المستمر:</strong> رغم رفع أسعار الفائدة، لا يزال التضخم في الاقتصادات الكبرى فوق المستهدف. الذهب حافظ تاريخياً على القوة الشرائية ضد التضخم</li>\n<li><strong>ضعف الدولار:</strong> تراجع الثقة بالدولار كعملة احتياطي عالمية. دول كبرى تتجه لتنويع احتياطياتها بعيداً عن الدولار</li>\n<li><strong>أسعار الفائدة الحقيقية السالبة:</strong> عندما يكون التضخم أعلى من الفائدة، يصبح الاحتفاظ بالنقد خسارة — والذهب بديل طبيعي</li>\n</ul>\n\n<h2 id=\"banks\">مشتريات البنوك المركزية القياسية</h2>\n<p>البنوك المركزية حول العالم اشترت أكثر من 1,100 طن ذهب في 2025 وحده — ثالث أعلى مستوى في التاريخ. الصين وروسيا والهند وتركيا وبولندا تقود عمليات الشراء.</p>\n<p><strong>لماذا تشتري البنوك المركزية الذهب؟</strong></p>\n<ul>\n<li>تقليل الاعتماد على الدولار الأمريكي في احتياطياتها</li>\n<li>التحوط ضد العقوبات الاقتصادية المحتملة</li>\n<li>حماية الاحتياطيات من تآكل العملات الورقية</li>\n<li>بناء ثقة في العملات المحلية بغطاء ذهبي</li>\n</ul>\n<p>هذا الطلب المؤسسي يخلق أرضية سعرية قوية للذهب ويدعم الاتجاه الصعودي طويل المدى.</p>\n\n<h2 id=\"dollar\">الدولار والتضخم: المحرك الخفي</h2>\n<p>العلاقة بين الذهب والدولار عكسية تاريخياً. عندما يضعف الدولار، يرتفع الذهب والعكس. مؤشر الدولار (DXY) فقد أكثر من 10% من قيمته خلال السنتين الماضيتين، وهذا رفع الذهب بنفس النسبة تقريباً.</p>\n<p>التضخم في الدول العربية يتراوح بين 2-6% سنوياً. هذا يعني أن 100,000 ريال اليوم ستفقد 10-25% من قوتها الشرائية خلال 5 سنوات إذا بقيت نقداً. الذهب تاريخياً يحافظ على القوة الشرائية ويتفوق على التضخم.</p>\n\n<h2 id=\"invest\">طرق الاستثمار في الذهب</h2>\n<p><strong>1. الذهب المادي:</strong></p>\n<ul>\n<li>سبائك وعملات ذهبية من محلات معتمدة</li>\n<li>ميزة: ملكية فعلية. عيب: تكاليف تخزين وتأمين</li>\n<li>الأفضل: سبائك 1 أونصة من منتجين معروفين (PAMP, Valcambi)</li>\n</ul>\n<p><strong>2. صناديق الذهب ETF:</strong></p>\n<ul>\n<li>تتبع سعر الذهب مباشرة. تُتداول كأسهم عادية</li>\n<li>ميزة: سيولة عالية ولا حاجة للتخزين. عيب: رسوم إدارة سنوية</li>\n<li>متاحة عبر منصات التداول العالمية</li>\n</ul>\n<p><strong>3. أسهم شركات التعدين:</strong></p>\n<ul>\n<li>شركات مثل Barrick Gold وNewmont تستفيد مضاعفاً من ارتفاع الذهب</li>\n<li>ميزة: عوائد أعلى من الذهب نفسه. عيب: مخاطر تشغيلية إضافية</li>\n</ul>\n\n<h2 id=\"tips\">نصائح للمستثمر في الذهب</h2>\n<ul>\n<li>خصص 10-15% من محفظتك الإجمالية للذهب</li>\n<li>اشترِ على دفعات وليس دفعة واحدة لتقليل مخاطر التوقيت</li>\n<li>الذهب استثمار طويل المدى — لا تتوقع أرباحاً سريعة</li>\n<li>لا تشترِ مصوغات ذهبية كاستثمار — المصنعية تُفقدك 15-25% من القيمة</li>\n<li>تابع أسعار الفائدة الأمريكية ومؤشر الدولار — هما المحركان الرئيسيان لسعر الذهب</li>\n</ul>",
+    "contentEn": "<h2 id=\"overview\">Gold in 2026: A Comprehensive Look</h2>\n<p>Gold surpassed $3,300 per ounce in 2026, hitting unprecedented historic highs. Over the past five years, gold has risen over 80%, outperforming most other asset classes. This rise isn't a passing bubble — it results from fundamental shifts in the global financial system.</p>\n\n<h2 id=\"why\">Key Reasons for Gold's Rise</h2>\n<ul>\n<li><strong>Geopolitical tensions:</strong> Conflicts drive investors toward safe assets</li>\n<li><strong>Persistent inflation:</strong> Despite rate hikes, inflation remains above targets</li>\n<li><strong>Dollar weakness:</strong> Declining confidence in the dollar as global reserve currency</li>\n<li><strong>Negative real interest rates:</strong> When inflation exceeds interest rates, holding cash is a loss</li>\n</ul>\n\n<h2 id=\"banks\">Record Central Bank Purchases</h2>\n<p>Central banks bought over 1,100 tons of gold in 2025 alone. China, Russia, India, Turkey, and Poland lead purchases to reduce dollar dependence and hedge against sanctions.</p>\n\n<h2 id=\"dollar\">Dollar and Inflation: The Hidden Driver</h2>\n<p>Gold and the dollar share a historically inverse relationship. The Dollar Index lost over 10% in two years. Inflation in Arab countries runs 2-6% annually, meaning cash loses 10-25% of purchasing power over 5 years. Gold historically preserves purchasing power.</p>\n\n<h2 id=\"invest\">Ways to Invest in Gold</h2>\n<p><strong>Physical gold:</strong> Bars and coins. <strong>Gold ETFs:</strong> Track gold price, trade like stocks. <strong>Mining stocks:</strong> Companies like Barrick Gold offer leveraged exposure.</p>\n\n<h2 id=\"tips\">Gold Investment Tips</h2>\n<ul>\n<li>Allocate 10-15% of your portfolio to gold</li>\n<li>Buy in installments to reduce timing risk</li>\n<li>Don't buy gold jewelry as an investment — craftsmanship fees cost 15-25%</li>\n<li>Monitor US interest rates and the Dollar Index</li>\n</ul>"
+  },
+  {
+    "id": 6,
+    "slug": "silver-investment-guide",
+    "title": "الفضة: الذهب الرخيص المنسي",
+    "titleEn": "Silver: The Forgotten Cheap Gold",
+    "summary": "لماذا تعتبر الفضة فرصة استثمارية مغرية في 2026.",
+    "summaryEn": "Why silver is an attractive investment opportunity in 2026.",
+    "excerpt": "الفضة لها دور صناعي واستثماري. هل حان وقتها؟",
+    "excerptEn": "Silver has both industrial and investment roles. Is the time right?",
+    "category": "الذهب والمعادن",
+    "categoryEn": "Gold & Metals",
+    "categoryIcon": "🧸",
+    "author": "فاطمة الشهري",
+    "authorEn": "Fatima Al-Shahri",
+    "authorInitial": "F",
+    "date": "8 أبريل 2026",
+    "dateEn": "April 8, 2026",
+    "dateISO": "2026-04-08",
+    "readTime": "7",
+    "views": "3,400",
+    "emoji": "🧸",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article6.jpg",
+    "featured": false,
+    "breadcrumb": "الذهب والمعادن",
+    "breadcrumbEn": "Gold & Metals",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "intro",
+        "text": "لماذا الفضة"
+      },
+      {
+        "id": "dual",
+        "text": "الدور المزدوج"
+      },
+      {
+        "id": "ratio",
+        "text": "نسبة الذهب للفضة"
+      },
+      {
+        "id": "solar",
+        "text": "الفضة والطاقة الشمسية"
+      },
+      {
+        "id": "how",
+        "text": "طرق الاستثمار"
+      },
+      {
+        "id": "tips",
+        "text": "نصائح ختامية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "intro",
+        "text": "Why Silver"
+      },
+      {
+        "id": "dual",
+        "text": "Dual Role"
+      },
+      {
+        "id": "ratio",
+        "text": "Gold-Silver Ratio"
+      },
+      {
+        "id": "solar",
+        "text": "Silver & Solar"
+      },
+      {
+        "id": "how",
+        "text": "Investment Methods"
+      },
+      {
+        "id": "tips",
+        "text": "Final Tips"
+      }
+    ],
+    "related": [
+      5
+    ],
+    "content": "<h2 id=\"intro\">لماذا الفضة فرصة مغرية في 2026؟</h2>\n<p>الفضة يُطلق عليها \"ذهب الرجل الفقير\" — لكن هذا اللقب مضلل. الفضة معدن فريد يجمع بين كونه ملاذاً آمناً مثل الذهب وكونه معدناً صناعياً أساسياً. هذا الدور المزدوج يمنحها إمكانات صعودية هائلة قد تتفوق على الذهب في السنوات القادمة.</p>\n<p>سعر الفضة حالياً حول 35 دولاراً للأونصة — بعيداً جداً عن قمته التاريخية عند 50 دولاراً. بينما الذهب يسجل قمماً تاريخية يومياً، الفضة لم تلحق به بعد. هذا الفارق في الأداء يُسمى \"فجوة اللحاق\" ويمثل فرصة ذهبية.</p>\n\n<h2 id=\"dual\">الدور الصناعي والاستثماري</h2>\n<p>أكثر من 50% من الطلب على الفضة صناعي، بينما الذهب أقل من 10%. الفضة تدخل في:</p>\n<ul>\n<li><strong>الإلكترونيات:</strong> كل هاتف ذكي يحتوي 0.3 جرام فضة. مع إنتاج 1.4 مليار هاتف سنوياً، الطلب ضخم</li>\n<li><strong>الألواح الشمسية:</strong> كل لوح شمسي يستهلك 20 جراماً من الفضة. الطلب تضاعف 3 مرات في 5 سنوات</li>\n<li><strong>السيارات الكهربائية:</strong> كل سيارة كهربائية تستخدم ضعف كمية الفضة مقارنة بالعادية</li>\n<li><strong>الطب:</strong> خصائص الفضة المضادة للبكتيريا تجعلها أساسية في الأجهزة الطبية</li>\n<li><strong>شبكات الجيل الخامس (5G):</strong> البنية التحتية للاتصالات تستهلك كميات متزايدة</li>\n</ul>\n\n<h2 id=\"ratio\">نسبة الذهب إلى الفضة: المؤشر المهمل</h2>\n<p>نسبة الذهب إلى الفضة تقيس كم أونصة فضة تعادل أونصة ذهب واحدة. حالياً النسبة فوق 90 — وهي أعلى بكثير من المتوسط التاريخي البالغ 60.</p>\n<p><strong>ماذا يعني هذا؟</strong> الفضة رخيصة تاريخياً مقارنة بالذهب. عندما تعود النسبة لمتوسطها (وهذا يحدث دائماً)، يعني أن الفضة سترتفع بنسبة أكبر من الذهب. إذا بقي الذهب عند 3,300$ ورجعت النسبة لـ 60، فسعر الفضة سيصل 55$ — أي ارتفاع 57% من السعر الحالي.</p>\n\n<h2 id=\"solar\">الفضة والثورة الخضراء</h2>\n<p>التحول العالمي نحو الطاقة المتجددة هو أكبر محرك للطلب الصناعي على الفضة. الخطط العالمية تستهدف تركيب 1,500 جيجاوات من الطاقة الشمسية بحلول 2030. هذا يحتاج أكثر من 100,000 طن فضة — حوالي 4 سنوات من الإنتاج العالمي الحالي.</p>\n<p>المشكلة: إنتاج الفضة لم يواكب هذا الطلب المتصاعد. السوق يعاني من عجز في المعروض منذ 3 سنوات متتالية. هذا العجز الهيكلي يدعم ارتفاع الأسعار على المدى البعيد.</p>\n\n<h2 id=\"how\">طرق الاستثمار في الفضة</h2>\n<ul>\n<li><strong>الفضة المادية:</strong> عملات فضية (مثل النسر الأمريكي) أو سبائك. تكاليف التخزين أقل من الذهب لكن حجمها أكبر</li>\n<li><strong>صناديق ETF:</strong> مثل iShares Silver Trust (SLV). سيولة عالية ورسوم منخفضة</li>\n<li><strong>عقود الفضة الآجلة:</strong> للمتداولين المحترفين فقط — رافعة مالية عالية ومخاطر كبيرة</li>\n<li><strong>أسهم شركات تعدين الفضة:</strong> مثل First Majestic وPan American Silver. عوائد مضاعفة لكن مخاطر تشغيلية</li>\n</ul>\n\n<h2 id=\"tips\">نصائح ختامية</h2>\n<ul>\n<li>خصص 5-10% من محفظتك للفضة — مكملة للذهب وليست بديلاً</li>\n<li>الفضة أكثر تقلباً من الذهب — توقع تحركات 3-5% يومياً أحياناً</li>\n<li>راقب نسبة الذهب للفضة — كلما ارتفعت فوق 80 زادت فرصة الشراء</li>\n<li>الاستثمار في الفضة يتطلب صبراً — الحركة الكبيرة قد تأتي فجأة بعد فترة هدوء</li>\n</ul>",
+    "contentEn": "<h2 id=\"intro\">Why Silver is Attractive in 2026</h2>\n<p>Silver is often called \"poor man's gold\" — but that's misleading. Silver uniquely combines safe-haven status with essential industrial use. At ~$35/oz, it's far below its $50 historic high, while gold hits daily records. This \"catch-up gap\" represents a golden opportunity.</p>\n\n<h2 id=\"dual\">Dual Industrial and Investment Role</h2>\n<p>Over 50% of silver demand is industrial: smartphones (0.3g each), solar panels (20g each), EVs (double the silver of regular cars), medical devices, and 5G infrastructure.</p>\n\n<h2 id=\"ratio\">The Gold-Silver Ratio</h2>\n<p>Currently above 90, far higher than the historical average of 60. If gold stays at $3,300 and the ratio reverts to 60, silver would reach $55 — a 57% gain from current prices.</p>\n\n<h2 id=\"solar\">Silver and the Green Revolution</h2>\n<p>Global plans target 1,500 GW of solar by 2030, requiring over 100,000 tons of silver. The market has run a supply deficit for 3 consecutive years, supporting long-term price increases.</p>\n\n<h2 id=\"how\">Investment Methods</h2>\n<p>Physical coins/bars, ETFs like SLV, futures (experts only), or mining stocks like First Majestic Silver.</p>\n\n<h2 id=\"tips\">Final Tips</h2>\n<ul>\n<li>Allocate 5-10% of your portfolio to silver — complement to gold, not replacement</li>\n<li>Silver is more volatile than gold — expect 3-5% daily moves sometimes</li>\n<li>Watch the gold-silver ratio — above 80 signals a buying opportunity</li>\n</ul>"
+  },
+  {
+    "id": 7,
+    "slug": "bitcoin-2026",
+    "title": "البيتكوين في 2026: تحليل وتوقعات",
+    "titleEn": "Bitcoin in 2026: Analysis and Outlook",
+    "summary": "هل البيتكوين لا يزال فرصة استثمارية; تحليل شامل.",
+    "summaryEn": "Is Bitcoin still an investment opportunity? A comprehensive analysis.",
+    "excerpt": "بعد تجاوز البيتكوين 100,000 دولار، ما التالي؟",
+    "excerptEn": "After Bitcoin crossed $100,000, what comes next?",
+    "category": "العملات الرقمية",
+    "categoryEn": "Cryptocurrency",
+    "categoryIcon": "₿",
+    "author": "عمر الخالدي",
+    "authorEn": "Omar Al-Khalidi",
+    "authorInitial": "O",
+    "date": "5 أبريل 2026",
+    "dateEn": "April 5, 2026",
+    "dateISO": "2026-04-05",
+    "readTime": "11",
+    "views": "9,800",
+    "emoji": "₿",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article7.jpg",
+    "featured": false,
+    "breadcrumb": "العملات الرقمية",
+    "breadcrumbEn": "Cryptocurrency",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "overview",
+        "text": "البيتكوين اليوم"
+      },
+      {
+        "id": "halving",
+        "text": "تأثير التنصيف"
+      },
+      {
+        "id": "etf",
+        "text": "صناديق ETF"
+      },
+      {
+        "id": "adoption",
+        "text": "التبني المؤسسي"
+      },
+      {
+        "id": "risks",
+        "text": "المخاطر"
+      },
+      {
+        "id": "strategy",
+        "text": "استراتيجية الاستثمار"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "overview",
+        "text": "Bitcoin Today"
+      },
+      {
+        "id": "halving",
+        "text": "Halving Effect"
+      },
+      {
+        "id": "etf",
+        "text": "Bitcoin ETFs"
+      },
+      {
+        "id": "adoption",
+        "text": "Institutional Adoption"
+      },
+      {
+        "id": "risks",
+        "text": "Risks"
+      },
+      {
+        "id": "strategy",
+        "text": "Investment Strategy"
+      }
+    ],
+    "related": [
+      8
+    ],
+    "content": "<h2 id=\"overview\">البيتكوين في 2026: أين نحن الآن؟</h2>\n<p>تجاوز سعر البيتكوين حاجز 100,000 دولار، محولاً عملة كانت تُعتبر \"فقاعة\" إلى فئة أصول معترف بها عالمياً. القيمة السوقية الإجمالية للبيتكوين تجاوزت 2 تريليون دولار، مما يجعلها أكبر من القيمة السوقية لمعظم شركات العالم.</p>\n<p>لكن السؤال المهم: هل لا يزال البيتكوين فرصة؟ أم أن القطار فات؟ الإجابة تعتمد على فهم الديناميكيات الأساسية التي تحرك سعر البيتكوين والتطورات الجديدة التي تغير قواعد اللعبة.</p>\n\n<h2 id=\"halving\">تأثير التنصيف (Halving)</h2>\n<p>كل 4 سنوات تقريباً، يتنصف عدد عملات البيتكوين الجديدة التي تُنتج. آخر تنصيف حدث في أبريل 2024، حيث انخفضت مكافأة التعدين من 6.25 إلى 3.125 بيتكوين لكل كتلة.</p>\n<p><strong>النمط التاريخي واضح:</strong></p>\n<ul>\n<li><strong>تنصيف 2012:</strong> السعر ارتفع من 12$ إلى 1,100$ خلال 18 شهراً (9,000%+)</li>\n<li><strong>تنصيف 2016:</strong> من 650$ إلى 20,000$ خلال 18 شهراً (2,900%+)</li>\n<li><strong>تنصيف 2020:</strong> من 8,700$ إلى 69,000$ خلال 18 شهراً (690%+)</li>\n<li><strong>تنصيف 2024:</strong> من 63,000$ إلى 100,000$+ (الدورة لا تزال في بدايتها)</li>\n</ul>\n<p>الأنماط تتكرر لكن بعوائد متناقصة. ومع ذلك، حتى الدورة الحالية قد تحقق عوائد جيدة. بعض المحللين يتوقعون 150,000-200,000$ في هذه الدورة.</p>\n\n<h2 id=\"etf\">صناديق ETF البيتكوين: نقطة التحول</h2>\n<p>موافقة هيئة الأوراق المالية الأمريكية (SEC) على صناديق ETF للبيتكوين في يناير 2024 كانت لحظة فارقة. هذه الصناديق سمحت لمستثمرين مؤسسيين ضخام بالدخول:</p>\n<ul>\n<li><strong>BlackRock:</strong> أكبر مدير أصول في العالم (10 تريليون دولار) أطلق iShares Bitcoin Trust</li>\n<li><strong>Fidelity:</strong> أطلقت Wise Origin Bitcoin Fund بأصول تجاوزت 15 مليار دولار</li>\n<li>صناديق التقاعد والثروات السيادية بدأت تخصص 1-3% للبيتكوين</li>\n</ul>\n<p>التدفقات الداخلة لهذه الصناديق تجاوزت 50 مليار دولار في أقل من عام. هذا الطلب المؤسسي يخلق ضغطاً شرائياً مستداماً.</p>\n\n<h2 id=\"adoption\">التبني المؤسسي والحكومي</h2>\n<p>البيتكوين لم يعد عملة \"هامشية\" — أصبح جزءاً من النظام المالي:</p>\n<ul>\n<li>السلفادور تحتفظ بالبيتكوين كاحتياطي وطني منذ 2021</li>\n<li>عدة ولايات أمريكية تدرس إضافة البيتكوين لاحتياطياتها</li>\n<li>شركات كبرى مثل MicroStrategy وTesla تحتفظ بمليارات الدولارات بالبيتكوين</li>\n<li>بنوك استثمارية كبرى تقدم خدمات حفظ البيتكوين لعملائها</li>\n</ul>\n\n<h2 id=\"risks\">المخاطر الرئيسية</h2>\n<p><strong>1. التذبذب الحاد:</strong> البيتكوين ينخفض 20-40% بشكل متكرر حتى في الأسواق الصاعدة. إذا لم تتحمل رؤية محفظتك تنخفض 30% في أسبوع، البيتكوين ليس لك.</p>\n<p><strong>2. التنظيم الحكومي:</strong> قد تفرض حكومات ضرائب أو قيوداً جديدة. في السعودية، لا يزال الوضع التنظيمي للعملات الرقمية غير واضح تماماً.</p>\n<p><strong>3. المنافسة التقنية:</strong> عملات أخرى قد تقدم حلولاً أفضل تقنياً.</p>\n<p><strong>4. المخاطر الأمنية:</strong> اختراق المنصات وسرقة المحافظ لا يزال خطراً حقيقياً.</p>\n\n<h2 id=\"strategy\">استراتيجية الاستثمار الذكية</h2>\n<ul>\n<li><strong>التخصيص:</strong> لا تضع أكثر من 5% من إجمالي محفظتك في العملات الرقمية</li>\n<li><strong>DCA:</strong> اشترِ مبلغاً ثابتاً شهرياً بغض النظر عن السعر</li>\n<li><strong>الحفظ الآمن:</strong> استخدم محفظة هاردوير (مثل Ledger أو Trezor) وليس المنصات</li>\n<li><strong>عدم الهلع:</strong> لا تبع في الانخفاضات الحادة — تاريخياً كل انخفاض كان فرصة شراء</li>\n<li><strong>التعلم المستمر:</strong> فهم تقنية البلوكشين يساعدك على اتخاذ قرارات أفضل</li>\n</ul>",
+    "contentEn": "<h2 id=\"overview\">Bitcoin in 2026: Where Are We Now?</h2>\n<p>Bitcoin surpassed $100,000, transforming from a \"bubble\" to a globally recognized asset class with a market cap exceeding $2 trillion. The key question: is it still an opportunity, or is it too late?</p>\n\n<h2 id=\"halving\">The Halving Effect</h2>\n<p>Every ~4 years, new Bitcoin production halves. The pattern is clear: 2012 halving led to 9,000%+ gains; 2016 to 2,900%+; 2020 to 690%+. The 2024 halving cycle is still early, with analysts projecting $150,000-200,000.</p>\n\n<h2 id=\"etf\">Bitcoin ETFs: The Game Changer</h2>\n<p>SEC approval of Bitcoin ETFs in January 2024 allowed massive institutional entry. BlackRock, Fidelity, and pension funds have poured over $50 billion into these funds, creating sustained buying pressure.</p>\n\n<h2 id=\"adoption\">Institutional and Government Adoption</h2>\n<p>El Salvador holds Bitcoin as national reserve. US states are considering Bitcoin reserves. Companies like MicroStrategy hold billions in Bitcoin. Major banks now offer Bitcoin custody services.</p>\n\n<h2 id=\"risks\">Key Risks</h2>\n<p>Sharp volatility (20-40% drops are common), regulatory uncertainty, technical competition from other cryptocurrencies, and security risks from exchange hacks.</p>\n\n<h2 id=\"strategy\">Smart Investment Strategy</h2>\n<ul>\n<li>Never allocate more than 5% of your portfolio to crypto</li>\n<li>Use Dollar Cost Averaging — fixed monthly purchases</li>\n<li>Use hardware wallets (Ledger, Trezor) for safe storage</li>\n<li>Don't panic sell during crashes — historically every dip was a buying opportunity</li>\n</ul>"
+  },
+  {
+    "id": 8,
+    "slug": "defi-guide-beginners",
+    "title": "التمويل اللامركزي DeFi: دليل المبتدئين",
+    "titleEn": "Decentralized Finance (DeFi): A Beginner's Guide",
+    "summary": "ما هو DeFi وكيف تابدأ نحوه بخطوات آمنة.",
+    "summaryEn": "What is DeFi and how to approach it safely.",
+    "excerpt": "التمويل اللامركزي ثورة حقيقية في عالم المال.",
+    "excerptEn": "DeFi is a real financial revolution. Here's what you need to know.",
+    "category": "العملات الرقمية",
+    "categoryEn": "Cryptocurrency",
+    "categoryIcon": "₿",
+    "author": "عمر الخالدي",
+    "authorEn": "Omar Al-Khalidi",
+    "authorInitial": "O",
+    "date": "2 أبريل 2026",
+    "dateEn": "April 2, 2026",
+    "dateISO": "2026-04-02",
+    "readTime": "10",
+    "views": "5,600",
+    "emoji": "₿",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article8.jpg",
+    "featured": false,
+    "breadcrumb": "العملات الرقمية",
+    "breadcrumbEn": "Cryptocurrency",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "what",
+        "text": "ما هو DeFi"
+      },
+      {
+        "id": "how",
+        "text": "كيف يعمل"
+      },
+      {
+        "id": "uses",
+        "text": "التطبيقات الرئيسية"
+      },
+      {
+        "id": "yield",
+        "text": "كسب العائد"
+      },
+      {
+        "id": "risks",
+        "text": "المخاطر"
+      },
+      {
+        "id": "safe",
+        "text": "خطوات آمنة للبدء"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "what",
+        "text": "What is DeFi"
+      },
+      {
+        "id": "how",
+        "text": "How It Works"
+      },
+      {
+        "id": "uses",
+        "text": "Key Apps"
+      },
+      {
+        "id": "yield",
+        "text": "Earning Yield"
+      },
+      {
+        "id": "risks",
+        "text": "Risks"
+      },
+      {
+        "id": "safe",
+        "text": "Safe Start"
+      }
+    ],
+    "related": [
+      7
+    ],
+    "content": "<h2 id=\"what\">ما هو التمويل اللامركزي (DeFi)؟</h2>\n<p>التمويل اللامركزي هو منظومة خدمات مالية مبنية على تقنية البلوكشين تعمل بدون بنوك أو وسطاء تقليديين. بدلاً من البنك الذي يقرر من يحصل على قرض وبأي فائدة، تقوم عقود ذكية (Smart Contracts) — وهي برامج تعمل تلقائياً — بإدارة العمليات المالية بشفافية تامة.</p>\n<p>القيمة المحجوزة في بروتوكولات DeFi تجاوزت 150 مليار دولار، مما يدل على نضوج هذا القطاع. DeFi ليس مجرد تجربة تقنية — بل ثورة حقيقية تعيد تعريف الخدمات المالية.</p>\n\n<h2 id=\"how\">كيف يعمل DeFi؟</h2>\n<p>يعمل DeFi على شبكات بلوكشين مثل إيثيريوم وسولانا وأفالانش. المستخدمون يتفاعلون مع البروتوكولات مباشرة عبر محافظ رقمية مثل MetaMask بدون حاجة لإنشاء حساب أو تقديم وثائق.</p>\n<p><strong>المكونات الأساسية:</strong></p>\n<ul>\n<li><strong>العقود الذكية:</strong> كود برمجي ينفذ المعاملات تلقائياً بدون تدخل بشري</li>\n<li><strong>المحافظ الرقمية:</strong> بوابتك لعالم DeFi — تحفظ أصولك وتوقع المعاملات</li>\n<li><strong>العملات المستقرة:</strong> عملات مرتبطة بالدولار (مثل USDC وUSDT) تقلل التقلبات</li>\n<li><strong>مجمعات السيولة:</strong> أحواض أموال يودع فيها المستخدمون أصولهم مقابل عوائد</li>\n</ul>\n\n<h2 id=\"uses\">التطبيقات الرئيسية لـ DeFi</h2>\n<p><strong>1. الإقراض والاقتراض:</strong> منصات مثل Aave وCompound تتيح إقراض عملاتك الرقمية والحصول على فوائد تتراوح بين 3-15% سنوياً. يمكنك أيضاً الاقتراض مقابل ضمان عملاتك دون بيعها.</p>\n<p><strong>2. التداول اللامركزي (DEX):</strong> منصات مثل Uniswap وcurve تتيح تبادل العملات مباشرة بدون وسيط. لا حاجة لإنشاء حساب أو تقديم هوية.</p>\n<p><strong>3. توفير السيولة:</strong> أودع زوجاً من العملات في مجمع سيولة واكسب نسبة من رسوم التداول. العوائد تتراوح بين 5-50% سنوياً حسب الزوج.</p>\n<p><strong>4. التأمين اللامركزي:</strong> بروتوكولات مثل Nexus Mutual تقدم تأمين ضد اختراقات العقود الذكية.</p>\n\n<h2 id=\"yield\">كسب العائد في DeFi</h2>\n<p>العوائد في DeFi أعلى بكثير من البنوك التقليدية، لكنها تأتي مع مخاطر أعلى:</p>\n<ul>\n<li><strong>Staking:</strong> قفل عملاتك لدعم الشبكة مقابل 4-8% سنوياً</li>\n<li><strong>إقراض العملات المستقرة:</strong> 3-10% سنوياً مع مخاطر أقل</li>\n<li><strong>توفير السيولة:</strong> 10-50% لكن مع خطر \"الخسارة غير الدائمة\"</li>\n<li><strong>Yield Farming:</strong> استراتيجيات متقدمة للحصول على أعلى العوائد — للخبراء فقط</li>\n</ul>\n<p><strong>قاعدة مهمة:</strong> إذا وجدت عائداً يبدو \"أفضل من أن يكون حقيقياً\" (فوق 100%) فهو على الأرجح كذلك. كن حذراً جداً.</p>\n\n<h2 id=\"risks\">مخاطر DeFi</h2>\n<ul>\n<li><strong>اختراق العقود الذكية:</strong> أخطاء برمجية قد تسمح بسرقة الأموال. خُسرت مليارات الدولارات في اختراقات DeFi</li>\n<li><strong>الخسارة غير الدائمة:</strong> عند توفير السيولة قد تخسر إذا تغير سعر أحد العملتين بشكل كبير</li>\n<li><strong>مخاطر العملات المستقرة:</strong> بعض العملات المستقرة فقدت ربطها بالدولار سابقاً</li>\n<li><strong>التعقيد:</strong> DeFi معقد تقنياً — خطأ واحد في العنوان يعني خسارة أموالك للأبد</li>\n<li><strong>التنظيم:</strong> قد تفرض حكومات قيوداً على استخدام DeFi</li>\n</ul>\n\n<h2 id=\"safe\">خطوات آمنة للبدء</h2>\n<ul>\n<li>ابدأ بمبلغ صغير (500-1000 دولار) يمكنك تحمل خسارته</li>\n<li>استخدم محفظة هاردوير (Ledger) وليس محفظة المتصفح فقط</li>\n<li>ابدأ بإقراض العملات المستقرة — أقل المخاطر</li>\n<li>تحقق من أمان كل بروتوكول قبل الاستخدام (ابحث عن تدقيقات أمنية)</li>\n<li>لا تربط محفظتك بمواقع مشبوهة أو غير معروفة</li>\n<li>تعلّم على شبكات الاختبار (Testnet) قبل المخاطرة بأموال حقيقية</li>\n</ul>",
+    "contentEn": "<h2 id=\"what\">What is DeFi?</h2>\n<p>Decentralized Finance is a blockchain-based financial ecosystem operating without banks or traditional intermediaries. Smart contracts automatically manage financial operations with full transparency. Over $150 billion is locked in DeFi protocols.</p>\n\n<h2 id=\"how\">How DeFi Works</h2>\n<p>DeFi runs on blockchains like Ethereum, Solana, and Avalanche. Users interact directly via digital wallets like MetaMask without creating accounts. Key components: smart contracts, digital wallets, stablecoins, and liquidity pools.</p>\n\n<h2 id=\"uses\">Key DeFi Applications</h2>\n<p>Lending/borrowing (Aave, Compound) at 3-15% annually. Decentralized exchanges (Uniswap) for trustless trading. Liquidity provision earning 5-50% from trading fees. Decentralized insurance (Nexus Mutual).</p>\n\n<h2 id=\"yield\">Earning Yield in DeFi</h2>\n<p>Staking: 4-8%. Stablecoin lending: 3-10%. Liquidity provision: 10-50% but with impermanent loss risk. If a yield seems too good to be true (100%+), it probably is.</p>\n\n<h2 id=\"risks\">DeFi Risks</h2>\n<p>Smart contract hacks (billions lost), impermanent loss, stablecoin de-pegging, technical complexity, and regulatory uncertainty.</p>\n\n<h2 id=\"safe\">Safe Steps to Start</h2>\n<ul>\n<li>Start with $500-1,000 you can afford to lose</li>\n<li>Use a hardware wallet, not just a browser wallet</li>\n<li>Begin with stablecoin lending — lowest risk</li>\n<li>Verify protocol security audits before use</li>\n<li>Practice on testnets before risking real money</li>\n</ul>"
+  },
+  {
+    "id": 9,
+    "slug": "build-business-from-scratch",
+    "title": "كيف تبني مشروعاً ناجحاً من الصفر",
+    "titleEn": "How to Build a Successful Business from Scratch",
+    "summary": "الخطوات العملية لبناء مشروع تجاري من الصفر في 2026.",
+    "summaryEn": "Practical steps to build a profitable business from zero in 2026.",
+    "excerpt": "لا تحتاج رأس مال ضخم لتبدأ. اكتشف طريقك.",
+    "excerptEn": "You don't need a large capital to start. Discover your path.",
+    "category": "ريادة الأعمال",
+    "categoryEn": "Entrepreneurship",
+    "categoryIcon": "🚀",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "20 مارس 2026",
+    "dateEn": "March 20, 2026",
+    "dateISO": "2026-03-20",
+    "readTime": "12",
+    "views": "6,300",
+    "emoji": "🚀",
+    "gradient": "linear-gradient(135deg,#112244,#1a3a5c)",
+    "image": "images/article9.jpg",
+    "featured": false,
+    "breadcrumb": "ريادة الأعمال",
+    "breadcrumbEn": "Entrepreneurship",
+    "breadcrumbHref": "index.html#entrepreneurship",
+    "toc": [
+      {
+        "id": "idea",
+        "text": "الفكرة والتحقق"
+      },
+      {
+        "id": "plan",
+        "text": "خطة العمل"
+      },
+      {
+        "id": "launch",
+        "text": "الإطلاق"
+      },
+      {
+        "id": "fund",
+        "text": "التمويل"
+      },
+      {
+        "id": "grow",
+        "text": "النمو والتوسع"
+      },
+      {
+        "id": "mistakes",
+        "text": "أخطاء قاتلة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "idea",
+        "text": "Idea Validation"
+      },
+      {
+        "id": "plan",
+        "text": "Business Plan"
+      },
+      {
+        "id": "launch",
+        "text": "Launch"
+      },
+      {
+        "id": "fund",
+        "text": "Funding"
+      },
+      {
+        "id": "grow",
+        "text": "Growth"
+      },
+      {
+        "id": "mistakes",
+        "text": "Fatal Mistakes"
+      }
+    ],
+    "related": [
+      10
+    ],
+    "content": "<h2 id=\"idea\">الفكرة والتحقق منها</h2>\n<p>كل مشروع ناجح يبدأ بحل مشكلة حقيقية. لا تبحث عن \"فكرة مبتكرة\" — بل ابحث عن مشكلة يعاني منها الناس ويدفعون المال لحلها. اسأل نفسك: ما الذي يشتكي منه أصدقائي وعائلتي؟ ما الخدمة التي تمنيت وجودها ولم تجدها؟</p>\n<p><strong>خطوات التحقق من الفكرة:</strong></p>\n<ul>\n<li>تحدث مع 20 شخصاً على الأقل من جمهورك المستهدف واسألهم عن المشكلة</li>\n<li>ابحث في جوجل عن حلول موجودة — إذا وجدت منافسين فهذا إشارة جيدة (يعني هناك سوق)</li>\n<li>اختبر الطلب: أنشئ صفحة هبوط بسيطة واجمع عناوين بريد المهتمين</li>\n<li>اعرض المنتج قبل بنائه: استخدم نماذج أولية أو عروض تقديمية</li>\n</ul>\n<p><strong>قاعدة ذهبية:</strong> إذا لم يكن 3 من كل 10 أشخاص تتحدث معهم مستعدين للدفع، أعد التفكير في الفكرة.</p>\n\n<h2 id=\"plan\">خطة العمل المبسطة</h2>\n<p>لا تحتاج خطة عمل من 50 صفحة. صفحة واحدة تكفي وتتضمن:</p>\n<ul>\n<li><strong>المشكلة:</strong> ما المشكلة التي تحلها؟ (جملة واحدة)</li>\n<li><strong>الحل:</strong> كيف تحلها؟ (جملة واحدة)</li>\n<li><strong>العميل المستهدف:</strong> من هو؟ كم عمره؟ أين يسكن؟ كم دخله؟</li>\n<li><strong>مصادر الدخل:</strong> كيف ستربح المال؟</li>\n<li><strong>التكاليف:</strong> ما المصاريف الثابتة والمتغيرة؟</li>\n<li><strong>الميزة التنافسية:</strong> لماذا يختارك العميل وليس المنافس؟</li>\n</ul>\n\n<h2 id=\"launch\">الإطلاق بأقل التكاليف</h2>\n<p>ابدأ بنسخة بسيطة (MVP) تحل المشكلة الأساسية فقط. لا تبنِ تطبيقاً كاملاً — ابدأ بحساب إنستجرام أو واتساب. الهدف: الحصول على أول 10 عملاء يدفعون بأسرع وقت ممكن.</p>\n<p><strong>أدوات الإطلاق بتكلفة صفرية:</strong></p>\n<ul>\n<li>إنستجرام وتيك توك للتسويق المجاني</li>\n<li>واتساب بزنس لخدمة العملاء والبيع</li>\n<li>Canva لتصميم المحتوى البصري</li>\n<li>Google Forms لاستبيانات العملاء</li>\n<li>سلة أو زد لإنشاء متجر إلكتروني (خطة مجانية)</li>\n</ul>\n\n<h2 id=\"fund\">خيارات التمويل</h2>\n<p><strong>التمويل الذاتي (Bootstrapping):</strong> الخيار الأفضل للمبتدئين. ابدأ من مدخراتك. 70% من الشركات الناجحة بدأت بتمويل ذاتي.</p>\n<p><strong>بنك التنمية الاجتماعية:</strong> يقدم قروضاً ميسرة تصل لـ 500,000 ريال للمشاريع الصغيرة.</p>\n<p><strong>منشآت:</strong> برامج دعم متعددة تشمل التدريب والتمويل والحاضنات.</p>\n<p><strong>المستثمرون الملائكة:</strong> بعد إثبات نموذج العمل، يمكنك البحث عن مستثمرين يقدمون 100,000-2,000,000 ريال مقابل حصة.</p>\n\n<h2 id=\"grow\">النمو والتوسع</h2>\n<p>بعد تحقيق أول 20 عميلاً، ركز على الاحتفاظ بهم أولاً ثم التوسع. العميل الراضي يجلب 3 عملاء جدد مجاناً عبر التوصية.</p>\n<ul>\n<li><strong>مرحلة 1 (0-50 عميل):</strong> خدمة شخصية مكثفة. تعلّم ما يحبه العميل وما يكرهه</li>\n<li><strong>مرحلة 2 (50-200 عميل):</strong> أتمتة العمليات المتكررة. وظّف أول موظف</li>\n<li><strong>مرحلة 3 (200+ عميل):</strong> بناء فريق. استثمار في التسويق الرقمي المدفوع</li>\n</ul>\n\n<h2 id=\"mistakes\">أخطاء قاتلة تجنبها</h2>\n<ul>\n<li><strong>البناء قبل البيع:</strong> لا تبنِ منتجاً كاملاً ثم تبحث عن عملاء. اعكس الترتيب</li>\n<li><strong>الكمالية:</strong> المنتج \"المثالي\" لا يُطلق أبداً. اطلق بنسبة 80% وحسّن لاحقاً</li>\n<li><strong>تجاهل الأرقام:</strong> تتبع كل ريال يدخل ويخرج من اليوم الأول</li>\n<li><strong>عدم فهم العميل:</strong> لا تفترض — اسأل واستمع</li>\n<li><strong>التوسع المبكر:</strong> لا توظف 10 أشخاص قبل أن تحقق ربحية ثابتة</li>\n</ul>",
+    "contentEn": "<h2 id=\"idea\">Idea Validation</h2>\n<p>Every successful business solves a real problem. Don't look for \"innovative ideas\" — find problems people pay to solve. Talk to at least 20 target customers. If 3 out of 10 won't pay, rethink the idea.</p>\n\n<h2 id=\"plan\">Simple Business Plan</h2>\n<p>One page covering: the problem, your solution, target customer, revenue sources, costs, and competitive advantage.</p>\n\n<h2 id=\"launch\">Low-Cost Launch</h2>\n<p>Start with an MVP that solves only the core problem. Use Instagram, WhatsApp Business, and Canva. Goal: get your first 10 paying customers as fast as possible.</p>\n\n<h2 id=\"fund\">Funding Options</h2>\n<p>Bootstrap first (70% of successful companies did). Saudi Social Development Bank offers loans up to 500,000 SAR. Monsha'at provides multiple support programs. Angel investors come after proving your model.</p>\n\n<h2 id=\"grow\">Growth and Scaling</h2>\n<p>After 20 customers, focus on retention first. Phase 1: intensive personal service. Phase 2: automate and hire first employee. Phase 3: build a team and invest in paid marketing.</p>\n\n<h2 id=\"mistakes\">Fatal Mistakes to Avoid</h2>\n<ul>\n<li>Building before selling — reverse the order</li>\n<li>Perfectionism — launch at 80% and improve later</li>\n<li>Ignoring numbers — track every riyal from day one</li>\n<li>Early over-hiring before achieving stable profitability</li>\n</ul>"
+  },
+  {
+    "id": 10,
+    "slug": "ecommerce-saudi-opportunity",
+    "title": "التجارة الإلكترونية: فرصة العقد في السعودية",
+    "titleEn": "E-Commerce: The Decade's Opportunity in Saudi Arabia",
+    "summary": "كيف تبدأ متجرك الإلكتروني في السوق السعودي بخطوات مدروسة.",
+    "summaryEn": "How to launch your e-commerce store in the Saudi market step by step.",
+    "excerpt": "سوق التجارة الإلكترونية السعودي يتجاوز 100 مليار ريال.",
+    "excerptEn": "Saudi e-commerce market exceeds 100 billion SAR — here's your share.",
+    "category": "ريادة الأعمال",
+    "categoryEn": "Entrepreneurship",
+    "categoryIcon": "🚀",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "15 مارس 2026",
+    "dateEn": "March 15, 2026",
+    "dateISO": "2026-03-15",
+    "readTime": "10",
+    "views": "4,900",
+    "emoji": "🚀",
+    "gradient": "linear-gradient(135deg,#112244,#1a3a5c)",
+    "image": "images/article10.jpg",
+    "featured": false,
+    "breadcrumb": "ريادة الأعمال",
+    "breadcrumbEn": "Entrepreneurship",
+    "breadcrumbHref": "index.html#entrepreneurship",
+    "toc": [
+      {
+        "id": "market",
+        "text": "حجم السوق"
+      },
+      {
+        "id": "platform",
+        "text": "اختيار المنصة"
+      },
+      {
+        "id": "products",
+        "text": "اختيار المنتجات"
+      },
+      {
+        "id": "marketing",
+        "text": "التسويق الرقمي"
+      },
+      {
+        "id": "logistics",
+        "text": "الشحن والتوصيل"
+      },
+      {
+        "id": "legal",
+        "text": "المتطلبات القانونية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "market",
+        "text": "Market Size"
+      },
+      {
+        "id": "platform",
+        "text": "Platform Choice"
+      },
+      {
+        "id": "products",
+        "text": "Product Selection"
+      },
+      {
+        "id": "marketing",
+        "text": "Digital Marketing"
+      },
+      {
+        "id": "logistics",
+        "text": "Logistics"
+      },
+      {
+        "id": "legal",
+        "text": "Legal Requirements"
+      }
+    ],
+    "related": [
+      9
+    ],
+    "content": "<h2 id=\"market\">حجم سوق التجارة الإلكترونية السعودي</h2>\n<p>تجاوز سوق التجارة الإلكترونية السعودي 100 مليار ريال في 2025، بنمو سنوي يتجاوز 20%. أكثر من 80% من السعوديين يتسوقون إلكترونياً، مع متوسط إنفاق فردي يتجاوز 5,000 ريال سنوياً. القطاعات الأسرع نمواً: الأزياء والإلكترونيات ومستحضرات التجميل والمواد الغذائية.</p>\n<p>الفرصة ضخمة لأن السوق لا يزال في مرحلة النمو. رؤية 2030 تدعم التحول الرقمي وتسهّل بيئة الأعمال الإلكترونية. الحكومة أطلقت نظام التجارة الإلكترونية وسجل التجارة الإلكتروني لتنظيم القطاع وحماية المستهلك.</p>\n\n<h2 id=\"platform\">اختيار منصة البيع المناسبة</h2>\n<p><strong>المنصات السعودية:</strong></p>\n<ul>\n<li><strong>سلة (Salla):</strong> الأسهل للمبتدئين. واجهة عربية بالكامل. خطط تبدأ من مجانية. تدعم معظم بوابات الدفع السعودية</li>\n<li><strong>زد (Zid):</strong> مشابهة لسلة مع ميزات إضافية للمتاجر المتوسطة والكبيرة</li>\n</ul>\n<p><strong>المنصات العالمية:</strong></p>\n<ul>\n<li><strong>Shopify:</strong> الأقوى عالمياً. أفضل للتوسع خارج السعودية. تبدأ من 29$/شهر</li>\n<li><strong>WooCommerce:</strong> مجانية مفتوحة المصدر مع WordPress. تحتاج خبرة تقنية</li>\n</ul>\n<p><strong>الأسواق الإلكترونية:</strong> نون وأمازون السعودية خيارات للوصول لقاعدة عملاء جاهزة، لكن العمولات مرتفعة (15-25%).</p>\n\n<h2 id=\"products\">اختيار المنتجات الرابحة</h2>\n<ul>\n<li>ابحث عن منتجات بهامش ربح لا يقل عن 40%</li>\n<li>استخدم Google Trends لمعرفة الطلب المتزايد</li>\n<li>ادرس Amazon Best Sellers وTrending في نون</li>\n<li>ابدأ بـ 5-10 منتجات فقط وتوسع تدريجياً</li>\n<li>تجنب المنتجات الثقيلة أو سريعة التلف في البداية</li>\n</ul>\n<p><strong>نماذج العمل:</strong> التخزين الذاتي (أعلى هامش)، الدروبشيبينج (أقل رأس مال)، أو الطباعة عند الطلب (منتجات مخصصة بدون مخزون).</p>\n\n<h2 id=\"marketing\">التسويق الرقمي الفعال</h2>\n<p><strong>إنستجرام:</strong> المنصة الأولى للتجارة الإلكترونية في السعودية. أنشئ محتوى جذاب يومياً. استخدم Reels والقصص. تعاون مع مؤثرين صغار (5,000-50,000 متابع) — أرخص وأكثر مصداقية.</p>\n<p><strong>تيك توك:</strong> نمو انفجاري في السعودية. فيديوهات قصيرة تعرض المنتج تحقق ملايين المشاهدات مجاناً.</p>\n<p><strong>إعلانات جوجل:</strong> استهدف من يبحث عن منتجاتك فعلاً. أعلى معدل تحويل لكن أعلى تكلفة.</p>\n<p><strong>إعلانات سناب شات:</strong> فعالة جداً في السعودية خصوصاً للفئة العمرية 18-35.</p>\n\n<h2 id=\"logistics\">الشحن والتوصيل</h2>\n<p>الشحن السريع أصبح توقعاً أساسياً. 60% من المتسوقين يفضلون التوصيل خلال 24-48 ساعة. شركات الشحن الرئيسية: أرامكس، سمسا، ناقل، وDHL. قارن الأسعار وسرعة التوصيل قبل الاختيار.</p>\n<p><strong>نصيحة:</strong> قدّم شحناً مجانياً للطلبات فوق 200 ريال — يزيد متوسط قيمة الطلب 30%.</p>\n\n<h2 id=\"legal\">المتطلبات القانونية</h2>\n<ul>\n<li>سجل تجاري إلكتروني عبر وزارة التجارة (يستغرق دقائق)</li>\n<li>شهادة معروف للموثوقية (اختيارية لكن ترفع الثقة)</li>\n<li>الالتزام بنظام التجارة الإلكترونية: سياسة إرجاع واضحة وحماية بيانات العملاء</li>\n<li>تسجيل في ضريبة القيمة المضافة إذا تجاوزت إيراداتك 375,000 ريال سنوياً</li>\n</ul>",
+    "contentEn": "<h2 id=\"market\">Saudi E-Commerce Market Size</h2>\n<p>The Saudi e-commerce market exceeded 100 billion SAR in 2025, growing 20%+ annually. Over 80% of Saudis shop online with average spending exceeding 5,000 SAR per year. Fastest growing: fashion, electronics, cosmetics, and food.</p>\n\n<h2 id=\"platform\">Choosing the Right Platform</h2>\n<p>Saudi platforms: Salla (easiest for beginners), Zid (more features). Global: Shopify (best for expansion), WooCommerce (free, needs technical skills). Marketplaces: Noon and Amazon.sa for ready customer base but high commissions.</p>\n\n<h2 id=\"products\">Choosing Winning Products</h2>\n<p>Seek 40%+ profit margins. Use Google Trends and Amazon Best Sellers. Start with 5-10 products. Models: self-storage (highest margin), dropshipping (lowest capital), or print-on-demand.</p>\n\n<h2 id=\"marketing\">Effective Digital Marketing</h2>\n<p>Instagram is #1 for Saudi e-commerce. TikTok offers explosive organic reach. Google Ads target active searchers. Snapchat Ads work well for ages 18-35.</p>\n\n<h2 id=\"logistics\">Shipping and Delivery</h2>\n<p>60% of shoppers expect 24-48 hour delivery. Major carriers: Aramex, SMSA, Naqel, DHL. Offer free shipping above 200 SAR to increase average order value by 30%.</p>\n\n<h2 id=\"legal\">Legal Requirements</h2>\n<p>Electronic commercial registration, Maroof certificate for trust, compliance with e-commerce regulations, and VAT registration if revenue exceeds 375,000 SAR annually.</p>"
+  },
+  {
+    "id": 11,
+    "slug": "passive-income-5-ways",
+    "title": "5 مصادر لبناء دخل سلبي حقيقي",
+    "titleEn": "5 Sources to Build Real Passive Income",
+    "summary": "دليل عملي لبناء مصادر دخل سلبي تعمل وأنت نائم.",
+    "summaryEn": "A practical guide to building passive income sources that work while you sleep.",
+    "excerpt": "تعلم كيف تجعل مالك يعمل عنك بدلاً من العكس.",
+    "excerptEn": "Learn how to make your money work for you instead of the other way around.",
+    "category": "الدخل السلبي",
+    "categoryEn": "Passive Income",
+    "categoryIcon": "💰",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "25 مارس 2026",
+    "dateEn": "March 25, 2026",
+    "dateISO": "2026-03-25",
+    "readTime": "9",
+    "views": "8,100",
+    "emoji": "💰",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article11.jpg",
+    "featured": false,
+    "breadcrumb": "الدخل السلبي",
+    "breadcrumbEn": "Passive Income",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "what",
+        "text": "ما هو الدخل السلبي"
+      },
+      {
+        "id": "dividends",
+        "text": "توزيعات الأرباح"
+      },
+      {
+        "id": "realestate",
+        "text": "إيجار العقار"
+      },
+      {
+        "id": "digital",
+        "text": "المنتجات الرقمية"
+      },
+      {
+        "id": "content",
+        "text": "صناعة المحتوى"
+      },
+      {
+        "id": "auto",
+        "text": "الأعمال المؤتمتة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "what",
+        "text": "What is Passive Income"
+      },
+      {
+        "id": "dividends",
+        "text": "Dividends"
+      },
+      {
+        "id": "realestate",
+        "text": "Rental Income"
+      },
+      {
+        "id": "digital",
+        "text": "Digital Products"
+      },
+      {
+        "id": "content",
+        "text": "Content Creation"
+      },
+      {
+        "id": "auto",
+        "text": "Automated Business"
+      }
+    ],
+    "related": [
+      12
+    ],
+    "content": "<h2 id=\"what\">ما هو الدخل السلبي الحقيقي؟</h2>\n<p>الدخل السلبي هو المال الذي تكسبه دون عمل نشط مستمر. أنت تعمل مرة واحدة لبناء الأصل، ثم يولّد لك دخلاً متكرراً. هذا لا يعني \"مال بدون جهد\" — بل \"جهد مقدّم يُثمر لسنوات\".</p>\n<p>الفرق بين الغني والموظف: الموظف يبادل وقته بالمال (ساعة عمل = أجر). الغني يبني أصولاً تعمل عنه 24/7. هدفك: بناء مصادر دخل سلبي تغطي نفقاتك الشهرية. عندها تصبح حراً مالياً — تعمل لأنك تريد وليس لأنك مضطر.</p>\n\n<h2 id=\"dividends\">المصدر الأول: توزيعات أرباح الأسهم</h2>\n<p>استثمر في أسهم شركات توزع أرباحاً منتظمة. كل ربع سنة تستلم حصتك من أرباح الشركة مباشرة في حسابك البنكي دون بيع أي سهم.</p>\n<p><strong>مثال عملي:</strong> إذا استثمرت 200,000 ريال في أسهم بعائد توزيع 5%، ستحصل على 10,000 ريال سنوياً (2,500 ريال كل ربع). مع إعادة استثمار التوزيعات، المبلغ يتضاعف خلال 14 سنة تقريباً.</p>\n<p><strong>أفضل أسهم التوزيعات في تداول:</strong> أرامكو (عائد ~6%)، الراجحي (~3%)، سابك (~4%)، الاتصالات STC (~4.5%).</p>\n\n<h2 id=\"realestate\">المصدر الثاني: إيجار العقارات</h2>\n<p>شراء عقار (شقة أو محل تجاري) وتأجيره يولّد دخلاً شهرياً ثابتاً. العائد الإيجاري في السعودية يتراوح بين 5-10% سنوياً حسب الموقع ونوع العقار.</p>\n<p><strong>البدائل بمبالغ أصغر:</strong></p>\n<ul>\n<li><strong>صناديق ريت:</strong> استثمار عقاري بأقل من 500 ريال مع توزيعات دورية</li>\n<li><strong>التمويل العقاري الجماعي:</strong> منصات تتيح المشاركة بمبالغ صغيرة في مشاريع عقارية</li>\n<li><strong>تأجير غرفة عبر Airbnb:</strong> إذا كان لديك غرفة إضافية في منزلك</li>\n</ul>\n\n<h2 id=\"digital\">المصدر الثالث: المنتجات الرقمية</h2>\n<p>أنشئ منتجاً رقمياً مرة واحدة وبعه عدداً لا نهائياً من المرات بدون تكلفة إضافية:</p>\n<ul>\n<li><strong>كتاب إلكتروني:</strong> شارك خبرتك في كتاب وبعه عبر أمازون كيندل أو موقعك. تكلفة صفرية بعد الكتابة</li>\n<li><strong>دورة تدريبية أونلاين:</strong> سجّل خبرتك بالفيديو وبعها على Udemy أو موقعك الخاص. بعض المدربين العرب يحققون 50,000+ ريال شهرياً</li>\n<li><strong>قوالب تصميم:</strong> قوالب كانفا أو إكسل أو ووردبريس تباع على Creative Market</li>\n<li><strong>تطبيق أو أداة SaaS:</strong> اشتراك شهري يولّد دخلاً متكرراً</li>\n</ul>\n\n<h2 id=\"content\">المصدر الرابع: صناعة المحتوى</h2>\n<p>بناء جمهور على يوتيوب أو بودكاست أو مدونة يولّد دخلاً من عدة مصادر: إعلانات، رعايات، تسويق بالعمولة، وبيع منتجات.</p>\n<p>قناة يوتيوب بـ 100,000 مشترك تحقق 5,000-20,000 ريال شهرياً من الإعلانات وحدها. مع الرعايات والتسويق بالعمولة، الرقم يتضاعف.</p>\n<p><strong>المفتاح:</strong> الاستمرارية. معظم صنّاع المحتوى يحتاجون 12-18 شهراً من النشر المنتظم قبل تحقيق دخل جيد.</p>\n\n<h2 id=\"auto\">المصدر الخامس: الأعمال المؤتمتة</h2>\n<p>بناء عمل تجاري يعمل بأنظمة مؤتمتة بدون تدخلك اليومي:</p>\n<ul>\n<li><strong>آلات البيع الذاتي:</strong> تكلفة البداية 5,000-15,000 ريال. عائد 20-40% سنوياً</li>\n<li><strong>متجر إلكتروني مؤتمت:</strong> دروبشيبينغ مع أتمتة الطلبات والشحن</li>\n<li><strong>غسيل سيارات ذاتي:</strong> استثمار أولي أعلى لكن عوائد مستقرة</li>\n</ul>\n<p><strong>تذكّر:</strong> كل مصدر دخل سلبي يتطلب جهداً مقدماً. ابدأ بمصدر واحد، اجعله يعمل بنجاح، ثم أضف الثاني.</p>",
+    "contentEn": "<h2 id=\"what\">What is Real Passive Income?</h2>\n<p>Passive income is money earned without continuous active work. You work once to build an asset, then it generates recurring income. The goal: build passive income sources that cover your monthly expenses to achieve financial freedom.</p>\n\n<h2 id=\"dividends\">Source 1: Stock Dividends</h2>\n<p>Invest in dividend-paying stocks. Example: 200,000 SAR at 5% yield = 10,000 SAR/year. Top Tadawul dividend stocks: Aramco (~6%), Al Rajhi (~3%), SABIC (~4%), STC (~4.5%).</p>\n\n<h2 id=\"realestate\">Source 2: Rental Income</h2>\n<p>Buy property and rent it for 5-10% annual returns. Lower-capital alternatives: REITs, crowdfunding platforms, or Airbnb for spare rooms.</p>\n\n<h2 id=\"digital\">Source 3: Digital Products</h2>\n<p>Create once, sell unlimited times: e-books, online courses (some Arab instructors earn 50,000+ SAR/month), design templates, or SaaS tools.</p>\n\n<h2 id=\"content\">Source 4: Content Creation</h2>\n<p>Build an audience on YouTube, podcasts, or blogs. A 100K-subscriber YouTube channel earns 5,000-20,000 SAR/month from ads alone. Key: consistency for 12-18 months.</p>\n\n<h2 id=\"auto\">Source 5: Automated Businesses</h2>\n<p>Vending machines (20-40% annual returns), automated e-commerce stores, or self-service car washes. Start with one source, make it work, then add another.</p>"
+  },
+  {
+    "id": 12,
+    "slug": "dividend-investing-quarterly-income",
+    "title": "الاستثمار في أسهم التوزيعات: دخل كل ربع",
+    "titleEn": "Dividend Investing: Earn Income Every Quarter",
+    "summary": "كيف تبني محفظة أسهم توزع دخلاً منتظماً.",
+    "summaryEn": "How to build a dividend portfolio that generates regular income.",
+    "excerpt": "أسهم توزع ملايين كل ربع سنة وأنت لم تفعل شيئاً.",
+    "excerptEn": "Stocks that distribute millions every quarter while you do nothing.",
+    "category": "الدخل السلبي",
+    "categoryEn": "Passive Income",
+    "categoryIcon": "💰",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "18 مارس 2026",
+    "dateEn": "March 18, 2026",
+    "dateISO": "2026-03-18",
+    "readTime": "8",
+    "views": "5,700",
+    "emoji": "💰",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article12.jpg",
+    "featured": false,
+    "breadcrumb": "الدخل السلبي",
+    "breadcrumbEn": "Passive Income",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "why",
+        "text": "لماذا أسهم التوزيعات"
+      },
+      {
+        "id": "screen",
+        "text": "كيف تختار السهم"
+      },
+      {
+        "id": "yield",
+        "text": "فهم العائد"
+      },
+      {
+        "id": "reinvest",
+        "text": "قوة إعادة الاستثمار"
+      },
+      {
+        "id": "saudi",
+        "text": "أفضل الأسهم السعودية"
+      },
+      {
+        "id": "portfolio",
+        "text": "بناء المحفظة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "why",
+        "text": "Why Dividends"
+      },
+      {
+        "id": "screen",
+        "text": "Stock Screening"
+      },
+      {
+        "id": "yield",
+        "text": "Understanding Yield"
+      },
+      {
+        "id": "reinvest",
+        "text": "Reinvestment Power"
+      },
+      {
+        "id": "saudi",
+        "text": "Top Saudi Stocks"
+      },
+      {
+        "id": "portfolio",
+        "text": "Building Portfolio"
+      }
+    ],
+    "related": [
+      11
+    ],
+    "content": "<h2 id=\"why\">لماذا الاستثمار في أسهم التوزيعات؟</h2>\n<p>أسهم التوزيعات تجمع بين ميزتين: نمو رأس المال (ارتفاع سعر السهم) ودخل نقدي منتظم (التوزيعات). تاريخياً، أسهم التوزيعات تفوقت على الأسهم غير الموزعة بفارق كبير. دراسة شملت 50 سنة أظهرت أن 40% من عوائد سوق الأسهم الإجمالية جاءت من التوزيعات وإعادة استثمارها.</p>\n<p>في بيئة أسعار الفائدة المتقلبة، أسهم التوزيعات توفر استقراراً نسبياً — لأن الشركات التي توزع بانتظام عادةً أكثر نضجاً وربحية.</p>\n\n<h2 id=\"screen\">كيف تختار سهم التوزيعات المناسب</h2>\n<p><strong>المعايير الخمسة الأساسية:</strong></p>\n<ul>\n<li><strong>تاريخ التوزيعات:</strong> ابحث عن شركات وزعت أرباحاً لمدة 5 سنوات متتالية على الأقل. الانتظام أهم من الحجم</li>\n<li><strong>نسبة التوزيع (Payout Ratio):</strong> النسبة المثالية بين 40-70%. أقل يعني إمكانية زيادة التوزيعات. فوق 80% قد يكون غير مستدام</li>\n<li><strong>نمو التوزيعات:</strong> الشركات التي تزيد توزيعاتها سنوياً أفضل من التي تبقيها ثابتة</li>\n<li><strong>نسبة الدين:</strong> الشركات ذات الديون المنخفضة أقدر على الاستمرار في التوزيع خلال الأزمات</li>\n<li><strong>التدفق النقدي الحر:</strong> التوزيعات يجب أن تأتي من أرباح حقيقية وليس من القروض</li>\n</ul>\n\n<h2 id=\"yield\">فهم عائد التوزيع</h2>\n<p>عائد التوزيع = (التوزيع السنوي ÷ سعر السهم) × 100. مثلاً: سهم بسعر 100 ريال يوزع 5 ريالات سنوياً = عائد 5%.</p>\n<p><strong>تحذير:</strong> العائد المرتفع جداً (فوق 10%) قد يكون فخاً — يعني أن السعر انخفض بشدة لسبب ما أو أن التوزيع غير مستدام. ابحث عن عوائد صحية بين 3-7%.</p>\n\n<h2 id=\"reinvest\">قوة إعادة استثمار التوزيعات</h2>\n<p>إعادة استثمار التوزيعات هي أقوى أداة لبناء الثروة. المثال التالي يوضح الفرق:</p>\n<p><strong>مبلغ 100,000 ريال بعائد توزيع 5%:</strong></p>\n<ul>\n<li><strong>بدون إعادة استثمار:</strong> بعد 20 سنة = 100,000 ريال أصل + 100,000 ريال توزيعات = 200,000</li>\n<li><strong>مع إعادة استثمار:</strong> بعد 20 سنة = 265,000 ريال (الفائدة المركبة أضافت 65,000 ريال إضافية)</li>\n</ul>\n<p>مع إضافة نمو سعر السهم 5% سنوياً، المبلغ يتجاوز 700,000 ريال. هذه هي قوة الفائدة المركبة.</p>\n\n<h2 id=\"saudi\">أفضل أسهم التوزيعات في تداول</h2>\n<ul>\n<li><strong>أرامكو (2222):</strong> أكبر موزع أرباح في العالم. عائد ~6%. توزيعات ربع سنوية مستقرة</li>\n<li><strong>الراجحي (1120):</strong> أكبر بنك إسلامي. عائد ~3%. نمو مستمر في التوزيعات</li>\n<li><strong>سابك (2010):</strong> عملاق البتروكيماويات. عائد ~4%. توزيعات مرتبطة بأسعار النفط</li>\n<li><strong>STC (7010):</strong> قطاع الاتصالات المستقر. عائد ~4.5%. توزيعات منتظمة</li>\n<li><strong>الأهلي (1180):</strong> أكبر بنك سعودي. عائد ~3.5%. توزيعات نصف سنوية</li>\n</ul>\n\n<h2 id=\"portfolio\">بناء محفظة التوزيعات</h2>\n<ul>\n<li>وزّع بين 5-8 أسهم من قطاعات مختلفة (بنوك، طاقة، اتصالات، صناعة)</li>\n<li>أعد استثمار جميع التوزيعات خلال مرحلة البناء</li>\n<li>أضف مبلغاً شهرياً ثابتاً لتسريع النمو</li>\n<li>راجع المحفظة كل 6 أشهر وتخلص من الأسهم التي خفضت توزيعاتها</li>\n<li>الهدف: محفظة تغطي 50% من نفقاتك الشهرية من التوزيعات خلال 10 سنوات</li>\n</ul>",
+    "contentEn": "<h2 id=\"why\">Why Dividend Investing?</h2>\n<p>Dividend stocks combine capital growth with regular cash income. Studies show 40% of total stock market returns over 50 years came from dividends and their reinvestment.</p>\n\n<h2 id=\"screen\">How to Screen Dividend Stocks</h2>\n<p>Five criteria: 5+ year consistent distribution history, payout ratio 40-70%, growing dividends, low debt, and positive free cash flow.</p>\n\n<h2 id=\"yield\">Understanding Dividend Yield</h2>\n<p>Yield = (Annual Dividend ÷ Stock Price) × 100. Warning: very high yields (10%+) may be traps — the stock may have crashed or the dividend is unsustainable. Target healthy 3-7% yields.</p>\n\n<h2 id=\"reinvest\">The Power of Reinvestment</h2>\n<p>100,000 SAR at 5% yield: without reinvestment = 200,000 after 20 years. With reinvestment = 265,000. Add 5% annual price growth and it exceeds 700,000 SAR. That's compound interest at work.</p>\n\n<h2 id=\"saudi\">Top Saudi Dividend Stocks</h2>\n<p>Aramco (~6%), Al Rajhi (~3%), SABIC (~4%), STC (~4.5%), Al Ahli Bank (~3.5%).</p>\n\n<h2 id=\"portfolio\">Building a Dividend Portfolio</h2>\n<p>Diversify across 5-8 stocks from different sectors. Reinvest all dividends during building phase. Add monthly contributions. Review every 6 months. Goal: dividends covering 50% of monthly expenses within 10 years.</p>"
+  },
+  {
+    "id": 13,
+    "slug": "personal-budget-guide",
+    "title": "إدارة الميزانية الشخصية: خطوات عملية",
+    "titleEn": "Personal Budget Management: Practical Steps",
+    "summary": "تعلم كيف تدير ميزانيتك وتدخر بشكل منتظم.",
+    "summaryEn": "Learn how to manage your budget and save systematically.",
+    "excerpt": "الإدارة المالية الشخصية هي أساس بناء الثروة.",
+    "excerptEn": "Personal financial management is the foundation of wealth building.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "10 مارس 2026",
+    "dateEn": "March 10, 2026",
+    "dateISO": "2026-03-10",
+    "readTime": "8",
+    "views": "4,500",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article13.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#categories",
+    "toc": [
+      {
+        "id": "why",
+        "text": "لماذا الميزانية مهمة"
+      },
+      {
+        "id": "rule50",
+        "text": "قاعدة 50-30-20"
+      },
+      {
+        "id": "track",
+        "text": "تتبع الإنفاق"
+      },
+      {
+        "id": "cut",
+        "text": "تقليص المصاريف"
+      },
+      {
+        "id": "automate",
+        "text": "أتمتة الادخار"
+      },
+      {
+        "id": "tools",
+        "text": "أدوات مفيدة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "why",
+        "text": "Why Budget Matters"
+      },
+      {
+        "id": "rule50",
+        "text": "50-30-20 Rule"
+      },
+      {
+        "id": "track",
+        "text": "Track Spending"
+      },
+      {
+        "id": "cut",
+        "text": "Cut Expenses"
+      },
+      {
+        "id": "automate",
+        "text": "Automate Saving"
+      },
+      {
+        "id": "tools",
+        "text": "Useful Tools"
+      }
+    ],
+    "related": [
+      14
+    ],
+    "content": "<h2 id=\"why\">لماذا إدارة الميزانية أساس بناء الثروة</h2>\n<p>80% من أصحاب الملايين يستخدمون ميزانية شخصية. ليس لأنهم فقراء — بل لأنهم يعرفون أن التحكم بالمال يبدأ بفهم أين يذهب. بدون ميزانية، تنفق بعشوائية وتتفاجأ نهاية الشهر بعدم وجود ما يكفي للادخار.</p>\n<p>الميزانية ليست حرماناً — بل وعي. عندما تعرف أنك تنفق 3,000 ريال شهرياً على المطاعم، تستطيع أن تقرر: هل هذا يستحق؟ أم أحوّل نصفه للاستثمار؟ القرار لك، لكن بدون الأرقام لن تستطيع القرار أصلاً.</p>\n\n<h2 id=\"rule50\">قاعدة 50-30-20: البداية المثالية</h2>\n<p>أبسط وأنجح نظام للميزانية. قسّم دخلك الشهري:</p>\n<ul>\n<li><strong>50% للضروريات:</strong> الإيجار، فواتير الكهرباء والماء، البقالة، المواصلات، التأمين. هذه نفقات لا يمكن الاستغناء عنها</li>\n<li><strong>30% للكماليات:</strong> المطاعم، الترفيه، التسوق، الاشتراكات، السفر. هذه نفقات تختارها</li>\n<li><strong>20% للادخار والاستثمار:</strong> صندوق الطوارئ أولاً، ثم الاستثمار في الأسهم أو العقار</li>\n</ul>\n<p><strong>مثال عملي:</strong> راتب 15,000 ريال → 7,500 ضروريات → 4,500 كماليات → 3,000 ادخار واستثمار.</p>\n<p>إذا وجدت أن الضروريات تتجاوز 50%، هناك مشكلة تحتاج حلاً (سكن مكلف جداً؟ سيارة فوق إمكانياتك؟). إذا كانت الكماليات تتجاوز 30%، ابدأ بتقليصها.</p>\n\n<h2 id=\"track\">تتبع كل ريال: الخطوة الأولى</h2>\n<p>لمدة 30 يوماً، سجّل كل مصروف مهما كان صغيراً. ستتفاجأ بكمية \"التسريبات المالية\" — قهوة يومية بـ 20 ريال = 600 ريال شهرياً = 7,200 ريال سنوياً!</p>\n<p><strong>طريقة التتبع:</strong></p>\n<ul>\n<li>استخدم تطبيق مثل Money Manager أو Wallet أو حتى ملاحظات الجوال</li>\n<li>صنّف المصاريف: طعام، مواصلات، ترفيه، فواتير، تسوق</li>\n<li>في نهاية الشهر، راجع كل تصنيف واسأل: أين أستطيع التوفير؟</li>\n<li>ضع حداً أقصى لكل تصنيف في الشهر التالي</li>\n</ul>\n\n<h2 id=\"cut\">استراتيجيات تقليص المصاريف</h2>\n<ul>\n<li><strong>الاشتراكات:</strong> راجع كل اشتراكاتك (نتفليكس، صالة رياضية، تطبيقات). ألغِ ما لا تستخدمه فعلاً</li>\n<li><strong>الطعام:</strong> طبخ في المنزل 5 أيام والمطعم 2. التوفير: 40-60% من ميزانية الطعام</li>\n<li><strong>التسوق:</strong> انتظر 48 ساعة قبل أي شراء غير ضروري. ستكتشف أن 70% من رغبات الشراء تختفي</li>\n<li><strong>الفواتير:</strong> قارن بين مزودي الخدمات (إنترنت، جوال) واختر الأرخص</li>\n<li><strong>السيارة:</strong> هل تحتاج سيارة جديدة؟ السيارة المستعملة بعمر 2-3 سنوات توفر 30-40%</li>\n</ul>\n\n<h2 id=\"automate\">أتمتة الادخار: ما لا تراه لا تفتقده</h2>\n<p>أقوى حيلة مالية: اجعل الادخار تلقائياً. في يوم نزول الراتب، حوّل 20% تلقائياً إلى حساب ادخار منفصل. لا تنتظر نهاية الشهر — لن يتبقى شيء.</p>\n<p><strong>الخطوات:</strong></p>\n<ul>\n<li>افتح حساب ادخار منفصل (في نفس البنك أو بنك آخر)</li>\n<li>اضبط تحويلاً تلقائياً يوم نزول الراتب</li>\n<li>لا تربط هذا الحساب ببطاقة صراف — اجعل الوصول إليه صعباً</li>\n<li>عندما يصل المبلغ لـ 10,000 ريال، حوّله لحساب استثماري</li>\n</ul>\n\n<h2 id=\"tools\">أدوات وتطبيقات مفيدة</h2>\n<ul>\n<li><strong>Money Manager:</strong> تتبع المصاريف بواجهة بسيطة</li>\n<li><strong>YNAB:</strong> أفضل تطبيق ميزانية عالمياً (مدفوع)</li>\n<li><strong>Google Sheets:</strong> أنشئ جدول ميزانية مخصص مجاناً</li>\n<li><strong>تطبيق البنك:</strong> معظم البنوك السعودية توفر تحليل إنفاق مدمج</li>\n</ul>",
+    "contentEn": "<h2 id=\"why\">Why Budgeting is the Foundation of Wealth</h2>\n<p>80% of millionaires use a personal budget — not because they're poor, but because they know financial control starts with understanding where money goes.</p>\n\n<h2 id=\"rule50\">The 50-30-20 Rule</h2>\n<p>50% necessities (rent, bills, groceries), 30% wants (dining, entertainment), 20% savings and investing. Example: 15,000 SAR salary → 7,500 needs → 4,500 wants → 3,000 savings.</p>\n\n<h2 id=\"track\">Track Every Riyal</h2>\n<p>For 30 days, record every expense. Daily coffee at 20 SAR = 7,200 SAR/year! Use apps like Money Manager, categorize spending, and set monthly limits per category.</p>\n\n<h2 id=\"cut\">Cutting Expenses</h2>\n<p>Cancel unused subscriptions. Cook at home 5 days/week. Wait 48 hours before non-essential purchases (70% of buying urges disappear). Compare service providers for better rates.</p>\n\n<h2 id=\"automate\">Automate Your Saving</h2>\n<p>Set up automatic transfers on payday to a separate savings account. Don't link it to a debit card. When it reaches 10,000 SAR, move to an investment account.</p>\n\n<h2 id=\"tools\">Useful Tools</h2>\n<p>Money Manager, YNAB, Google Sheets, or your bank's built-in spending analysis.</p>"
+  },
+  {
+    "id": 14,
+    "slug": "emergency-fund-guide",
+    "title": "صندوق الطوارئ: الأساس الذي يحمي ثروتك",
+    "titleEn": "Emergency Fund: The Foundation That Protects Your Wealth",
+    "summary": "لماذا صندوق الطوارئ هو أول خطوة في بناء الثروة.",
+    "summaryEn": "Why an emergency fund is your first step toward financial security.",
+    "excerpt": "بدون صندوق طوارئ، أي أزمة تدمر خططك الاستثمارية.",
+    "excerptEn": "Without an emergency fund, any crisis can derail your investment plans.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "5 مارس 2026",
+    "dateEn": "March 5, 2026",
+    "dateISO": "2026-03-05",
+    "readTime": "7",
+    "views": "3,800",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article14.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#categories",
+    "toc": [
+      {
+        "id": "why",
+        "text": "لماذا صندوق الطوارئ"
+      },
+      {
+        "id": "size",
+        "text": "كم المبلغ المطلوب"
+      },
+      {
+        "id": "where",
+        "text": "أين تحتفظ به"
+      },
+      {
+        "id": "build",
+        "text": "كيف تبنيه"
+      },
+      {
+        "id": "when",
+        "text": "متى تستخدمه"
+      },
+      {
+        "id": "after",
+        "text": "بعد بناء الصندوق"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "why",
+        "text": "Why Emergency Fund"
+      },
+      {
+        "id": "size",
+        "text": "How Much"
+      },
+      {
+        "id": "where",
+        "text": "Where to Keep"
+      },
+      {
+        "id": "build",
+        "text": "How to Build"
+      },
+      {
+        "id": "when",
+        "text": "When to Use"
+      },
+      {
+        "id": "after",
+        "text": "After Building"
+      }
+    ],
+    "related": [
+      13
+    ],
+    "content": "<h2 id=\"why\">لماذا صندوق الطوارئ هو الأولوية رقم 1</h2>\n<p>قبل أن تستثمر ريالاً واحداً في الأسهم أو العقار، ابنِ صندوق طوارئ. لماذا؟ لأن بدون شبكة أمان مالية، أي طارئ (فقدان وظيفة، مرض، عطل سيارة) سيجبرك على بيع استثماراتك بخسارة أو الاستدانة بفوائد مرتفعة.</p>\n<p>دراسة أمريكية أظهرت أن 40% من الناس لا يستطيعون تغطية طارئ بقيمة 400 دولار. في السعودية، كثيرون يعيشون من راتب لراتب. صندوق الطوارئ يحررك من هذه الدائرة ويمنحك راحة نفسية لا تُقدر بثمن.</p>\n\n<h2 id=\"size\">كم يجب أن يكون حجم الصندوق؟</h2>\n<p><strong>المعيار الذهبي: 3-6 أشهر من نفقاتك الشهرية الأساسية.</strong></p>\n<ul>\n<li>إذا كان دخلك مستقر (موظف حكومي): 3 أشهر كافية</li>\n<li>إذا كان دخلك متغير (عمل حر أو مبيعات): 6 أشهر ضرورية</li>\n<li>إذا كنت المعيل الوحيد للعائلة: 6 أشهر كحد أدنى</li>\n</ul>\n<p><strong>حساب سريع:</strong> إذا نفقاتك الشهرية الأساسية 12,000 ريال (إيجار + فواتير + طعام + مواصلات):</p>\n<ul>\n<li>صندوق 3 أشهر = 36,000 ريال</li>\n<li>صندوق 6 أشهر = 72,000 ريال</li>\n</ul>\n<p>لا تحسب الكماليات — فقط الضروريات التي تحتاجها للبقاء.</p>\n\n<h2 id=\"where\">أين تحتفظ بصندوق الطوارئ؟</h2>\n<p><strong>الشرطان الأساسيان:</strong> سيولة عالية (تستطيع سحبه فوراً) + أمان (لا يفقد قيمته).</p>\n<ul>\n<li><strong>حساب توفير بعائد:</strong> الخيار الأمثل. بعض البنوك السعودية تقدم 4-5% عائد سنوي. سيولة فورية</li>\n<li><strong>حساب جاري منفصل:</strong> بدون عائد لكن سيولة كاملة</li>\n<li><strong>صناديق النقد:</strong> عائد بسيط مع سيولة خلال يوم واحد</li>\n</ul>\n<p><strong>أماكن خاطئة لصندوق الطوارئ:</strong></p>\n<ul>\n<li>❌ سوق الأسهم — قد ينخفض 30% وقت حاجتك للمال</li>\n<li>❌ العقار — لا يمكن بيعه بسرعة</li>\n<li>❌ العملات الرقمية — تقلبات شديدة</li>\n<li>❌ تحت الوسادة — لا عائد ويتآكل بالتضخم</li>\n</ul>\n\n<h2 id=\"build\">كيف تبنيه خلال 6-12 شهراً</h2>\n<ul>\n<li><strong>الخطوة 1:</strong> حدد المبلغ المستهدف (3 أو 6 أشهر من النفقات)</li>\n<li><strong>الخطوة 2:</strong> خصص 10-20% من كل راتب تلقائياً لحساب الطوارئ</li>\n<li><strong>الخطوة 3:</strong> أي دخل إضافي (مكافأة، هدية، بيع أغراض) يذهب للصندوق</li>\n<li><strong>الخطوة 4:</strong> تحدّ نفسك: شهر بدون مطاعم وحوّل الفرق للصندوق</li>\n</ul>\n<p><strong>مثال:</strong> راتب 15,000 ريال. تخصص 2,000 شهرياً. صندوق 36,000 ريال = 18 شهراً. مع تخصيص 3,000 = 12 شهراً.</p>\n\n<h2 id=\"when\">متى تستخدم صندوق الطوارئ؟</h2>\n<p><strong>طوارئ حقيقية فقط:</strong></p>\n<ul>\n<li>✅ فقدان الوظيفة أو انخفاض الدخل المفاجئ</li>\n<li>✅ نفقات طبية طارئة</li>\n<li>✅ إصلاح سيارة ضروري للعمل</li>\n<li>✅ إصلاح منزلي عاجل (تسريب مياه مثلاً)</li>\n</ul>\n<p><strong>ليست طوارئ:</strong></p>\n<ul>\n<li>❌ عرض تخفيضات على تلفزيون جديد</li>\n<li>❌ سفر مع الأصدقاء</li>\n<li>❌ آخر موديل آيفون</li>\n</ul>\n\n<h2 id=\"after\">بعد بناء صندوق الطوارئ</h2>\n<p>بمجرد اكتمال الصندوق، حوّل مبلغ الادخار الشهري إلى الاستثمار. الآن يمكنك الاستثمار براحة بال لأن لديك شبكة أمان. ابدأ بالأسهم أو صناديق المؤشرات — وابنِ ثروتك بثقة.</p>",
+    "contentEn": "<h2 id=\"why\">Why Emergency Fund is Priority #1</h2>\n<p>Before investing a single riyal, build an emergency fund. Without a financial safety net, any emergency forces you to sell investments at a loss or take high-interest debt.</p>\n\n<h2 id=\"size\">How Much Do You Need?</h2>\n<p>Golden standard: 3-6 months of basic expenses. Stable income (government job): 3 months. Variable income (freelance): 6 months. Sole breadwinner: 6 months minimum.</p>\n\n<h2 id=\"where\">Where to Keep It</h2>\n<p>Savings account with returns (4-5% in Saudi banks) or separate checking account. Never in stocks, real estate, crypto, or under the mattress.</p>\n\n<h2 id=\"build\">How to Build It in 6-12 Months</h2>\n<p>Set target amount. Auto-transfer 10-20% of each salary. Direct any bonus or extra income to the fund. Challenge yourself: one month without restaurants.</p>\n\n<h2 id=\"when\">When to Use It</h2>\n<p>Real emergencies only: job loss, medical emergencies, essential car/home repairs. NOT for sales, vacations, or new gadgets.</p>\n\n<h2 id=\"after\">After Building the Fund</h2>\n<p>Redirect the monthly savings to investments. Now you can invest with peace of mind knowing you have a safety net.</p>"
+  },
+  {
+    "id": 15,
+    "slug": "ai-investment-revolution",
+    "title": "الذكاء الاصطناعي يغير قواعد الاستثمار",
+    "titleEn": "AI Is Changing the Rules of Investing",
+    "summary": "كيف يغير الذكاء الاصطناعي صناعة الاستثمار وما يعني ذلك لك.",
+    "summaryEn": "How AI is transforming the investment industry and what it means for you.",
+    "excerpt": "من المستشارين الآليين إلى التحليل التنبؤي — الذكاء يحول عالم المال.",
+    "excerptEn": "From robo-advisors to predictive analysis — AI is revolutionizing finance.",
+    "category": "تقنية وثروة",
+    "categoryEn": "Tech & Wealth",
+    "categoryIcon": "🤖",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "28 فبراير 2026",
+    "dateEn": "February 28, 2026",
+    "dateISO": "2026-02-28",
+    "readTime": "10",
+    "views": "5,900",
+    "emoji": "🤖",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article15.jpg",
+    "featured": false,
+    "breadcrumb": "تقنية وثروة",
+    "breadcrumbEn": "Tech & Wealth",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "revolution",
+        "text": "ثورة الذكاء الاصطناعي"
+      },
+      {
+        "id": "robo",
+        "text": "المستشارون الآليون"
+      },
+      {
+        "id": "analysis",
+        "text": "التحليل التنبؤي"
+      },
+      {
+        "id": "tools",
+        "text": "أدوات متاحة اليوم"
+      },
+      {
+        "id": "risks",
+        "text": "المخاطر والتحديات"
+      },
+      {
+        "id": "future",
+        "text": "مستقبل الاستثمار"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "revolution",
+        "text": "AI Revolution"
+      },
+      {
+        "id": "robo",
+        "text": "Robo-Advisors"
+      },
+      {
+        "id": "analysis",
+        "text": "Predictive Analysis"
+      },
+      {
+        "id": "tools",
+        "text": "Available Tools"
+      },
+      {
+        "id": "risks",
+        "text": "Risks"
+      },
+      {
+        "id": "future",
+        "text": "Future of Investing"
+      }
+    ],
+    "related": [
+      16
+    ],
+    "content": "<h2 id=\"revolution\">ثورة الذكاء الاصطناعي في عالم المال</h2>\n<p>الذكاء الاصطناعي لم يعد مجرد تقنية مستقبلية — بل أصبح يدير تريليونات الدولارات في الأسواق المالية اليوم. أكثر من 60% من عمليات التداول في الأسواق الأمريكية تنفذها خوارزميات ذكية. صناديق التحوط الكمية التي تعتمد على الذكاء الاصطناعي تفوقت على 75% من المديرين البشريين في السنوات الخمس الأخيرة.</p>\n<p>بالنسبة للمستثمر العادي، هذا يعني فرصاً جديدة وتحديات جديدة. من يفهم كيف يستخدم أدوات الذكاء الاصطناعي سيتفوق على من لا يستخدمها. ومن يتجاهلها سيجد نفسه يتداول ضد خوارزميات أسرع وأذكى منه.</p>\n\n<h2 id=\"robo\">المستشارون الآليون (Robo-Advisors)</h2>\n<p>المستشارون الآليون هم منصات تستخدم خوارزميات الذكاء الاصطناعي لبناء وإدارة محفظتك الاستثمارية تلقائياً. تحدد أهدافك ومستوى المخاطرة، والخوارزمية تبني المحفظة المثالية وتعيد توازنها دورياً.</p>\n<p><strong>منصات متاحة في السعودية:</strong></p>\n<ul>\n<li><strong>ثمار (Thamar):</strong> منصة سعودية مرخصة تقدم محافظ متوازنة بحد أدنى 1,000 ريال</li>\n<li><strong>الاستثمار عبر البنوك:</strong> بنوك مثل الراجحي والأهلي توفر خدمات إدارة محافظ آلية</li>\n</ul>\n<p><strong>المزايا:</strong> تكلفة أقل 70% من المستشار البشري، عمل على مدار الساعة، قرارات خالية من العواطف، تنويع تلقائي.</p>\n<p><strong>العيوب:</strong> لا تفهم الظروف الشخصية المعقدة، وقد تفشل في الأسواق غير المعتادة.</p>\n\n<h2 id=\"analysis\">التحليل التنبؤي بالذكاء الاصطناعي</h2>\n<p>نماذج الذكاء الاصطناعي تحلل ملايين نقاط البيانات في ثوانٍ لتحديد اتجاه السوق:</p>\n<ul>\n<li><strong>تحليل المشاعر (Sentiment Analysis):</strong> يقرأ ملايين التغريدات والأخبار لقياس معنويات السوق. ارتفاع المشاعر السلبية = فرصة شراء محتملة</li>\n<li><strong>التعرف على الأنماط:</strong> يكتشف أنماطاً في الرسوم البيانية لا يراها المحلل البشري</li>\n<li><strong>التنبؤ بالأرباح:</strong> يتوقع نتائج الشركات المالية بدقة أعلى من المحللين</li>\n<li><strong>تحليل البيانات البديلة:</strong> يحلل صور الأقمار الصناعية لمواقف السيارات لتوقع مبيعات التجزئة</li>\n</ul>\n<p>هذه التقنيات كانت حكراً على صناديق التحوط الكبرى، لكنها تصبح متاحة تدريجياً للمستثمر العادي عبر منصات وتطبيقات.</p>\n\n<h2 id=\"tools\">أدوات ذكاء اصطناعي متاحة للمستثمر اليوم</h2>\n<ul>\n<li><strong>ChatGPT وClaude:</strong> اسأل عن تحليل شركة أو مقارنة بين أسهم. مفيد للبحث الأولي</li>\n<li><strong>TradingView:</strong> مؤشرات فنية ذكية وتنبيهات آلية</li>\n<li><strong>Finviz:</strong> فرز الأسهم حسب معايير مالية متعددة</li>\n<li><strong>Portfolio Visualizer:</strong> اختبار استراتيجيات الاستثمار على بيانات تاريخية</li>\n</ul>\n<p><strong>تحذير مهم:</strong> الذكاء الاصطناعي أداة مساعدة وليس بديلاً عن حكمتك. لا تتخذ قرارات استثمارية بناءً على توصية AI فقط — استخدمه كمصدر معلومات إضافي.</p>\n\n<h2 id=\"risks\">المخاطر والتحديات</h2>\n<ul>\n<li><strong>التداول الخوارزمي المفرط:</strong> الخوارزميات قد تسبب انهيارات سريعة (Flash Crashes) عندما تتفاعل مع بعضها</li>\n<li><strong>الاعتماد المفرط:</strong> الثقة العمياء بالخوارزميات خطيرة — كل نموذج له حدود</li>\n<li><strong>التحيز في البيانات:</strong> إذا تدرب النموذج على بيانات منحازة، ستكون توقعاته منحازة</li>\n<li><strong>فقدان الميزة:</strong> عندما يستخدم الجميع نفس الأدوات، تختفي الميزة التنافسية</li>\n</ul>\n\n<h2 id=\"future\">مستقبل الاستثمار: الإنسان + الآلة</h2>\n<p>المستثمر الذكي في 2026 وما بعدها هو من يدمج الحكمة البشرية مع كفاءة الذكاء الاصطناعي. الآلة تتفوق في معالجة البيانات واكتشاف الأنماط. الإنسان يتفوق في فهم السياق والحكم على الأمور الاستثنائية.</p>\n<p><strong>وصفة النجاح:</strong> استخدم الذكاء الاصطناعي للبحث والتحليل، لكن اتخذ القرار النهائي بعقلك. تعلّم الأساسيات أولاً، ثم استخدم التقنية لتعزيز قدراتك.</p>",
+    "contentEn": "<h2 id=\"revolution\">The AI Revolution in Finance</h2>\n<p>AI now manages trillions in financial markets. Over 60% of US market trades are executed by algorithms. Quantitative hedge funds using AI have outperformed 75% of human managers over the past five years.</p>\n\n<h2 id=\"robo\">Robo-Advisors</h2>\n<p>Platforms using AI algorithms to build and manage your portfolio automatically. Available in Saudi Arabia through licensed platforms. 70% cheaper than human advisors, emotion-free decisions, automatic diversification.</p>\n\n<h2 id=\"analysis\">Predictive Analysis</h2>\n<p>AI models analyze millions of data points: sentiment analysis of social media, chart pattern recognition, earnings prediction, and satellite imagery analysis for retail forecasting.</p>\n\n<h2 id=\"tools\">Available AI Tools for Investors</h2>\n<p>ChatGPT/Claude for research, TradingView for smart indicators, Finviz for stock screening, Portfolio Visualizer for backtesting strategies. Warning: AI is a tool, not a replacement for your judgment.</p>\n\n<h2 id=\"risks\">Risks and Challenges</h2>\n<p>Algorithmic flash crashes, over-reliance on models, data bias, and disappearing competitive advantage when everyone uses the same tools.</p>\n\n<h2 id=\"future\">The Future: Human + Machine</h2>\n<p>The smart investor combines human wisdom with AI efficiency. Use AI for research and analysis, but make final decisions with your own judgment. Learn fundamentals first, then use technology to enhance your capabilities.</p>"
+  },
+  {
+    "id": 16,
+    "slug": "gulf-tech-companies-invest",
+    "title": "شركات التقنية الخليجية: استثمار في المستقبل",
+    "titleEn": "Gulf Tech Companies: Investing in the Future",
+    "summary": "أبرز شركات التقنية الخليجية وفرص الاستثمار فيها.",
+    "summaryEn": "The leading Gulf tech companies and investment opportunities within them.",
+    "excerpt": "الخليج يتحول من مستهلك للتقنية إلى منتج لها.",
+    "excerptEn": "The Gulf is transitioning from a tech consumer to a tech producer.",
+    "category": "تقنية وثروة",
+    "categoryEn": "Tech & Wealth",
+    "categoryIcon": "🤖",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "20 فبراير 2026",
+    "dateEn": "February 20, 2026",
+    "dateISO": "2026-02-20",
+    "readTime": "12",
+    "views": "4,700",
+    "emoji": "🤖",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article16.jpg",
+    "featured": false,
+    "breadcrumb": "تقنية وثروة",
+    "breadcrumbEn": "Tech & Wealth",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "vision",
+        "text": "رؤية 2030 والتقنية"
+      },
+      {
+        "id": "companies",
+        "text": "شركات تقنية بارزة"
+      },
+      {
+        "id": "sectors",
+        "text": "القطاعات الواعدة"
+      },
+      {
+        "id": "fintech",
+        "text": "التقنية المالية"
+      },
+      {
+        "id": "how",
+        "text": "كيف تستثمر"
+      },
+      {
+        "id": "risks",
+        "text": "المخاطر والفرص"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "vision",
+        "text": "Vision 2030 & Tech"
+      },
+      {
+        "id": "companies",
+        "text": "Leading Companies"
+      },
+      {
+        "id": "sectors",
+        "text": "Promising Sectors"
+      },
+      {
+        "id": "fintech",
+        "text": "Fintech"
+      },
+      {
+        "id": "how",
+        "text": "How to Invest"
+      },
+      {
+        "id": "risks",
+        "text": "Risks & Opportunities"
+      }
+    ],
+    "related": [
+      15
+    ],
+    "content": "<h2 id=\"vision\">رؤية 2030 والتحول التقني في الخليج</h2>\n<p>رؤية 2030 وضعت التقنية في قلب التحول الاقتصادي السعودي. الحكومة تستهدف أن يساهم قطاع التقنية بأكثر من 100 مليار ريال في الناتج المحلي بحلول 2030. الاستثمارات الحكومية في البنية التحتية الرقمية تجاوزت 50 مليار ريال، من مراكز البيانات إلى شبكات الجيل الخامس.</p>\n<p>هذا التحول يخلق فرصاً استثمارية هائلة. الشركات التقنية الخليجية تنمو بمعدلات 20-40% سنوياً — أسرع بكثير من القطاعات التقليدية. المستثمر الذي يدخل مبكراً في هذا القطاع يضع نفسه في موقع ممتاز للاستفادة من هذا النمو.</p>\n\n<h2 id=\"companies\">شركات تقنية بارزة في تداول</h2>\n<ul>\n<li><strong>STC (7010):</strong> أكبر شركة اتصالات في الشرق الأوسط. تتوسع في الحوسبة السحابية والأمن السيبراني والتقنية المالية. قيمتها السوقية تجاوزت 200 مليار ريال</li>\n<li><strong>علم (7203):</strong> شركة حلول رقمية حكومية. تدير منصات مثل أبشر ونافذ. نمو إيرادات يتجاوز 15% سنوياً</li>\n<li><strong>حلول (7204):</strong> شركة تقنية معلومات تخدم القطاعين الحكومي والخاص</li>\n<li><strong>عِلم الرقمية:</strong> تحول رقمي للخدمات الحكومية مع نمو مستمر</li>\n</ul>\n<p>هذه الشركات تتداول في سوق تداول ويمكن شراؤها مباشرة عبر أي حساب استثماري.</p>\n\n<h2 id=\"sectors\">القطاعات التقنية الواعدة</h2>\n<p><strong>1. الحوسبة السحابية:</strong> السعودية تستهدف أن تصبح مركزاً إقليمياً للبيانات. أمازون ومايكروسوفت وجوجل أنشأت مراكز بيانات في المملكة. الشركات المحلية التي تقدم خدمات سحابية ستستفيد.</p>\n<p><strong>2. الأمن السيبراني:</strong> مع التحول الرقمي، يزداد الطلب على حماية البيانات. السوق السعودي للأمن السيبراني ينمو 25% سنوياً.</p>\n<p><strong>3. الألعاب والترفيه الرقمي:</strong> السعودية أصبحت ثالث أكبر سوق ألعاب في الشرق الأوسط. مشروع سافي (Savvy Games) يستثمر مليارات في صناعة الألعاب.</p>\n<p><strong>4. التقنية الصحية:</strong> تطبيقات الصحة الرقمية والطب عن بُعد تنمو بسرعة. جائحة كورونا سرّعت تبني هذه الحلول بسنوات.</p>\n\n<h2 id=\"fintech\">التقنية المالية (Fintech)</h2>\n<p>قطاع التقنية المالية في السعودية يشهد طفرة غير مسبوقة. البنك المركزي السعودي (ساما) أصدر أكثر من 80 ترخيصاً لشركات فنتك. القطاع يشمل:</p>\n<ul>\n<li><strong>المدفوعات الرقمية:</strong> STC Pay وUrPay وSTCPay أصبحت جزءاً من الحياة اليومية</li>\n<li><strong>الإقراض الرقمي:</strong> منصات مثل تمارا وتابي للتقسيط بدون فوائد</li>\n<li><strong>إدارة الثروات:</strong> تطبيقات استثمار آلية تجعل الاستثمار متاحاً للجميع</li>\n<li><strong>التأمين الرقمي:</strong> منصات تبسّط شراء وإدارة التأمين</li>\n</ul>\n\n<h2 id=\"how\">كيف تستثمر في التقنية الخليجية</h2>\n<ul>\n<li><strong>شراء مباشر:</strong> اشترِ أسهم الشركات التقنية المدرجة في تداول عبر حسابك الاستثماري</li>\n<li><strong>صناديق المؤشرات:</strong> بعض صناديق ETF تتيح التعرض لسلة من الشركات التقنية</li>\n<li><strong>صناديق رأس المال الجريء:</strong> للمستثمرين المؤهلين — استثمر في شركات ناشئة قبل إدراجها</li>\n<li><strong>الاكتتابات العامة:</strong> تابع الاكتتابات الجديدة لشركات التقنية في تداول</li>\n</ul>\n<p><strong>نصيحة:</strong> التقنية قطاع عالي النمو لكن عالي التقلب أيضاً. لا تخصص أكثر من 20% من محفظتك لأسهم التقنية. نوّع بين الشركات الكبيرة المستقرة (STC) والناشئة ذات النمو العالي.</p>\n\n<h2 id=\"risks\">المخاطر والفرص المستقبلية</h2>\n<p><strong>المخاطر:</strong> تقييمات مرتفعة لبعض الشركات، تغير سريع في التقنيات، منافسة شديدة من شركات عالمية، واعتماد على الإنفاق الحكومي.</p>\n<p><strong>الفرص:</strong> سوق ناشئ بإمكانات نمو هائلة، دعم حكومي قوي، شريحة سكانية شابة ومتعلمة تقنياً (60% تحت 35 سنة)، وبنية تحتية رقمية متطورة.</p>\n<p>الخليج يتحول من مستهلك للتقنية إلى منتج لها. المستثمر الذي يفهم هذا التحول ويستثمر فيه مبكراً سيحصد ثماره لسنوات طويلة.</p>",
+    "contentEn": "<h2 id=\"vision\">Vision 2030 and Gulf Tech Transformation</h2>\n<p>Vision 2030 places technology at the heart of Saudi economic transformation, targeting over 100 billion SAR in tech GDP contribution by 2030. Government digital infrastructure investments exceed 50 billion SAR. Gulf tech companies grow 20-40% annually.</p>\n\n<h2 id=\"companies\">Leading Tech Companies on Tadawul</h2>\n<p>STC (largest Middle East telecom, 200B+ SAR market cap), Elm (digital government solutions, 15%+ revenue growth), and Solutions (IT services for government and private sectors).</p>\n\n<h2 id=\"sectors\">Promising Tech Sectors</h2>\n<p>Cloud computing (Saudi as regional data hub), cybersecurity (25% annual growth), gaming (Savvy Games investing billions), and health tech (accelerated by COVID).</p>\n\n<h2 id=\"fintech\">Fintech</h2>\n<p>SAMA issued 80+ fintech licenses. Digital payments (STC Pay), buy-now-pay-later (Tamara, Tabby), automated wealth management, and digital insurance are booming.</p>\n\n<h2 id=\"how\">How to Invest in Gulf Tech</h2>\n<p>Direct stock purchase on Tadawul, tech-focused ETFs, venture capital funds (accredited investors), or follow new tech IPOs. Don't allocate more than 20% to tech stocks.</p>\n\n<h2 id=\"risks\">Risks and Future Opportunities</h2>\n<p>Risks: high valuations, rapid tech changes, global competition. Opportunities: emerging market with huge potential, strong government support, young tech-savvy population (60% under 35), and advanced digital infrastructure.</p>"
+  }
+];
+
+function getArticleById(id) {
+  return ARTICLES.find(a => a.id === parseInt(id));
+}
+
+function getRelatedArticles(ids) {
+  if (!ids) return [];
+  return ids.map(id => ARTICLES.find(a => a.id === id)).filter(Boolean);
+}

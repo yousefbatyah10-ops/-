@@ -95,82 +95,540 @@
 </div>
 <!-- TradingView Widget END -->
 
-<!-- Hero Section -->
-<section class="hero" id="hero" aria-labelledby="hero-title">
-  <div class="hero-bg" aria-hidden="true"></div>
-  <svg class="hero-chart" aria-hidden="true"></svg>
+<!-- Hero Section — The Wealth Universe -->
+<section class="hero-universe" id="hero" aria-labelledby="hero-title">
+  <canvas id="universeCanvas" aria-hidden="true"></canvas>
+  <div class="hero-grid-overlay" aria-hidden="true"></div>
+  <div class="hero-radial-glow" aria-hidden="true"></div>
 
-  <div class="hero-content">
-    <div class="hero-text">
-      <div class="hero-badge">
-        <span class="dot" aria-hidden="true"></span>
+  <div class="hero-universe-content">
+    <div class="hero-text-block">
+      <div class="hero-badge-lux">
+        <span class="badge-pulse"></span>
         <span data-i18n="hero.badge">منصة النخبة المالية العربية</span>
       </div>
-      <h1 class="hero-title" id="hero-title">
-        <span data-i18n="hero.title.line1">استثمر بذكاء،</span>
-        <br>
-        <span class="accent" data-i18n="hero.title.accent">ابنِ ثروتك</span>
-        <br>
-        <span data-i18n="hero.title.line2">بثقة</span>
+      <h1 class="hero-mega-title" id="hero-title">
+        <span class="title-line title-line-1" data-i18n="hero.title.line1">استثمر بذكاء،</span>
+        <span class="title-line title-line-accent" data-i18n="hero.title.accent">ابنِ ثروتك</span>
+        <span class="title-line title-line-3" data-i18n="hero.title.line2">بثقة</span>
       </h1>
-      <p class="hero-desc" data-i18n="hero.desc">
+      <p class="hero-tagline" data-i18n="hero.desc">
         تحليلات مالية عمقية، استراتيجيات استثمار مجرّبة، ورؤى نخبة من الخبراء — كل ما يحتاجه المستثمر العربي الطموح في مكان واحد.
       </p>
-      <div class="hero-actions">
-        <a href="#articles" class="btn-primary" id="hero-explore-btn">
+      <div class="hero-actions-lux">
+        <a href="#articles" class="btn-primary btn-glow" id="hero-explore-btn">
           <span data-i18n="hero.btn.articles">استكشف المقالات</span>
-          <span aria-hidden="true">←</span>
+          <span class="btn-arrow" aria-hidden="true">←</span>
         </a>
-        <a href="#newsletter" class="btn-secondary" id="hero-subscribe-btn">
+        <a href="#newsletter" class="btn-secondary btn-glass" id="hero-subscribe-btn">
           <span data-i18n="hero.btn.newsletter">اشترك مجاناً</span>
-          <span aria-hidden="true">❆</span>
+          <span aria-hidden="true">✦</span>
         </a>
-      </div>
-      <div class="hero-stats" role="list" aria-label="إحصائيات الملتقى">
-        <div class="stat-item" role="listitem">
-          <span class="stat-num" data-target="12" data-suffix="K+">12K+</span>
-          <span class="stat-label" data-i18n="hero.stat.readers">مستثمر نشط</span>
-        </div>
-        <div class="stat-item" role="listitem">
-          <span class="stat-num" data-target="40" data-suffix="+">40+</span>
-          <span class="stat-label" data-i18n="hero.stat.articles">مقالة متخصصة</span>
-        </div>
-        <div class="stat-item" role="listitem">
-          <span class="stat-num" data-target="4.9" data-suffix="★">4.9★</span>
-          <span class="stat-label" data-i18n="hero.stat.years">تقييم القراء</span>
-        </div>
       </div>
     </div>
 
-    <!-- البطاقة العائمة -->
-    <div class="hero-visual" aria-hidden="true">
-      <div class="hero-card-float">
-        <div class="card-header-mini">
-          <div class="card-avatar">📈</div>
-          <div>
-            <div class="card-title-mini" data-i18n="hero.card.title">محفظتي هذا الشهر</div>
-            <div class="card-sub-mini" data-i18n="hero.card.sub">أداء نمو الاستثمارات</div>
-          </div>
+    <!-- Floating Data Cards -->
+    <div class="hero-floating-cards" aria-hidden="true">
+      <div class="float-card fc-1">
+        <div class="fc-icon">📈</div>
+        <div class="fc-data">
+          <span class="fc-val up">+18.4%</span>
+          <span class="fc-label" data-i18n="hero.card.growth">الأسهم</span>
         </div>
-        <svg class="mini-chart"></svg>
-        <div class="mini-stats">
-          <div class="mini-stat">
-            <span class="mini-stat-val up">+18.4%</span>
-            <span class="mini-stat-label" data-i18n="hero.card.growth">الأسهم</span>
-          </div>
-          <div class="mini-stat">
-            <span class="mini-stat-val up">+7.2%</span>
-            <span class="mini-stat-label" data-i18n="hero.card.return">العقارات</span>
-          </div>
-          <div class="mini-stat">
-            <span class="mini-stat-val up">+12.1%</span>
-            <span class="mini-stat-label" data-i18n="hero.card.risk">الذهب</span>
-          </div>
+      </div>
+      <div class="float-card fc-2">
+        <div class="fc-icon">🏠</div>
+        <div class="fc-data">
+          <span class="fc-val up">+7.2%</span>
+          <span class="fc-label" data-i18n="hero.card.return">العقارات</span>
+        </div>
+      </div>
+      <div class="float-card fc-3">
+        <div class="fc-icon">🥇</div>
+        <div class="fc-data">
+          <span class="fc-val up">+12.1%</span>
+          <span class="fc-label" data-i18n="hero.card.risk">الذهب</span>
+        </div>
+      </div>
+      <div class="float-card fc-4">
+        <div class="fc-icon">₿</div>
+        <div class="fc-data">
+          <span class="fc-val up">+24.6%</span>
+          <span class="fc-label">بتكوين</span>
         </div>
       </div>
     </div>
   </div>
+
+  <!-- Stats Bar -->
+  <div class="hero-stats-bar" role="list" aria-label="إحصائيات الملتقى">
+    <div class="stat-item-lux" role="listitem">
+      <span class="stat-num-lux" data-target="12" data-suffix="K+">12K+</span>
+      <span class="stat-label-lux" data-i18n="hero.stat.readers">مستثمر نشط</span>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item-lux" role="listitem">
+      <span class="stat-num-lux" data-target="40" data-suffix="+">40+</span>
+      <span class="stat-label-lux" data-i18n="hero.stat.articles">مقالة متخصصة</span>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item-lux" role="listitem">
+      <span class="stat-num-lux" data-target="4.9" data-suffix="★">4.9★</span>
+      <span class="stat-label-lux" data-i18n="hero.stat.years">تقييم القراء</span>
+    </div>
+  </div>
 </section>
+
+<style>
+/* ===== THE WEALTH UNIVERSE — HERO ===== */
+.hero-universe {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  background: radial-gradient(ellipse at 50% 40%, #0d1b2e 0%, #060d18 50%, #020408 100%);
+}
+
+#universeCanvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.hero-grid-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  background-image:
+    linear-gradient(rgba(212,175,55,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(212,175,55,0.03) 1px, transparent 1px);
+  background-size: 60px 60px;
+  mask-image: radial-gradient(ellipse at 50% 50%, black 30%, transparent 70%);
+  -webkit-mask-image: radial-gradient(ellipse at 50% 50%, black 30%, transparent 70%);
+}
+
+.hero-radial-glow {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: radial-gradient(circle, rgba(212,175,55,0.08) 0%, transparent 60%);
+  z-index: 2;
+  animation: pulseGlow 4s ease-in-out infinite;
+}
+
+@keyframes pulseGlow {
+  0%, 100% { opacity: 0.6; transform: translate(-50%, -50%) scale(1); }
+  50% { opacity: 1; transform: translate(-50%, -50%) scale(1.15); }
+}
+
+/* Content */
+.hero-universe-content {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 120px 2rem 40px;
+  gap: 3rem;
+}
+
+/* Text Block */
+.hero-text-block {
+  flex: 1;
+  max-width: 680px;
+}
+
+.hero-badge-lux {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: rgba(212,175,55,0.08);
+  border: 1px solid rgba(212,175,55,0.2);
+  border-radius: 100px;
+  padding: 8px 22px;
+  font-size: 0.85rem;
+  color: #d4af37;
+  margin-bottom: 1.5rem;
+  backdrop-filter: blur(10px);
+  animation: fadeInUp 0.8s ease both;
+}
+
+.badge-pulse {
+  width: 8px;
+  height: 8px;
+  background: #d4af37;
+  border-radius: 50%;
+  animation: pulseDot 2s ease-in-out infinite;
+}
+
+@keyframes pulseDot {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(212,175,55,0.5); }
+  50% { box-shadow: 0 0 0 8px rgba(212,175,55,0); }
+}
+
+.hero-mega-title {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15em;
+  margin-bottom: 1.5rem;
+}
+
+.title-line {
+  display: block;
+  font-size: clamp(2.2rem, 5vw, 4rem);
+  font-weight: 900;
+  line-height: 1.2;
+  color: #f0ece2;
+  letter-spacing: -0.02em;
+  opacity: 0;
+  animation: titleReveal 0.8s ease forwards;
+}
+
+.title-line-1 { animation-delay: 0.2s; }
+.title-line-accent {
+  animation-delay: 0.5s;
+  background: linear-gradient(135deg, #d4af37, #f5d680, #d4af37);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-size: clamp(2.8rem, 6vw, 5rem);
+}
+.title-line-3 { animation-delay: 0.8s; }
+
+@keyframes titleReveal {
+  from { opacity: 0; transform: translateY(30px) rotateX(-10deg); }
+  to { opacity: 1; transform: translateY(0) rotateX(0); }
+}
+
+.hero-tagline {
+  font-size: 1.1rem;
+  color: rgba(240,236,226,0.65);
+  line-height: 1.8;
+  margin-bottom: 2rem;
+  max-width: 550px;
+  opacity: 0;
+  animation: fadeInUp 0.8s 1s ease forwards;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Buttons */
+.hero-actions-lux {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  opacity: 0;
+  animation: fadeInUp 0.8s 1.2s ease forwards;
+}
+
+.btn-glow {
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 30px rgba(212,175,55,0.2);
+  transition: all 0.3s ease;
+}
+.btn-glow:hover {
+  box-shadow: 0 0 50px rgba(212,175,55,0.4);
+  transform: translateY(-2px);
+}
+.btn-glow::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -60%;
+  width: 40%;
+  height: 200%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.15), transparent);
+  transform: skewX(-20deg);
+  animation: shimmer 3s infinite;
+}
+@keyframes shimmer {
+  0% { left: -60%; }
+  100% { left: 120%; }
+}
+
+.btn-glass {
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(212,175,55,0.2);
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+}
+.btn-glass:hover {
+  background: rgba(212,175,55,0.1);
+  border-color: rgba(212,175,55,0.4);
+  transform: translateY(-2px);
+}
+
+.btn-arrow {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+.btn-glow:hover .btn-arrow {
+  transform: translateX(-5px);
+}
+
+/* Floating Cards */
+.hero-floating-cards {
+  position: relative;
+  flex: 0 0 320px;
+  height: 400px;
+  perspective: 1000px;
+}
+
+.float-card {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: rgba(10,22,40,0.7);
+  border: 1px solid rgba(212,175,55,0.15);
+  border-radius: 16px;
+  padding: 16px 20px;
+  backdrop-filter: blur(20px);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+  animation: floatCard 6s ease-in-out infinite;
+  opacity: 0;
+  animation: cardAppear 0.8s ease forwards, floatCard 6s ease-in-out infinite;
+}
+
+.fc-1 { top: 10%; right: 0; animation-delay: 0.4s, 0s; }
+.fc-2 { top: 35%; left: 0; animation-delay: 0.7s, 1.5s; }
+.fc-3 { top: 60%; right: 10%; animation-delay: 1s, 3s; }
+.fc-4 { top: 80%; left: 15%; animation-delay: 1.3s, 4.5s; }
+
+@keyframes cardAppear {
+  from { opacity: 0; transform: translateY(30px) scale(0.9); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+@keyframes floatCard {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-12px); }
+}
+
+.fc-icon {
+  font-size: 1.8rem;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(212,175,55,0.1);
+  border-radius: 12px;
+}
+
+.fc-data { display: flex; flex-direction: column; }
+.fc-val { font-size: 1.2rem; font-weight: 800; }
+.fc-val.up { color: #00dc82; }
+.fc-label { font-size: 0.8rem; color: rgba(240,236,226,0.5); }
+
+/* Stats Bar */
+.hero-stats-bar {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  padding: 1.5rem 2rem;
+  max-width: 700px;
+  margin: 0 auto 2rem;
+  background: rgba(10,22,40,0.5);
+  border: 1px solid rgba(212,175,55,0.1);
+  border-radius: 20px;
+  backdrop-filter: blur(20px);
+  opacity: 0;
+  animation: fadeInUp 0.8s 1.5s ease forwards;
+}
+
+.stat-item-lux { text-align: center; }
+.stat-num-lux {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #d4af37;
+}
+.stat-label-lux {
+  font-size: 0.8rem;
+  color: rgba(240,236,226,0.5);
+  margin-top: 2px;
+}
+
+.stat-divider {
+  width: 1px;
+  height: 40px;
+  background: linear-gradient(to bottom, transparent, rgba(212,175,55,0.3), transparent);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .hero-universe-content {
+    flex-direction: column;
+    text-align: center;
+    padding-top: 100px;
+  }
+  .hero-text-block { max-width: 100%; }
+  .hero-tagline { margin-left: auto; margin-right: auto; }
+  .hero-actions-lux { justify-content: center; }
+  .hero-floating-cards { display: none; }
+  .hero-stats-bar { gap: 1.5rem; margin: 0 1rem 2rem; }
+}
+</style>
+
+<script>
+// ===== Wealth Universe Canvas Animation =====
+(function() {
+  const canvas = document.getElementById('universeCanvas');
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+  let w, h, particles = [], mouse = { x: 0.5, y: 0.5 };
+  const GOLD = '#d4af37';
+
+  function resize() {
+    w = canvas.width = canvas.offsetWidth;
+    h = canvas.height = canvas.offsetHeight;
+  }
+  window.addEventListener('resize', resize);
+  resize();
+
+  // Particles
+  class Particle {
+    constructor() { this.reset(); }
+    reset() {
+      this.x = Math.random() * w;
+      this.y = Math.random() * h;
+      this.size = Math.random() * 2 + 0.5;
+      this.speedX = (Math.random() - 0.5) * 0.3;
+      this.speedY = (Math.random() - 0.5) * 0.3;
+      this.opacity = Math.random() * 0.5 + 0.1;
+      this.gold = Math.random() > 0.6;
+    }
+    update() {
+      // Gravitational pull toward center
+      const cx = w * 0.5 + (mouse.x - 0.5) * 100;
+      const cy = h * 0.5 + (mouse.y - 0.5) * 100;
+      const dx = cx - this.x;
+      const dy = cy - this.y;
+      const dist = Math.sqrt(dx * dx + dy * dy);
+      const force = Math.min(0.02, 50 / (dist * dist + 1));
+      this.speedX += dx * force * 0.001;
+      this.speedY += dy * force * 0.001;
+      this.speedX *= 0.99;
+      this.speedY *= 0.99;
+      this.x += this.speedX;
+      this.y += this.speedY;
+      if (this.x < 0 || this.x > w || this.y < 0 || this.y > h) this.reset();
+    }
+    draw() {
+      ctx.beginPath();
+      ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+      ctx.fillStyle = this.gold
+        ? `rgba(212,175,55,${this.opacity})`
+        : `rgba(200,210,230,${this.opacity * 0.5})`;
+      ctx.fill();
+      if (this.gold && this.size > 1.2) {
+        ctx.beginPath();
+        ctx.arc(this.x, this.y, this.size * 3, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(212,175,55,${this.opacity * 0.1})`;
+        ctx.fill();
+      }
+    }
+  }
+
+  const count = Math.min(200, Math.floor(w * h / 5000));
+  for (let i = 0; i < count; i++) particles.push(new Particle());
+
+  // Streams (flowing lines toward center)
+  let streams = [];
+  class Stream {
+    constructor() { this.reset(); }
+    reset() {
+      const angle = Math.random() * Math.PI * 2;
+      const radius = Math.max(w, h) * 0.6;
+      this.x = w / 2 + Math.cos(angle) * radius;
+      this.y = h / 2 + Math.sin(angle) * radius;
+      this.life = 0;
+      this.maxLife = 100 + Math.random() * 150;
+      this.speed = 1 + Math.random() * 2;
+      this.trail = [];
+    }
+    update() {
+      const cx = w / 2;
+      const cy = h / 2;
+      const dx = cx - this.x;
+      const dy = cy - this.y;
+      const dist = Math.sqrt(dx * dx + dy * dy);
+      if (dist > 5) {
+        this.x += (dx / dist) * this.speed;
+        this.y += (dy / dist) * this.speed;
+        this.x += Math.sin(this.life * 0.05) * 0.5;
+        this.y += Math.cos(this.life * 0.05) * 0.5;
+      }
+      this.trail.push({ x: this.x, y: this.y });
+      if (this.trail.length > 30) this.trail.shift();
+      this.life++;
+      if (this.life > this.maxLife || dist < 30) this.reset();
+    }
+    draw() {
+      if (this.trail.length < 2) return;
+      ctx.beginPath();
+      ctx.moveTo(this.trail[0].x, this.trail[0].y);
+      for (let i = 1; i < this.trail.length; i++) {
+        ctx.lineTo(this.trail[i].x, this.trail[i].y);
+      }
+      ctx.strokeStyle = `rgba(212,175,55,0.08)`;
+      ctx.lineWidth = 1;
+      ctx.stroke();
+    }
+  }
+  for (let i = 0; i < 12; i++) streams.push(new Stream());
+
+  // Mouse parallax
+  document.addEventListener('mousemove', e => {
+    mouse.x = e.clientX / window.innerWidth;
+    mouse.y = e.clientY / window.innerHeight;
+  });
+
+  function animate() {
+    ctx.clearRect(0, 0, w, h);
+    streams.forEach(s => { s.update(); s.draw(); });
+    particles.forEach(p => { p.update(); p.draw(); });
+
+    // Connect nearby gold particles
+    for (let i = 0; i < particles.length; i++) {
+      if (!particles[i].gold) continue;
+      for (let j = i + 1; j < particles.length; j++) {
+        if (!particles[j].gold) continue;
+        const dx = particles[i].x - particles[j].x;
+        const dy = particles[i].y - particles[j].y;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        if (dist < 120) {
+          ctx.beginPath();
+          ctx.moveTo(particles[i].x, particles[i].y);
+          ctx.lineTo(particles[j].x, particles[j].y);
+          ctx.strokeStyle = `rgba(212,175,55,${0.06 * (1 - dist / 120)})`;
+          ctx.lineWidth = 0.5;
+          ctx.stroke();
+        }
+      }
+    }
+    requestAnimationFrame(animate);
+  }
+  animate();
+})();
+</script>
 
 <!-- أحدث المقالات -->
 <section id="articles" aria-labelledby="articles-title">

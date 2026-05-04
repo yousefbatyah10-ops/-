@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-03
-// Total articles: 16
+// Last updated: 2026-05-04
+// Total articles: 17
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -1379,6 +1379,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id=\"vision\">رؤية 2030 والتحول التقني في الخليج</h2>\n<p>رؤية 2030 وضعت التقنية في قلب التحول الاقتصادي السعودي. الحكومة تستهدف أن يساهم قطاع التقنية بأكثر من 100 مليار ريال في الناتج المحلي بحلول 2030. الاستثمارات الحكومية في البنية التحتية الرقمية تجاوزت 50 مليار ريال، من مراكز البيانات إلى شبكات الجيل الخامس.</p>\n<p>هذا التحول يخلق فرصاً استثمارية هائلة. الشركات التقنية الخليجية تنمو بمعدلات 20-40% سنوياً — أسرع بكثير من القطاعات التقليدية. المستثمر الذي يدخل مبكراً في هذا القطاع يضع نفسه في موقع ممتاز للاستفادة من هذا النمو.</p>\n\n<h2 id=\"companies\">شركات تقنية بارزة في تداول</h2>\n<ul>\n<li><strong>STC (7010):</strong> أكبر شركة اتصالات في الشرق الأوسط. تتوسع في الحوسبة السحابية والأمن السيبراني والتقنية المالية. قيمتها السوقية تجاوزت 200 مليار ريال</li>\n<li><strong>علم (7203):</strong> شركة حلول رقمية حكومية. تدير منصات مثل أبشر ونافذ. نمو إيرادات يتجاوز 15% سنوياً</li>\n<li><strong>حلول (7204):</strong> شركة تقنية معلومات تخدم القطاعين الحكومي والخاص</li>\n<li><strong>عِلم الرقمية:</strong> تحول رقمي للخدمات الحكومية مع نمو مستمر</li>\n</ul>\n<p>هذه الشركات تتداول في سوق تداول ويمكن شراؤها مباشرة عبر أي حساب استثماري.</p>\n\n<h2 id=\"sectors\">القطاعات التقنية الواعدة</h2>\n<p><strong>1. الحوسبة السحابية:</strong> السعودية تستهدف أن تصبح مركزاً إقليمياً للبيانات. أمازون ومايكروسوفت وجوجل أنشأت مراكز بيانات في المملكة. الشركات المحلية التي تقدم خدمات سحابية ستستفيد.</p>\n<p><strong>2. الأمن السيبراني:</strong> مع التحول الرقمي، يزداد الطلب على حماية البيانات. السوق السعودي للأمن السيبراني ينمو 25% سنوياً.</p>\n<p><strong>3. الألعاب والترفيه الرقمي:</strong> السعودية أصبحت ثالث أكبر سوق ألعاب في الشرق الأوسط. مشروع سافي (Savvy Games) يستثمر مليارات في صناعة الألعاب.</p>\n<p><strong>4. التقنية الصحية:</strong> تطبيقات الصحة الرقمية والطب عن بُعد تنمو بسرعة. جائحة كورونا سرّعت تبني هذه الحلول بسنوات.</p>\n\n<h2 id=\"fintech\">التقنية المالية (Fintech)</h2>\n<p>قطاع التقنية المالية في السعودية يشهد طفرة غير مسبوقة. البنك المركزي السعودي (ساما) أصدر أكثر من 80 ترخيصاً لشركات فنتك. القطاع يشمل:</p>\n<ul>\n<li><strong>المدفوعات الرقمية:</strong> STC Pay وUrPay وSTCPay أصبحت جزءاً من الحياة اليومية</li>\n<li><strong>الإقراض الرقمي:</strong> منصات مثل تمارا وتابي للتقسيط بدون فوائد</li>\n<li><strong>إدارة الثروات:</strong> تطبيقات استثمار آلية تجعل الاستثمار متاحاً للجميع</li>\n<li><strong>التأمين الرقمي:</strong> منصات تبسّط شراء وإدارة التأمين</li>\n</ul>\n\n<h2 id=\"how\">كيف تستثمر في التقنية الخليجية</h2>\n<ul>\n<li><strong>شراء مباشر:</strong> اشترِ أسهم الشركات التقنية المدرجة في تداول عبر حسابك الاستثماري</li>\n<li><strong>صناديق المؤشرات:</strong> بعض صناديق ETF تتيح التعرض لسلة من الشركات التقنية</li>\n<li><strong>صناديق رأس المال الجريء:</strong> للمستثمرين المؤهلين — استثمر في شركات ناشئة قبل إدراجها</li>\n<li><strong>الاكتتابات العامة:</strong> تابع الاكتتابات الجديدة لشركات التقنية في تداول</li>\n</ul>\n<p><strong>نصيحة:</strong> التقنية قطاع عالي النمو لكن عالي التقلب أيضاً. لا تخصص أكثر من 20% من محفظتك لأسهم التقنية. نوّع بين الشركات الكبيرة المستقرة (STC) والناشئة ذات النمو العالي.</p>\n\n<h2 id=\"risks\">المخاطر والفرص المستقبلية</h2>\n<p><strong>المخاطر:</strong> تقييمات مرتفعة لبعض الشركات، تغير سريع في التقنيات، منافسة شديدة من شركات عالمية، واعتماد على الإنفاق الحكومي.</p>\n<p><strong>الفرص:</strong> سوق ناشئ بإمكانات نمو هائلة، دعم حكومي قوي، شريحة سكانية شابة ومتعلمة تقنياً (60% تحت 35 سنة)، وبنية تحتية رقمية متطورة.</p>\n<p>الخليج يتحول من مستهلك للتقنية إلى منتج لها. المستثمر الذي يفهم هذا التحول ويستثمر فيه مبكراً سيحصد ثماره لسنوات طويلة.</p>",
     "contentEn": "<h2 id=\"vision\">Vision 2030 and Gulf Tech Transformation</h2>\n<p>Vision 2030 places technology at the heart of Saudi economic transformation, targeting over 100 billion SAR in tech GDP contribution by 2030. Government digital infrastructure investments exceed 50 billion SAR. Gulf tech companies grow 20-40% annually.</p>\n\n<h2 id=\"companies\">Leading Tech Companies on Tadawul</h2>\n<p>STC (largest Middle East telecom, 200B+ SAR market cap), Elm (digital government solutions, 15%+ revenue growth), and Solutions (IT services for government and private sectors).</p>\n\n<h2 id=\"sectors\">Promising Tech Sectors</h2>\n<p>Cloud computing (Saudi as regional data hub), cybersecurity (25% annual growth), gaming (Savvy Games investing billions), and health tech (accelerated by COVID).</p>\n\n<h2 id=\"fintech\">Fintech</h2>\n<p>SAMA issued 80+ fintech licenses. Digital payments (STC Pay), buy-now-pay-later (Tamara, Tabby), automated wealth management, and digital insurance are booming.</p>\n\n<h2 id=\"how\">How to Invest in Gulf Tech</h2>\n<p>Direct stock purchase on Tadawul, tech-focused ETFs, venture capital funds (accredited investors), or follow new tech IPOs. Don't allocate more than 20% to tech stocks.</p>\n\n<h2 id=\"risks\">Risks and Future Opportunities</h2>\n<p>Risks: high valuations, rapid tech changes, global competition. Opportunities: emerging market with huge potential, strong government support, young tech-savvy population (60% under 35), and advanced digital infrastructure.</p>"
+  },
+  {
+    "id": 17,
+    "slug": "insurance-protecting-your-wealth",
+    "title": "التأمين: حماية ثروتك من الكوارث",
+    "titleEn": "Insurance: Protecting Your Wealth",
+    "summary": "يُعد التأمين أداة حيوية لحماية الأفراد والأعمال من الخسائر المالية الناتجة عن الأحداث غير المتوقعة والكوارث، مما يحافظ على استقرار الثروة.",
+    "summaryEn": "Insurance is a vital tool for protecting individuals and businesses from financial losses resulting from unexpected events and disasters, thus preserving wealth stability.",
+    "excerpt": "اكتشف كيف يمكن للتأمين أن يكون درعك المالي ضد تقلبات الحياة والكوارث، مما يحافظ على استقرار ثروتك ويؤمن مستقبلك.",
+    "excerptEn": "Discover how insurance can be your financial shield against life's uncertainties and disasters, preserving your wealth and securing your future.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "د. سامي القحطاني",
+    "authorEn": "Dr. Sami Al-Qahtani",
+    "authorInitial": "S",
+    "date": "4 مايو 2026",
+    "dateEn": "May 4, 2026",
+    "dateISO": "2026-05-04",
+    "readTime": "10",
+    "views": "2470",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article17.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "أهمية التأمين: شبكة الأمان لثروتك"
+      },
+      {
+        "id": "s2",
+        "text": "أنواع التأمين الرئيسية لحماية شاملة"
+      },
+      {
+        "id": "s3",
+        "text": "كيف يحمي التأمين ثروتك من الاستنزاف؟"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح لاختيار وثيقة التأمين المناسبة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "The Importance of Insurance: Your Wealth's Safety Net"
+      },
+      {
+        "id": "s2",
+        "text": "Key Types of Insurance for Comprehensive Protection"
+      },
+      {
+        "id": "s3",
+        "text": "How Insurance Protects Your Wealth from Depletion"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for Choosing the Right Insurance Policy"
+      }
+    ],
+    "related": [
+      14
+    ],
+    "content": "<h2 id='s1'>أهمية التأمين: شبكة الأمان لثروتك</h2><p>يُعد التأمين ركيزة أساسية في التخطيط المالي السليم، فهو يوفر شبكة أمان ضد المخاطر المحتملة التي قد تهدد المدخرات والأصول. في عالم مليء بالمتغيرات، يصبح التأمين ضرورة لا غنى عنها لحماية ثروتك ومستقبلك المالي من الصدمات غير المتوقعة.</p><p>لا يقتصر دور التأمين على التعويض المالي فحسب، بل يمنحك أيضاً راحة البال والطمأنينة، مع العلم أنك محمي ضد الأحداث الكبرى التي قد تكلفك الكثير.</p><h2 id='s2'>أنواع التأمين الرئيسية لحماية شاملة</h2><p>��تنوع وثائق التأمين لتناسب احتياجات مختلفة، فنجد التأمين على الممتلكات لحماية المنازل والسيارات والممتلكات الأخرى من الأضرار أو السرقة. كما أن التأمين الصحي يغطي تكاليف العلاج والرعاية الطبية، مما يخفف العبء المالي للمرض.</p><p>بالإضافة إلى ذلك، يوفر تأمين الحياة دعماً مالياً للأسرة بعد وفاة المعيل، بينما يحمي تأمين المسؤولية الشخص من مطالبات الأضرار التي قد يسببها للآخرين. كل نوع مصمم لمعالجة مخاطر محددة.</p><h2 id='s3'>كيف يحمي التأمين ثروتك من الاستنزاف؟</h2><p>يعمل التأمين على نقل عبء المخاطر المالية من الفرد أو الشركة إلى شركة التأمين. فبدلاً من تحمل التكلفة الكاملة لخسارة كبيرة – سواء كانت بسبب حادث سيارة، حريق منزل، أو مرض مفاجئ – يدفع المؤمن له أقساطاً منتظمة.</p><p>في حال وقوع الكارثة المشمولة بالوثيقة، تتولى شركة التأمين تعويض الخسائر، مما يحمي ثروتك ومدخراتك من الاستنزاف ويضمن استمرارية استقرارك المالي.</p><h2 id='s4'>نصائح لاختيار وثيقة التأمين المناسبة</h2><p>عند اختيار وثيقة التأمين، من الضروري مقارنة العروض المختلفة وقراءة الشروط والأحكام والاستثناءات بعناية فائقة. تأكد من أن التغطية تتناسب مع احتياجاتك وميزانيتك، وأنها توفر الحماية الكافية للمخاطر التي تواجهها.</p><p>لا تتردد في طلب المشورة من خبراء التأمين أو مستشارين ماليين لضمان اتخاذ القرار الأمثل الذي يوفر لك أقصى درجات الحماية والقيمة مقابل ما تدفعه.</p>",
+    "contentEn": "<h2 id='s1'>The Importance of Insurance: Your Wealth's Safety Net</h2><p>Insurance is a fundamental pillar of sound financial planning, providing a safety net against potential risks that could threaten savings and assets. In a world full of variables, insurance becomes an indispensable necessity for protecting your wealth and financial future from unexpected shocks.</p><p>The role of insurance is not limited to financial compensation; it also provides peace of mind and reassurance, knowing that you are protected against major events that could cost you dearly.</p><h2 id='s2'>Key Types of Insurance for Comprehensive Protection</h2><p>Insurance policies vary to suit different needs. We find property insurance to protect homes, cars, and other assets from damage or theft. Health insurance covers medical treatment and care costs, alleviating the financial burden of illness.</p><p>Additionally, life insurance provides financial support to the family after the breadwinner's death, while liability insurance protects individuals from claims for damages they might cause to others. Each type is designed to address specific risks.</p><h2 id='s3'>How Insurance Protects Your Wealth from Depletion</h2><p>Insurance works by transferring the burden of financial risk from the individual or company to the insurance company. Instead of bearing the full cost of a significant loss – whether due to a car accident, a house fire, or a sudden illness – the insured pays regular premiums.</p><p>In the event of a covered disaster, the insurance company covers the losses, protecting your wealth and savings from depletion and ensuring the continuity of your financial stability.</p><h2 id='s4'>Tips for Choosing the Right Insurance Policy</h2><p>When choosing an insurance policy, it is essential to compare different offers and read the terms, conditions, and exclusions with great care. Ensure that the coverage matches your needs and budget, and that it provides adequate protection for the risks you face.</p><p>Do not hesitate to seek advice from insurance experts or financial advisors to ensure you make the optimal decision that provides you with the maximum protection and value for your money.</p>"
   }
 ];
 

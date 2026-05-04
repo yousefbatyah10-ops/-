@@ -12,8 +12,9 @@ const TOPICS_FILE = path.join(__dirname, 'topics.json');
 
 // --- Configuration ---
 const API_KEY = process.env.GEMINI_API_KEY;
-const MODEL = 'gemini-1.5-flash'; 
+const MODEL = 'gemini-2.5-flash';
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`;
+const MAX_RETRIES = 3;
 
 // Authors pool
 const AUTHORS = [
@@ -40,6 +41,8 @@ const GRADIENTS = [
 ];
 
 // --- Helpers ---
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
 function makeRequest(url, data) {
   return new Promise((resolve, reject) => {
     const body = JSON.stringify(data);
@@ -137,45 +140,65 @@ async function generateArticle() {
 
   console.log(`Generating article #${newId}: "${topic.title}"`);
 
-  const prompt = `You are a financial content writer for an Arabic investment blog called "ملتقى الأثرياء". Write a comprehensive, educational article about: "${topic.title}"
+  const prompt = `You are a financial content writer for an Arabic investment blog. Write an article about: "${topic.title}"
 
-REQUIREMENTS:
-1. Write the article body in Arabic HTML with 6 sections, each with an <h2> tag with a unique id attribute and 2-3 paragraphs with <ul> lists where appropriate.
-2. Write a shorter English version with the same structure.
-3. For each version, provide a table of contents array.
+IMPORTANT: Keep content concise. Each section should have exactly 1-2 short paragraphs.
 
-RESPOND IN VALID JSON FORMAT ONLY (no markdown, no code blocks):
+RESPOND IN VALID JSON ONLY (no markdown wrapping):
 {
-  "summary": "ملخص عربي قصير للمقالة في جملتين",
-  "summaryEn": "Short English summary in 2 sentences",
-  "excerpt": "مقتطف جذاب بجملة واحدة",
-  "excerptEn": "Catchy one-sentence excerpt",
-  "content": "<h2 id=\\"sec1\\">عنوان القسم</h2><p>المحتوى...</p>...",
-  "contentEn": "<h2 id=\\"sec1\\">Section Title</h2><p>Content...</p>...",
-  "toc": [{"id":"sec1","text":"عنوان القسم"},{"id":"sec2","text":"..."}],
-  "tocEn": [{"id":"sec1","text":"Section Title"},{"id":"sec2","text":"..."}]
+  "summary": "Arabic summary in 1 sentence",
+  "summaryEn": "English summary in 1 sentence",
+  "excerpt": "Arabic excerpt in 1 sentence",
+  "excerptEn": "English excerpt in 1 sentence",
+  "content": "<h2 id='s1'>عنوان1</h2><p>فقرة عربية</p><h2 id='s2'>عنوان2</h2><p>فقرة</p><h2 id='s3'>عنوان3</h2><p>فقرة</p><h2 id='s4'>عنوان4</h2><p>فقرة</p>",
+  "contentEn": "<h2 id='s1'>Title1</h2><p>English paragraph</p><h2 id='s2'>Title2</h2><p>paragraph</p><h2 id='s3'>Title3</h2><p>paragraph</p><h2 id='s4'>Title4</h2><p>paragraph</p>",
+  "toc": [{"id":"s1","text":"عنوان1"},{"id":"s2","text":"عنوان2"},{"id":"s3","text":"عنوان3"},{"id":"s4","text":"عنوان4"}],
+  "tocEn": [{"id":"s1","text":"Title1"},{"id":"s2","text":"Title2"},{"id":"s3","text":"Title3"},{"id":"s4","text":"Title4"}]
 }`;
 
-  const response = await makeRequest(API_URL, {
-    contents: [{ parts: [{ text: prompt }] }],
-    generationConfig: { temperature: 0.7, maxOutputTokens: 8000 }
-  });
+  let generated = null;
 
-  if (response.error) {
-    console.error('API Error:', response.error.message);
-    process.exit(1);
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    console.log(`  Attempt ${attempt}/${MAX_RETRIES}...`);
+    
+    try {
+      const response = await makeRequest(API_URL, {
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: { 
+          temperature: 0.7, 
+          maxOutputTokens: 16000,
+          responseMimeType: 'application/json'
+        }
+      });
+
+      if (response.error) {
+        console.log(`  API Error: ${response.error.message}`);
+        if (attempt < MAX_RETRIES) {
+          console.log(`  Waiting 30s before retry...`);
+          await sleep(30000);
+          continue;
+        }
+        console.error('All retries failed.');
+        process.exit(1);
+      }
+
+      let text = response.candidates[0].content.parts[0].text;
+      text = text.replace(/```json\s*/g, '').replace(/```\s*/g, '').trim();
+      
+      generated = JSON.parse(text);
+      console.log('  ✓ Article content generated successfully');
+      break;
+    } catch(e) {
+      console.log(`  Parse error: ${e.message}`);
+      if (attempt < MAX_RETRIES) {
+        console.log(`  Waiting 15s before retry...`);
+        await sleep(15000);
+      }
+    }
   }
 
-  let text = response.candidates[0].content.parts[0].text;
-  // Clean possible markdown wrapping
-  text = text.replace(/```json\s*/g, '').replace(/```\s*/g, '').trim();
-  
-  let generated;
-  try {
-    generated = JSON.parse(text);
-  } catch(e) {
-    console.error('Failed to parse AI response:', e.message);
-    console.error('Raw response:', text.substring(0, 500));
+  if (!generated) {
+    console.error('Failed to generate article after all retries.');
     process.exit(1);
   }
 
@@ -227,7 +250,6 @@ RESPOND IN VALID JSON FORMAT ONLY (no markdown, no code blocks):
   console.log(`   Category: ${topic.category}`);
   console.log(`   Author: ${author.ar}`);
   console.log(`   Total articles: ${articles.length}`);
-  console.log(`\n⚠️  Note: Image "images/article${newId}.jpg" needs to be added manually or via an image generation API.`);
 }
 
 generateArticle().catch(err => {

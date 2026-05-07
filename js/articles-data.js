@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-04
-// Total articles: 17
+// Last updated: 2026-05-07
+// Total articles: 18
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -1448,6 +1448,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>أهمية التأمين: شبكة الأمان لثروتك</h2><p>يُعد التأمين ركيزة أساسية في التخطيط المالي السليم، فهو يوفر شبكة أمان ضد المخاطر المحتملة التي قد تهدد المدخرات والأصول. في عالم مليء بالمتغيرات، يصبح التأمين ضرورة لا غنى عنها لحماية ثروتك ومستقبلك المالي من الصدمات غير المتوقعة.</p><p>لا يقتصر دور التأمين على التعويض المالي فحسب، بل يمنحك أيضاً راحة البال والطمأنينة، مع العلم أنك محمي ضد الأحداث الكبرى التي قد تكلفك الكثير.</p><h2 id='s2'>أنواع التأمين الرئيسية لحماية شاملة</h2><p>��تنوع وثائق التأمين لتناسب احتياجات مختلفة، فنجد التأمين على الممتلكات لحماية المنازل والسيارات والممتلكات الأخرى من الأضرار أو السرقة. كما أن التأمين الصحي يغطي تكاليف العلاج والرعاية الطبية، مما يخفف العبء المالي للمرض.</p><p>بالإضافة إلى ذلك، يوفر تأمين الحياة دعماً مالياً للأسرة بعد وفاة المعيل، بينما يحمي تأمين المسؤولية الشخص من مطالبات الأضرار التي قد يسببها للآخرين. كل نوع مصمم لمعالجة مخاطر محددة.</p><h2 id='s3'>كيف يحمي التأمين ثروتك من الاستنزاف؟</h2><p>يعمل التأمين على نقل عبء المخاطر المالية من الفرد أو الشركة إلى شركة التأمين. فبدلاً من تحمل التكلفة الكاملة لخسارة كبيرة – سواء كانت بسبب حادث سيارة، حريق منزل، أو مرض مفاجئ – يدفع المؤمن له أقساطاً منتظمة.</p><p>في حال وقوع الكارثة المشمولة بالوثيقة، تتولى شركة التأمين تعويض الخسائر، مما يحمي ثروتك ومدخراتك من الاستنزاف ويضمن استمرارية استقرارك المالي.</p><h2 id='s4'>نصائح لاختيار وثيقة التأمين المناسبة</h2><p>عند اختيار وثيقة التأمين، من الضروري مقارنة العروض المختلفة وقراءة الشروط والأحكام والاستثناءات بعناية فائقة. تأكد من أن التغطية تتناسب مع احتياجاتك وميزانيتك، وأنها توفر الحماية الكافية للمخاطر التي تواجهها.</p><p>لا تتردد في طلب المشورة من خبراء التأمين أو مستشارين ماليين لضمان اتخاذ القرار الأمثل الذي يوفر لك أقصى درجات الحماية والقيمة مقابل ما تدفعه.</p>",
     "contentEn": "<h2 id='s1'>The Importance of Insurance: Your Wealth's Safety Net</h2><p>Insurance is a fundamental pillar of sound financial planning, providing a safety net against potential risks that could threaten savings and assets. In a world full of variables, insurance becomes an indispensable necessity for protecting your wealth and financial future from unexpected shocks.</p><p>The role of insurance is not limited to financial compensation; it also provides peace of mind and reassurance, knowing that you are protected against major events that could cost you dearly.</p><h2 id='s2'>Key Types of Insurance for Comprehensive Protection</h2><p>Insurance policies vary to suit different needs. We find property insurance to protect homes, cars, and other assets from damage or theft. Health insurance covers medical treatment and care costs, alleviating the financial burden of illness.</p><p>Additionally, life insurance provides financial support to the family after the breadwinner's death, while liability insurance protects individuals from claims for damages they might cause to others. Each type is designed to address specific risks.</p><h2 id='s3'>How Insurance Protects Your Wealth from Depletion</h2><p>Insurance works by transferring the burden of financial risk from the individual or company to the insurance company. Instead of bearing the full cost of a significant loss – whether due to a car accident, a house fire, or a sudden illness – the insured pays regular premiums.</p><p>In the event of a covered disaster, the insurance company covers the losses, protecting your wealth and savings from depletion and ensuring the continuity of your financial stability.</p><h2 id='s4'>Tips for Choosing the Right Insurance Policy</h2><p>When choosing an insurance policy, it is essential to compare different offers and read the terms, conditions, and exclusions with great care. Ensure that the coverage matches your needs and budget, and that it provides adequate protection for the risks you face.</p><p>Do not hesitate to seek advice from insurance experts or financial advisors to ensure you make the optimal decision that provides you with the maximum protection and value for your money.</p>"
+  },
+  {
+    "id": 18,
+    "slug": "inflation-how-to-protect-your-money",
+    "title": "التضخم: كيف تحمي أموالك منه",
+    "titleEn": "Inflation: How to Protect Your Money",
+    "summary": "التضخم يقلل من قيمة أموالك، ولكن هناك استراتيجيات وأدوات لحمايتها وزيادة قوتها الشرائية.",
+    "summaryEn": "Inflation erodes the value of your money, but there are strategies and tools to protect it and increase its purchasing power.",
+    "excerpt": "اكتشف كيف يؤثر التضخم على مدخراتك واستعرض أبرز الحلول الاستثمارية لحماية ثروتك من تآكل القوة الشرائية.",
+    "excerptEn": "Discover how inflation affects your savings and explore key investment solutions to protect your wealth from the erosion of purchasing power.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "7 مايو 2026",
+    "dateEn": "May 7, 2026",
+    "dateISO": "2026-05-07",
+    "readTime": "12",
+    "views": "4852",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article18.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هو التضخم؟"
+      },
+      {
+        "id": "s2",
+        "text": "تأثير التضخم على مدخراتك"
+      },
+      {
+        "id": "s3",
+        "text": "استراتيجيات حماية رأس المال"
+      },
+      {
+        "id": "s4",
+        "text": "أدوات استثمارية لمواجهة التضخم"
+      },
+      {
+        "id": "s5",
+        "text": "التنويع والمراجعة الدورية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What is Inflation?"
+      },
+      {
+        "id": "s2",
+        "text": "The Impact of Inflation on Your Savings"
+      },
+      {
+        "id": "s3",
+        "text": "Capital Protection Strategies"
+      },
+      {
+        "id": "s4",
+        "text": "Investment Tools to Combat Inflation"
+      },
+      {
+        "id": "s5",
+        "text": "Diversification and Regular Review"
+      }
+    ],
+    "related": [
+      17
+    ],
+    "content": "<h2 id='s1'>ما هو التضخم؟</h2><p>التضخم هو ارتفاع مستمر في المستوى العام لأسعار السلع والخدمات، مما يؤدي إلى تآكل القوة الشرائية للنقود. يعني ذلك أن نفس المبلغ من المال سيشتري سلعًا أقل مما كان عليه في السابق.</p><h2 id='s2'>تأثير التضخم على مدخراتك</h2><p>يؤثر التضخم بشكل مباشر على مدخراتك، فإذا كانت عوائد استثماراتك أقل من معدل التضخم، فإن أموالك تفقد قيمتها الحقيقية بمرور الوقت. هذا يعني أن الحفاظ على النقد دون استثمار فعال يعرضك لخسارة شرائية.</p><h2 id='s3'>استراتيجيات حماية رأس المال</h2><p>لحماية أموالك من التضخم، يجب التفكير في استثمارات تتجاوز عوائدها معدل التضخم. يشمل ذلك التنويع في الأصول والتركيز على الأصول الحقيقية التي تميل قيمتها للارتفاع مع ارتفاع الأسعار.</p><h2 id='s4'>أدوات استثمارية لمواجهة التضخم</h2><p>من الأدوات الفعالة لمواجه�� التضخم الاستثمار في العقارات، الذهب والسلع الأساسية، والتي غالبًا ما تحتفظ بقيمتها أو تزيد خلال فترات التضخم. كما يمكن النظر في السندات المرتبطة بالتضخم التي تعدل عوائدها بناءً على مؤشر الأسعار.</p><h2 id='s5'>التنويع والمراجعة الدورية</h2><p>لا تضع كل بيضك في سلة واحدة؛ التنويع هو المفتاح لتقليل المخاطر وزيادة فرص تحقيق عوائد جيدة. يجب مراجعة محفظتك الاستثمارية بانتظام وتعديلها لتتوافق مع الظروف الاقتصادية المتغيرة وأهدافك المالية.</p>",
+    "contentEn": "<h2 id='s1'>What is Inflation?</h2><p>Inflation is a sustained increase in the general price level of goods and services, leading to an erosion of money's purchasing power. This means the same amount of money will buy fewer goods than it did before.</p><h2 id='s2'>The Impact of Inflation on Your Savings</h2><p>Inflation directly impacts your savings. If your investment returns are lower than the inflation rate, your money loses its real value over time. This means holding cash without effective investment exposes you to a loss of purchasing power.</p><h2 id='s3'>Capital Protection Strategies</h2><p>To protect your money from inflation, you should consider investments whose returns exceed the inflation rate. This includes diversifying assets and focusing on real assets whose value tends to rise as prices increase.</p><h2 id='s4'>Investment Tools to Combat Inflation</h2><p>Effective tools to combat inflation include investing in real estate, gold, and commodities, which often retain or increase their value during inflationary periods. Inflation-linked bonds, which adjust their returns based on price indices, can also be considered.</p><h2 id='s5'>Diversification and Regular Review</h2><p>Don't put all your eggs in one basket; diversification is key to reducing risk and increasing chances of good returns. You should regularly review and adjust your investment portfolio to align with changing economic conditions and your financial goals.</p>"
   }
 ];
 

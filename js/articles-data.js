@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-07
-// Total articles: 18
+// Last updated: 2026-05-08
+// Total articles: 19
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -1525,6 +1525,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هو التضخم؟</h2><p>التضخم هو ارتفاع مستمر في المستوى العام لأسعار السلع والخدمات، مما يؤدي إلى تآكل القوة الشرائية للنقود. يعني ذلك أن نفس المبلغ من المال سيشتري سلعًا أقل مما كان عليه في السابق.</p><h2 id='s2'>تأثير التضخم على مدخراتك</h2><p>يؤثر التضخم بشكل مباشر على مدخراتك، فإذا كانت عوائد استثماراتك أقل من معدل التضخم، فإن أموالك تفقد قيمتها الحقيقية بمرور الوقت. هذا يعني أن الحفاظ على النقد دون استثمار فعال يعرضك لخسارة شرائية.</p><h2 id='s3'>استراتيجيات حماية رأس المال</h2><p>لحماية أموالك من التضخم، يجب التفكير في استثمارات تتجاوز عوائدها معدل التضخم. يشمل ذلك التنويع في الأصول والتركيز على الأصول الحقيقية التي تميل قيمتها للارتفاع مع ارتفاع الأسعار.</p><h2 id='s4'>أدوات استثمارية لمواجهة التضخم</h2><p>من الأدوات الفعالة لمواجه�� التضخم الاستثمار في العقارات، الذهب والسلع الأساسية، والتي غالبًا ما تحتفظ بقيمتها أو تزيد خلال فترات التضخم. كما يمكن النظر في السندات المرتبطة بالتضخم التي تعدل عوائدها بناءً على مؤشر الأسعار.</p><h2 id='s5'>التنويع والمراجعة الدورية</h2><p>لا تضع كل بيضك في سلة واحدة؛ التنويع هو المفتاح لتقليل المخاطر وزيادة فرص تحقيق عوائد جيدة. يجب مراجعة محفظتك الاستثمارية بانتظام وتعديلها لتتوافق مع الظروف الاقتصادية المتغيرة وأهدافك المالية.</p>",
     "contentEn": "<h2 id='s1'>What is Inflation?</h2><p>Inflation is a sustained increase in the general price level of goods and services, leading to an erosion of money's purchasing power. This means the same amount of money will buy fewer goods than it did before.</p><h2 id='s2'>The Impact of Inflation on Your Savings</h2><p>Inflation directly impacts your savings. If your investment returns are lower than the inflation rate, your money loses its real value over time. This means holding cash without effective investment exposes you to a loss of purchasing power.</p><h2 id='s3'>Capital Protection Strategies</h2><p>To protect your money from inflation, you should consider investments whose returns exceed the inflation rate. This includes diversifying assets and focusing on real assets whose value tends to rise as prices increase.</p><h2 id='s4'>Investment Tools to Combat Inflation</h2><p>Effective tools to combat inflation include investing in real estate, gold, and commodities, which often retain or increase their value during inflationary periods. Inflation-linked bonds, which adjust their returns based on price indices, can also be considered.</p><h2 id='s5'>Diversification and Regular Review</h2><p>Don't put all your eggs in one basket; diversification is key to reducing risk and increasing chances of good returns. You should regularly review and adjust your investment portfolio to align with changing economic conditions and your financial goals.</p>"
+  },
+  {
+    "id": 19,
+    "slug": "early-retirement-an-achievable-dream",
+    "title": "التقاعد المبكر: حلم قابل للتحقيق",
+    "titleEn": "Early Retirement: An Achievable Dream",
+    "summary": "التقاعد المبكر هو هدف مالي يمنح الحرية الشخصية، ويمكن تحقيقه بالتخطيط الدقيق والالتزام المالي والاستثمار الذكي.",
+    "summaryEn": "Early retirement is a financial goal that grants personal freedom and can be achieved through precise planning, financial commitment, and smart investing.",
+    "excerpt": "اكتشف كيف يمكن أن يصبح حلم التقاعد المبكر حقيقة ملموسة من خلال استراتيجيات مالية فعالة.",
+    "excerptEn": "Discover how the dream of early retirement can become a tangible reality through effective financial strategies.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "فاطمة الشهري",
+    "authorEn": "Fatima Al-Shahri",
+    "authorInitial": "F",
+    "date": "8 مايو 2026",
+    "dateEn": "May 8, 2026",
+    "dateISO": "2026-05-08",
+    "readTime": "11",
+    "views": "1255",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article19.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هو التقاعد المبكر؟"
+      },
+      {
+        "id": "s2",
+        "text": "لماذا التقاعد المبكر؟"
+      },
+      {
+        "id": "s3",
+        "text": "استراتيجيات لتحقيق الحلم"
+      },
+      {
+        "id": "s4",
+        "text": "هل هو حلم قابل للتحقيق؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What is Early Retirement?"
+      },
+      {
+        "id": "s2",
+        "text": "Why Early Retirement?"
+      },
+      {
+        "id": "s3",
+        "text": "Strategies to Achieve the Dream"
+      },
+      {
+        "id": "s4",
+        "text": "Is It an Achievable Dream?"
+      }
+    ],
+    "related": [
+      14
+    ],
+    "content": "<h2 id='s1'>ما هو التقاعد المبكر؟</h2><p>التقاعد المبكر هو مفهوم مالي يعني التوقف عن العمل وكسب الدخل قبل السن التقليدي أو القانوني للتقاعد. إنه يمثل هدفًا يسعى إليه الكثيرون لتحقيق الاستقلال المالي والتحكم الكامل بمسار حياتهم.</p><p>لا يقتصر الأمر على التوقف عن العمل فحسب، بل هو تحقيق مستوى من الحرية المالية يتيح للفرد قضاء وقته في ما يهمه، سواء كان ذلك السفر، الهوايات، أو قضاء المزيد من الوقت مع العائلة.</p><h2 id='s2'>لماذا التقاعد المبكر؟</h2><p>تتعدد الدوافع وراء السعي للتقاعد المبكر، فبعضهم يطمح إلى التخلص من ضغوط العمل اليومية والروتين، بينما يرغب آخرون في استكشاف شغف جديد أو بدء مشروعهم الخاص.</p><p>كما يمنح التقاعد المبكر فرصة لا تقدر بثمن لعيش حياة أكثر مرونة وهدوءًا، بعيدًا عن الالتزامات المهنية التي قد تستنزف الطاقة والوقت.</p><h2 id='s3'>استراتيجيات لتحقيق الحلم</h2><p>لتحقيق التقاعد المبكر، يجب البدء بتخطيط مالي صارم يشمل زيادة المدخرات بشكل كبير وتقليل النفقات غير الضرورية. يمثل الاستثمار الذكي في الأصول التي تولد دخلاً سلبياً حجر الزاوية في هذه الاستراتيجية.</p><p>بناء محفظة استثمارية متنوعة، قد تشمل الأسهم، السندات، العقارات، أو صناديق المؤشرات المتداولة، أمر ضروري لضمان تدفق دخل مستمر يكفي لتغطية النفقات بعد التقاعد.</p><h2 id='s4'>هل هو حلم قابل للتحقيق؟</h2><p>نعم، التقاعد المبكر ليس مجرد حلم بعيد المنال؛ بل هو هدف ملموس يمكن تحقيقه بالالتزام والانضباط المالي. لقد نجح الكثيرون في الوصول إليه باتباع خطة واضحة ومحددة.</p><p>مع التخطيط السليم، والتضحية ببعض الكماليات في البداية، والتركيز على زيادة الدخل والاستثمار، يمكن لأي شخص أن يفتح الباب أمام مستقبل من الحرية المالية والاستقلال.</p>",
+    "contentEn": "<h2 id='s1'>What is Early Retirement?</h2><p>Early retirement is a financial concept meaning to stop working and earning income before the traditional or legal retirement age. It represents a goal many pursue to achieve financial independence and full control over their life path.</p><p>It's not just about stopping work; it's about achieving a level of financial freedom that allows an individual to spend their time on what matters most, whether it's travel, hobbies, or spending more time with family.</p><h2 id='s2'>Why Early Retirement?</h2><p>The motivations behind pursuing early retirement are numerous. Some aspire to escape daily work pressures and routine, while others wish to explore new passions or start their own business.</p><p>Early retirement also offers an invaluable opportunity to live a more flexible and peaceful life, away from professional commitments that can drain energy and time.</p><h2 id='s3'>Strategies to Achieve the Dream</h2><p>To achieve early retirement, one must start with strict financial planning that includes significantly increasing savings and reducing unnecessary expenses. Smart investing in assets that generate passive income is the cornerstone of this strategy.</p><p>Building a diversified investment portfolio, which may include stocks, bonds, real estate, or Exchange Traded Funds (ETFs), is essential to ensure a continuous income stream sufficient to cover expenses after retirement.</p><h2 id='s4'>Is It an Achievable Dream?</h2><p>Yes, early retirement is not just a distant dream; it is a tangible goal that can be achieved with commitment and financial discipline. Many have succeeded in reaching it by following a clear and specific plan.</p><p>With proper planning, some initial sacrifices of non-essentials, and a focus on increasing income and investing, anyone can open the door to a future of financial freedom and independence.</p>"
   }
 ];
 

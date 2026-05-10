@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-09
-// Total articles: 20
+// Last updated: 2026-05-10
+// Total articles: 21
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -1663,6 +1663,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>الفرنشايز: استثمر في علامة تجارية جاهزة</h2><p>الفرنشايز، أو الامتياز التجاري، هو نموذج عمل يسمح للمستثمر (صاحب الامتياز) بتشغيل عمل تجاري باستخدام اسم وعلامة تجارية ونظام تشغيل مثبت لشركة أخرى (مانح الامتياز).</p><p>هذا النموذج يوفر فرصة فريدة لدخول السوق بمخاطر أقل، مستفيداً من الاعتراف بالعلامة التجارية ودعم المانح.</p><h2 id='s2'>لماذا تختار الفرنشايز؟ المزايا الرئيسية</h2><p>الاستثمار في الفرنشايز يمنحك الاستفادة من علامة تجارية معروفة وقاعدة عملاء موجودة مسبقاً، مما يقلل من الحاجة لبناء الثقة من الصفر. كما أنك تحصل على نموذج عمل مثبت، تدريب شامل، ودعم مستمر من مانح الامتياز.</p><p>هذا الدعم يشمل التسويق، التشغيل، وأحياناً المساعدة في اختيار الموقع، مما يعزز فرص نجاحك مقارنة ببدء عمل تجاري مستقل.</p><h2 id='s3'>التحديات والاعتبارات قبل الاستثمار</h2><p>بالرغم من المزايا، هناك تحديات يجب مراعاتها. يتطلب الاستثمار في الفرنشايز رأس مال أولي كبيراً، بالإضافة إلى رسوم امتياز مستمرة (إتاوات) تُدفع لمانح الامتياز. كما أنك تلتزم باتباع إرشادات وقواعد مانح الامتياز بدقة، مما يحد من استقلاليتك في اتخاذ القرارات.</p><p>من الضروري إجراء بحث شامل وفهم جميع بنود العقد قبل الالتزام.</p><h2 id='s4'>كيف تبدأ رحلتك في عالم الفرنشايز؟</h2><p>ابدأ بتحديد اهتماماتك وميزانيتك وأهدافك التجارية. ابحث عن صناعات وعلامات تجارية تتوافق مع هذه المعايير. لا تتردد في التحدث مع أصحاب امتياز حاليين للحصول على رؤى واقعية.</p><p>قبل توقيع أي اتفاق، استشر مستشاراً قانونياً وماليا�� متخصصاً لضمان فهمك الكامل لجميع الشروط والالتزامات.</p>",
     "contentEn": "<h2 id='s1'>Franchising: Invest in a Ready-Made Brand</h2><p>Franchising is a business model that allows an investor (the franchisee) to operate a business using the established name, brand, and proven operating system of another company (the franchisor).</p><p>This model offers a unique opportunity to enter the market with reduced risk, benefiting from brand recognition and the franchisor's support.</p><h2 id='s2'>Why Choose Franchising? Key Advantages</h2><p>Investing in a franchise allows you to leverage a well-known brand and an existing customer base, minimizing the need to build trust from scratch. You also gain access to a proven business model, comprehensive training, and ongoing support from the franchisor.</p><p>This support includes marketing, operations, and sometimes site selection assistance, significantly boosting your chances of success compared to starting an independent business.</p><h2 id='s3'>Challenges and Considerations Before Investing</h2><p>Despite the advantages, there are challenges to consider. Franchising requires a significant initial capital investment, along with ongoing franchise fees (royalties) paid to the franchisor. You are also bound to strictly follow the franchisor's guidelines and rules, which limits your decision-making independence.</p><p>It is crucial to conduct thorough research and understand all contract terms before committing.</p><h2 id='s4'>How to Begin Your Franchise Journey?</h2><p>Start by identifying your interests, budget, and business goals. Research industries and brands that align with these criteria. Don't hesitate to speak with current franchisees to gain realistic insights.</p><p>Before signing any agreement, consult with a specialized legal and financial advisor to ensure you fully understand all terms and obligations.</p>"
+  },
+  {
+    "id": 21,
+    "slug": "how-to-analyze-earnings-reports",
+    "title": "كيف تحلل تقارير أرباح الشركات",
+    "titleEn": "How to Analyze Earnings Reports",
+    "summary": "تحليل تقارير أرباح الشركات ضروري للمستثمرين لتقييم الأداء المالي واتخاذ قرارات استثمارية مستنيرة بناءً على الأرقام والمقاييس الرئيسية والسياق الصناعي.",
+    "summaryEn": "Analyzing company earnings reports is crucial for investors to assess financial performance and make informed investment decisions based on key figures, metrics, and industry context.",
+    "excerpt": "استكشف كيفية تحليل تقارير أرباح الشركات لفهم صحتها المالية، من المكونات الأساسية إلى المقاييس الرئيسية والمقارنات الهامة لاتخاذ قرارات استثمارية مدروسة.",
+    "excerptEn": "Learn how to analyze company earnings reports to understand their financial health, from key components to essential metrics and crucial comparisons for informed investment decisions.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "عمر الخالدي",
+    "authorEn": "Omar Al-Khalidi",
+    "authorInitial": "O",
+    "date": "10 مايو 2026",
+    "dateEn": "May 10, 2026",
+    "dateISO": "2026-05-10",
+    "readTime": "8",
+    "views": "1682",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article21.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "أهمية تقارير الأرباح"
+      },
+      {
+        "id": "s2",
+        "text": "المكونات الأساسية للتقرير"
+      },
+      {
+        "id": "s3",
+        "text": "المقاييس المالية الرئيسية للتحليل"
+      },
+      {
+        "id": "s4",
+        "text": "السياق والمقارنات لاتخاذ القرار"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Importance of Earnings Reports"
+      },
+      {
+        "id": "s2",
+        "text": "Key Components of the Report"
+      },
+      {
+        "id": "s3",
+        "text": "Key Financial Metrics for Analysis"
+      },
+      {
+        "id": "s4",
+        "text": "Context and Comparisons for Decision Making"
+      }
+    ],
+    "related": [
+      2
+    ],
+    "content": "<h2 id='s1'>أهمية تقارير الأرباح</h2><p>تعتبر تقارير أرباح الشركات نافذة حيوية للمستثمرين لتقييم الأداء المالي والصحة العامة للشركة. توفر هذه التقارير معلومات أساسية تساعد في فهم مدى ربحية الشركة وكفاءتها التشغيلية.</p><p>من خلال تحليلها، يمكن للمستثمرين اتخاذ قرارات استثمارية مستنيرة، سواء بالاحتفاظ بالأسهم أو شرائها أو بيعها، بناءً على التوقعات المستقبلية للشركة.</p><h2 id='s2'>المكونات الأساسية للتقرير</h2><p>يتكون تقرير الأرباح عادةً من ثلاثة بيانات مالية رئيسية: قائمة الدخل التي توضح الإيرادات والمصروفات وصافي الربح، والميزانية العمومية التي تعرض الأصول والخصوم وحقوق الملكية في نقطة زمنية محددة.</p><p>كما يشتمل على قائمة التدفقات النقدية التي تبين حركة النقد من الأنشطة التشغيلية والاستثمارية والتمويلية، مما يعطي صورة واضحة عن قدرة الشركة على توليد السيولة.</p><h2 id='s3'>المقاييس المالية الرئيسية للتحليل</h2><p>يجب التركيز على مقاييس مثل ربحية السهم (EPS) ونمو الإيرادات وهامش الربح. مقارنة هذه الأرقام بتوقعات المحللين وأداء الشركة في الفترات السابقة يكشف عن مدى قوة الأداء.</p><p>لا يقل أهمية عن ذلك النظر إلى التوجيهات المستقبلية التي تقدمها الإدارة، حيث تعكس رؤيتها وتوقعاتها للأداء القادم، مما يؤثر بشكل كبير على معنويات المستثمرين.</p><h2 id='s4'>السياق والمقارنات لاتخاذ القرار</h2><p>تحليل الأرقام بمعزل عن السياق قد يكون مضللاً. يجب مقارنة أداء الشركة بنظيراتها في الصناعة وبمتوسطات القطاع لتقييم وضعها التنافسي.</p><p>كذلك، مراجعة الأداء التاريخي للشركة على مدى عدة أرباع أو سنوات تساعد في تحديد الاتجاهات والأنماط، مما يوفر رؤية أعمق حول الاستدامة والنمو المحتمل.</p>",
+    "contentEn": "<h2 id='s1'>Importance of Earnings Reports</h2><p>Company earnings reports are a vital window for investors to assess a company's financial performance and overall health. These reports provide essential information that helps understand the company's profitability and operational efficiency.</p><p>By analyzing them, investors can make informed investment decisions, whether to hold, buy, or sell shares, based on the company's future prospects.</p><h2 id='s2'>Key Components of the Report</h2><p>An earnings report typically consists of three main financial statements: the income statement, which shows revenues, expenses, and net profit; and the balance sheet, which presents assets, liabilities, and equity at a specific point in time.</p><p>It also includes the cash flow statement, detailing cash movement from operating, investing, and financing activities, providing a clear picture of the company's ability to generate liquidity.</p><h2 id='s3'>Key Financial Metrics for Analysis</h2><p>Focus should be on metrics such as Earnings Per Share (EPS), revenue growth, and profit margins. Comparing these figures against analyst expectations and the company's performance in prior periods reveals the strength of its performance.</p><p>Equally important is reviewing future guidance provided by management, as it reflects their outlook and expectations for upcoming performance, significantly impacting investor sentiment.</p><h2 id='s4'>Context and Comparisons for Decision Making</h2><p>Analyzing figures in isolation can be misleading. A company's performance should be compared to its industry peers and sector averages to assess its competitive position.</p><p>Furthermore, reviewing the company's historical performance over several quarters or years helps identify trends and patterns, providing deeper insight into sustainability and potential growth.</p>"
   }
 ];
 

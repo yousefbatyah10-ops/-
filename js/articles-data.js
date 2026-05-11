@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-10
-// Total articles: 21
+// Last updated: 2026-05-11
+// Total articles: 22
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -1732,6 +1732,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>أهمية تقارير الأرباح</h2><p>تعتبر تقارير أرباح الشركات نافذة حيوية للمستثمرين لتقييم الأداء المالي والصحة العامة للشركة. توفر هذه التقارير معلومات أساسية تساعد في فهم مدى ربحية الشركة وكفاءتها التشغيلية.</p><p>من خلال تحليلها، يمكن للمستثمرين اتخاذ قرارات استثمارية مستنيرة، سواء بالاحتفاظ بالأسهم أو شرائها أو بيعها، بناءً على التوقعات المستقبلية للشركة.</p><h2 id='s2'>المكونات الأساسية للتقرير</h2><p>يتكون تقرير الأرباح عادةً من ثلاثة بيانات مالية رئيسية: قائمة الدخل التي توضح الإيرادات والمصروفات وصافي الربح، والميزانية العمومية التي تعرض الأصول والخصوم وحقوق الملكية في نقطة زمنية محددة.</p><p>كما يشتمل على قائمة التدفقات النقدية التي تبين حركة النقد من الأنشطة التشغيلية والاستثمارية والتمويلية، مما يعطي صورة واضحة عن قدرة الشركة على توليد السيولة.</p><h2 id='s3'>المقاييس المالية الرئيسية للتحليل</h2><p>يجب التركيز على مقاييس مثل ربحية السهم (EPS) ونمو الإيرادات وهامش الربح. مقارنة هذه الأرقام بتوقعات المحللين وأداء الشركة في الفترات السابقة يكشف عن مدى قوة الأداء.</p><p>لا يقل أهمية عن ذلك النظر إلى التوجيهات المستقبلية التي تقدمها الإدارة، حيث تعكس رؤيتها وتوقعاتها للأداء القادم، مما يؤثر بشكل كبير على معنويات المستثمرين.</p><h2 id='s4'>السياق والمقارنات لاتخاذ القرار</h2><p>تحليل الأرقام بمعزل عن السياق قد يكون مضللاً. يجب مقارنة أداء الشركة بنظيراتها في الصناعة وبمتوسطات القطاع لتقييم وضعها التنافسي.</p><p>كذلك، مراجعة الأداء التاريخي للشركة على مدى عدة أرباع أو سنوات تساعد في تحديد الاتجاهات والأنماط، مما يوفر رؤية أعمق حول الاستدامة والنمو المحتمل.</p>",
     "contentEn": "<h2 id='s1'>Importance of Earnings Reports</h2><p>Company earnings reports are a vital window for investors to assess a company's financial performance and overall health. These reports provide essential information that helps understand the company's profitability and operational efficiency.</p><p>By analyzing them, investors can make informed investment decisions, whether to hold, buy, or sell shares, based on the company's future prospects.</p><h2 id='s2'>Key Components of the Report</h2><p>An earnings report typically consists of three main financial statements: the income statement, which shows revenues, expenses, and net profit; and the balance sheet, which presents assets, liabilities, and equity at a specific point in time.</p><p>It also includes the cash flow statement, detailing cash movement from operating, investing, and financing activities, providing a clear picture of the company's ability to generate liquidity.</p><h2 id='s3'>Key Financial Metrics for Analysis</h2><p>Focus should be on metrics such as Earnings Per Share (EPS), revenue growth, and profit margins. Comparing these figures against analyst expectations and the company's performance in prior periods reveals the strength of its performance.</p><p>Equally important is reviewing future guidance provided by management, as it reflects their outlook and expectations for upcoming performance, significantly impacting investor sentiment.</p><h2 id='s4'>Context and Comparisons for Decision Making</h2><p>Analyzing figures in isolation can be misleading. A company's performance should be compared to its industry peers and sector averages to assess its competitive position.</p><p>Furthermore, reviewing the company's historical performance over several quarters or years helps identify trends and patterns, providing deeper insight into sustainability and potential growth.</p>"
+  },
+  {
+    "id": 22,
+    "slug": "blockchain-the-technology-changing-the-world",
+    "title": "البلوكشين: التقنية التي تغير العالم",
+    "titleEn": "Blockchain: The Technology Changing the World",
+    "summary": "تقنية البلوكشين هي دفتر أستاذ رقمي لامركزي وغير قابل للتغيير، توفر شفافية وأمانًا غير مسبوقين عبر مجموعة واسعة من الصناعات.",
+    "summaryEn": "Blockchain technology is a decentralized, immutable digital ledger offering unprecedented transparency and security across a wide range of industries.",
+    "excerpt": "استكشف كيف تُحدث تقنية البلوكشين ثورة في المعاملات وتخزين البيانات، وتتجاوز العملات المشفرة لتشمل قطاعات متعددة.",
+    "excerptEn": "Explore how blockchain technology is revolutionizing transactions and data storage, extending beyond cryptocurrencies into multiple sectors.",
+    "category": "تقنية وثروة",
+    "categoryEn": "Tech & Wealth",
+    "categoryIcon": "🤖",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "11 مايو 2026",
+    "dateEn": "May 11, 2026",
+    "dateISO": "2026-05-11",
+    "readTime": "9",
+    "views": "2851",
+    "emoji": "🤖",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article22.jpg",
+    "featured": false,
+    "breadcrumb": "تقنية وثروة",
+    "breadcrumbEn": "Tech & Wealth",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هو البلوكشين؟"
+      },
+      {
+        "id": "s2",
+        "text": "كيف يعمل البلوكشين؟"
+      },
+      {
+        "id": "s3",
+        "text": "تطبيقات البلوكشين خارج العملات المشفرة"
+      },
+      {
+        "id": "s4",
+        "text": "مستقبل البلوكشين وتحدياته"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What is Blockchain?"
+      },
+      {
+        "id": "s2",
+        "text": "How Does Blockchain Work?"
+      },
+      {
+        "id": "s3",
+        "text": "Blockchain Applications Beyond Cryptocurrencies"
+      },
+      {
+        "id": "s4",
+        "text": "The Future and Challenges of Blockchain"
+      }
+    ],
+    "related": [
+      15
+    ],
+    "content": "<h2 id='s1'>ما هو البلوكشين؟</h2><p>البلوكشين، أو سلسلة الكتل، هو نظام لتسجيل المعلومات بطريقة تجعل من الصعب أو المستحيل تغييرها أو اختراقها أو تزويرها. إنه في الأساس دفتر أستاذ رقمي موزع ولامركزي يسجل المعاملات عبر العديد من أجهزة الكمبيوتر.</p><p>نشأت هذه التقنية كعمود فقري للعملة المشفرة بيتكوين، لكن إمكاناتها تتجاوز بكثير مجرد العملات الرقمية، لتعد بإحداث ثورة في كيفية تنظيم البيانات والتحقق منها.</p><h2 id='s2'>كيف يعمل البلوكشين؟</h2><p>يعمل البلوكشين عن طريق تجميع المعاملات في \"كتل\" مشفرة. بمجرد التحقق من صحة الكتلة بواسطة المشاركين في الشبكة، يتم ربطها بالكتلة السابقة، مكونة \"سلسلة\" غير قابلة للتغيير.</p><p>تضمن هذه الطبيعة اللامركزية والمشفرة أن كل معاملة شفافة وآمنة، حيث يتطلب أي تغيير إجماع الأغلبية في الشبكة، مما يجعل التلاعب شبه مستحيل.</p><h2 id='s3'>تطبيقات البلوكشين خارج العملات المشفرة</h2><p>تتوسع استخدامات البلوكشين بسرعة لتشمل قطاعات متنوعة. في إدارة سلسلة التوريد، توفر تتبعًا شفافًا للمنتجات من المنشأ إلى المستهلك. كما أنها تُستخدم في الرعاية الصحية لتأمين سجلات المرضى وفي التصويت لضمان نزاهة الانتخابات.</p><p>تشمل التطبيقات الأخرى العقارات لتسجيل الملكية، والهوية الرقمية، والعقود الذكية التي تنفذ تلقائيًا الشروط المتفق عليها دون وسطاء، مما يعزز الكفاءة ويقلل التكاليف.</p><h2 id='s4'>مستقبل البلوكشين وتحدياته</h2><p>يحمل مستقبل البلوكشين وعودًا هائلة بتحويل الصناعات التقليدية، حيث تستثمر الشركات والحكومات بشكل متزايد في استكشاف إمكاناتها. يمكن أن يؤدي تبنيها الواسع إلى اقتص��دات أكثر كفاءة وشفافية وأمانًا.</p><p>ومع ذلك، لا تزال هناك تحديات كبيرة، بما في ذلك قضايا قابلية التوسع، واستهلاك الطاقة، والحاجة إلى إطار تنظيمي واضح. إن معالجة هذه العقبات أمر بالغ الأهمية لتحقيق إمكانات البلوكشين الكاملة.</p>",
+    "contentEn": "<h2 id='s1'>What is Blockchain?</h2><p>Blockchain is a system for recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. It is essentially a distributed, decentralized digital ledger that records transactions across many computers.</p><p>This technology originated as the backbone for the cryptocurrency Bitcoin, but its potential extends far beyond digital currencies, promising to revolutionize how data is organized and verified.</p><h2 id='s2'>How Does Blockchain Work?</h2><p>Blockchain operates by grouping transactions into encrypted \"blocks.\" Once a block is validated by participants in the network, it is linked to the previous block, forming an immutable \"chain.\"</p><p>This decentralized and cryptographic nature ensures that every transaction is transparent and secure, as any alteration would require the consensus of the majority on the network, making tampering virtually impossible.</p><h2 id='s3'>Blockchain Applications Beyond Cryptocurrencies</h2><p>Blockchain's uses are rapidly expanding into diverse sectors. In supply chain management, it provides transparent tracking of products from origin to consumer. It's also utilized in healthcare to secure patient records and in voting to ensure election integrity.</p><p>Other applications include real estate for property registration, digital identity, and smart contracts that automatically execute agreed-upon terms without intermediaries, enhancing efficiency and reducing costs.</p><h2 id='s4'>The Future and Challenges of Blockchain</h2><p>The future of blockchain holds immense promise for transforming traditional industries, with companies and governments increasingly investing in exploring its potential. Its widespread adoption could lead to more efficient, transparent, and secure economies.</p><p>However, significant challenges remain, including scalability issues, energy consumption, and the need for a clear regulatory framework. Addressing these hurdles is crucial for realizing blockchain's full potential.</p>"
   }
 ];
 

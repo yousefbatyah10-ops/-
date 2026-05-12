@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-11
-// Total articles: 22
+// Last updated: 2026-05-12
+// Total articles: 23
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -1801,6 +1801,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هو البلوكشين؟</h2><p>البلوكشين، أو سلسلة الكتل، هو نظام لتسجيل المعلومات بطريقة تجعل من الصعب أو المستحيل تغييرها أو اختراقها أو تزويرها. إنه في الأساس دفتر أستاذ رقمي موزع ولامركزي يسجل المعاملات عبر العديد من أجهزة الكمبيوتر.</p><p>نشأت هذه التقنية كعمود فقري للعملة المشفرة بيتكوين، لكن إمكاناتها تتجاوز بكثير مجرد العملات الرقمية، لتعد بإحداث ثورة في كيفية تنظيم البيانات والتحقق منها.</p><h2 id='s2'>كيف يعمل البلوكشين؟</h2><p>يعمل البلوكشين عن طريق تجميع المعاملات في \"كتل\" مشفرة. بمجرد التحقق من صحة الكتلة بواسطة المشاركين في الشبكة، يتم ربطها بالكتلة السابقة، مكونة \"سلسلة\" غير قابلة للتغيير.</p><p>تضمن هذه الطبيعة اللامركزية والمشفرة أن كل معاملة شفافة وآمنة، حيث يتطلب أي تغيير إجماع الأغلبية في الشبكة، مما يجعل التلاعب شبه مستحيل.</p><h2 id='s3'>تطبيقات البلوكشين خارج العملات المشفرة</h2><p>تتوسع استخدامات البلوكشين بسرعة لتشمل قطاعات متنوعة. في إدارة سلسلة التوريد، توفر تتبعًا شفافًا للمنتجات من المنشأ إلى المستهلك. كما أنها تُستخدم في الرعاية الصحية لتأمين سجلات المرضى وفي التصويت لضمان نزاهة الانتخابات.</p><p>تشمل التطبيقات الأخرى العقارات لتسجيل الملكية، والهوية الرقمية، والعقود الذكية التي تنفذ تلقائيًا الشروط المتفق عليها دون وسطاء، مما يعزز الكفاءة ويقلل التكاليف.</p><h2 id='s4'>مستقبل البلوكشين وتحدياته</h2><p>يحمل مستقبل البلوكشين وعودًا هائلة بتحويل الصناعات التقليدية، حيث تستثمر الشركات والحكومات بشكل متزايد في استكشاف إمكاناتها. يمكن أن يؤدي تبنيها الواسع إلى اقتص��دات أكثر كفاءة وشفافية وأمانًا.</p><p>ومع ذلك، لا تزال هناك تحديات كبيرة، بما في ذلك قضايا قابلية التوسع، واستهلاك الطاقة، والحاجة إلى إطار تنظيمي واضح. إن معالجة هذه العقبات أمر بالغ الأهمية لتحقيق إمكانات البلوكشين الكاملة.</p>",
     "contentEn": "<h2 id='s1'>What is Blockchain?</h2><p>Blockchain is a system for recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. It is essentially a distributed, decentralized digital ledger that records transactions across many computers.</p><p>This technology originated as the backbone for the cryptocurrency Bitcoin, but its potential extends far beyond digital currencies, promising to revolutionize how data is organized and verified.</p><h2 id='s2'>How Does Blockchain Work?</h2><p>Blockchain operates by grouping transactions into encrypted \"blocks.\" Once a block is validated by participants in the network, it is linked to the previous block, forming an immutable \"chain.\"</p><p>This decentralized and cryptographic nature ensures that every transaction is transparent and secure, as any alteration would require the consensus of the majority on the network, making tampering virtually impossible.</p><h2 id='s3'>Blockchain Applications Beyond Cryptocurrencies</h2><p>Blockchain's uses are rapidly expanding into diverse sectors. In supply chain management, it provides transparent tracking of products from origin to consumer. It's also utilized in healthcare to secure patient records and in voting to ensure election integrity.</p><p>Other applications include real estate for property registration, digital identity, and smart contracts that automatically execute agreed-upon terms without intermediaries, enhancing efficiency and reducing costs.</p><h2 id='s4'>The Future and Challenges of Blockchain</h2><p>The future of blockchain holds immense promise for transforming traditional industries, with companies and governments increasingly investing in exploring its potential. Its widespread adoption could lead to more efficient, transparent, and secure economies.</p><p>However, significant challenges remain, including scalability issues, energy consumption, and the need for a clear regulatory framework. Addressing these hurdles is crucial for realizing blockchain's full potential.</p>"
+  },
+  {
+    "id": 23,
+    "slug": "renewable-energy-the-future-investment",
+    "title": "الطاقة المتجددة: استثمار المستقبل",
+    "titleEn": "Renewable Energy: The Future Investment",
+    "summary": "تُعد الطاقة المتجددة استثماراً حكيماً للمستقبل، حيث تجمع بين النمو الاقتصادي المستدام وحماية البيئة وتوفير فرص استثمارية واعدة.",
+    "summaryEn": "Renewable energy is a wise investment for the future, combining sustainable economic growth with environmental protection and promising investment opportunities.",
+    "excerpt": "يكشف هذا المقال عن أهمية الطاقة المتجددة كركيزة أساسية للاستثمار المستقبلي، مسلطاً الضوء على مزاياها الاقتصادية والبيئية.",
+    "excerptEn": "This article reveals the importance of renewable energy as a cornerstone of future investment, highlighting its economic and environmental advantages.",
+    "category": "تقنية وثروة",
+    "categoryEn": "Tech & Wealth",
+    "categoryIcon": "🤖",
+    "author": "د. سامي القحطاني",
+    "authorEn": "Dr. Sami Al-Qahtani",
+    "authorInitial": "S",
+    "date": "12 مايو 2026",
+    "dateEn": "May 12, 2026",
+    "dateISO": "2026-05-12",
+    "readTime": "9",
+    "views": "3087",
+    "emoji": "🤖",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article23.jpg",
+    "featured": false,
+    "breadcrumb": "تقنية وثروة",
+    "breadcrumbEn": "Tech & Wealth",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: تحول الطاقة العالمي"
+      },
+      {
+        "id": "s2",
+        "text": "المزايا الاقتصادية والفرص الاستثمارية"
+      },
+      {
+        "id": "s3",
+        "text": "الأثر البيئي والاستدامة"
+      },
+      {
+        "id": "s4",
+        "text": "مستقبل الاستثمار في الطاقة المتجددة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: Global Energy Transformation"
+      },
+      {
+        "id": "s2",
+        "text": "Economic Advantages and Investment Opportunities"
+      },
+      {
+        "id": "s3",
+        "text": "Environmental Impact and Sustainability"
+      },
+      {
+        "id": "s4",
+        "text": "Future of Investment in Renewable Energy"
+      }
+    ],
+    "related": [
+      22
+    ],
+    "content": "<h2 id='s1'>مقدمة: تحول الطاقة العالمي</h2><p>يشهد العالم تحولاً جذرياً نحو مصادر الطاقة المتجددة، مدفوعاً بالتحديات البيئية والاقتصادية. لم تعد هذه المصادر مجرد بديل، بل أصبحت ضرورة ملحة لمستقبل مستدام.</p><p>تُمثل الطاقة الشمسية وطاقة الرياح والطاقة الكهرومائية حلولاً واعدة لمواجهة نضوب الوقود الأحفوري وتقليل الانبعاثات الكربونية الضارة.</p><h2 id='s2'>المزايا الاقتصادية والفرص الاستثمارية</h2><p>توفر الطاقة المتجددة فرصاً استثمارية هائلة ونمواً اقتصادياً مستداماً. تشهد تكلفة إنتاج الطاقة المتجددة انخفاضاً مستمراً، مما يجعلها أكثر تنافسية وجاذبية للمستثمرين.</p><p>تساهم هذه الصناعة في خلق ملايين فرص العمل الجديدة على مستوى العالم، وتدعم الابتكار التكنولوجي وتطوير البنية التحتية الخضراء.</p><h2 id='s3'>الأثر البيئي والاستدامة</h2><p>يُعد الحد من التلوث وحماية البيئة من أبرز فوائد الطاقة المتجددة. فهي لا تنتج غازات دفيئة أو ملوثات ضارة بالهواء والماء، مما يدعم صحة الكوكب والإنسان.</p><p>تُعزز هذه المصادر الاستدامة على المدى الطويل من خلال الاعتماد على موارد طبيعية لا تنضب، مما يضمن أمن الطاقة للأجيال القادمة.</p><h2 id='s4'>مستقبل الاستثمار في الطاقة المتجددة</h2><p>تتجه الأنظار نحو الطاقة المتجددة كقطاع استثماري واعد، مدعومًا بالسياسات الحكومية المشجعة والوعي المتزايد بأهميتها. يمكن للمستثمرين التفكير في صناديق الاستثمار المتخصصة أو الشركات الرائدة في هذا المجال.</p><p>مع استمرار الابتكار وتوسع الأسواق، يُتوقع أن يشهد هذا القطاع نموًا متسارعًا، مما يجعله ركيزة ��ساسية للاقتصادات العالمية ومحفظة استثمارية ذكية.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: Global Energy Transformation</h2><p>The world is witnessing a radical transformation towards renewable energy sources, driven by environmental and economic challenges. These sources are no longer just an alternative but have become an urgent necessity for a sustainable future.</p><p>Solar, wind, and hydropower represent promising solutions to address fossil fuel depletion and reduce harmful carbon emissions.</p><h2 id='s2'>Economic Advantages and Investment Opportunities</h2><p>Renewable energy offers enormous investment opportunities and sustainable economic growth. The cost of producing renewable energy is continuously decreasing, making it more competitive and attractive to investors.</p><p>This industry contributes to creating millions of new jobs globally and supports technological innovation and the development of green infrastructure.</p><h2 id='s3'>Environmental Impact and Sustainability</h2><p>Reducing pollution and protecting the environment are among the most prominent benefits of renewable energy. It does not produce greenhouse gases or harmful air and water pollutants, thus supporting the health of the planet and humanity.</p><p>These sources promote long-term sustainability by relying on inexhaustible natural resources, ensuring energy security for future generations.</p><h2 id='s4'>Future of Investment in Renewable Energy</h2><p>Attention is turning towards renewable energy as a promising investment sector, supported by encouraging government policies and increasing awareness of its importance. Investors can consider specialized investment funds or leading companies in this field.</p><p>With continued innovation and market expansion, this sector is expected to experience rapid growth, making it a cornerstone of global economies and a smart investment portfolio.</p>"
   }
 ];
 

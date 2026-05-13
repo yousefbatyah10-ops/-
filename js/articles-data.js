@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-12
-// Total articles: 23
+// Last updated: 2026-05-13
+// Total articles: 24
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -1870,6 +1870,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: تحول الطاقة العالمي</h2><p>يشهد العالم تحولاً جذرياً نحو مصادر الطاقة المتجددة، مدفوعاً بالتحديات البيئية والاقتصادية. لم تعد هذه المصادر مجرد بديل، بل أصبحت ضرورة ملحة لمستقبل مستدام.</p><p>تُمثل الطاقة الشمسية وطاقة الرياح والطاقة الكهرومائية حلولاً واعدة لمواجهة نضوب الوقود الأحفوري وتقليل الانبعاثات الكربونية الضارة.</p><h2 id='s2'>المزايا الاقتصادية والفرص الاستثمارية</h2><p>توفر الطاقة المتجددة فرصاً استثمارية هائلة ونمواً اقتصادياً مستداماً. تشهد تكلفة إنتاج الطاقة المتجددة انخفاضاً مستمراً، مما يجعلها أكثر تنافسية وجاذبية للمستثمرين.</p><p>تساهم هذه الصناعة في خلق ملايين فرص العمل الجديدة على مستوى العالم، وتدعم الابتكار التكنولوجي وتطوير البنية التحتية الخضراء.</p><h2 id='s3'>الأثر البيئي والاستدامة</h2><p>يُعد الحد من التلوث وحماية البيئة من أبرز فوائد الطاقة المتجددة. فهي لا تنتج غازات دفيئة أو ملوثات ضارة بالهواء والماء، مما يدعم صحة الكوكب والإنسان.</p><p>تُعزز هذه المصادر الاستدامة على المدى الطويل من خلال الاعتماد على موارد طبيعية لا تنضب، مما يضمن أمن الطاقة للأجيال القادمة.</p><h2 id='s4'>مستقبل الاستثمار في الطاقة المتجددة</h2><p>تتجه الأنظار نحو الطاقة المتجددة كقطاع استثماري واعد، مدعومًا بالسياسات الحكومية المشجعة والوعي المتزايد بأهميتها. يمكن للمستثمرين التفكير في صناديق الاستثمار المتخصصة أو الشركات الرائدة في هذا المجال.</p><p>مع استمرار الابتكار وتوسع الأسواق، يُتوقع أن يشهد هذا القطاع نموًا متسارعًا، مما يجعله ركيزة ��ساسية للاقتصادات العالمية ومحفظة استثمارية ذكية.</p>",
     "contentEn": "<h2 id='s1'>Introduction: Global Energy Transformation</h2><p>The world is witnessing a radical transformation towards renewable energy sources, driven by environmental and economic challenges. These sources are no longer just an alternative but have become an urgent necessity for a sustainable future.</p><p>Solar, wind, and hydropower represent promising solutions to address fossil fuel depletion and reduce harmful carbon emissions.</p><h2 id='s2'>Economic Advantages and Investment Opportunities</h2><p>Renewable energy offers enormous investment opportunities and sustainable economic growth. The cost of producing renewable energy is continuously decreasing, making it more competitive and attractive to investors.</p><p>This industry contributes to creating millions of new jobs globally and supports technological innovation and the development of green infrastructure.</p><h2 id='s3'>Environmental Impact and Sustainability</h2><p>Reducing pollution and protecting the environment are among the most prominent benefits of renewable energy. It does not produce greenhouse gases or harmful air and water pollutants, thus supporting the health of the planet and humanity.</p><p>These sources promote long-term sustainability by relying on inexhaustible natural resources, ensuring energy security for future generations.</p><h2 id='s4'>Future of Investment in Renewable Energy</h2><p>Attention is turning towards renewable energy as a promising investment sector, supported by encouraging government policies and increasing awareness of its importance. Investors can consider specialized investment funds or leading companies in this field.</p><p>With continued innovation and market expansion, this sector is expected to experience rapid growth, making it a cornerstone of global economies and a smart investment portfolio.</p>"
+  },
+  {
+    "id": 24,
+    "slug": "platinum-the-forgotten-investment-metal",
+    "title": "البلاتينيوم: المعدن المنسي في عالم الاستثمار",
+    "titleEn": "Platinum: The Forgotten Investment Metal",
+    "summary": "يستعرض المقال البلاتينيوم كأحد أندر المعادن الثمينة والمنسية في عالم الاستثمار، مسلطاً الضوء على تطبيقاته الصناعية المتنوعة وجاذبيته الاستثمارية الفريدة ومستقبله الواعد.",
+    "summaryEn": "This article explores platinum as one of the rarest and most overlooked precious metals in the investment world, highlighting its diverse industrial applications, unique investment appeal, and promising future.",
+    "excerpt": "رغم ندرته وتطبيقاته الحيوية، يظل البلاتينيوم معدناً مهملاً نسبياً في محافظ المستثمرين، مما يفتح الباب أمام فرص استثمارية قد لا يراها الكثيرون.",
+    "excerptEn": "Despite its scarcity and vital applications, platinum remains a relatively overlooked metal in investor portfolios, opening the door to investment opportunities many may not see.",
+    "category": "الذهب والمعادن",
+    "categoryEn": "Gold & Metals",
+    "categoryIcon": "🧸",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "13 مايو 2026",
+    "dateEn": "May 13, 2026",
+    "dateISO": "2026-05-13",
+    "readTime": "12",
+    "views": "1366",
+    "emoji": "🧸",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article24.jpg",
+    "featured": false,
+    "breadcrumb": "الذهب والمعادن",
+    "breadcrumbEn": "Gold & Metals",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "البلاتينيوم: معدن ذو قيمة تاريخية"
+      },
+      {
+        "id": "s2",
+        "text": "تطبيقات صناعية واسعة النطاق"
+      },
+      {
+        "id": "s3",
+        "text": "جاذبية استثمارية فريدة"
+      },
+      {
+        "id": "s4",
+        "text": "مستقبل البلاتينيوم في الأسواق العالمية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Platinum: A Metal of Historical Value"
+      },
+      {
+        "id": "s2",
+        "text": "Wide-Ranging Industrial Applications"
+      },
+      {
+        "id": "s3",
+        "text": "Unique Investment Appeal"
+      },
+      {
+        "id": "s4",
+        "text": "The Future of Platinum in Global Markets"
+      }
+    ],
+    "related": [
+      6
+    ],
+    "content": "<h2 id='s1'>البلاتينيوم: معدن ذو قيمة تاريخية</h2><p>يُعرف البلاتينيوم بكونه أحد أندر المعادن الثمينة، وغالباً ما يُشار إليه بالمعدن \"المنسي\" في محافظ الاستثمار مقارنة بالذهب والفضة. رغم ندرته وتطبيقاته الصناعية المتعددة، إلا أنه لا يحظى بنفس القدر من الاهتمام الإعلامي أو الشعبي.</p><p>هذه النظرة المحدودة تخفي إمكانات استثمارية كبيرة، مما يجعله خياراً جذاباً للمستثمرين الباحثين عن تنويع حقيقي.</p><h2 id='s2'>تطبيقات صناعية واسعة النطاق</h2><p>يعتمد جزء كبير من الطلب على البلاتينيوم على استخدامه في المحولات الحفازة بالسيارات، حيث يساعد على تقليل الانبعاثات الضارة. كما يدخل في صناعة المجوهرات الفاخرة، والأجهزة الطبية، وتصنيع المواد الكيميائية.</p><p>هذا التنوع في الاستخدامات يمنحه مرونة في الطلب، ويقلل من اعتماده على قطاع واحد، مما يعزز استقراره على المدى الطويل.</p><h2 id='s3'>جاذبية استثمارية فريدة</h2><p>يتميز البلاتينيوم بندرته الشديدة، حيث تقدر احتياطاته بأقل بكثير من الذهب والفضة، مما يجعله عرضة لتقلبات العرض والطلب. يمكن للمستثمرين الاستفادة من هذه الندرة عبر صناديق المؤشرات المتداولة أو السبائك المادية.</p><p>يوفر البلاتينيوم فرصة للتنويع ضد تقلبات الأسواق التقليدية، وقد يكون ملاذاً آمناً في أوقات عدم اليقين الاقتصادي، مع إمكانية تحقيق عوائد مجزية عند تحسن الظروف الصناعية.</p><h2 id='s4'>مستقبل البلاتينيوم في الأسواق العالمية</h2><p>تتأثر أسعار البلاتينيوم بشك�� كبير بالعرض من جنوب إفريقيا، أكبر منتج له، وكذلك بالطلب من صناعة السيارات والتحول نحو السيارات الكهربائية. ومع ذلك، فإن الطلب المتزايد في الهيدروجين الأخضر والتطبيقات الطبية قد يعوض أي تراجع.</p><p>الابتكارات التكنولوجية والتوجهات نحو الطاقة النظيفة قد تفتح آفاقاً جديدة للبلاتينيوم، مما يؤكد على أهميته المتزايدة كمعدن استراتيجي وليس مجرد سلعة.</p>",
+    "contentEn": "<h2 id='s1'>Platinum: A Metal of Historical Value</h2><p>Platinum is known as one of the rarest precious metals, often referred to as the \"forgotten\" metal in investment portfolios compared to gold and silver. Despite its scarcity and numerous industrial applications, it doesn't receive the same media or public attention.</p><p>This limited perception hides significant investment potential, making it an attractive option for investors seeking true diversification.</p><h2 id='s2'>Wide-Ranging Industrial Applications</h2><p>A significant portion of platinum demand comes from its use in automotive catalytic converters, where it helps reduce harmful emissions. It is also used in fine jewelry, medical devices, and chemical manufacturing.</p><p>This diversity in uses provides demand resilience, reducing its reliance on a single sector and enhancing its long-term stability.</p><h2 id='s3'>Unique Investment Appeal</h2><p>Platinum is characterized by its extreme rarity, with reserves estimated to be much lower than gold and silver, making it susceptible to supply and demand fluctuations. Investors can capitalize on this scarcity through ETFs or physical bullion.</p><p>Platinum offers an opportunity for diversification against traditional market volatility and can serve as a safe haven during times of economic uncertainty, with potential for rewarding returns as industrial conditions improve.</p><h2 id='s4'>The Future of Platinum in Global Markets</h2><p>Platinum prices are largely influenced by supply from South Africa, its largest producer, as well as demand from the automotive industry and the shift towards electric vehicles. However, increasing demand in green hydrogen and medical applications may offset any decline.</p><p>Technological innovations and trends towards clean energy could open new horizons for platinum, underscoring its growing importance as a strategic metal rather than just a commodity.</p>"
   }
 ];
 

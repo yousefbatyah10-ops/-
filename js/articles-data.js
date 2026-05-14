@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-13
-// Total articles: 24
+// Last updated: 2026-05-14
+// Total articles: 25
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -1939,6 +1939,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>البلاتينيوم: معدن ذو قيمة تاريخية</h2><p>يُعرف البلاتينيوم بكونه أحد أندر المعادن الثمينة، وغالباً ما يُشار إليه بالمعدن \"المنسي\" في محافظ الاستثمار مقارنة بالذهب والفضة. رغم ندرته وتطبيقاته الصناعية المتعددة، إلا أنه لا يحظى بنفس القدر من الاهتمام الإعلامي أو الشعبي.</p><p>هذه النظرة المحدودة تخفي إمكانات استثمارية كبيرة، مما يجعله خياراً جذاباً للمستثمرين الباحثين عن تنويع حقيقي.</p><h2 id='s2'>تطبيقات صناعية واسعة النطاق</h2><p>يعتمد جزء كبير من الطلب على البلاتينيوم على استخدامه في المحولات الحفازة بالسيارات، حيث يساعد على تقليل الانبعاثات الضارة. كما يدخل في صناعة المجوهرات الفاخرة، والأجهزة الطبية، وتصنيع المواد الكيميائية.</p><p>هذا التنوع في الاستخدامات يمنحه مرونة في الطلب، ويقلل من اعتماده على قطاع واحد، مما يعزز استقراره على المدى الطويل.</p><h2 id='s3'>جاذبية استثمارية فريدة</h2><p>يتميز البلاتينيوم بندرته الشديدة، حيث تقدر احتياطاته بأقل بكثير من الذهب والفضة، مما يجعله عرضة لتقلبات العرض والطلب. يمكن للمستثمرين الاستفادة من هذه الندرة عبر صناديق المؤشرات المتداولة أو السبائك المادية.</p><p>يوفر البلاتينيوم فرصة للتنويع ضد تقلبات الأسواق التقليدية، وقد يكون ملاذاً آمناً في أوقات عدم اليقين الاقتصادي، مع إمكانية تحقيق عوائد مجزية عند تحسن الظروف الصناعية.</p><h2 id='s4'>مستقبل البلاتينيوم في الأسواق العالمية</h2><p>تتأثر أسعار البلاتينيوم بشك�� كبير بالعرض من جنوب إفريقيا، أكبر منتج له، وكذلك بالطلب من صناعة السيارات والتحول نحو السيارات الكهربائية. ومع ذلك، فإن الطلب المتزايد في الهيدروجين الأخضر والتطبيقات الطبية قد يعوض أي تراجع.</p><p>الابتكارات التكنولوجية والتوجهات نحو الطاقة النظيفة قد تفتح آفاقاً جديدة للبلاتينيوم، مما يؤكد على أهميته المتزايدة كمعدن استراتيجي وليس مجرد سلعة.</p>",
     "contentEn": "<h2 id='s1'>Platinum: A Metal of Historical Value</h2><p>Platinum is known as one of the rarest precious metals, often referred to as the \"forgotten\" metal in investment portfolios compared to gold and silver. Despite its scarcity and numerous industrial applications, it doesn't receive the same media or public attention.</p><p>This limited perception hides significant investment potential, making it an attractive option for investors seeking true diversification.</p><h2 id='s2'>Wide-Ranging Industrial Applications</h2><p>A significant portion of platinum demand comes from its use in automotive catalytic converters, where it helps reduce harmful emissions. It is also used in fine jewelry, medical devices, and chemical manufacturing.</p><p>This diversity in uses provides demand resilience, reducing its reliance on a single sector and enhancing its long-term stability.</p><h2 id='s3'>Unique Investment Appeal</h2><p>Platinum is characterized by its extreme rarity, with reserves estimated to be much lower than gold and silver, making it susceptible to supply and demand fluctuations. Investors can capitalize on this scarcity through ETFs or physical bullion.</p><p>Platinum offers an opportunity for diversification against traditional market volatility and can serve as a safe haven during times of economic uncertainty, with potential for rewarding returns as industrial conditions improve.</p><h2 id='s4'>The Future of Platinum in Global Markets</h2><p>Platinum prices are largely influenced by supply from South Africa, its largest producer, as well as demand from the automotive industry and the shift towards electric vehicles. However, increasing demand in green hydrogen and medical applications may offset any decline.</p><p>Technological innovations and trends towards clean energy could open new horizons for platinum, underscoring its growing importance as a strategic metal rather than just a commodity.</p>"
+  },
+  {
+    "id": 25,
+    "slug": "ipos-opportunity-or-trap",
+    "title": "الاكتتابات العامة: فرصة أم فخ؟",
+    "titleEn": "IPOs: Opportunity or Trap?",
+    "summary": "الاكتتابات العامة قد تقدم فرصًا استثمارية واعدة لتحقيق مكاسب سريعة، لكنها تحمل أيضًا مخاطر كبيرة تتطلب بحثًا معمقًا لتمييز الفرص الحقيقية عن المبالغات.",
+    "summaryEn": "IPOs can offer promising investment opportunities for quick gains, but they also carry significant risks that require in-depth research to distinguish genuine opportunities from hype.",
+    "excerpt": "هل الاكتتابات العامة هي بوابتك للثراء السريع أم طريق محفوف بالمخاطر؟ اكتشف كيفية اتخاذ قرار استثماري مستنير.",
+    "excerptEn": "Are IPOs your gateway to quick wealth or a path fraught with risks? Discover how to make an informed investment decision.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "14 مايو 2026",
+    "dateEn": "May 14, 2026",
+    "dateISO": "2026-05-14",
+    "readTime": "8",
+    "views": "1376",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article25.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "الاكتتابات العامة: ما هي ولماذا؟"
+      },
+      {
+        "id": "s2",
+        "text": "الفرصة الواعدة: جاذبية المكاسب السريعة"
+      },
+      {
+        "id": "s3",
+        "text": "الفخ المحتمل: المخاطر الخفية"
+      },
+      {
+        "id": "s4",
+        "text": "كيف تقيم الاكتتاب العام؟"
+      },
+      {
+        "id": "s5",
+        "text": "الخلاصة: قرار مبني على المعرفة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "IPOs: What are they and Why?"
+      },
+      {
+        "id": "s2",
+        "text": "The Promising Opportunity: Allure of Quick Gains"
+      },
+      {
+        "id": "s3",
+        "text": "The Potential Trap: Hidden Risks"
+      },
+      {
+        "id": "s4",
+        "text": "How to Evaluate an IPO?"
+      },
+      {
+        "id": "s5",
+        "text": "Conclusion: A Knowledge-Based Decision"
+      }
+    ],
+    "related": [
+      21
+    ],
+    "content": "<h2 id='s1'>الاكتتابات العامة: ما هي ولماذا؟</h2><p>الاكتتاب العام الأولي (IPO) هو عملية طرح أسهم شركة خاصة للجمهور لأول مرة. تسعى الشركات من خلاله لجمع رؤوس أموال جديدة لتمويل التوسع أو سداد الديون، وتوفر للمستثمرين فرصة للمشاركة في نمو شركات واعدة.</p><h2 id='s2'>الفرصة الواعدة: جاذبية المكاسب السريعة</h2><p>ينجذب العديد من المستثمرين إلى الاكتتابات العامة بسبب إمكانية تحقيق مكاسب رأسمالية سريعة في الأيام أو الأسابيع الأولى للتداول. غالبًا ما تكون هناك ضجة إعلامية وتوقعات عالية حول الشركات الجديدة، مما قد يدفع سعر السهم للارتفاع بعد الطرح.</p><h2 id='s3'>الفخ المحتمل: المخاطر الخفية</h2><p>على الرغم من جاذبيتها، تحمل الاكتتابات العامة مخاطر كبيرة. قد يتم تسعير الأسهم بأعلى من قيمتها الحقيقية، مما يؤدي إلى انخفاض حاد بعد فترة الارتفاع الأولي. كما أن الشركات المطروحة حديثًا تفتقر غالبًا إلى تاريخ طويل من الأداء العام، مما يجعل تقييمها أكثر صعوبة.</p><h2 id='s4'>كيف تقيم الاكتتاب العام؟</h2><p>يتطلب تقييم الاكتتاب العام بحثًا معمقًا. يجب على المستثمرين مراجعة نشرة الإصدار بدقة، وفهم نموذج عمل الشركة وإدارتها، وتحليل وضعها المالي وقطاعها التنافسي قبل اتخاذ أي قرار استثماري.</p><h2 id='s5'>الخلاصة: قرار مبني على المعرفة</h2><p>الاكتتابات العامة يمكن أن تكون فرصًا ذهبية أو فخاخًا مكلفة. النجاح يعتمد على قدرة المستثمر على التمييز بين الشركات القوية التي تتمتع بأساسيات متينة وتلك التي تعتمد فقط على الضجيج. الاستثمار المستنير هو مفتاح تحقيق الأرباح وتجنب الخسائر.</p>",
+    "contentEn": "<h2 id='s1'>IPOs: What are they and Why?</h2><p>An Initial Public Offering (IPO) is the process of offering shares of a private company to the public for the first time. Companies use IPOs to raise new capital for expansion or debt repayment, offering investors an opportunity to participate in the growth of promising businesses.</p><h2 id='s2'>The Promising Opportunity: Allure of Quick Gains</h2><p>Many investors are drawn to IPOs due to the potential for rapid capital gains in the initial days or weeks of trading. There is often significant media buzz and high expectations surrounding new companies, which can drive the stock price up after the offering.</p><h2 id='s3'>The Potential Trap: Hidden Risks</h2><p>Despite their appeal, IPOs carry substantial risks. Shares might be overpriced, leading to a sharp decline after an initial surge. Newly listed companies also often lack a long public performance history, making their valuation more challenging.</p><h2 id='s4'>How to Evaluate an IPO?</h2><p>Evaluating an IPO requires thorough research. Investors should carefully review the prospectus, understand the company's business model and management, and analyze its financial position and competitive industry before making any investment decision.</p><h2 id='s5'>Conclusion: A Knowledge-Based Decision</h2><p>IPOs can be golden opportunities or costly traps. Success depends on an investor's ability to distinguish between strong companies with solid fundamentals and those relying solely on hype. Informed investing is key to realizing profits and avoiding losses.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-19
-// Total articles: 30
+// Last updated: 2026-05-20
+// Total articles: 31
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -2369,6 +2369,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>لماذا الاستثمار في سبائك الذهب؟</h2><p>تُعتبر سبائك الذهب ملاذًا آمنًا ومخزنًا للقيمة عبر العصور، حيث تحمي المدخرات من تقلبات العملات والتضخم الاقتصادي. إنها أداة استثمارية ملموسة تمنح المستثمرين شعورًا بالأمان المالي.</p><p>يمتاز الذهب بقدرته على الاحتفاظ بقيمته على المدى الطويل، مما يجعله خيارًا مفضلاً لتنويع المحافظ الاستثمارية وتحقيق الاستقرار في الأوقات الاقتصادية المضطربة.</p><h2 id='s2'>أين تشتري سبائك الذهب في السعودية؟</h2><p>يمكن شراء سبائك الذهب من عدة مصادر موثوقة في المملكة، أبرزها محلات الذهب الكبرى والمعتمدة، والبنوك التي تقدم خدمات بيع السبائك الذهبية، وكذلك تجار المعادن الثمينة المرخصين.</p><p>يُنصح بالتعامل مع الجهات ذات السمعة الطيبة والتي توفر شهادات أصالة للسبائك، لضمان نقاء الذهب ووزنه الصحيح وفقًا للمعايير العالمية.</p><h2 id='s3'>اعتبارات رئيسية قبل الشراء</h2><p>قبل الشراء، يجب التحقق من نقاء الذهب (عيار 24 قيراط هو الأفضل للسبائك) والتأكد من وجود علامات الدمغة والوزن. قارن الأسعار بين عدة بائعين للحصول على أفضل صفقة، مع الأخذ في الاعتبار سعر الذهب العالمي وهامش الربح للبائع.</p><p>اسأل عن تكاليف المصنعية الإضافية وتأكد من فهمك لجميع الرسوم. من الضروري أيضًا التفكير في خيارات التخزين الآمن للسبائك بعد شرائها.</p><h2 id='s4'>خطوات الشراء والتخزين الآمن</h2><p>حدد ميزانيتك ونوع السبيكة التي ترغب بشرائها (أوزان مختلفة متاحة). قم بزيارة المتجر أو البنك المختار، واطلب رؤية السبائك وشهاداتها. عند الشراء، احتفظ بالفواتير وشهادات الأصالة جيدًا.</p><p>للتخزين، يمكنك استخدام خزائن البنوك الآمنة أو الخزائن المنزلية المخصصة للممتلكات الثمينة. تأمين الذهب يضمن حمايته من السرقة أو الضياع، ويُعد جزءًا أساسيًا من عملية الاستثمار.</p>",
     "contentEn": "<h2 id='s1'>Why Invest in Gold Bars?</h2><p>Gold bars have long been considered a safe haven and a store of value, protecting savings from currency fluctuations and economic inflation. They are a tangible investment tool that provides investors with a sense of financial security.</p><p>Gold is known for its ability to retain its value over the long term, making it a preferred choice for diversifying investment portfolios and achieving stability during turbulent economic times.</p><h2 id='s2'>Where to Buy Gold Bars in Saudi Arabia?</h2><p>Gold bars can be purchased from several reputable sources in the Kingdom, most notably large, accredited gold shops, banks offering gold bar sales services, and licensed precious metal dealers.</p><p>It is advisable to deal with reputable entities that provide authenticity certificates for the bars, ensuring the gold's purity and correct weight according to international standards.</p><h2 id='s3'>Key Considerations Before Buying</h2><p>Before purchasing, verify the gold's purity (24 karat is best for bars) and ensure the presence of hallmarks and weight markings. Compare prices among several sellers to get the best deal, considering global gold prices and the seller's profit margin.</p><p>Inquire about additional manufacturing costs and ensure you understand all fees. It is also essential to consider secure storage options for the bars after purchase.</p><h2 id='s4'>Steps to Purchase and Secure Storage</h2><p>Determine your budget and the type of gold bar you wish to buy (various weights are available). Visit your chosen store or bank and request to see the bars and their certificates. Upon purchase, keep invoices and authenticity certificates safe.</p><p>For storage, you can use secure bank vaults or dedicated home safes for valuables. Insuring your gold protects it from theft or loss and is a crucial part of the investment process.</p>"
+  },
+  {
+    "id": 31,
+    "slug": "best-day-trading-strategies",
+    "title": "أفضل استراتيجيات التداول اليومي",
+    "titleEn": "Best Day Trading Strategies",
+    "summary": "يستعرض هذا المقال أفضل استراتيجيات التداول اليومي مثل السكالبينج وتداول الزخم، ويؤكد على أهمية إدارة المخاطر والانضباط لتحقيق النجاح في الأسواق المالية.",
+    "summaryEn": "This article reviews the best day trading strategies like scalping and momentum trading, emphasizing the importance of risk management and discipline for success in financial markets.",
+    "excerpt": "تعرف على أبرز استراتيجيات التداول اليومي الفعالة وكيف يمكنك تطبيقها لتعزيز فرصك في السوق، مع التركيز على أهمية الانضباط وإدارة المخاطر لحماية رأس مالك.",
+    "excerptEn": "Discover the most effective day trading strategies and how to apply them to enhance your market opportunities, focusing on the importance of discipline and risk management to protect your capital.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "خالد المحسن",
+    "authorEn": "Khalid Al-Muhsen",
+    "authorInitial": "K",
+    "date": "20 مايو 2026",
+    "dateEn": "May 20, 2026",
+    "dateISO": "2026-05-20",
+    "readTime": "12",
+    "views": "5115",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article31.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "فهم التداول اليومي وأهمية الاستراتيجيات"
+      },
+      {
+        "id": "s2",
+        "text": "استراتيجية السكالبينج (Scalping)"
+      },
+      {
+        "id": "s3",
+        "text": "استراتيجية تداول الزخم (Momentum Trading)"
+      },
+      {
+        "id": "s4",
+        "text": "إدارة المخاطر والانضباط النفسي"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Understanding Day Trading and Strategy Importance"
+      },
+      {
+        "id": "s2",
+        "text": "Scalping Strategy"
+      },
+      {
+        "id": "s3",
+        "text": "Momentum Trading Strategy"
+      },
+      {
+        "id": "s4",
+        "text": "Risk Management and Psychological Discipline"
+      }
+    ],
+    "related": [
+      2
+    ],
+    "content": "<h2 id='s1'>فهم التداول اليومي وأهمية الاستراتيجيات</h2><p>التداول اليومي هو فن شراء وبيع الأصول المالية في نفس اليوم بهدف تحقيق أرباح سريعة من تقلبات الأسعار. يتطلب هذا النوع من التداول تركيزًا عاليًا وقرارات سريعة.</p><p>لنجاح في هذا السوق المتقلب، لا غنى عن استراتيجيات تداول محددة وفعالة. تساعد هذه الاستراتيجيات المتداولين على تحديد نقاط الدخول والخروج، وتقليل المخاطر، وزيادة فرص الربح.</p><h2 id='s2'>استراتيجية السكالبينج (Scalping)</h2><p>السكالبينج هي استراتيجية تعتمد على تحقيق أرباح صغيرة ومتكررة من تحركات الأسعار الطفيفة جدًا. يقوم المتداولون بفتح وإغلاق صفقات متعددة في غضون ثوانٍ أو دقائق قليلة.</p><p>تتطلب هذه الاستراتيجية تنفيذًا سريعًا ودقيقًا، وتعتمد بشكل كبير على الرسوم البيانية قصيرة الأجل (مثل الرسوم البيانية للدقيقة الواحدة)، وتناسب المتداولين الذين يمكنهم تحمل مستويات عالية من التوتر.</p><h2 id='s3'>استراتيجية تداول الزخم (Momentum Trading)</h2><p>تركز استراتيجية تداول الزخم على تحديد الأصول التي تشهد تحركات سعرية قوية وواضحة في اتجاه معين، ثم الدخول في صفقات مع هذا الزخم.</p><p>يهدف المتداول إلى ركوب موجة الصعود أو الهبوط قبل أن تتلاشى، مع التركيز على الأسهم أو الأصول التي تشهد أحجام تداول عالية وأخبار إيجابية أو سلبية مؤثرة.</p><h2 id='s4'>إدارة المخاطر والانضباط النفسي</h2><p>بغض النظر عن الاستراتيجية المختارة، تظل إدارة المخاطر هي حجر الزاوية في التداول اليومي الناجح. يجب تحديد حجم الصفقة المناسب ووضع أوامر وقف الخسارة دائمًا لحماية رأس المال.</p><p>الانضباط النفسي والالتزام بالخطة الموضوعة أمران حيويان. تجنب التداول العاطفي والتزم بقواعد استراتيجيتك، ولا تفرط في التداول، وتعلم من كل صفقة لتعزيز أدائك.</p>",
+    "contentEn": "<h2 id='s1'>Understanding Day Trading and Strategy Importance</h2><p>Day trading is the art of buying and selling financial assets within the same day, aiming to profit from rapid price fluctuations. This type of trading demands high concentration and quick decisions.</p><p>To succeed in this volatile market, specific and effective trading strategies are indispensable. These strategies help traders identify entry and exit points, minimize risks, and increase profit opportunities.</p><h2 id='s2'>Scalping Strategy</h2><p>Scalping is a strategy that relies on making small, frequent profits from very minor price movements. Traders open and close multiple positions within a few seconds or minutes.</p><p>This strategy requires fast and precise execution, heavily depends on short-term charts (such as one-minute charts), and suits traders who can handle high levels of stress.</p><h2 id='s3'>Momentum Trading Strategy</h2><p>Momentum trading focuses on identifying assets experiencing strong and clear price movements in a specific direction, then entering trades with this momentum.</p><p>The trader aims to ride the upward or downward wave before it fades, concentrating on stocks or assets with high trading volumes and impactful positive or negative news.</p><h2 id='s4'>Risk Management and Psychological Discipline</h2><p>Regardless of the chosen strategy, risk management remains the cornerstone of successful day trading. Appropriate position sizing and always setting stop-loss orders are crucial to protect capital.</p><p>Psychological discipline and adherence to the established plan are vital. Avoid emotional trading, stick to your strategy rules, don't overtrade, and learn from every trade to enhance your performance.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-20
-// Total articles: 31
+// Last updated: 2026-05-21
+// Total articles: 32
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -2438,6 +2438,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فهم التداول اليومي وأهمية الاستراتيجيات</h2><p>التداول اليومي هو فن شراء وبيع الأصول المالية في نفس اليوم بهدف تحقيق أرباح سريعة من تقلبات الأسعار. يتطلب هذا النوع من التداول تركيزًا عاليًا وقرارات سريعة.</p><p>لنجاح في هذا السوق المتقلب، لا غنى عن استراتيجيات تداول محددة وفعالة. تساعد هذه الاستراتيجيات المتداولين على تحديد نقاط الدخول والخروج، وتقليل المخاطر، وزيادة فرص الربح.</p><h2 id='s2'>استراتيجية السكالبينج (Scalping)</h2><p>السكالبينج هي استراتيجية تعتمد على تحقيق أرباح صغيرة ومتكررة من تحركات الأسعار الطفيفة جدًا. يقوم المتداولون بفتح وإغلاق صفقات متعددة في غضون ثوانٍ أو دقائق قليلة.</p><p>تتطلب هذه الاستراتيجية تنفيذًا سريعًا ودقيقًا، وتعتمد بشكل كبير على الرسوم البيانية قصيرة الأجل (مثل الرسوم البيانية للدقيقة الواحدة)، وتناسب المتداولين الذين يمكنهم تحمل مستويات عالية من التوتر.</p><h2 id='s3'>استراتيجية تداول الزخم (Momentum Trading)</h2><p>تركز استراتيجية تداول الزخم على تحديد الأصول التي تشهد تحركات سعرية قوية وواضحة في اتجاه معين، ثم الدخول في صفقات مع هذا الزخم.</p><p>يهدف المتداول إلى ركوب موجة الصعود أو الهبوط قبل أن تتلاشى، مع التركيز على الأسهم أو الأصول التي تشهد أحجام تداول عالية وأخبار إيجابية أو سلبية مؤثرة.</p><h2 id='s4'>إدارة المخاطر والانضباط النفسي</h2><p>بغض النظر عن الاستراتيجية المختارة، تظل إدارة المخاطر هي حجر الزاوية في التداول اليومي الناجح. يجب تحديد حجم الصفقة المناسب ووضع أوامر وقف الخسارة دائمًا لحماية رأس المال.</p><p>الانضباط النفسي والالتزام بالخطة الموضوعة أمران حيويان. تجنب التداول العاطفي والتزم بقواعد استراتيجيتك، ولا تفرط في التداول، وتعلم من كل صفقة لتعزيز أدائك.</p>",
     "contentEn": "<h2 id='s1'>Understanding Day Trading and Strategy Importance</h2><p>Day trading is the art of buying and selling financial assets within the same day, aiming to profit from rapid price fluctuations. This type of trading demands high concentration and quick decisions.</p><p>To succeed in this volatile market, specific and effective trading strategies are indispensable. These strategies help traders identify entry and exit points, minimize risks, and increase profit opportunities.</p><h2 id='s2'>Scalping Strategy</h2><p>Scalping is a strategy that relies on making small, frequent profits from very minor price movements. Traders open and close multiple positions within a few seconds or minutes.</p><p>This strategy requires fast and precise execution, heavily depends on short-term charts (such as one-minute charts), and suits traders who can handle high levels of stress.</p><h2 id='s3'>Momentum Trading Strategy</h2><p>Momentum trading focuses on identifying assets experiencing strong and clear price movements in a specific direction, then entering trades with this momentum.</p><p>The trader aims to ride the upward or downward wave before it fades, concentrating on stocks or assets with high trading volumes and impactful positive or negative news.</p><h2 id='s4'>Risk Management and Psychological Discipline</h2><p>Regardless of the chosen strategy, risk management remains the cornerstone of successful day trading. Appropriate position sizing and always setting stop-loss orders are crucial to protect capital.</p><p>Psychological discipline and adherence to the established plan are vital. Avoid emotional trading, stick to your strategy rules, don't overtrade, and learn from every trade to enhance your performance.</p>"
+  },
+  {
+    "id": 32,
+    "slug": "hotel-real-estate-investment",
+    "title": "الاستثمار في العقارات الفندقية",
+    "titleEn": "Hotel Real Estate Investment",
+    "summary": "الاستثمار في العقارات الفندقية يقدم فرصة فريدة لتحقيق دخل مستمر ونمو رأس المال من خلال قطاع الضيافة المزدهر.",
+    "summaryEn": "Investing in hotel real estate offers a unique opportunity for continuous income and capital growth through the thriving hospitality sector.",
+    "excerpt": "اكتشف كيف يمكن للعقارات الفندقية أن تكون إضافة قيمة لمحفظتك الاستثمارية، مع فهم دقيق لمزاياها وتحدياتها.",
+    "excerptEn": "Discover how hotel real estate can be a valuable addition to your investment portfolio, with a thorough understanding of its advantages and challenges.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "21 مايو 2026",
+    "dateEn": "May 21, 2026",
+    "dateISO": "2026-05-21",
+    "readTime": "10",
+    "views": "1100",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article32.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة للاستثمار الفندقي"
+      },
+      {
+        "id": "s2",
+        "text": "أنواع الاستثمار في العقارات الفندقية"
+      },
+      {
+        "id": "s3",
+        "text": "المزايا والتحديات"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح للمستثمرين"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Hotel Investment"
+      },
+      {
+        "id": "s2",
+        "text": "Types of Hotel Real Estate Investment"
+      },
+      {
+        "id": "s3",
+        "text": "Advantages and Challenges"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for Investors"
+      }
+    ],
+    "related": [
+      4
+    ],
+    "content": "<h2 id='s1'>م��دمة للاستثمار الفندقي</h2><p>يُعد الاستثمار في العقارات الفندقية خيارًا جذابًا للمستثمرين الباحثين عن تنويع محافظهم وتحقيق عوائد مجزية. يجمع هذا النوع من الاستثمار بين مزايا العقارات التقليدية وإمكانات النمو لقطاع الضيافة العالمي.</p><p>مع تزايد حركة السياحة والأعمال، تزداد الحاجة إلى الفنادق والمنتجعات، مما يوفر تدفقات نقدية مستمرة وإمكانية لارتفاع قيمة الأصول على المدى الطويل.</p><h2 id='s2'>أنواع الاستثمار في العقارات الفندقية</h2><p>يمكن للمستثمرين الدخول في هذا القطاع بطرق مختلفة. تشمل الخيارات الشراء المباشر لفندق كامل أو جزء منه، مما يمنح سيطرة أكبر على الأصول.</p><p>كما يمكن الاستثمار بشكل غير مباشر عبر صناديق الاستثمار العقاري المتداولة (REITs) المتخصصة في الفنادق، أو من خلال برامج الملكية الجزئية ��لتي تسمح بامتلاك حصة في غرفة فندقية أو وحدة سكنية فندقية.</p><h2 id='s3'>المزايا والتحديات</h2><p>من أبرز مزايا الاستثمار الفندقي تحقيق دخل إيجاري منتظم من إشغال الغرف وخدمات الضيافة، بالإضافة إلى إمكانية نمو رأس المال مع ارتفاع قيمة العقار. كما يوفر تنويعًا استثماريًا جيدًا.</p><p>مع ذلك، يواجه المستثمرون تحديات مثل التقلبات الاقتصادية التي تؤثر على معدلات الإشغال، وارتفاع تكاليف التشغيل والصيانة، والحاجة إلى إدارة احترافية متخصصة لضمان الربحية.</p><h2 id='s4'>نصائح للمستثمرين</h2><p>قبل الاستثمار، يُنصح بإجراء دراسة جدوى شاملة للسوق المستهدف وتقييم الإدارة الفندقية المحتملة. يُفضل البحث عن مواقع استراتيجية تتمتع بطلب سياحي أو تجاري مرتفع.</p><p>كما يجب الأخذ في الاعتبار الهيكل المالي ونموذج التشغيل�� والتشاور مع خبراء عقاريين وماليين متخصصين في قطاع الضيافة لاتخاذ قرارات مستنيرة.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Hotel Investment</h2><p>Investing in hotel real estate is an attractive option for investors seeking to diversify their portfolios and achieve rewarding returns. This type of investment combines the benefits of traditional real estate with the growth potential of the global hospitality sector.</p><p>With increasing tourism and business travel, the demand for hotels and resorts grows, providing continuous cash flows and the potential for long-term asset appreciation.</p><h2 id='s2'>Types of Hotel Real Estate Investment</h2><p>Investors can enter this sector through various methods. Options include direct purchase of an entire hotel or a portion of one, which grants greater control over the asset.</p><p>Indirect investment is also possible through publicly traded Real Estate Investment Trusts (REITs) specializing in hotels, or through fractional ownership programs that allow owning a share in a hotel room or a hotel residential unit.</p><h2 id='s3'>Advantages and Challenges</h2><p>Among the main advantages of hotel investment are regular rental income from room occupancy and hospitality services, in addition to potential capital growth as property values rise. It also provides good investment diversification.</p><p>However, investors face challenges such as economic fluctuations affecting occupancy rates, high operating and maintenance costs, and the need for specialized professional management to ensure profitability.</p><h2 id='s4'>Tips for Investors</h2><p>Before investing, it is advisable to conduct a comprehensive feasibility study of the target market and evaluate potential hotel management. It is preferable to look for strategic locations with high tourist or business demand.</p><p>The financial structure and operating model should also be considered, and consultation with real estate and financial experts specializing in the hospitality sector is recommended to make informed decisions.</p>"
   }
 ];
 

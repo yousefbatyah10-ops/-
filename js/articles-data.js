@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-21
-// Total articles: 32
+// Last updated: 2026-05-22
+// Total articles: 33
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -2507,6 +2507,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>م��دمة للاستثمار الفندقي</h2><p>يُعد الاستثمار في العقارات الفندقية خيارًا جذابًا للمستثمرين الباحثين عن تنويع محافظهم وتحقيق عوائد مجزية. يجمع هذا النوع من الاستثمار بين مزايا العقارات التقليدية وإمكانات النمو لقطاع الضيافة العالمي.</p><p>مع تزايد حركة السياحة والأعمال، تزداد الحاجة إلى الفنادق والمنتجعات، مما يوفر تدفقات نقدية مستمرة وإمكانية لارتفاع قيمة الأصول على المدى الطويل.</p><h2 id='s2'>أنواع الاستثمار في العقارات الفندقية</h2><p>يمكن للمستثمرين الدخول في هذا القطاع بطرق مختلفة. تشمل الخيارات الشراء المباشر لفندق كامل أو جزء منه، مما يمنح سيطرة أكبر على الأصول.</p><p>كما يمكن الاستثمار بشكل غير مباشر عبر صناديق الاستثمار العقاري المتداولة (REITs) المتخصصة في الفنادق، أو من خلال برامج الملكية الجزئية ��لتي تسمح بامتلاك حصة في غرفة فندقية أو وحدة سكنية فندقية.</p><h2 id='s3'>المزايا والتحديات</h2><p>من أبرز مزايا الاستثمار الفندقي تحقيق دخل إيجاري منتظم من إشغال الغرف وخدمات الضيافة، بالإضافة إلى إمكانية نمو رأس المال مع ارتفاع قيمة العقار. كما يوفر تنويعًا استثماريًا جيدًا.</p><p>مع ذلك، يواجه المستثمرون تحديات مثل التقلبات الاقتصادية التي تؤثر على معدلات الإشغال، وارتفاع تكاليف التشغيل والصيانة، والحاجة إلى إدارة احترافية متخصصة لضمان الربحية.</p><h2 id='s4'>نصائح للمستثمرين</h2><p>قبل الاستثمار، يُنصح بإجراء دراسة جدوى شاملة للسوق المستهدف وتقييم الإدارة الفندقية المحتملة. يُفضل البحث عن مواقع استراتيجية تتمتع بطلب سياحي أو تجاري مرتفع.</p><p>كما يجب الأخذ في الاعتبار الهيكل المالي ونموذج التشغيل�� والتشاور مع خبراء عقاريين وماليين متخصصين في قطاع الضيافة لاتخاذ قرارات مستنيرة.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Hotel Investment</h2><p>Investing in hotel real estate is an attractive option for investors seeking to diversify their portfolios and achieve rewarding returns. This type of investment combines the benefits of traditional real estate with the growth potential of the global hospitality sector.</p><p>With increasing tourism and business travel, the demand for hotels and resorts grows, providing continuous cash flows and the potential for long-term asset appreciation.</p><h2 id='s2'>Types of Hotel Real Estate Investment</h2><p>Investors can enter this sector through various methods. Options include direct purchase of an entire hotel or a portion of one, which grants greater control over the asset.</p><p>Indirect investment is also possible through publicly traded Real Estate Investment Trusts (REITs) specializing in hotels, or through fractional ownership programs that allow owning a share in a hotel room or a hotel residential unit.</p><h2 id='s3'>Advantages and Challenges</h2><p>Among the main advantages of hotel investment are regular rental income from room occupancy and hospitality services, in addition to potential capital growth as property values rise. It also provides good investment diversification.</p><p>However, investors face challenges such as economic fluctuations affecting occupancy rates, high operating and maintenance costs, and the need for specialized professional management to ensure profitability.</p><h2 id='s4'>Tips for Investors</h2><p>Before investing, it is advisable to conduct a comprehensive feasibility study of the target market and evaluate potential hotel management. It is preferable to look for strategic locations with high tourist or business demand.</p><p>The financial structure and operating model should also be considered, and consultation with real estate and financial experts specializing in the hospitality sector is recommended to make informed decisions.</p>"
+  },
+  {
+    "id": 33,
+    "slug": "bond-investing-a-complete-guide",
+    "title": "الاستثمار في السندات: دليل شامل",
+    "titleEn": "Bond Investing: A Complete Guide",
+    "summary": "يقدم هذا الدليل الشامل نظرة متعمقة على الاستثمار في السندات، موضحًا ماهيتها وأنواعها ومزاياها وعيوبها وكيفية البدء فيها.",
+    "summaryEn": "This comprehensive guide offers an in-depth look into bond investing, explaining what bonds are, their types, advantages, disadvantages, and how to get started.",
+    "excerpt": "تعرف على أساسيات السندات، وكيف يمكن أن تكون جزءًا من محفظتك الاستثمارية لتحقيق الاستقرار والدخل المنتظم.",
+    "excerptEn": "Learn the basics of bonds and how they can be a part of your investment portfolio for stability and regular income.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "د. سامي القحطاني",
+    "authorEn": "Dr. Sami Al-Qahtani",
+    "authorInitial": "S",
+    "date": "22 مايو 2026",
+    "dateEn": "May 22, 2026",
+    "dateISO": "2026-05-22",
+    "readTime": "8",
+    "views": "4998",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article33.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة إلى السندات"
+      },
+      {
+        "id": "s2",
+        "text": "أنواع السندات الرئيسية"
+      },
+      {
+        "id": "s3",
+        "text": "مزايا وعيوب الاستثمار في السندات"
+      },
+      {
+        "id": "s4",
+        "text": "كيفية الاستثمار في السندات"
+      },
+      {
+        "id": "s5",
+        "text": "اعتبارات هامة قبل الاستثمار"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Bonds"
+      },
+      {
+        "id": "s2",
+        "text": "Main Types of Bonds"
+      },
+      {
+        "id": "s3",
+        "text": "Pros and Cons of Bond Investing"
+      },
+      {
+        "id": "s4",
+        "text": "How to Invest in Bonds"
+      },
+      {
+        "id": "s5",
+        "text": "Important Considerations Before Investing"
+      }
+    ],
+    "related": [
+      21
+    ],
+    "content": "<h2 id='s1'>مقدمة إلى السندات</h2><p>السند هو أداة دين تصدرها الحكومات أو الشركات لجمع الأموال، حيث يقرض المستثمر المال للجهة المصدرة مقابل مدفوعات فائدة دورية وسداد أصل المبلغ في تاريخ الاستحقاق. يعتبر الاستثمار في السندات خيارًا شائعًا للمستثمرين الباحثين عن دخل ثابت ومخاطر أقل نسبيًا مقارنة بالأسهم.</p><h2 id='s2'>أنواع السندات الرئيسية</h2><p>تشمل الأنواع الرئيسية السندات الحكومية، التي تعتبر الأكثر أمانًا، وسندات الشركات التي تصدرها الشركات بآجال استحقاق وعوائد مختلفة. هناك أيضًا السندات البلدية التي تصدرها السلطات المحلية لتمويل المشاريع العامة.</p><h2 id='s3'>مزايا وعيوب الاستثمار في السندات</h2><p>من مزايا السندات توفير دخل منتظم وتنوع المحفظة، بالإضافة إلى كونها أقل تقلبًا من الأسهم. ومع ذلك، فإن عوائدها غالبًا ما تكون أقل، وهي عرضة لمخاطر أسعار الفائدة والتضخم التي قد تقلل من قيمتها الحقيقية.</p><h2 id='s4'>كيفية الاستثمار في السندات</h2><p>يمكن للمستثمرين شراء السندات مباشرة من خلال الوسطاء، أو بشكل غير مباشر عبر صناديق الاستثمار المشتركة المتخصصة في السندات (Bond Mutual Funds) أو صناديق المؤشرات المتداولة (ETFs) التي تتتبع مؤشرات السندات. تتيح هذه الصناديق التنوع والسيولة.</p><h2 id='s5'>اعتبارات هامة قبل الاستثمار</h2><p>قبل الاستثمار، يجب تقييم التصنيف الائتماني للجهة المصدرة للسند لتحديد مستوى المخاطر، وفهم العائد المتوقع (Yield)، وتاريخ الاستحقاق. كما ينبغي مراعاة أهدافك الاستثمارية وتحمل المخاطر.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Bonds</h2><p>A bond is a debt instrument issued by governments or corporations to raise capital. Investors lend money to the issuer in exchange for periodic interest payments and the return of the principal amount at maturity. Bond investing is a popular option for those seeking fixed income and relatively lower risk compared to stocks.</p><h2 id='s2'>Main Types of Bonds</h2><p>Key types include government bonds, generally considered the safest, and corporate bonds issued by companies with varying maturities and yields. There are also municipal bonds, issued by local authorities to finance public projects.</p><h2 id='s3'>Pros and Cons of Bond Investing</h2><p>Advantages of bonds include providing regular income and portfolio diversification, alongside being less volatile than stocks. However, their returns are often lower, and they are susceptible to interest rate and inflation risks, which can diminish their real value.</p><h2 id='s4'>How to Invest in Bonds</h2><p>Investors can buy bonds directly through brokerage firms, or indirectly via bond mutual funds or Exchange Traded Funds (ETFs) that track bond indices. These funds offer diversification and liquidity.</p><h2 id='s5'>Important Considerations Before Investing</h2><p>Before investing, assess the issuer's credit rating to determine risk level, understand the expected yield, and the maturity date. Also, consider your investment goals and risk tolerance.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-22
-// Total articles: 33
+// Last updated: 2026-05-23
+// Total articles: 34
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -2584,6 +2584,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة إلى السندات</h2><p>السند هو أداة دين تصدرها الحكومات أو الشركات لجمع الأموال، حيث يقرض المستثمر المال للجهة المصدرة مقابل مدفوعات فائدة دورية وسداد أصل المبلغ في تاريخ الاستحقاق. يعتبر الاستثمار في السندات خيارًا شائعًا للمستثمرين الباحثين عن دخل ثابت ومخاطر أقل نسبيًا مقارنة بالأسهم.</p><h2 id='s2'>أنواع السندات الرئيسية</h2><p>تشمل الأنواع الرئيسية السندات الحكومية، التي تعتبر الأكثر أمانًا، وسندات الشركات التي تصدرها الشركات بآجال استحقاق وعوائد مختلفة. هناك أيضًا السندات البلدية التي تصدرها السلطات المحلية لتمويل المشاريع العامة.</p><h2 id='s3'>مزايا وعيوب الاستثمار في السندات</h2><p>من مزايا السندات توفير دخل منتظم وتنوع المحفظة، بالإضافة إلى كونها أقل تقلبًا من الأسهم. ومع ذلك، فإن عوائدها غالبًا ما تكون أقل، وهي عرضة لمخاطر أسعار الفائدة والتضخم التي قد تقلل من قيمتها الحقيقية.</p><h2 id='s4'>كيفية الاستثمار في السندات</h2><p>يمكن للمستثمرين شراء السندات مباشرة من خلال الوسطاء، أو بشكل غير مباشر عبر صناديق الاستثمار المشتركة المتخصصة في السندات (Bond Mutual Funds) أو صناديق المؤشرات المتداولة (ETFs) التي تتتبع مؤشرات السندات. تتيح هذه الصناديق التنوع والسيولة.</p><h2 id='s5'>اعتبارات هامة قبل الاستثمار</h2><p>قبل الاستثمار، يجب تقييم التصنيف الائتماني للجهة المصدرة للسند لتحديد مستوى المخاطر، وفهم العائد المتوقع (Yield)، وتاريخ الاستحقاق. كما ينبغي مراعاة أهدافك الاستثمارية وتحمل المخاطر.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Bonds</h2><p>A bond is a debt instrument issued by governments or corporations to raise capital. Investors lend money to the issuer in exchange for periodic interest payments and the return of the principal amount at maturity. Bond investing is a popular option for those seeking fixed income and relatively lower risk compared to stocks.</p><h2 id='s2'>Main Types of Bonds</h2><p>Key types include government bonds, generally considered the safest, and corporate bonds issued by companies with varying maturities and yields. There are also municipal bonds, issued by local authorities to finance public projects.</p><h2 id='s3'>Pros and Cons of Bond Investing</h2><p>Advantages of bonds include providing regular income and portfolio diversification, alongside being less volatile than stocks. However, their returns are often lower, and they are susceptible to interest rate and inflation risks, which can diminish their real value.</p><h2 id='s4'>How to Invest in Bonds</h2><p>Investors can buy bonds directly through brokerage firms, or indirectly via bond mutual funds or Exchange Traded Funds (ETFs) that track bond indices. These funds offer diversification and liquidity.</p><h2 id='s5'>Important Considerations Before Investing</h2><p>Before investing, assess the issuer's credit rating to determine risk level, understand the expected yield, and the maturity date. Also, consider your investment goals and risk tolerance.</p>"
+  },
+  {
+    "id": 34,
+    "slug": "investing-in-global-markets-from-saudi-arabia",
+    "title": "الاستثمار في الأسواق العالمية من السعودية",
+    "titleEn": "Investing in Global Markets from Saudi Arabia",
+    "summary": "يُعد الاستثمار في الأسواق العالمية من السعودية استراتيجية فعالة لتنويع المحافظ الاستثمارية والاستفادة من الفرص العالمية، مع ضرورة فهم التحديات المرتبطة بذلك.",
+    "summaryEn": "Investing in global markets from Saudi Arabia is an effective strategy for diversifying portfolios and leveraging global opportunities, while understanding associated challenges.",
+    "excerpt": "تتيح الأسواق العالمية للمستثمر السعودي تنويع محفظته والوصول إلى قطاعات نمو جديدة، مما يعزز فرص تحقيق عوائد أفضل.",
+    "excerptEn": "Global markets allow Saudi investors to diversify their portfolios and access new growth sectors, enhancing opportunities for better returns.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "23 مايو 2026",
+    "dateEn": "May 23, 2026",
+    "dateISO": "2026-05-23",
+    "readTime": "11",
+    "views": "2235",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article34.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "لماذا الاستثمار في الأسواق العالمية؟"
+      },
+      {
+        "id": "s2",
+        "text": "طرق الاستثمار من السعودية"
+      },
+      {
+        "id": "s3",
+        "text": "اعتبارات وتحديات رئيسية"
+      },
+      {
+        "id": "s4",
+        "text": "الفرص والمزايا للمستثمر السعودي"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Why Invest in Global Markets?"
+      },
+      {
+        "id": "s2",
+        "text": "Ways to Invest from Saudi Arabia"
+      },
+      {
+        "id": "s3",
+        "text": "Key Considerations and Challenges"
+      },
+      {
+        "id": "s4",
+        "text": "Opportunities and Advantages for the Saudi Investor"
+      }
+    ],
+    "related": [
+      21
+    ],
+    "content": "<h2 id='s1'>لماذا الاستثمار في الأسواق العالمية؟</h2><p>يُعد الاستثمار في الأسواق العالمية استراتيجية حيوية لتنويع المحافظ الاستثمارية وتقليل المخاطر المرتبطة بالاعتماد على سوق واحد. يتيح للمستثمرين السعوديين الوصول إلى قطاعات وصناعات عالمية مزدهرة قد لا تكون متاحة محليًا.</p><p>كما يوفر فرصًا للاستفادة من النمو الاقتصادي في مناطق مختلفة حول العالم، وتحقيق عوائد محتملة أعلى على المدى الطويل، مما يعزز قوة المحفظة ضد التقلبات المحلية.</p><h2 id='s2'>طرق الاستثمار من السعودية</h2><p>يمكن للمستثمرين السعوديين الوصول إلى الأسواق العالمية عبر عدة قنوات. تشمل هذه القنوات استخدام شركات الوساطة المالية المحلية والدولية التي تقدم خدمات التداول في الأسهم، السندا��، الصناديق المتداولة في البورصة (ETFs)، وصناديق الاستثمار المشتركة الأجنبية.</p><p>بالإضافة إلى ذلك، توفر بعض البنوك السعودية الكبرى خدمات استثمارية تتيح لعملائها الاستثمار في الأصول العالمية، كما يمكن استخدام منصات التداول الإلكترونية العالمية التي تدعم المستثمرين من المملكة.</p><h2 id='s3'>اعتبارات وتحديات رئيسية</h2><p>يتطلب الاستثمار العالمي فهمًا للتحديات المحتملة مثل مخاطر العملات الأجنبية، تقلبات الأسواق الدولية، والاختلافات في الأنظمة الضريبية والقانونية. يجب على المستثمرين إجراء بحث شامل وفهم عميق للأصول التي يختارونها.</p><p>من المهم أيضًا مراعاة الرسوم والعمولات المرتبطة بالتداول الدولي، بالإضافة إلى تحديات فهم التوقيتات المختلفة للأسواق العالمية وتأثير الأخبار الجيوسياسية عليها.</p><h2 id='s4'>الفرص والمزايا للمستثمر السعودي</h2><p>يوفر الاستثمار في الأسواق العالمية للمستثمر السعودي فرصة فريدة لتنويع مصادر الدخل والاستفادة من الابتكارات والنمو في الاقتصادات الرائدة عالميًا. يمكن أن يشمل ذلك الاستثمار في شركات التكنولوجيا الأمريكية، أو أسواق السلع الأوروبية، أو الأسواق الناشئة في آسيا.</p><p>كما يساهم التنويع الجغرافي والقطاعي في بناء محفظة استثمارية أكثر مرونة وقدرة على الصمود في وجه الأزمات المحلية، مما يعزز الأهداف المالية طويلة الأجل للمستثمر.</p>",
+    "contentEn": "<h2 id='s1'>Why Invest in Global Markets?</h2><p>Investing in global markets is a vital strategy for diversifying investment portfolios and mitigating risks associated with relying on a single market. It grants Saudi investors access to thriving global sectors and industries that may not be available domestically.</p><p>It also offers opportunities to capitalize on economic growth in various regions worldwide, potentially achieving higher long-term returns, thus strengthening the portfolio against local fluctuations.</p><h2 id='s2'>Ways to Invest from Saudi Arabia</h2><p>Saudi investors can access global markets through several channels. These include utilizing local and international brokerage firms that offer trading services in stocks, bonds, Exchange Traded Funds (ETFs), and foreign mutual funds.</p><p>Furthermore, some major Saudi banks provide investment services allowing their clients to invest in global assets, and international online trading platforms that support investors from the Kingdom can also be used.</p><h2 id='s3'>Key Considerations and Challenges</h2><p>Global investing requires an understanding of potential challenges such as foreign currency risks, international market volatility, and differences in tax and legal regulations. Investors must conduct thorough research and have a deep understanding of the assets they choose.</p><p>It is also important to consider the fees and commissions associated with international trading, in addition to the challenges of understanding different global market timings and the impact of geopolitical news on them.</p><h2 id='s4'>Opportunities and Advantages for the Saudi Investor</h2><p>Investing in global markets offers Saudi investors a unique opportunity to diversify income sources and benefit from innovations and growth in leading global economies. This can include investing in American technology companies, European commodity markets, or emerging markets in Asia.</p><p>Geographic and sectoral diversification also contributes to building a more resilient investment portfolio capable of withstanding local crises, thereby enhancing the investor's long-term financial goals.</p>"
   }
 ];
 

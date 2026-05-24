@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-23
-// Total articles: 34
+// Last updated: 2026-05-24
+// Total articles: 35
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -2653,6 +2653,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>لماذا الاستثمار في الأسواق العالمية؟</h2><p>يُعد الاستثمار في الأسواق العالمية استراتيجية حيوية لتنويع المحافظ الاستثمارية وتقليل المخاطر المرتبطة بالاعتماد على سوق واحد. يتيح للمستثمرين السعوديين الوصول إلى قطاعات وصناعات عالمية مزدهرة قد لا تكون متاحة محليًا.</p><p>كما يوفر فرصًا للاستفادة من النمو الاقتصادي في مناطق مختلفة حول العالم، وتحقيق عوائد محتملة أعلى على المدى الطويل، مما يعزز قوة المحفظة ضد التقلبات المحلية.</p><h2 id='s2'>طرق الاستثمار من السعودية</h2><p>يمكن للمستثمرين السعوديين الوصول إلى الأسواق العالمية عبر عدة قنوات. تشمل هذه القنوات استخدام شركات الوساطة المالية المحلية والدولية التي تقدم خدمات التداول في الأسهم، السندا��، الصناديق المتداولة في البورصة (ETFs)، وصناديق الاستثمار المشتركة الأجنبية.</p><p>بالإضافة إلى ذلك، توفر بعض البنوك السعودية الكبرى خدمات استثمارية تتيح لعملائها الاستثمار في الأصول العالمية، كما يمكن استخدام منصات التداول الإلكترونية العالمية التي تدعم المستثمرين من المملكة.</p><h2 id='s3'>اعتبارات وتحديات رئيسية</h2><p>يتطلب الاستثمار العالمي فهمًا للتحديات المحتملة مثل مخاطر العملات الأجنبية، تقلبات الأسواق الدولية، والاختلافات في الأنظمة الضريبية والقانونية. يجب على المستثمرين إجراء بحث شامل وفهم عميق للأصول التي يختارونها.</p><p>من المهم أيضًا مراعاة الرسوم والعمولات المرتبطة بالتداول الدولي، بالإضافة إلى تحديات فهم التوقيتات المختلفة للأسواق العالمية وتأثير الأخبار الجيوسياسية عليها.</p><h2 id='s4'>الفرص والمزايا للمستثمر السعودي</h2><p>يوفر الاستثمار في الأسواق العالمية للمستثمر السعودي فرصة فريدة لتنويع مصادر الدخل والاستفادة من الابتكارات والنمو في الاقتصادات الرائدة عالميًا. يمكن أن يشمل ذلك الاستثمار في شركات التكنولوجيا الأمريكية، أو أسواق السلع الأوروبية، أو الأسواق الناشئة في آسيا.</p><p>كما يساهم التنويع الجغرافي والقطاعي في بناء محفظة استثمارية أكثر مرونة وقدرة على الصمود في وجه الأزمات المحلية، مما يعزز الأهداف المالية طويلة الأجل للمستثمر.</p>",
     "contentEn": "<h2 id='s1'>Why Invest in Global Markets?</h2><p>Investing in global markets is a vital strategy for diversifying investment portfolios and mitigating risks associated with relying on a single market. It grants Saudi investors access to thriving global sectors and industries that may not be available domestically.</p><p>It also offers opportunities to capitalize on economic growth in various regions worldwide, potentially achieving higher long-term returns, thus strengthening the portfolio against local fluctuations.</p><h2 id='s2'>Ways to Invest from Saudi Arabia</h2><p>Saudi investors can access global markets through several channels. These include utilizing local and international brokerage firms that offer trading services in stocks, bonds, Exchange Traded Funds (ETFs), and foreign mutual funds.</p><p>Furthermore, some major Saudi banks provide investment services allowing their clients to invest in global assets, and international online trading platforms that support investors from the Kingdom can also be used.</p><h2 id='s3'>Key Considerations and Challenges</h2><p>Global investing requires an understanding of potential challenges such as foreign currency risks, international market volatility, and differences in tax and legal regulations. Investors must conduct thorough research and have a deep understanding of the assets they choose.</p><p>It is also important to consider the fees and commissions associated with international trading, in addition to the challenges of understanding different global market timings and the impact of geopolitical news on them.</p><h2 id='s4'>Opportunities and Advantages for the Saudi Investor</h2><p>Investing in global markets offers Saudi investors a unique opportunity to diversify income sources and benefit from innovations and growth in leading global economies. This can include investing in American technology companies, European commodity markets, or emerging markets in Asia.</p><p>Geographic and sectoral diversification also contributes to building a more resilient investment portfolio capable of withstanding local crises, thereby enhancing the investor's long-term financial goals.</p>"
+  },
+  {
+    "id": 35,
+    "slug": "mortgage-comparison-saudi-banks",
+    "title": "التمويل العقاري: مقارنة بين البنوك السعودية",
+    "titleEn": "Mortgage Comparison: Saudi Banks",
+    "summary": "يقدم هذا المقال مقارنة موجزة بين خيارات التمويل العقاري المتوفرة لدى البنوك السعودية الرئيسية لمساعدة المستثمرين والمشترين.",
+    "summaryEn": "This article provides a concise comparison of real estate financing options available from major Saudi banks to assist investors and buyers.",
+    "excerpt": "يعد اختيار التمويل العقاري المناسب خطوة حاسمة، وتختلف عروض البنوك السعودية بشكل كبير من حيث الشروط والمزايا.",
+    "excerptEn": "Choosing the right real estate financing is a crucial step, and Saudi banks' offerings vary significantly in terms of conditions and benefits.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "محمد العمري",
+    "authorEn": "Mohammed Al-Omari",
+    "authorInitial": "M",
+    "date": "24 مايو 2026",
+    "dateEn": "May 24, 2026",
+    "dateISO": "2026-05-24",
+    "readTime": "10",
+    "views": "4910",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article35.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "المقدمة: أهمية التمويل العقاري"
+      },
+      {
+        "id": "s2",
+        "text": "معايير المقارنة الأساسية"
+      },
+      {
+        "id": "s3",
+        "text": "نظرة على أبرز البنوك السعودية"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح لاختيار الأنسب"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: The Importance of Real Estate Finance"
+      },
+      {
+        "id": "s2",
+        "text": "Key Comparison Criteria"
+      },
+      {
+        "id": "s3",
+        "text": "Overview of Prominent Saudi Banks"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for Choosing the Best Option"
+      }
+    ],
+    "related": [
+      32
+    ],
+    "content": "<h2 id='s1'>المقدمة: أهمية التمويل العقاري</h2><p>يعتبر التمويل العقاري ركيزة أساسية لتحقيق حلم امتلاك منزل في المملكة العربية السعودية، حيث يلعب دوراً حيوياً في تنشيط السوق العقاري. ومع تعدد الخيارات المتاحة، يصبح اختيار البنك المناسب تحديًا يتطلب فهمًا عميقًا للعروض المختلفة.</p><h2 id='s2'>معايير المقارنة الأساسية</h2><p>عند مقارنة عروض البنوك، يجب التركيز على عدة معايير أساسية تشمل نسبة الربح أو الفائدة، مدة التمويل، الرسوم الإدارية، ومتطلبات الدفعة الأولى. كما يجب الانتباه إلى مرونة السداد وإمكانية التمويل الإضافي.</p><h2 id='s3'>نظرة على أبرز البنوك السعودية</h2><p>تتميز البنوك السعودية الكبرى مثل مصرف الراجحي، البنك الأهلي السعودي، بنك الرياض، والبنك السعودي البريطاني (ساب) بتقديم مجموعة واسعة من منتجات التمويل العقاري. يشتهر الراجحي بمنتجاته المتوافقة مع الشريعة الإسلامية، بينما يقدم الأهلي خيارات تمويل متنوعة تناسب شرائح مختلفة من العملاء.</p><p>بنك الرياض وساب يقدمان حلولاً تمويلية مبتكرة مع تركيز على خدمة العملاء المميزة، وغالباً ما تتنافس هذه البنوك في تقديم عروض تنافسية لجذب المشترين.</p><h2 id='s4'>نصائح لاختيار الأنسب</h2><p>قبل اتخاذ القرار، يُنصح بمقارنة العروض من عدة بنوك، وقراءة الشروط والأحكام بعناية فائقة. استشر خبيرًا ماليًا إذا لزم الأمر، ولا تتردد في التفاوض للحصول على أفضل الشروط الممكنة التي تتناسب مع قدرتك المالية واحتياجاتك العقارية.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: The Importance of Real Estate Finance</h2><p>Real estate financing is a cornerstone for achieving the dream of homeownership in Saudi Arabia, playing a vital role in stimulating the real estate market. With various options available, choosing the right bank becomes a challenge that requires a deep understanding of different offerings.</p><h2 id='s2'>Key Comparison Criteria</h2><p>When comparing bank offerings, several key criteria must be focused on, including the profit rate or interest, financing duration, administrative fees, and down payment requirements. Attention should also be paid to repayment flexibility and the possibility of additional financing.</p><h2 id='s3'>Overview of Prominent Saudi Banks</h2><p>Major Saudi banks such as Al Rajhi Bank, Saudi National Bank (SNB), Riyad Bank, and Saudi British Bank (SABB) offer a wide range of real estate financing products. Al Rajhi is known for its Sharia-compliant products, while SNB provides diverse financing options suitable for various customer segments.</p><p>Riyad Bank and SABB offer innovative financing solutions with a focus on excellent customer service, and these banks often compete to provide competitive offers to attract buyers.</p><h2 id='s4'>Tips for Choosing the Best Option</h2><p>Before making a decision, it is advisable to compare offers from several banks and read the terms and conditions very carefully. Consult a financial expert if necessary, and do not hesitate to negotiate for the best possible terms that suit your financial capacity and real estate needs.</p>"
   }
 ];
 

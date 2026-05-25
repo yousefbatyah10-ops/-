@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-24
-// Total articles: 35
+// Last updated: 2026-05-25
+// Total articles: 36
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -2722,6 +2722,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>المقدمة: أهمية التمويل العقاري</h2><p>يعتبر التمويل العقاري ركيزة أساسية لتحقيق حلم امتلاك منزل في المملكة العربية السعودية، حيث يلعب دوراً حيوياً في تنشيط السوق العقاري. ومع تعدد الخيارات المتاحة، يصبح اختيار البنك المناسب تحديًا يتطلب فهمًا عميقًا للعروض المختلفة.</p><h2 id='s2'>معايير المقارنة الأساسية</h2><p>عند مقارنة عروض البنوك، يجب التركيز على عدة معايير أساسية تشمل نسبة الربح أو الفائدة، مدة التمويل، الرسوم الإدارية، ومتطلبات الدفعة الأولى. كما يجب الانتباه إلى مرونة السداد وإمكانية التمويل الإضافي.</p><h2 id='s3'>نظرة على أبرز البنوك السعودية</h2><p>تتميز البنوك السعودية الكبرى مثل مصرف الراجحي، البنك الأهلي السعودي، بنك الرياض، والبنك السعودي البريطاني (ساب) بتقديم مجموعة واسعة من منتجات التمويل العقاري. يشتهر الراجحي بمنتجاته المتوافقة مع الشريعة الإسلامية، بينما يقدم الأهلي خيارات تمويل متنوعة تناسب شرائح مختلفة من العملاء.</p><p>بنك الرياض وساب يقدمان حلولاً تمويلية مبتكرة مع تركيز على خدمة العملاء المميزة، وغالباً ما تتنافس هذه البنوك في تقديم عروض تنافسية لجذب المشترين.</p><h2 id='s4'>نصائح لاختيار الأنسب</h2><p>قبل اتخاذ القرار، يُنصح بمقارنة العروض من عدة بنوك، وقراءة الشروط والأحكام بعناية فائقة. استشر خبيرًا ماليًا إذا لزم الأمر، ولا تتردد في التفاوض للحصول على أفضل الشروط الممكنة التي تتناسب مع قدرتك المالية واحتياجاتك العقارية.</p>",
     "contentEn": "<h2 id='s1'>Introduction: The Importance of Real Estate Finance</h2><p>Real estate financing is a cornerstone for achieving the dream of homeownership in Saudi Arabia, playing a vital role in stimulating the real estate market. With various options available, choosing the right bank becomes a challenge that requires a deep understanding of different offerings.</p><h2 id='s2'>Key Comparison Criteria</h2><p>When comparing bank offerings, several key criteria must be focused on, including the profit rate or interest, financing duration, administrative fees, and down payment requirements. Attention should also be paid to repayment flexibility and the possibility of additional financing.</p><h2 id='s3'>Overview of Prominent Saudi Banks</h2><p>Major Saudi banks such as Al Rajhi Bank, Saudi National Bank (SNB), Riyad Bank, and Saudi British Bank (SABB) offer a wide range of real estate financing products. Al Rajhi is known for its Sharia-compliant products, while SNB provides diverse financing options suitable for various customer segments.</p><p>Riyad Bank and SABB offer innovative financing solutions with a focus on excellent customer service, and these banks often compete to provide competitive offers to attract buyers.</p><h2 id='s4'>Tips for Choosing the Best Option</h2><p>Before making a decision, it is advisable to compare offers from several banks and read the terms and conditions very carefully. Consult a financial expert if necessary, and do not hesitate to negotiate for the best possible terms that suit your financial capacity and real estate needs.</p>"
+  },
+  {
+    "id": 36,
+    "slug": "beginner-investor-mistakes-to-avoid",
+    "title": "أخطاء المستثمر المبتدئ: تجنبها من اليوم",
+    "titleEn": "Beginner Investor Mistakes to Avoid",
+    "summary": "يواجه المستثمرون المبتدئون العديد من الأخطاء الشائعة التي يمكن تجنبها بالمعرفة والتخطيط السليم لتحقيق عوائد أفضل.",
+    "summaryEn": "Beginner investors often face common pitfalls that can be avoided with proper knowledge and planning to achieve better returns.",
+    "excerpt": "تعرف على أبرز الأخطاء التي يقع فيها المستثمرون المبتدئون وكيف تتجنبها لتبني أساسًا استثماريًا قويًا.",
+    "excerptEn": "Learn about the most prominent mistakes beginner investors make and how to avoid them to build a strong investment foundation.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "25 مايو 2026",
+    "dateEn": "May 25, 2026",
+    "dateISO": "2026-05-25",
+    "readTime": "12",
+    "views": "1169",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#112244,#1a3a5c)",
+    "image": "images/article36.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "عدم البحث والتخطيط الكافي"
+      },
+      {
+        "id": "s2",
+        "text": "الاستثمار بناءً على العواطف أو الشائعات"
+      },
+      {
+        "id": "s3",
+        "text": "عدم تنويع المحفظة"
+      },
+      {
+        "id": "s4",
+        "text": "محاولة توقيت السوق أو المبالغة في التداول"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Lack of Sufficient Research and Planning"
+      },
+      {
+        "id": "s2",
+        "text": "Investing Based on Emotions or Rumors"
+      },
+      {
+        "id": "s3",
+        "text": "Not Diversifying the Portfolio"
+      },
+      {
+        "id": "s4",
+        "text": "Trying to Time the Market or Overtrading"
+      }
+    ],
+    "related": [
+      25
+    ],
+    "content": "<h2 id='s1'>عدم البحث والتخطيط ��لكافي</h2><p>يقع العديد من المستثمرين المبتدئين في فخ البدء بالاستثمار دون فهم عميق للسوق أو الأصول التي يستثمرون فيها، مما يجعلهم عرضة لاتخاذ قرارات غير مدروسة.</p><p>من الضروري قضاء الوقت الكافي في البحث عن الشركات والصناعات، وتحديد أهداف استثمارية واضحة، ووضع خطة تتناسب مع مدى تحمل المخاطر الخاص بك.</p><h2 id='s2'>الاستثمار بناءً على العواطف أو الشائعات</h2><p>تعد قرارات الشراء والبيع المدفوعة بالخوف أو الطمع أو الشائعات المنتشرة من أكبر الأخطاء التي يرتكبها المبتدئون، حيث تؤدي غالبًا إلى خسائر كبيرة.</p><p>يجب الالتزام بالاستراتيجية المحددة مسبقًا وتجنب الانجراف وراء ضجيج السوق أو التوصيات غير المدعومة بتحليل منطقي.</p><h2 id='s3'>عدم تنويع المحفظة</h2><p>وضع كل رأس المال في أصل واحد أو عدد قليل جدًا من الأصول يزيد بشكل كبير من المخاطر، فإذا تراجع أداء هذا الأصل، فستتأثر محفظتك بأكملها بشدة.</p><p>تنويع الاستثمارات عبر قطاعات وأصول مختلفة (مثل الأسهم والسندات والعقارات) يقلل من المخاطر ويساعد على حماية رأس المال من التقلبات المفاجئة.</p><h2 id='s4'>محاولة توقيت السوق أو المبالغة في التداول</h2><p>يعتقد بعض المبتدئين أنهم يستطيعون التنبؤ بحركات السوق قصيرة الأجل للشراء عند أدنى نقطة والبيع عند أعلى نقطة، وهي مهمة صعبة للغاية حتى للمحترفين.</p><p>المبالغة في التداول تعني تكبد المزيد من الرسوم والعمولات، وغالبًا ما تؤدي إلى نتائج أسوأ من استراتيجية الاستثمار طويلة الأجل الهادئة. التركيز على النمو على المدى الطويل هو الأفضل.</p>",
+    "contentEn": "<h2 id='s1'>Lack of Sufficient Research and Planning</h2><p>Many novice investors fall into the trap of starting to invest without a deep understanding of the market or the assets they are investing in, making them prone to making uninformed decisions.</p><p>It is crucial to spend adequate time researching companies and industries, setting clear investment goals, and developing a plan that aligns with your risk tolerance.</p><h2 id='s2'>Investing Based on Emotions or Rumors</h2><p>Buying and selling decisions driven by fear, greed, or widespread rumors are among the biggest mistakes beginners make, often leading to significant losses.</p><p>It is important to stick to a predefined strategy and avoid being swayed by market noise or recommendations not supported by logical analysis.</p><h2 id='s3'>Not Diversifying the Portfolio</h2><p>Placing all capital in a single asset or too few assets significantly increases risk; if that asset underperforms, your entire portfolio will be severely affected.</p><p>Diversifying investments across different sectors and asset classes (such as stocks, bonds, and real estate) reduces risk and helps protect capital from sudden fluctuations.</p><h2 id='s4'>Trying to Time the Market or Overtrading</h2><p>Some beginners believe they can predict short-term market movements to buy at the lowest point and sell at the highest, a task extremely difficult even for professionals.</p><p>Overtrading means incurring more fees and commissions, and often leads to worse outcomes than a calm, long-term investment strategy. Focusing on long-term growth is preferable.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-25
-// Total articles: 36
+// Last updated: 2026-05-27
+// Total articles: 37
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -2791,6 +2791,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>عدم البحث والتخطيط ��لكافي</h2><p>يقع العديد من المستثمرين المبتدئين في فخ البدء بالاستثمار دون فهم عميق للسوق أو الأصول التي يستثمرون فيها، مما يجعلهم عرضة لاتخاذ قرارات غير مدروسة.</p><p>من الضروري قضاء الوقت الكافي في البحث عن الشركات والصناعات، وتحديد أهداف استثمارية واضحة، ووضع خطة تتناسب مع مدى تحمل المخاطر الخاص بك.</p><h2 id='s2'>الاستثمار بناءً على العواطف أو الشائعات</h2><p>تعد قرارات الشراء والبيع المدفوعة بالخوف أو الطمع أو الشائعات المنتشرة من أكبر الأخطاء التي يرتكبها المبتدئون، حيث تؤدي غالبًا إلى خسائر كبيرة.</p><p>يجب الالتزام بالاستراتيجية المحددة مسبقًا وتجنب الانجراف وراء ضجيج السوق أو التوصيات غير المدعومة بتحليل منطقي.</p><h2 id='s3'>عدم تنويع المحفظة</h2><p>وضع كل رأس المال في أصل واحد أو عدد قليل جدًا من الأصول يزيد بشكل كبير من المخاطر، فإذا تراجع أداء هذا الأصل، فستتأثر محفظتك بأكملها بشدة.</p><p>تنويع الاستثمارات عبر قطاعات وأصول مختلفة (مثل الأسهم والسندات والعقارات) يقلل من المخاطر ويساعد على حماية رأس المال من التقلبات المفاجئة.</p><h2 id='s4'>محاولة توقيت السوق أو المبالغة في التداول</h2><p>يعتقد بعض المبتدئين أنهم يستطيعون التنبؤ بحركات السوق قصيرة الأجل للشراء عند أدنى نقطة والبيع عند أعلى نقطة، وهي مهمة صعبة للغاية حتى للمحترفين.</p><p>المبالغة في التداول تعني تكبد المزيد من الرسوم والعمولات، وغالبًا ما تؤدي إلى نتائج أسوأ من استراتيجية الاستثمار طويلة الأجل الهادئة. التركيز على النمو على المدى الطويل هو الأفضل.</p>",
     "contentEn": "<h2 id='s1'>Lack of Sufficient Research and Planning</h2><p>Many novice investors fall into the trap of starting to invest without a deep understanding of the market or the assets they are investing in, making them prone to making uninformed decisions.</p><p>It is crucial to spend adequate time researching companies and industries, setting clear investment goals, and developing a plan that aligns with your risk tolerance.</p><h2 id='s2'>Investing Based on Emotions or Rumors</h2><p>Buying and selling decisions driven by fear, greed, or widespread rumors are among the biggest mistakes beginners make, often leading to significant losses.</p><p>It is important to stick to a predefined strategy and avoid being swayed by market noise or recommendations not supported by logical analysis.</p><h2 id='s3'>Not Diversifying the Portfolio</h2><p>Placing all capital in a single asset or too few assets significantly increases risk; if that asset underperforms, your entire portfolio will be severely affected.</p><p>Diversifying investments across different sectors and asset classes (such as stocks, bonds, and real estate) reduces risk and helps protect capital from sudden fluctuations.</p><h2 id='s4'>Trying to Time the Market or Overtrading</h2><p>Some beginners believe they can predict short-term market movements to buy at the lowest point and sell at the highest, a task extremely difficult even for professionals.</p><p>Overtrading means incurring more fees and commissions, and often leads to worse outcomes than a calm, long-term investment strategy. Focusing on long-term growth is preferable.</p>"
+  },
+  {
+    "id": 37,
+    "slug": "how-to-read-company-financial-statements",
+    "title": "كيف تقرأ القوائم المالية للشركات",
+    "titleEn": "How to Read Company Financial Statements",
+    "summary": "دليلك الشامل لقراءة وفهم القوائم المالية الرئيسية للشركات لاتخاذ قرارات استثمارية مستنيرة.",
+    "summaryEn": "Your comprehensive guide to reading and understanding key company financial statements for informed investment decisions.",
+    "excerpt": "تعلم كيف تكشف قائمة الدخل والميزانية العمومية وقائمة التدفقات النقدية أسرار أداء الشركات ووضعها المالي.",
+    "excerptEn": "Learn how the income statement, balance sheet, and cash flow statement reveal the secrets of companies' performance and financial position.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "27 مايو 2026",
+    "dateEn": "May 27, 2026",
+    "dateISO": "2026-05-27",
+    "readTime": "8",
+    "views": "1684",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article37.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة للقوائم المالية"
+      },
+      {
+        "id": "s2",
+        "text": "قائمة الدخل"
+      },
+      {
+        "id": "s3",
+        "text": "الميزانية العمومية"
+      },
+      {
+        "id": "s4",
+        "text": "قائمة التدفقات النقدية"
+      },
+      {
+        "id": "s5",
+        "text": "أهمية التحليل واتخاذ القرار"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Financial Statements"
+      },
+      {
+        "id": "s2",
+        "text": "Income Statement"
+      },
+      {
+        "id": "s3",
+        "text": "Balance Sheet"
+      },
+      {
+        "id": "s4",
+        "text": "Cash Flow Statement"
+      },
+      {
+        "id": "s5",
+        "text": "Importance of Analysis and Decision Making"
+      }
+    ],
+    "related": [
+      36
+    ],
+    "content": "<h2 id='s1'>مقدمة للقوائم المالية</h2><p>تُعد القوائم المالية الأساس لفهم الوضع المالي والأداء التشغيلي لأي شركة، حيث توفر للمستثمرين والمحللين بيانات حيوية لاتخاذ قرارات استثمارية مدروسة ومبنية على حقائق.</p><h2 id='s2'>قائمة الدخل</h2><p>تُظهر قائمة الدخل، المعروفة أيضاً ببيان الأرباح والخسائر، إيرادات الشركة ومصروفاتها خلال فترة زمنية محددة، مثل ربع سنوي أو سنوي، وتكشف في النهاية عن صافي الربح أو الخسارة المحقق.</p><h2 id='s3'>الميزانية العمومية</h2><p>تقدم الميزانية العمومية لمحة سريعة عن الأصول والخصوم وحقوق الملكية للشركة في نقطة زمنية معينة، مما يوضح ما تملكه الشركة (الأصول) وما تدين به (الخصوم) وما يتبقى للمساهمين.</p><h2 id='s4'>قائمة التدفقات النقدية</h2><p>تتبع قائمة التدفقات النقدية حركة النقد الداخل والخارج من الشركة، مقسمة إلى أنشطة تشغيلية، استثمارية، وتمويلية، وهي حاسمة لتقييم قدرة الشركة على توليد السيولة وسداد التزاماتها.</p><h2 id='s5'>أهمية التحليل واتخاذ القرار</h2><p>يساعد فهم هذه القوائم في تقييم صحة الشركة المالية، تحديد نقاط القوة والضعف، ومقارنة أدائها مع المنافسين، مما يمكن المستثمرين من اتخاذ قرارات استثمارية مستنيرة ومخاطر محسوبة.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Financial Statements</h2><p>Financial statements are fundamental to understanding any company's financial position and operational performance, providing investors and analysts with vital data for making informed and fact-based investment decisions.</p><h2 id='s2'>Income Statement</h2><p>The income statement, also known as the profit and loss statement, shows a company's revenues and expenses over a specific period, such as quarterly or annually, ultimately revealing the net profit or loss achieved.</p><h2 id='s3'>Balance Sheet</h2><p>The balance sheet provides a snapshot of a company's assets, liabilities, and equity at a specific point in time, illustrating what the company owns (assets), what it owes (liabilities), and what remains for shareholders.</p><h2 id='s4'>Cash Flow Statement</h2><p>The cash flow statement tracks the movement of cash into and out of the company, divided into operating, investing, and financing activities, and is crucial for assessing the company's ability to generate liquidity and meet its obligations.</p><h2 id='s5'>Importance of Analysis and Decision Making</h2><p>Understanding these statements helps assess a company's financial health, identify strengths and weaknesses, and compare its performance with competitors, enabling investors to make informed investment decisions and calculated risks.</p>"
   }
 ];
 

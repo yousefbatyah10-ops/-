@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-27
-// Total articles: 37
+// Last updated: 2026-05-28
+// Total articles: 38
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -2868,6 +2868,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة للقوائم المالية</h2><p>تُعد القوائم المالية الأساس لفهم الوضع المالي والأداء التشغيلي لأي شركة، حيث توفر للمستثمرين والمحللين بيانات حيوية لاتخاذ قرارات استثمارية مدروسة ومبنية على حقائق.</p><h2 id='s2'>قائمة الدخل</h2><p>تُظهر قائمة الدخل، المعروفة أيضاً ببيان الأرباح والخسائر، إيرادات الشركة ومصروفاتها خلال فترة زمنية محددة، مثل ربع سنوي أو سنوي، وتكشف في النهاية عن صافي الربح أو الخسارة المحقق.</p><h2 id='s3'>الميزانية العمومية</h2><p>تقدم الميزانية العمومية لمحة سريعة عن الأصول والخصوم وحقوق الملكية للشركة في نقطة زمنية معينة، مما يوضح ما تملكه الشركة (الأصول) وما تدين به (الخصوم) وما يتبقى للمساهمين.</p><h2 id='s4'>قائمة التدفقات النقدية</h2><p>تتبع قائمة التدفقات النقدية حركة النقد الداخل والخارج من الشركة، مقسمة إلى أنشطة تشغيلية، استثمارية، وتمويلية، وهي حاسمة لتقييم قدرة الشركة على توليد السيولة وسداد التزاماتها.</p><h2 id='s5'>أهمية التحليل واتخاذ القرار</h2><p>يساعد فهم هذه القوائم في تقييم صحة الشركة المالية، تحديد نقاط القوة والضعف، ومقارنة أدائها مع المنافسين، مما يمكن المستثمرين من اتخاذ قرارات استثمارية مستنيرة ومخاطر محسوبة.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Financial Statements</h2><p>Financial statements are fundamental to understanding any company's financial position and operational performance, providing investors and analysts with vital data for making informed and fact-based investment decisions.</p><h2 id='s2'>Income Statement</h2><p>The income statement, also known as the profit and loss statement, shows a company's revenues and expenses over a specific period, such as quarterly or annually, ultimately revealing the net profit or loss achieved.</p><h2 id='s3'>Balance Sheet</h2><p>The balance sheet provides a snapshot of a company's assets, liabilities, and equity at a specific point in time, illustrating what the company owns (assets), what it owes (liabilities), and what remains for shareholders.</p><h2 id='s4'>Cash Flow Statement</h2><p>The cash flow statement tracks the movement of cash into and out of the company, divided into operating, investing, and financing activities, and is crucial for assessing the company's ability to generate liquidity and meet its obligations.</p><h2 id='s5'>Importance of Analysis and Decision Making</h2><p>Understanding these statements helps assess a company's financial health, identify strengths and weaknesses, and compare its performance with competitors, enabling investors to make informed investment decisions and calculated risks.</p>"
+  },
+  {
+    "id": 38,
+    "slug": "nfts-still-an-opportunity-in-2026",
+    "title": "NFTs: هل لا تزال فرصة في 2026؟",
+    "titleEn": "NFTs: Still an Opportunity in 2026?",
+    "summary": "يستكشف المقال مستقبل الرموز غير القابلة للاستبدال (NFTs) بحلول عام 2026، متناولاً تحولها نحو المنفعة الحقيقية والفرص الواعدة في قطاعات مثل الألعاب والأصول الحقيقية، مع تسليط الضوء على التحديات والمخاطر.",
+    "summaryEn": "This article explores the future of Non-Fungible Tokens (NFTs) by 2026, discussing their shift towards real utility and promising opportunities in sectors like gaming and real-world assets, while highlighting challenges and risks.",
+    "excerpt": "هل لا تزال الـ NFTs فرصة استثمارية مجدية في عام 2026؟ نتعمق في التحولات الجارية في سوقها وإ��كانياتها المستقبلية.",
+    "excerptEn": "Are NFTs still a viable investment opportunity in 2026? We delve into the ongoing shifts in their market and their future potential.",
+    "category": "العملات الرقمية",
+    "categoryEn": "Cryptocurrency",
+    "categoryIcon": "₿",
+    "author": "محمد العمري",
+    "authorEn": "Mohammed Al-Omari",
+    "authorInitial": "M",
+    "date": "28 مايو 2026",
+    "dateEn": "May 28, 2026",
+    "dateISO": "2026-05-28",
+    "readTime": "10",
+    "views": "2129",
+    "emoji": "₿",
+    "gradient": "linear-gradient(135deg,#112244,#1a3a5c)",
+    "image": "images/article38.jpg",
+    "featured": false,
+    "breadcrumb": "العملات الرقمية",
+    "breadcrumbEn": "Cryptocurrency",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: تقلبات سوق الـ NFT"
+      },
+      {
+        "id": "s2",
+        "text": "التحول نحو المنفعة والقيمة الحقيقية"
+      },
+      {
+        "id": "s3",
+        "text": "آفاق الـ NFT في 2026: الفرص الواعدة"
+      },
+      {
+        "id": "s4",
+        "text": "التحديات والمخاطر التي يجب الانتباه إليها"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: Volatility of the NFT Market"
+      },
+      {
+        "id": "s2",
+        "text": "Shift Towards Utility and Real Value"
+      },
+      {
+        "id": "s3",
+        "text": "NFT Prospects in 2026: Promising Opportunities"
+      },
+      {
+        "id": "s4",
+        "text": "Challenges and Risks to Watch Out For"
+      }
+    ],
+    "related": [
+      7
+    ],
+    "content": "<h2 id='s1'>مقدمة: تقلبات سوق الـ NFT</h2><p>شهد سوق الرموز غير القابلة للاستبدال (NFTs) طفرة جنونية تلاها تصحيح كبير، مما أثار تساؤلات حول مستقبله. هل ما زالت هذه الأصول الرقمية تحمل فرصًا استثمارية بحلول عام 2026، أم أنها مجرد موجة عابرة؟</p><h2 id='s2'>التحول نحو المنفعة والقيمة الحقيقية</h2><p>بعيدًا عن الفن الرقمي والمقتنيات، تتجه NFTs نحو نماذج أكثر عملية. نرى الآن تطبيقات في ألعاب الويب 3، وإثبات الملكية الرقمية، وحتى ترميز الأصول الحقيقية (RWA)، مما يمنحها قيمة جوهرية أكبر.</p><h2 id='s3'>آفاق الـ NFT في 2026: الفرص الواعدة</h2><p>بحلول عام 2026، من المتوقع أن تترسخ NFTs بشكل أكبر في قطاعات مثل الألعاب والميتاف��رس، وتذاكر الفعاليات، وأنظمة الولاء. كما يمكن أن تلعب دورًا محوريًا في تسهيل المعاملات العقارية وملكيات الفكرية عبر تقنية البلوك تشين.</p><h2 id='s4'>التحديات والمخاطر التي يجب الانتباه إليها</h2><p>رغم الإمكانات، لا تزال هناك تحديات كبيرة تشمل التقلبات السوقية، والتعقيدات التنظيمية، ومخاطر الاحتيال. يجب على المستثمرين إجراء بحث شامل وفهم المخاطر قبل أي استثمار في هذا المجال المتطور.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: Volatility of the NFT Market</h2><p>The Non-Fungible Token (NFT) market experienced a frenzied boom followed by a significant correction, raising questions about its future. Do these digital assets still hold investment opportunities by 2026, or were they just a passing trend?</p><h2 id='s2'>Shift Towards Utility and Real Value</h2><p>Beyond digital art and collectibles, NFTs are moving towards more practical models. We now see applications in Web3 gaming, digital identity proof, and even Real World Asset (RWA) tokenization, giving them greater intrinsic value.</p><h2 id='s3'>NFT Prospects in 2026: Promising Opportunities</h2><p>By 2026, NFTs are expected to become more entrenched in sectors like gaming, the metaverse, event ticketing, and loyalty programs. They could also play a pivotal role in facilitating real estate transactions and intellectual property ownership via blockchain technology.</p><h2 id='s4'>Challenges and Risks to Watch Out For</h2><p>Despite the potential, significant challenges remain, including market volatility, regulatory complexities, and fraud risks. Investors must conduct thorough research and understand the risks before any investment in this evolving field.</p>"
   }
 ];
 

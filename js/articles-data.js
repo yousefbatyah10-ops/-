@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-30
-// Total articles: 40
+// Last updated: 2026-05-31
+// Total articles: 41
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -3075,6 +3075,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فهم التكاليف</h2><p>لتسعير منتجاتك بذكاء، يجب أولاً معرفة جميع التكاليف المرتبطة بإنتاجها أو تقديمها. يشمل ذلك التكاليف الثابتة والمتغيرة، مثل المواد الخام، العمالة، التسويق، والنفقات التشغيلية.</p><p>هذا الفهم الدقيق يضمن تغطية التكاليف وتحقيق هامش ربح مستدام، وهو الأساس لأي استراتيجية تسعير ناجحة.</p><h2 id='s2'>تحليل السوق والمنافسين</h2><p>بعد تحديد التكاليف، قم بتحليل أسعار المنافسين في السوق. تعرف على كيفية تسعيرهم لمنتجات مماثلة وما هي القيمة التي يقدمونها.</p><p>يساعدك هذا التحليل على وضع منتجك بشكل تنافسي وتحديد ما إذا كنت تستطيع تقديم قيمة أفضل بسعر مماثل أو مختلف.</p><h2 id='s3'>القيمة المدركة للعميل</h2><p>التسعير لا يتعلق فقط بالتكاليف والمنافسين، بل بما يراه العميل قيمة في منتجك. فكر في الفوائد التي يقدمها منتجك وكيف يحل مشاكل العملاء.</p><p>كلما زادت القيمة التي يدركها العميل، زادت استعداده للدفع، مما يفتح المجال لتسعير أعلى يحقق أرباحًا أفضل.</p><h2 id='s4'>استراتيجيات التسعير الذكية</h2><p>اختر استراتيجية تسعير تتناسب مع أهداف عملك وسوقك. قد تختار التسعير على أساس التكلفة مضافاً إليها هامش ربح، أو التسعير القائم على القيمة، أو حتى التسعير التنافسي.</p><p>لا تتردد في تجربة استراتيجيات مثل التسعير النفسي (مثل 9.99 بدلاً من 10) أو التسعير المتدرج لشرائح مختلفة من العملاء، وراقب النتائج باستمرار لتعديل الأسعار حسب الحاجة.</p>",
     "contentEn": "<h2 id='s1'>Understanding Costs</h2><p>To price your products smartly, you must first know all the costs associated with their production or provision. This includes fixed and variable costs, such as raw materials, labor, marketing, and operating expenses.</p><p>This accurate understanding ensures cost coverage and sustainable profit margins, which is the foundation for any successful pricing strategy.</p><h2 id='s2'>Market and Competitor Analysis</h2><p>After determining costs, analyze competitor prices in the market. Understand how they price similar products and what value they offer.</p><p>This analysis helps you position your product competitively and determine if you can offer better value at a similar or different price.</p><h2 id='s3'>Customer Perceived Value</h2><p>Pricing is not just about costs and competitors, but about what the customer perceives as value in your product. Consider the benefits your product offers and how it solves customer problems.</p><p>The more value a customer perceives, the more willing they are to pay, opening the door for higher pricing that generates better profits.</p><h2 id='s4'>Smart Pricing Strategies</h2><p>Choose a pricing strategy that aligns with your business goals and market. You might opt for cost-plus pricing, value-based pricing, or even competitive pricing.</p><p>Don't hesitate to experiment with strategies like psychological pricing (e.g., 9.99 instead of 10) or tiered pricing for different customer segments, and continuously monitor results to adjust prices as needed.</p>"
+  },
+  {
+    "id": 41,
+    "slug": "index-funds-the-simplest-way-to-invest",
+    "title": "صناديق المؤشرات: أبسط طريقة للاستثمار",
+    "titleEn": "Index Funds: The Simplest Way to Invest",
+    "summary": "صناديق المؤشرات توفر طريقة سهلة وفعالة ومنخفضة التكلفة لتتبع أداء السوق وتحقيق التنويع الفوري للمحفظة الاستثمارية.",
+    "summaryEn": "Index funds offer an easy, efficient, and low-cost way to track market performance and achieve instant portfolio diversification.",
+    "excerpt": "اكتشف كيف يمكن لصناديق المؤشرات أن تبسط رحلتك الاستثمارية وتوفر لك التنويع بتكاليف منخفضة ودون الحاجة لخبرة عميقة.",
+    "excerptEn": "Discover how index funds can simplify your investment journey, offering diversification at low costs without requiring deep expertise.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "31 مايو 2026",
+    "dateEn": "May 31, 2026",
+    "dateISO": "2026-05-31",
+    "readTime": "11",
+    "views": "5923",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article41.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هي صناديق المؤشرات؟"
+      },
+      {
+        "id": "s2",
+        "text": "كيف تعمل صناديق المؤشرات؟"
+      },
+      {
+        "id": "s3",
+        "text": "مزايا الاستثمار في صناديق المؤشرات"
+      },
+      {
+        "id": "s4",
+        "text": "لماذا تعتبر أبسط طريقة للاستثمار؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What Are Index Funds?"
+      },
+      {
+        "id": "s2",
+        "text": "How Do Index Funds Work?"
+      },
+      {
+        "id": "s3",
+        "text": "Advantages of Investing in Index Funds"
+      },
+      {
+        "id": "s4",
+        "text": "Why Are They the Simplest Way to Invest?"
+      }
+    ],
+    "related": [
+      36
+    ],
+    "content": "<h2 id='s1'>ما هي صناديق المؤشرات؟</h2><p>صناديق المؤشرات هي نوع من صناديق الاستثمار المشتركة أو صناديق التداول في البورصة (ETFs) التي تهدف إلى تتبع أداء مؤشر سوق معين، مثل مؤشر S&P 500 أو مؤشر تاسي السعودي. بدلاً من محاولة التفوق على السوق، تسعى هذه الصناديق إلى محاكاة عوائده.</p><h2 id='s2'>كيف تعمل صناديق المؤشرات؟</h2><p>تعمل صناديق المؤشرات عن طريق الاحتفاظ بمجموعة من الأوراق المالية (الأسهم أو السندات) التي تعكس مكونات المؤشر المستهدف بنفس النسب. هذا يعني أن مدير الصندوق لا يتخذ قرارات استثمارية نشطة، بل يتبع قواعد المؤشر بدقة.</p><h2 id='s3'>مزايا الاستثمار في صناديق المؤشرات</h2><p>تقدم صناديق المؤشرات العديد من المزايا، أبرزها التنويع الفوري بتكلفة منخفضة. من خلال الاستثمار في صندوق واحد، يمكنك الحصول على تعرض لمئات الشركا��، مما يقلل من مخاطر الاستثمار في سهم واحد. كما أن رسوم إدارتها أقل بكثير مقارنة بالصناديق المدارة بنشاط.</p><h2 id='s4'>لماذا تعتبر أبسط طريقة للاستثمار؟</h2><p>تعتبر صناديق المؤشرات مثالية للمستثمرين الذين يبحثون عن نهج استثماري بسيط وفعال على المدى الطويل. لا تتطلب معرفة عميقة بالسوق أو وقتًا كبيرًا لمراقبة الاستثمارات، مما يجعلها خيارًا ممتازًا للمبتدئين ولأولئك الذين يفضلون الاستثمار السلبي.</p>",
+    "contentEn": "<h2 id='s1'>What Are Index Funds?</h2><p>Index funds are a type of mutual fund or exchange-traded fund (ETF) that aims to track the performance of a specific market index, such as the S&P 500 or the Saudi TASI index. Instead of trying to outperform the market, these funds seek to replicate its returns.</p><h2 id='s2'>How Do Index Funds Work?</h2><p>Index funds operate by holding a collection of securities (stocks or bonds) that mirror the components of the target index in the same proportions. This means the fund manager does not make active investment decisions but rather strictly follows the index's rules.</p><h2 id='s3'>Advantages of Investing in Index Funds</h2><p>Index funds offer numerous advantages, most notably instant diversification at a low cost. By investing in a single fund, you gain exposure to hundreds of companies, reducing the risk of investing in one stock. Their management fees are also significantly lower compared to actively managed funds.</p><h2 id='s4'>Why Are They the Simplest Way to Invest?</h2><p>Index funds are ideal for investors seeking a simple and effective long-term investment approach. They don't require deep market knowledge or significant time to monitor investments, making them an excellent choice for beginners and those who prefer passive investing.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-05-31
-// Total articles: 41
+// Last updated: 2026-06-01
+// Total articles: 42
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -3144,6 +3144,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هي صناديق المؤشرات؟</h2><p>صناديق المؤشرات هي نوع من صناديق الاستثمار المشتركة أو صناديق التداول في البورصة (ETFs) التي تهدف إلى تتبع أداء مؤشر سوق معين، مثل مؤشر S&P 500 أو مؤشر تاسي السعودي. بدلاً من محاولة التفوق على السوق، تسعى هذه الصناديق إلى محاكاة عوائده.</p><h2 id='s2'>كيف تعمل صناديق المؤشرات؟</h2><p>تعمل صناديق المؤشرات عن طريق الاحتفاظ بمجموعة من الأوراق المالية (الأسهم أو السندات) التي تعكس مكونات المؤشر المستهدف بنفس النسب. هذا يعني أن مدير الصندوق لا يتخذ قرارات استثمارية نشطة، بل يتبع قواعد المؤشر بدقة.</p><h2 id='s3'>مزايا الاستثمار في صناديق المؤشرات</h2><p>تقدم صناديق المؤشرات العديد من المزايا، أبرزها التنويع الفوري بتكلفة منخفضة. من خلال الاستثمار في صندوق واحد، يمكنك الحصول على تعرض لمئات الشركا��، مما يقلل من مخاطر الاستثمار في سهم واحد. كما أن رسوم إدارتها أقل بكثير مقارنة بالصناديق المدارة بنشاط.</p><h2 id='s4'>لماذا تعتبر أبسط طريقة للاستثمار؟</h2><p>تعتبر صناديق المؤشرات مثالية للمستثمرين الذين يبحثون عن نهج استثماري بسيط وفعال على المدى الطويل. لا تتطلب معرفة عميقة بالسوق أو وقتًا كبيرًا لمراقبة الاستثمارات، مما يجعلها خيارًا ممتازًا للمبتدئين ولأولئك الذين يفضلون الاستثمار السلبي.</p>",
     "contentEn": "<h2 id='s1'>What Are Index Funds?</h2><p>Index funds are a type of mutual fund or exchange-traded fund (ETF) that aims to track the performance of a specific market index, such as the S&P 500 or the Saudi TASI index. Instead of trying to outperform the market, these funds seek to replicate its returns.</p><h2 id='s2'>How Do Index Funds Work?</h2><p>Index funds operate by holding a collection of securities (stocks or bonds) that mirror the components of the target index in the same proportions. This means the fund manager does not make active investment decisions but rather strictly follows the index's rules.</p><h2 id='s3'>Advantages of Investing in Index Funds</h2><p>Index funds offer numerous advantages, most notably instant diversification at a low cost. By investing in a single fund, you gain exposure to hundreds of companies, reducing the risk of investing in one stock. Their management fees are also significantly lower compared to actively managed funds.</p><h2 id='s4'>Why Are They the Simplest Way to Invest?</h2><p>Index funds are ideal for investors seeking a simple and effective long-term investment approach. They don't require deep market knowledge or significant time to monitor investments, making them an excellent choice for beginners and those who prefer passive investing.</p>"
+  },
+  {
+    "id": 42,
+    "slug": "how-to-eliminate-debt-permanently",
+    "title": "كيف تتخلص من الديون نهائياً",
+    "titleEn": "How to Eliminate Debt Permanently",
+    "summary": "التخلص من الديون نهائياً يتطلب فهماً عميقاً لوضعك المالي، وضع خطة سداد فعالة، والالتزام بأسلوب حياة مالي منضبط.",
+    "summaryEn": "Permanently eliminating debt requires a deep understanding of your financial situation, creating an effective repayment plan, and committing to a disciplined financial lifestyle.",
+    "excerpt": "تخلص من عبء الديون باتباع خطوات عملية تشمل تقييم وضعك المالي، وضع ميزانية صارمة، واختيار استراتيجية سداد مناسبة.",
+    "excerptEn": "Get rid of the burden of debt by following practical steps including assessing your financial situation, setting a strict budget, and choosing an appropriate repayment strategy.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "1 يونيو 2026",
+    "dateEn": "June 1, 2026",
+    "dateISO": "2026-06-01",
+    "readTime": "9",
+    "views": "3409",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article42.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "فهم ديونك ووضع ميزانية"
+      },
+      {
+        "id": "s2",
+        "text": "اختيار استراتيجية السداد"
+      },
+      {
+        "id": "s3",
+        "text": "زيادة الدخل وتقليل الإنفاق"
+      },
+      {
+        "id": "s4",
+        "text": "بناء مستقبل خالٍ من الديون"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Understand Your Debt and Budget"
+      },
+      {
+        "id": "s2",
+        "text": "Choose a Repayment Strategy"
+      },
+      {
+        "id": "s3",
+        "text": "Increase Income and Reduce Spending"
+      },
+      {
+        "id": "s4",
+        "text": "Build a Debt-Free Future"
+      }
+    ],
+    "related": [
+      14
+    ],
+    "content": "<h2 id='s1'>فهم ديونك ووضع ميزانية</h2><p>الخطوة الأولى نحو التخلص من الديون هي فهم حجمها وأنواعها وأسعار الفائدة المرتبطة بها. قم بتجميع كل بيانات ديونك لتكوين صورة واضحة عن التزاماتك المالية.</p><p>بعد ذلك، قم بإنشاء ميزانية تفصيلية لتتبع دخلك ونفقاتك. حدد المجالات التي يمكنك تقليص الإنفاق فيها وتخصيص المزيد من الأموال لسداد الديون.</p><h2 id='s2'>اختيار استراتيجية السداد</h2><p>هناك استراتيجيتان رئيسيتان لسداد الديون: طريقة كرة الثلج (Snowball) حيث تسدد أصغر دين أولاً لتكتسب الزخم، أو طريقة الانهيار الجليدي (Avalanche) حيث تسدد الديون ذات الفائدة الأعلى أولاً لتوفير المال.</p><p>اختر الاستراتيجية التي تناسب وضعك المالي وتحفزك على الاستمرار، والتزم بها بصرامة.</p><h2 id='s3'>زياد�� الدخل وتقليل الإنفاق</h2><p>للتسريع من عملية سداد الديون، ابحث عن طرق لزيادة دخلك، سواء كان ذلك من خلال عمل إضافي، بيع أشياء غير مستخدمة، أو طلب زيادة في الراتب. كل مبلغ إضافي يذهب مباشرة لسداد الديون.</p><p>في الوقت نفسه، قلل من نفقاتك غير الضرورية. راجع اشتراكاتك، قلل من تناول الطعام بالخارج، وابحث عن بدائل أرخص لاحتياجاتك اليومية.</p><h2 id='s4'>بناء مستقبل خالٍ من الديون</h2><p>بمجرد التخلص من الديون، يجب أن تركز على بناء عادات مالية صحية تمنع تراكمها مرة أخرى. ابدأ بتكوين صندوق طوارئ يغطي 3-6 أشهر من نفقاتك لمنع الحاجة إلى الاقتراض في المستقبل.</p><p>استمر في العيش ضمن ميزانيتك، وادخر بانتظام، وفكر في الاستثمار لتنمية ثروتك وتأمين مستقبلك المالي.</p>",
+    "contentEn": "<h2 id='s1'>Understand Your Debt and Budget</h2><p>The first step towards becoming debt-free is understanding the size, types, and associated interest rates of your debts. Compile all your debt information to form a clear picture of your financial obligations.</p><p>Next, create a detailed budget to track your income and expenses. Identify areas where you can cut spending and allocate more funds towards debt repayment.</p><h2 id='s2'>Choose a Repayment Strategy</h2><p>There are two main debt repayment strategies: the Snowball method, where you pay off the smallest debt first to build momentum, or the Avalanche method, where you pay off debts with the highest interest rates first to save money.</p><p>Choose the strategy that suits your financial situation and motivates you to keep going, and stick to it rigorously.</p><h2 id='s3'>Increase Income and Reduce Spending</h2><p>To accelerate the debt repayment process, look for ways to increase your income, whether through a side hustle, selling unused items, or asking for a raise. Every extra amount goes directly towards paying off debt.</p><p>At the same time, reduce your non-essential expenses. Review your subscriptions, cut back on eating out, and look for cheaper alternatives for your daily needs.</p><h2 id='s4'>Build a Debt-Free Future</h2><p>Once debt-free, you must focus on building healthy financial habits that prevent future accumulation. Start by creating an emergency fund covering 3-6 months of expenses to avoid needing to borrow in the future.</p><p>Continue to live within your budget, save regularly, and consider investing to grow your wealth and secure your financial future.</p>"
   }
 ];
 

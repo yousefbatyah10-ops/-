@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-01
-// Total articles: 42
+// Last updated: 2026-06-02
+// Total articles: 43
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -3213,6 +3213,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فهم ديونك ووضع ميزانية</h2><p>الخطوة الأولى نحو التخلص من الديون هي فهم حجمها وأنواعها وأسعار الفائدة المرتبطة بها. قم بتجميع كل بيانات ديونك لتكوين صورة واضحة عن التزاماتك المالية.</p><p>بعد ذلك، قم بإنشاء ميزانية تفصيلية لتتبع دخلك ونفقاتك. حدد المجالات التي يمكنك تقليص الإنفاق فيها وتخصيص المزيد من الأموال لسداد الديون.</p><h2 id='s2'>اختيار استراتيجية السداد</h2><p>هناك استراتيجيتان رئيسيتان لسداد الديون: طريقة كرة الثلج (Snowball) حيث تسدد أصغر دين أولاً لتكتسب الزخم، أو طريقة الانهيار الجليدي (Avalanche) حيث تسدد الديون ذات الفائدة الأعلى أولاً لتوفير المال.</p><p>اختر الاستراتيجية التي تناسب وضعك المالي وتحفزك على الاستمرار، والتزم بها بصرامة.</p><h2 id='s3'>زياد�� الدخل وتقليل الإنفاق</h2><p>للتسريع من عملية سداد الديون، ابحث عن طرق لزيادة دخلك، سواء كان ذلك من خلال عمل إضافي، بيع أشياء غير مستخدمة، أو طلب زيادة في الراتب. كل مبلغ إضافي يذهب مباشرة لسداد الديون.</p><p>في الوقت نفسه، قلل من نفقاتك غير الضرورية. راجع اشتراكاتك، قلل من تناول الطعام بالخارج، وابحث عن بدائل أرخص لاحتياجاتك اليومية.</p><h2 id='s4'>بناء مستقبل خالٍ من الديون</h2><p>بمجرد التخلص من الديون، يجب أن تركز على بناء عادات مالية صحية تمنع تراكمها مرة أخرى. ابدأ بتكوين صندوق طوارئ يغطي 3-6 أشهر من نفقاتك لمنع الحاجة إلى الاقتراض في المستقبل.</p><p>استمر في العيش ضمن ميزانيتك، وادخر بانتظام، وفكر في الاستثمار لتنمية ثروتك وتأمين مستقبلك المالي.</p>",
     "contentEn": "<h2 id='s1'>Understand Your Debt and Budget</h2><p>The first step towards becoming debt-free is understanding the size, types, and associated interest rates of your debts. Compile all your debt information to form a clear picture of your financial obligations.</p><p>Next, create a detailed budget to track your income and expenses. Identify areas where you can cut spending and allocate more funds towards debt repayment.</p><h2 id='s2'>Choose a Repayment Strategy</h2><p>There are two main debt repayment strategies: the Snowball method, where you pay off the smallest debt first to build momentum, or the Avalanche method, where you pay off debts with the highest interest rates first to save money.</p><p>Choose the strategy that suits your financial situation and motivates you to keep going, and stick to it rigorously.</p><h2 id='s3'>Increase Income and Reduce Spending</h2><p>To accelerate the debt repayment process, look for ways to increase your income, whether through a side hustle, selling unused items, or asking for a raise. Every extra amount goes directly towards paying off debt.</p><p>At the same time, reduce your non-essential expenses. Review your subscriptions, cut back on eating out, and look for cheaper alternatives for your daily needs.</p><h2 id='s4'>Build a Debt-Free Future</h2><p>Once debt-free, you must focus on building healthy financial habits that prevent future accumulation. Start by creating an emergency fund covering 3-6 months of expenses to avoid needing to borrow in the future.</p><p>Continue to live within your budget, save regularly, and consider investing to grow your wealth and secure your financial future.</p>"
+  },
+  {
+    "id": 43,
+    "slug": "affiliate-marketing-beginners-guide",
+    "title": "التسويق بالعمولة: دليل المبتدئين",
+    "titleEn": "Affiliate Marketing: Beginner's Guide",
+    "summary": "التسويق بالعمولة هو نموذج عمل يتيح للأفراد كسب عمولة عن طريق الترويج لمنتجات أو خدمات الآخرين، وهو مثالي للمبتدئين لدخوله المنخفض.",
+    "summaryEn": "Affiliate marketing is a business model allowing individuals to earn commission by promoting others' products or services, making it ideal for beginners due to its low barrier to entry.",
+    "excerpt": "اكتشف أساسيات التسويق بالعمولة وكيف يمكنك البدء في هذا المجال المربح دون الحاجة لاستثمارات كبيرة.",
+    "excerptEn": "Discover the fundamentals of affiliate marketing and how you can start in this profitable field without significant investments.",
+    "category": "الدخل السلبي",
+    "categoryEn": "Passive Income",
+    "categoryIcon": "💰",
+    "author": "محمد العمري",
+    "authorEn": "Mohammed Al-Omari",
+    "authorInitial": "M",
+    "date": "2 يونيو 2026",
+    "dateEn": "June 2, 2026",
+    "dateISO": "2026-06-02",
+    "readTime": "12",
+    "views": "3660",
+    "emoji": "💰",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article43.jpg",
+    "featured": false,
+    "breadcrumb": "الدخل السلبي",
+    "breadcrumbEn": "Passive Income",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هو الت��ويق بالعمولة؟"
+      },
+      {
+        "id": "s2",
+        "text": "كيف يعمل التسويق بالعمولة؟"
+      },
+      {
+        "id": "s3",
+        "text": "لماذا التسويق بالعمولة؟ المزايا للمبتدئين"
+      },
+      {
+        "id": "s4",
+        "text": "خطوات البدء في التسويق بالعمولة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What is Affiliate Marketing?"
+      },
+      {
+        "id": "s2",
+        "text": "How Does Affiliate Marketing Work?"
+      },
+      {
+        "id": "s3",
+        "text": "Why Affiliate Marketing? Benefits for Beginners"
+      },
+      {
+        "id": "s4",
+        "text": "Steps to Start Affiliate Marketing"
+      }
+    ],
+    "related": [
+      11
+    ],
+    "content": "<h2 id='s1'>ما هو التسويق بالعمولة؟</h2><p>التسويق بالعمولة هو نموذج عمل يعتمد على مكافأة المسوقين (الشركاء بالعمولة) لترويجهم لمنتجات أو خدمات شركات أخرى. يحصل المسوق على عمولة مقابل كل عملية بيع أو إجراء يؤدي إليه ترويجه.</p><p>يتضمن هذا النموذج ثلاثة أطراف رئيسية: التاجر (صاحب المنتج)، الشريك بالعمولة (المسوق)، والعميل (المشتري). يقوم الشريك ببناء جسر بين المنتج والمشتري.</p><h2 id='s2'>كيف يعمل التسويق بالعمولة؟</h2><p>تبدأ العملية عندما ينضم الشريك إلى برنامج تسويق بالعمولة ويحصل على رابط تتبع فريد للمنتجات التي يرغب في الترويج لها. يقوم الشريك بعد ذلك بنشر هذا الرابط عبر قنواته المختلفة مثل المدونات أو وسائل التواصل الاجتماعي.</p><p>عندما ينقر عميل محتمل على الرابط ويقوم بإجراء عملية شراء أو أ�� إجراء محدد (مثل التسجيل)، يتم تتبع ذلك، ويحصل الشريك على عمولته المتفق عليها من التاجر.</p><h2 id='s3'>لماذا التسويق بالعمولة؟ المزايا للمبتدئين</h2><p>يعد التسويق بالعمولة جذابًا للمبتدئين لأنه لا يتطلب رأس مال كبير للبدء، ولا داعي للقلق بشأن إدارة المخزون أو الشحن أو خدمة العملاء، فكل ذلك يقع على عاتق التاجر.</p><p>كما يوفر مرونة كبيرة في العمل من أي مكان وفي أي وقت، مع إمكانية تحقيق دخل سلبي بمجرد بناء محتوى جيد يستمر في جذب العملاء بمرور الوقت.</p><h2 id='s4'>خطوات البدء في التسويق بالعمولة</h2><p>أولاً، اختر مجالًا متخصصًا تهتم به ولديك معرفة به لتتمكن من إنشاء محتوى قيم. ثانيًا، ابحث عن برامج تسويق بالعمولة تتوافق مع هذا المجال ومنتجاته، مثل أمازون شركاء أو برامج خاصة بالشركات.</p><p>ثالثًا، ابدأ في إن��اء محتوى (مدونة، قناة يوتيوب، حسابات تواصل اجتماعي) لمراجعة المنتجات والترويج لها باستخدام روابطك الفريدة. أخيرًا، حلل أداء حملاتك وحسّن استراتيجياتك باستمرار لزيادة الأرباح.</p>",
+    "contentEn": "<h2 id='s1'>What is Affiliate Marketing?</h2><p>Affiliate marketing is a performance-based business model where affiliates are rewarded for promoting other companies' products or services. The affiliate earns a commission for each sale or action generated through their promotion.</p><p>This model typically involves three main parties: the merchant (product owner), the affiliate (marketer), and the consumer (buyer). The affiliate acts as a bridge connecting the product with potential customers.</p><h2 id='s2'>How Does Affiliate Marketing Work?</h2><p>The process begins when an affiliate joins an affiliate program and receives a unique tracking link for the products they wish to promote. The affiliate then shares this link across their various channels, such as blogs or social media platforms.</p><p>When a potential customer clicks on the link and makes a purchase or completes a specified action (like signing up), it is tracked, and the affiliate receives their agreed-upon commission from the merchant.</p><h2 id='s3'>Why Affiliate Marketing? Benefits for Beginners</h2><p>Affiliate marketing is attractive to beginners because it requires minimal upfront capital to start. There's no need to worry about inventory management, shipping, or customer service, as these responsibilities fall on the merchant.</p><p>It also offers great flexibility, allowing you to work from anywhere, anytime, with the potential to generate passive income once you've built good content that continues to attract customers over time.</p><h2 id='s4'>Steps to Start Affiliate Marketing</h2><p>First, choose a niche you are passionate about and have knowledge in, enabling you to create valuable content. Second, find affiliate programs relevant to your niche and its products, such as Amazon Associates or specific company programs.</p><p>Third, start creating content (blog, YouTube channel, social media accounts) to review and promote products using your unique links. Finally, analyze your campaign performance and continuously refine your strategies to maximize earnings.</p>"
   }
 ];
 

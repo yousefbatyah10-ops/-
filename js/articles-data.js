@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-04
-// Total articles: 45
+// Last updated: 2026-06-05
+// Total articles: 46
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -3420,6 +3420,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>��ا هي الأراضي البيضاء؟</h2><p>الأراضي البيضاء هي أراضٍ فضاء غير مطورة تقع ضمن النطاق العمراني أو بالقرب منه، ولم يتم استغلالها للبناء أو الزراعة. غالبًا ما تكون مخصصة للتطوير المستقبلي وفقًا للخطط العمرانية للمدن.</p><h2 id='s2'>لماذا الاستثمار في الأراضي البيضاء؟</h2><p>تتميز الأراضي البيضاء بفرص نمو رأس المال الكبيرة مع التوسع العمراني المستمر للمدن. يمكن أن تكون نقطة دخول استثمارية منخفضة التكلفة مقارنة بالعقارات المطورة، ما يوفر إمكانية تحقيق أرباح مجزية على المدى الطويل.</p><p>توفر هذه الأراضي مرونة في الاستخدام المستقبلي، حيث يمكن تطويرها لمشاريع سكنية، تجارية، أو صناعية حسب الحاجة وتغيرات السوق، مما يجعلها خياراً جذاباً للمستثمرين ذوي الرؤية بعيدة المدى.</p><h2 id='s3'>التحديات والمخاطر المحتملة</h2><p>تشمل التحديات رسوم الأراضي البيضاء (في بعض الدول مثل السعودية)، بطء السيولة، والاعتماد على خطط التنمية الحكومية المستقبلية التي قد تتغير. كما أن غياب الدخل الإيجاري يعني أن العائد يعتمد كلياً على ارتفاع قيمة الأرض.</p><p>قد تتطلب الأراضي البيضاء تكاليف حيازة مثل الضرائب العقارية والرسوم، وقد تستغرق وقتًا طويلاً لتحقيق العائد المرجو، مما يستدعي صبراً وملاءة مالية كافية لتحمل فترة الانتظار.</p><h2 id='s4'>نصائح للاستثمار الناجح</h2><p>قم ببحث شامل عن الموقع، خطط التوسع العمراني، والتشريعات المحلية مثل أنظمة البناء والارتفاعات. اختر المواقع التي تظهر مؤشرات نمو واضحة أو قربها من مشاريع البنية التحتية المستقبلية.</p><p>احرص على فهم رسوم الأراضي البيضاء إن وجدت، وقدرتك على تحمل التكاليف الدورية. استشر خبراء العق��ر والمتخصصين لتقييم الفرص والمخاطر قبل اتخاذ قرار الاستثمار لضمان تحقيق أفضل العوائد.</p>",
     "contentEn": "<h2 id='s1'>What are White Lands?</h2><p>White lands refer to undeveloped plots of land, often located within or near urban areas, that have not yet been utilized for construction or agriculture. They are typically designated for future development according to urban master plans.</p><h2 id='s2'>Why Invest in White Lands?</h2><p>White lands offer significant capital appreciation potential as urban areas continuously expand. They can be a lower-cost entry point into real estate compared to developed properties, providing the opportunity for substantial long-term returns.</p><p>These lands offer flexibility for future use, allowing for residential, commercial, or industrial development based on market needs and changes, making them an attractive option for long-term vision investors.</p><h2 id='s3'>Potential Challenges and Risks</h2><p>Challenges include white land fees (in some countries like Saudi Arabia), slow liquidity, and reliance on future government development plans which can change. The absence of rental income means returns are solely dependent on land value appreciation.</p><p>White lands may incur holding costs such as property taxes and fees, and it can take a long time to realize the desired return on investment, requiring patience and sufficient financial capacity to endure the waiting period.</p><h2 id='s4'>Tips for Successful Investment</h2><p>Conduct thorough research on the location, urban expansion plans, and local regulations such as zoning and building codes. Choose locations showing clear growth indicators or proximity to future infrastructure projects.</p><p>Understand any applicable white land fees and your ability to bear recurring costs. Consult real estate experts and specialists to evaluate opportunities and risks before making an investment decision to ensure optimal returns.</p>"
+  },
+  {
+    "id": 46,
+    "slug": "stablecoins-the-digital-dollar",
+    "title": "العملات المستقرة: الدولار الرقمي",
+    "titleEn": "Stablecoins: The Digital Dollar",
+    "summary": "العملات المستقرة هي عملات مشفرة مرتبطة بأصول مستقرة مثل الدولار، توفر استقرارًا في عالم العملات الرقمية المتقلب وتسهل المعاملات.",
+    "summaryEn": "Stablecoins are cryptocurrencies pegged to stable assets like the dollar, offering stability in the volatile digital currency world and facilitating transactions.",
+    "excerpt": "استكشف العملات المستقرة، وكيف توفر الاستقرار كـ \"دولار رقمي\" في سوق العملات المشفرة، وأهميتها في المعاملات المالية الحديثة.",
+    "excerptEn": "Explore stablecoins, how they provide stability as a \"digital dollar\" in the crypto market, and their importance in modern financial transactions.",
+    "category": "العملات الرقمية",
+    "categoryEn": "Cryptocurrency",
+    "categoryIcon": "₿",
+    "author": "عمر الخالدي",
+    "authorEn": "Omar Al-Khalidi",
+    "authorInitial": "O",
+    "date": "5 يونيو 2026",
+    "dateEn": "June 5, 2026",
+    "dateISO": "2026-06-05",
+    "readTime": "10",
+    "views": "3258",
+    "emoji": "₿",
+    "gradient": "linear-gradient(135deg,#112244,#1a3a5c)",
+    "image": "images/article46.jpg",
+    "featured": false,
+    "breadcrumb": "العملات الرقمية",
+    "breadcrumbEn": "Cryptocurrency",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هي العملات المستقرة؟"
+      },
+      {
+        "id": "s2",
+        "text": "لماذا هي مهمة؟"
+      },
+      {
+        "id": "s3",
+        "text": "أنواع العملات المستقرة"
+      },
+      {
+        "id": "s4",
+        "text": "المخاطر والفوائد"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What are Stablecoins?"
+      },
+      {
+        "id": "s2",
+        "text": "Why are they important?"
+      },
+      {
+        "id": "s3",
+        "text": "Types of Stablecoins"
+      },
+      {
+        "id": "s4",
+        "text": "Risks and Benefits"
+      }
+    ],
+    "related": [
+      38
+    ],
+    "content": "<h2 id='s1'>ما هي العملات المستقرة؟</h2><p>العملات المستقرة هي نوع من العملات المشفرة مصممة للحفاظ على قيمة ثابتة، عادةً ما تكون مرتبطة بأصل مستقر مثل الدولار الأمريكي أو الذهب. هذا يهدف إلى التغلب على التقلبات الشديدة التي تشتهر بها العملات المشفرة الأخرى.</p><p>تعمل هذه العملات كجسر بين عالم العملات المشفرة والتمويل التقليدي، مما يوفر وسيلة للتحويلات الرقمية السريعة مع الحفاظ على استقرار القيمة.</p><h2 id='s2'>لماذا هي مهمة؟</h2><p>توفر العملات المستقرة حلولاً عملية للعديد من التحديات في سوق العملات المشفرة، فهي تقلل من مخاطر تقلبات الأسعار عند التداول أو إجراء المدفوعات. كما أنها تساهم في تسهيل المعاملات الرقمية العالمية بكفاءة أكبر.</p><p>إنها ضرورية للمتداولين ��لذين يرغبون في الخروج من المراكز المتقلبة دون التحويل إلى عملات ورقية، وللتحويلات المالية الدولية السريعة ومنخفضة التكلفة.</p><h2 id='s3'>أنواع العملات المستقرة</h2><p>هناك أنواع رئيسية للعملات المستقرة: تلك المدعومة بالعملات الورقية (مثل USDT و USDC المدعومة بالدولار)، والمدعومة بالسلع (مثل العملات المرتبطة بالذهب)، والمدعومة بالعملات المشفرة الأخرى (مثل DAI).</p><p>يوجد أيضًا العملات المستقرة الخوارزمية التي تستخدم آليات برمجية للحفاظ على استقرارها دون الحاجة إلى احتياطيات مباشرة من الأصول التقليدية.</p><h2 id='s4'>المخاطر والفوائد</h2><p>تشمل فوائد العملات المستقرة الاستقرار، السيولة العالية، وسهولة الاستخدام في المعاملات الرقمية والتحويلات عبر الحدود. إنها توفر ملاذًا آمنًا خلال فترات التقلب في سوق العملات المشفرة.</p><p>ومع ذلك، لا تخلو من المخاطر، مثل الشفافية في الاحتياطيات، والمخاطر التنظيمية المحتملة، والضعف في الآليات الخوارزمية لبعض الأنواع. فهم هذه الجوانب ضروري قبل الاستثمار أو الاستخدام.</p>",
+    "contentEn": "<h2 id='s1'>What are Stablecoins?</h2><p>Stablecoins are a type of cryptocurrency designed to maintain a stable value, typically pegged to a stable asset like the US dollar or gold. This aims to overcome the extreme volatility for which other cryptocurrencies are known.</p><p>They act as a bridge between the world of cryptocurrencies and traditional finance, offering a means for fast digital transfers while preserving value stability.</p><h2 id='s2'>Why are they important?</h2><p>Stablecoins offer practical solutions to many challenges in the cryptocurrency market, reducing the risks of price fluctuations when trading or making payments. They also contribute to facilitating global digital transactions more efficiently.</p><p>They are essential for traders who want to exit volatile positions without converting to fiat currency, and for fast, low-cost international remittances.</p><h2 id='s3'>Types of Stablecoins</h2><p>There are main types of stablecoins: those backed by fiat currencies (like USDT and USDC pegged to the dollar), commodity-backed (like gold-pegged tokens), and crypto-backed (like DAI).</p><p>There are also algorithmic stablecoins that use software mechanisms to maintain their stability without the need for direct reserves of traditional assets.</p><h2 id='s4'>Risks and Benefits</h2><p>Benefits of stablecoins include stability, high liquidity, and ease of use in digital transactions and cross-border transfers. They offer a safe haven during periods of volatility in the cryptocurrency market.</p><p>However, they are not without risks, such as transparency in reserves, potential regulatory risks, and vulnerabilities in the algorithmic mechanisms of some types. Understanding these aspects is crucial before investing or using them.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-05
-// Total articles: 46
+// Last updated: 2026-06-06
+// Total articles: 47
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -3489,6 +3489,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هي العملات المستقرة؟</h2><p>العملات المستقرة هي نوع من العملات المشفرة مصممة للحفاظ على قيمة ثابتة، عادةً ما تكون مرتبطة بأصل مستقر مثل الدولار الأمريكي أو الذهب. هذا يهدف إلى التغلب على التقلبات الشديدة التي تشتهر بها العملات المشفرة الأخرى.</p><p>تعمل هذه العملات كجسر بين عالم العملات المشفرة والتمويل التقليدي، مما يوفر وسيلة للتحويلات الرقمية السريعة مع الحفاظ على استقرار القيمة.</p><h2 id='s2'>لماذا هي مهمة؟</h2><p>توفر العملات المستقرة حلولاً عملية للعديد من التحديات في سوق العملات المشفرة، فهي تقلل من مخاطر تقلبات الأسعار عند التداول أو إجراء المدفوعات. كما أنها تساهم في تسهيل المعاملات الرقمية العالمية بكفاءة أكبر.</p><p>إنها ضرورية للمتداولين ��لذين يرغبون في الخروج من المراكز المتقلبة دون التحويل إلى عملات ورقية، وللتحويلات المالية الدولية السريعة ومنخفضة التكلفة.</p><h2 id='s3'>أنواع العملات المستقرة</h2><p>هناك أنواع رئيسية للعملات المستقرة: تلك المدعومة بالعملات الورقية (مثل USDT و USDC المدعومة بالدولار)، والمدعومة بالسلع (مثل العملات المرتبطة بالذهب)، والمدعومة بالعملات المشفرة الأخرى (مثل DAI).</p><p>يوجد أيضًا العملات المستقرة الخوارزمية التي تستخدم آليات برمجية للحفاظ على استقرارها دون الحاجة إلى احتياطيات مباشرة من الأصول التقليدية.</p><h2 id='s4'>المخاطر والفوائد</h2><p>تشمل فوائد العملات المستقرة الاستقرار، السيولة العالية، وسهولة الاستخدام في المعاملات الرقمية والتحويلات عبر الحدود. إنها توفر ملاذًا آمنًا خلال فترات التقلب في سوق العملات المشفرة.</p><p>ومع ذلك، لا تخلو من المخاطر، مثل الشفافية في الاحتياطيات، والمخاطر التنظيمية المحتملة، والضعف في الآليات الخوارزمية لبعض الأنواع. فهم هذه الجوانب ضروري قبل الاستثمار أو الاستخدام.</p>",
     "contentEn": "<h2 id='s1'>What are Stablecoins?</h2><p>Stablecoins are a type of cryptocurrency designed to maintain a stable value, typically pegged to a stable asset like the US dollar or gold. This aims to overcome the extreme volatility for which other cryptocurrencies are known.</p><p>They act as a bridge between the world of cryptocurrencies and traditional finance, offering a means for fast digital transfers while preserving value stability.</p><h2 id='s2'>Why are they important?</h2><p>Stablecoins offer practical solutions to many challenges in the cryptocurrency market, reducing the risks of price fluctuations when trading or making payments. They also contribute to facilitating global digital transactions more efficiently.</p><p>They are essential for traders who want to exit volatile positions without converting to fiat currency, and for fast, low-cost international remittances.</p><h2 id='s3'>Types of Stablecoins</h2><p>There are main types of stablecoins: those backed by fiat currencies (like USDT and USDC pegged to the dollar), commodity-backed (like gold-pegged tokens), and crypto-backed (like DAI).</p><p>There are also algorithmic stablecoins that use software mechanisms to maintain their stability without the need for direct reserves of traditional assets.</p><h2 id='s4'>Risks and Benefits</h2><p>Benefits of stablecoins include stability, high liquidity, and ease of use in digital transactions and cross-border transfers. They offer a safe haven during periods of volatility in the cryptocurrency market.</p><p>However, they are not without risks, such as transparency in reserves, potential regulatory risks, and vulnerabilities in the algorithmic mechanisms of some types. Understanding these aspects is crucial before investing or using them.</p>"
+  },
+  {
+    "id": 47,
+    "slug": "ipos-opportunity-or-trap",
+    "title": "الاكتتابات العامة: فرصة أم فخ؟",
+    "titleEn": "IPOs: Opportunity or Trap?",
+    "summary": "الاكتتابات العامة يمكن أن تكون فرصة ذهبية لتحقيق عوائد مجزية أو فخًا للمستثمرين غير المدروسين، وتتطلب بحثًا دقيقًا.",
+    "summaryEn": "Initial Public Offerings (IPOs) can be a golden opportunity for significant returns or a trap for uninformed investors, requiring careful research.",
+    "excerpt": "نتعمق في عالم الاكتتابات العامة لنفهم متى تكون فرصة ومتى يجب الحذر، مع تسليط الضوء على أبرز الجوانب الإيجابية والسلبية.",
+    "excerptEn": "We delve into the world of IPOs to understand when they are an opportunity and when caution is needed, highlighting the key positive and negative aspects.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "عمر الخالدي",
+    "authorEn": "Omar Al-Khalidi",
+    "authorInitial": "O",
+    "date": "6 يونيو 2026",
+    "dateEn": "June 6, 2026",
+    "dateISO": "2026-06-06",
+    "readTime": "11",
+    "views": "3372",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article47.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "الاكتتابات العامة: نظرة عامة"
+      },
+      {
+        "id": "s2",
+        "text": "الجانب المشرق: فرص النمو"
+      },
+      {
+        "id": "s3",
+        "text": "الجانب المظلم: المخاطر المحتملة"
+      },
+      {
+        "id": "s4",
+        "text": "كيف تقيم الفرصة؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Initial Public Offerings: An Overview"
+      },
+      {
+        "id": "s2",
+        "text": "The Bright Side: Growth Opportunities"
+      },
+      {
+        "id": "s3",
+        "text": "The Dark Side: Potential Risks"
+      },
+      {
+        "id": "s4",
+        "text": "How to Evaluate the Opportunity?"
+      }
+    ],
+    "related": [
+      37
+    ],
+    "content": "<h2 id='s1'>الاكتتابات العامة: نظرة عامة</h2><p>الاكتتاب العام (IPO) هو عملية طرح أسهم شركة خاصة للجمهور لأول مرة، مما يتيح للمستثمرين فرصة امتلاك جزء من الشركة.</p><p>يمكن أن يكون هذا الحدث نقطة تحول كبرى للشركات والمستثمرين على حد سواء، حيث يفتح أبوابًا جديدة للتمويل والنمو.</p><h2 id='s2'>الجانب المشرق: فرص النمو</h2><p>توفر الاكتتابات فرصة للمستثمرين الأوائل للاستفادة من نمو الشركة على المدى الطويل، خاصة إذا كانت الشركة ذات أساس قوي وآفاق واعدة.</p><p>يمكن أن تحقق الأسهم أرباحًا رأسمالية كبيرة إذا ارتفع سعرها بعد الإدراج، مما يجذب العديد من المستثمرين الباحثين عن عوائد مجزية.</p><h2 id='s3'>الجانب المظلم: المخاطر المحتملة</h2><p>لا تخلو الاكتتابات من المخاطر؛ فقد يكون سعر الطرح مبالغًا فيه، أو قد تتراجع أسعار الأسهم بعد الإدراج بسبب تقلبات السوق أو ضعف الأداء التشغيلي للشركة.</p><p>كما أن نقص المعلومات التاريخية عن أداء الشركة يجعل تقييمها أكثر صعوبة وتعقيدًا مقارنة بالشركات المدرجة منذ فترة طويلة.</p><h2 id='s4'>كيف تقيم الفرصة؟</h2><p>لتقليل المخاطر، يجب على المستثمر إجراء بحث شامل عن الشركة، بما في ذلك نموذج عملها، وإدارتها، ووضعها المالي، وآفاق الصناعة.</p><p>يُنصح بالتركيز على الشركات ذات التقييمات المعقولة والخطط المستقبلية الواضحة، وعدم الانجراف وراء الضجيج الإعلامي.</p>",
+    "contentEn": "<h2 id='s1'>Initial Public Offerings: An Overview</h2><p>An Initial Public Offering (IPO) is the process of offering shares of a private corporation to the public for the first time, allowing investors to own a piece of the company.</p><p>This event can be a major turning point for both companies and investors, opening new avenues for funding and growth.</p><h2 id='s2'>The Bright Side: Growth Opportunities</h2><p>IPOs offer early investors a chance to benefit from a company's long-term growth, especially if the company has strong fundamentals and promising prospects.</p><p>Shares can achieve significant capital gains if their price rises after listing, attracting many investors seeking rewarding returns.</p><h2 id='s3'>The Dark Side: Potential Risks</h2><p>IPOs are not without risks; the offering price might be overvalued, or share prices could decline after listing due to market fluctuations or weak operational performance.</p><p>Furthermore, the lack of historical performance data makes evaluating the company more challenging and complex compared to long-established public companies.</p><h2 id='s4'>How to Evaluate the Opportunity?</h2><p>To mitigate risks, investors should conduct thorough research on the company, including its business model, management, financial position, and industry outlook.</p><p>It is advisable to focus on companies with reasonable valuations and clear future plans, avoiding being swayed by media hype.</p>"
   }
 ];
 

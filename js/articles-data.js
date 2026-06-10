@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-09
-// Total articles: 49
+// Last updated: 2026-06-10
+// Total articles: 50
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -3696,6 +3696,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مفهوم الاستثمار الفندقي</h2><p>الاستثمار في العقارات الفندقية يعني شراء أو تطوير عقارات مخصصة لتقديم خدمات الإقامة الفندقية، مثل الفنادق، المنتجعات، والشقق الفندقية. يهدف هذا النوع من الاستثمار إلى تحقيق عوائد من إيرادات التشغيل ونمو قيمة العقار.</p><p>يتميز هذا القطاع بقدرته على توليد دخل دوري ومستمر، مما يجعله خيارًا جذابًا للمستثمرين الباحثين عن تدفقات نقدية منتظمة.</p><h2 id='s2'>مزايا الاستثمار الفندقي</h2><p>يقدم الاستثمار في الفنادق عوائد محتملة عالية، خاصة في الوجهات السياحية المزدهرة والمدن الكبرى. كما يوفر تنويعًا للمحفظة الاستثمارية ويستفيد من نمو قطاع السياحة والضيافة العالمي.</p><p>يمكن للمستثمرين أيضًا الاستفادة من الإدارة المهنية للعقارات الفندقية، حيث تتولى شركات الضيافة المتخصصة مسؤولية التشغيل والصيانة والتسويق.</p><h2 id='s3'>تحديات ومخاطر يجب مراعاتها</h2><p>لا يخلو الاستثمار الفندقي من التحديات، فهو يتأثر بشكل كبير بالتقلبات الاقتصادية والسياسية، والتغيرات في أنماط السفر والسياحة. كما يتطلب رأس مال كبير وقد تكون السيولة منخفضة نسبيًا.</p><p>المنافسة الشديدة في السوق وتكاليف التشغيل والصيانة المرتفعة تشكل أيضًا تحديات إضافية يجب على المستثمر تقييمها بعناية.</p><h2 id='s4'>طرق الاستثمار في العقارات الفندقية</h2><p>يمكن الاستثمار في الفنادق بشكل مباشر عن طريق شراء فندق كامل أو تطويره، أو بشكل غير مباشر عبر صناديق الاستثمار العقاري المتخصصة (REITs). كما توجد خيارات لشراء وحدات فردية داخل الفنادق أو المنتجعات.</p><p>كل طريقة لها مزاياها ومخاطرها، ويجب على المستثمر اختيار الأنسب لأهدافه ومستوى تحمله للمخاطر.</p>",
     "contentEn": "<h2 id='s1'>Concept of Hotel Investment</h2><p>Investing in hotel real estate means purchasing or developing properties dedicated to providing hotel accommodation services, such as hotels, resorts, and serviced apartments. This type of investment aims to generate returns from operating revenues and property value appreciation.</p><p>This sector is characterized by its ability to generate periodic and continuous income, making it an attractive option for investors seeking regular cash flows.</p><h2 id='s2'>Advantages of Hotel Investment</h2><p>Investing in hotels offers potentially high returns, especially in prosperous tourist destinations and major cities. It also provides diversification for an investment portfolio and benefits from the growth of the global tourism and hospitality sector.</p><p>Investors can also benefit from the professional management of hotel properties, where specialized hospitality companies take responsibility for operation, maintenance, and marketing.</p><h2 id='s3'>Challenges and Risks to Consider</h2><p>Hotel investment is not without its challenges, as it is significantly affected by economic and political fluctuations, and changes in travel and tourism patterns. It also requires substantial capital and may have relatively low liquidity.</p><p>Intense market competition and high operating and maintenance costs also pose additional challenges that investors must carefully evaluate.</p><h2 id='s4'>Ways to Invest in Hotel Real Estate</h2><p>Investing in hotels can be done directly by purchasing or developing an entire hotel, or indirectly through specialized Real Estate Investment Trusts (REITs). There are also options to purchase individual units within hotels or resorts.</p><p>Each method has its advantages and risks, and investors should choose the one most suitable for their goals and risk tolerance level.</p>"
+  },
+  {
+    "id": 50,
+    "slug": "investing-in-global-markets-from-saudi-arabia",
+    "title": "الاستثمار في الأسواق العالمية من السعودية",
+    "titleEn": "Investing in Global Markets from Saudi Arabia",
+    "summary": "يقدم هذا المقال دليلاً موجزاً للمستثمرين السعوديين حول كيفية الاستفادة من فرص الاستثمار في الأسواق العالمية، مع تسليط الضوء على الفوائد، الطرق، والمخاطر الرئيسية.",
+    "summaryEn": "This article provides a concise guide for Saudi investors on how to capitalize on global market investment opportunities, highlighting benefits, methods, and key risks.",
+    "excerpt": "يفتح الاستثمار في الأسواق العالمية أبواباً جديدة للمستثمرين السعوديين لتنويع محافظهم وتحقيق عوائد مجزية، مع ضرورة فهم التحديات المحتملة.",
+    "excerptEn": "Investing in global markets opens new doors for Saudi investors to diversify portfolios and achieve rewarding returns, while understanding potential challenges.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "د. سامي القحطاني",
+    "authorEn": "Dr. Sami Al-Qahtani",
+    "authorInitial": "S",
+    "date": "10 يونيو 2026",
+    "dateEn": "June 10, 2026",
+    "dateISO": "2026-06-10",
+    "readTime": "9",
+    "views": "2025",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article50.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "فوائد الاستثمار العالمي للمستثمر السعودي"
+      },
+      {
+        "id": "s2",
+        "text": "طرق الاستثمار من السعودية"
+      },
+      {
+        "id": "s3",
+        "text": "اعتبارات ومخاطر رئيسية"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح للمستثمر الناجح"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Benefits of Global Investment for Saudi Investors"
+      },
+      {
+        "id": "s2",
+        "text": "Methods of Investing from Saudi Arabia"
+      },
+      {
+        "id": "s3",
+        "text": "Key Considerations and Risks"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for the Successful Investor"
+      }
+    ],
+    "related": [
+      2
+    ],
+    "content": "<h2 id='s1'>فوائد الاستثمار العالمي للمستثمر السعودي</h2><p>يوفر الاستثمار في الأسواق العالمية للمستثمر السعودي فرصة فريدة لتنويع محفظته الاستثمارية وتقليل المخاطر المرتبطة بالاعتماد الكلي على السوق المحلية. كما يتيح الوصول إلى قطاعات وشركات عالمية ذات إمكانات نمو عالية قد لا تكون متاحة محليًا.</p><h2 id='s2'>طرق الاستثمار من السعودية</h2><p>يمكن للمستثمرين السعوديين الوصول إلى الأسواق العالمية عبر عدة قنوات. تشمل هذه القنوات البنوك المحلية التي تقدم خدمات الوساطة الدولية، أو من خلال شركات الوساطة العالمية المرخصة التي تخدم العملاء في المنطقة.</p><h2 id='s3'>اعتبارات ومخاطر رئيسية</h2><p>يجب على المستثمر إدراك المخاطر المرتبطة بالاستثمار العالمي، مثل تقلبات أسعار الصرف، والمخاطر الجيوسياسية، واختلاف الأنظمة الضريبية والقانونية. يتطلب الأمر بحثًا معمقًا وفهمًا للأسواق المستهدفة.</p><h2 id='s4'>نصائح للمستثمر الناجح</h2><p>يُنصح بالبدء بمبالغ صغيرة وتوزيع الاستثمارات على أصول وقطاعات متنوعة لتقليل المخاطر. من الضروري أيضًا استخدام منصات تداول موثوقة ومرخصة، والنظر في استشارة مستشار مالي متخصص لوضع استراتيجية مناسبة لأهدافك.</p>",
+    "contentEn": "<h2 id='s1'>Benefits of Global Investment for Saudi Investors</h2><p>Investing in global markets offers Saudi investors a unique opportunity to diversify their investment portfolio and reduce risks associated with relying solely on the local market. It also provides access to global sectors and companies with high growth potential that may not be available locally.</p><h2 id='s2'>Methods of Investing from Saudi Arabia</h2><p>Saudi investors can access global markets through several channels. These include local banks that offer international brokerage services, or through internationally licensed brokerage firms serving clients in the region.</p><h2 id='s3'>Key Considerations and Risks</h2><p>Investors must be aware of the risks associated with global investing, such as currency fluctuations, geopolitical risks, and differing tax and legal regulations. It requires in-depth research and an understanding of the target markets.</p><h2 id='s4'>Tips for the Successful Investor</h2><p>It is advisable to start with small amounts and diversify investments across various assets and sectors to mitigate risks. It is also crucial to use reliable and licensed trading platforms, and consider consulting a specialized financial advisor to develop a suitable strategy for your goals.</p>"
   }
 ];
 

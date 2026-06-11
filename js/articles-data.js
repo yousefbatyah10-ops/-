@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-10
-// Total articles: 50
+// Last updated: 2026-06-11
+// Total articles: 51
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -3765,6 +3765,91 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فوائد الاستثمار العالمي للمستثمر السعودي</h2><p>يوفر الاستثمار في الأسواق العالمية للمستثمر السعودي فرصة فريدة لتنويع محفظته الاستثمارية وتقليل المخاطر المرتبطة بالاعتماد الكلي على السوق المحلية. كما يتيح الوصول إلى قطاعات وشركات عالمية ذات إمكانات نمو عالية قد لا تكون متاحة محليًا.</p><h2 id='s2'>طرق الاستثمار من السعودية</h2><p>يمكن للمستثمرين السعوديين الوصول إلى الأسواق العالمية عبر عدة قنوات. تشمل هذه القنوات البنوك المحلية التي تقدم خدمات الوساطة الدولية، أو من خلال شركات الوساطة العالمية المرخصة التي تخدم العملاء في المنطقة.</p><h2 id='s3'>اعتبارات ومخاطر رئيسية</h2><p>يجب على المستثمر إدراك المخاطر المرتبطة بالاستثمار العالمي، مثل تقلبات أسعار الصرف، والمخاطر الجيوسياسية، واختلاف الأنظمة الضريبية والقانونية. يتطلب الأمر بحثًا معمقًا وفهمًا للأسواق المستهدفة.</p><h2 id='s4'>نصائح للمستثمر الناجح</h2><p>يُنصح بالبدء بمبالغ صغيرة وتوزيع الاستثمارات على أصول وقطاعات متنوعة لتقليل المخاطر. من الضروري أيضًا استخدام منصات تداول موثوقة ومرخصة، والنظر في استشارة مستشار مالي متخصص لوضع استراتيجية مناسبة لأهدافك.</p>",
     "contentEn": "<h2 id='s1'>Benefits of Global Investment for Saudi Investors</h2><p>Investing in global markets offers Saudi investors a unique opportunity to diversify their investment portfolio and reduce risks associated with relying solely on the local market. It also provides access to global sectors and companies with high growth potential that may not be available locally.</p><h2 id='s2'>Methods of Investing from Saudi Arabia</h2><p>Saudi investors can access global markets through several channels. These include local banks that offer international brokerage services, or through internationally licensed brokerage firms serving clients in the region.</p><h2 id='s3'>Key Considerations and Risks</h2><p>Investors must be aware of the risks associated with global investing, such as currency fluctuations, geopolitical risks, and differing tax and legal regulations. It requires in-depth research and an understanding of the target markets.</p><h2 id='s4'>Tips for the Successful Investor</h2><p>It is advisable to start with small amounts and diversify investments across various assets and sectors to mitigate risks. It is also crucial to use reliable and licensed trading platforms, and consider consulting a specialized financial advisor to develop a suitable strategy for your goals.</p>"
+  },
+  {
+    "id": 51,
+    "slug": "bond-investing-a-complete-guide",
+    "title": "الاستثمار في السندات: دليل شامل",
+    "titleEn": "Bond Investing: A Complete Guide",
+    "summary": "دليل شامل حول الاستثمار في السندات، يغطي أساسياتها وأنواعها ومزاياها وعيوبها وكيفية تداولها.",
+    "summaryEn": "A comprehensive guide to investing in bonds, covering their fundamentals, types, pros, cons, and how to trade them.",
+    "excerpt": "اكتشف عالم السندات كأداة استثمارية مستقرة، وكيف يمكنها أن تكون جزءًا أساسيًا من محفظتك.",
+    "excerptEn": "Discover the world of bonds as a stable investment tool and how they can be a crucial part of your portfolio.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "محمد العمري",
+    "authorEn": "Mohammed Al-Omari",
+    "authorInitial": "M",
+    "date": "11 يونيو 2026",
+    "dateEn": "June 11, 2026",
+    "dateISO": "2026-06-11",
+    "readTime": "12",
+    "views": "3768",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#112244,#1a3a5c)",
+    "image": "images/article51.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة عن السندات"
+      },
+      {
+        "id": "s2",
+        "text": "أنواع السندات"
+      },
+      {
+        "id": "s3",
+        "text": "مزايا وعيوب الاستثمار في السندات"
+      },
+      {
+        "id": "s4",
+        "text": "كيفية الاستثمار في السندات"
+      },
+      {
+        "id": "s5",
+        "text": "العوامل المؤثرة على أسعار السندات"
+      },
+      {
+        "id": "s6",
+        "text": "خاتمة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Bonds"
+      },
+      {
+        "id": "s2",
+        "text": "Types of Bonds"
+      },
+      {
+        "id": "s3",
+        "text": "Pros and Cons of Investing in Bonds"
+      },
+      {
+        "id": "s4",
+        "text": "How to Invest in Bonds"
+      },
+      {
+        "id": "s5",
+        "text": "Factors Affecting Bond Prices"
+      },
+      {
+        "id": "s6",
+        "text": "Conclusion"
+      }
+    ],
+    "related": [
+      21
+    ],
+    "content": "<h2 id='s1'>مقدمة عن السندات</h2><p>السندات هي أدوات دين تصدرها الحكومات و��لشركات لجمع الأموال. عند شراء سند، فإنك في الأساس تقرض المال للمُصدر، وتتلقى مدفوعات فائدة دورية (كوبون) وتستعيد المبلغ الأصلي (القيمة الاسمية) عند تاريخ الاستحقاق.</p><p>تعتبر السندات خيارًا شائعًا للمستثمرين الذين يبحثون عن دخل ثابت ومخاطر أقل نسبيًا مقارنة بالأسهم، مما يجعلها مكونًا أساسيًا في المحافظ المتوازنة.</p><h2 id='s2'>أنواع السندات</h2><p>تتنوع السندات بناءً على المُصدر والميزات. تشمل الأنواع الرئيسية السندات الحكومية، التي تعتبر الأكثر أمانًا، وسندات الشركات، التي تقدم عوائد أعلى مقابل مخاطر أكبر قليلاً.</p><p>هناك أيضًا السندات البلدية، وسندات الخزانة، والسندات ذات العائد المرتفع، وكل منها يحمل خصائص ومخاطر وعوائد مختلفة تناسب أهدافًا استثمارية متنوعة.</p><h2 id='s3'>مزايا وعيوب الاستثمار في ال��ندات</h2><p>من مزايا السندات توفير دخل ثابت ومنتظم، وانخفاض التقلبات مقارنة بالأسهم، وتنويع المحفظة، وحماية رأس المال. كما أنها توفر الأمان النسبي، خاصة السندات الحكومية ذات التصنيف الائتماني العالي.</p><p>أما العيوب فتشمل عوائد محتملة أقل مقارنة بالأسهم، ومخاطر أسعار الفائدة (حيث تنخفض قيمة السندات القائمة عند ارتفاع الفائدة)، ومخاطر التضخم التي قد تقلل من القوة الشرائية للعوائد الثابتة.</p><h2 id='s4'>كيفية الاستثمار في السندات</h2><p>يمكن للمستثمرين شراء السندات بطرق متعددة. يمكن شراؤها مباشرة من المُصدر عند الإصدار الأولي، أو من خلال السوق الثانوية عبر شركات الوساطة.</p><p>كما يمكن الاستثمار في السندات بشكل غير مباشر من خلال صناديق السندات المتداولة في البورصة (ETFs) أو صناديق الاستثمار المشتركة للسندات، مما يوفر تنويعًا وإدارة احترافية.</p><h2 id='s5'>العوامل المؤثرة على أسعار السندات</h2><p>تتأثر أسعار السندات بعدة عوامل رئيسية. أهمها أسعار الفائدة؛ فعندما ترتفع أسعار الفائدة الجديدة، تنخفض قيمة السندات الحالية ذات العوائد الثابتة الأقل.</p><p>عوامل أخرى تشمل التصنيف الائتماني للمُصدر، حيث تؤدي التغيرات في الجدارة الائتمانية إلى تقلبات في الأسعار، وكذلك معدلات التضخم وتوقعات السوق الاقتصادية العامة.</p><h2 id='s6'>خاتمة</h2><p>الاستثمار في السندات يوفر للمستثمرين فرصة لتحقيق دخل ثابت وتنويع محافظهم الاستثمارية مع مخاطر أقل نسبيًا. فهم أنواع السندات ومزاياها وعيوبها أمر ضروري لاتخاذ قرارات استثمارية مستنيرة.</p><p>سواء كنت تسعى للحفاظ على رأس المال أو الحصول على دخل ثابت، يمكن أن تكون السندات إضافة قيمة لاستراتيجيتك الاستثمارية طويلة الأجل.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Bonds</h2><p>Bonds are debt instruments issued by governments and corporations to raise capital. When you buy a bond, you are essentially lending money to the issuer, receiving periodic interest payments (coupon) and getting back the original amount (face value) at maturity.</p><p>Bonds are a popular choice for investors seeking stable income and relatively lower risk compared to stocks, making them a fundamental component of balanced portfolios.</p><h2 id='s2'>Types of Bonds</h2><p>Bonds vary based on their issuer and features. Key types include government bonds, considered among the safest, and corporate bonds, which offer higher yields for slightly greater risk.</p><p>There are also municipal bonds, treasury bonds, and high-yield bonds, each carrying distinct characteristics, risks, and returns to suit various investment objectives.</p><h2 id='s3'>Pros and Cons of Investing in Bonds</h2><p>Advantages of bonds include providing stable and regular income, lower volatility compared to stocks, portfolio diversification, and capital preservation. They also offer relative safety, especially high-rated government bonds.</p><p>Disadvantages include potentially lower returns compared to stocks, interest rate risk (where existing bond values fall when interest rates rise), and inflation risk, which can erode the purchasing power of fixed returns.</p><h2 id='s4'>How to Invest in Bonds</h2><p>Investors can purchase bonds through various channels. They can be bought directly from the issuer during the initial offering, or through the secondary market via brokerage firms.</p><p>Indirect investment in bonds is also possible through bond Exchange Traded Funds (ETFs) or bond mutual funds, which offer diversification and professional management.</p><h2 id='s5'>Factors Affecting Bond Prices</h2><p>Bond prices are influenced by several key factors. The most significant is interest rates; when new interest rates rise, the value of existing bonds with lower fixed returns decreases.</p><p>Other factors include the issuer's credit rating, as changes in creditworthiness lead to price fluctuations, as well as inflation rates and general economic market expectations.</p><h2 id='s6'>Conclusion</h2><p>Investing in bonds offers investors an opportunity to generate stable income and diversify their portfolios with relatively lower risk. Understanding bond types, their advantages, and disadvantages is crucial for making informed investment decisions.</p><p>Whether you seek capital preservation or fixed income, bonds can be a valuable addition to your long-term investment strategy.</p>"
   }
 ];
 

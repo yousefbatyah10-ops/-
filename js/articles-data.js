@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-11
-// Total articles: 51
+// Last updated: 2026-06-12
+// Total articles: 52
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -3850,6 +3850,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة عن السندات</h2><p>السندات هي أدوات دين تصدرها الحكومات و��لشركات لجمع الأموال. عند شراء سند، فإنك في الأساس تقرض المال للمُصدر، وتتلقى مدفوعات فائدة دورية (كوبون) وتستعيد المبلغ الأصلي (القيمة الاسمية) عند تاريخ الاستحقاق.</p><p>تعتبر السندات خيارًا شائعًا للمستثمرين الذين يبحثون عن دخل ثابت ومخاطر أقل نسبيًا مقارنة بالأسهم، مما يجعلها مكونًا أساسيًا في المحافظ المتوازنة.</p><h2 id='s2'>أنواع السندات</h2><p>تتنوع السندات بناءً على المُصدر والميزات. تشمل الأنواع الرئيسية السندات الحكومية، التي تعتبر الأكثر أمانًا، وسندات الشركات، التي تقدم عوائد أعلى مقابل مخاطر أكبر قليلاً.</p><p>هناك أيضًا السندات البلدية، وسندات الخزانة، والسندات ذات العائد المرتفع، وكل منها يحمل خصائص ومخاطر وعوائد مختلفة تناسب أهدافًا استثمارية متنوعة.</p><h2 id='s3'>مزايا وعيوب الاستثمار في ال��ندات</h2><p>من مزايا السندات توفير دخل ثابت ومنتظم، وانخفاض التقلبات مقارنة بالأسهم، وتنويع المحفظة، وحماية رأس المال. كما أنها توفر الأمان النسبي، خاصة السندات الحكومية ذات التصنيف الائتماني العالي.</p><p>أما العيوب فتشمل عوائد محتملة أقل مقارنة بالأسهم، ومخاطر أسعار الفائدة (حيث تنخفض قيمة السندات القائمة عند ارتفاع الفائدة)، ومخاطر التضخم التي قد تقلل من القوة الشرائية للعوائد الثابتة.</p><h2 id='s4'>كيفية الاستثمار في السندات</h2><p>يمكن للمستثمرين شراء السندات بطرق متعددة. يمكن شراؤها مباشرة من المُصدر عند الإصدار الأولي، أو من خلال السوق الثانوية عبر شركات الوساطة.</p><p>كما يمكن الاستثمار في السندات بشكل غير مباشر من خلال صناديق السندات المتداولة في البورصة (ETFs) أو صناديق الاستثمار المشتركة للسندات، مما يوفر تنويعًا وإدارة احترافية.</p><h2 id='s5'>العوامل المؤثرة على أسعار السندات</h2><p>تتأثر أسعار السندات بعدة عوامل رئيسية. أهمها أسعار الفائدة؛ فعندما ترتفع أسعار الفائدة الجديدة، تنخفض قيمة السندات الحالية ذات العوائد الثابتة الأقل.</p><p>عوامل أخرى تشمل التصنيف الائتماني للمُصدر، حيث تؤدي التغيرات في الجدارة الائتمانية إلى تقلبات في الأسعار، وكذلك معدلات التضخم وتوقعات السوق الاقتصادية العامة.</p><h2 id='s6'>خاتمة</h2><p>الاستثمار في السندات يوفر للمستثمرين فرصة لتحقيق دخل ثابت وتنويع محافظهم الاستثمارية مع مخاطر أقل نسبيًا. فهم أنواع السندات ومزاياها وعيوبها أمر ضروري لاتخاذ قرارات استثمارية مستنيرة.</p><p>سواء كنت تسعى للحفاظ على رأس المال أو الحصول على دخل ثابت، يمكن أن تكون السندات إضافة قيمة لاستراتيجيتك الاستثمارية طويلة الأجل.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Bonds</h2><p>Bonds are debt instruments issued by governments and corporations to raise capital. When you buy a bond, you are essentially lending money to the issuer, receiving periodic interest payments (coupon) and getting back the original amount (face value) at maturity.</p><p>Bonds are a popular choice for investors seeking stable income and relatively lower risk compared to stocks, making them a fundamental component of balanced portfolios.</p><h2 id='s2'>Types of Bonds</h2><p>Bonds vary based on their issuer and features. Key types include government bonds, considered among the safest, and corporate bonds, which offer higher yields for slightly greater risk.</p><p>There are also municipal bonds, treasury bonds, and high-yield bonds, each carrying distinct characteristics, risks, and returns to suit various investment objectives.</p><h2 id='s3'>Pros and Cons of Investing in Bonds</h2><p>Advantages of bonds include providing stable and regular income, lower volatility compared to stocks, portfolio diversification, and capital preservation. They also offer relative safety, especially high-rated government bonds.</p><p>Disadvantages include potentially lower returns compared to stocks, interest rate risk (where existing bond values fall when interest rates rise), and inflation risk, which can erode the purchasing power of fixed returns.</p><h2 id='s4'>How to Invest in Bonds</h2><p>Investors can purchase bonds through various channels. They can be bought directly from the issuer during the initial offering, or through the secondary market via brokerage firms.</p><p>Indirect investment in bonds is also possible through bond Exchange Traded Funds (ETFs) or bond mutual funds, which offer diversification and professional management.</p><h2 id='s5'>Factors Affecting Bond Prices</h2><p>Bond prices are influenced by several key factors. The most significant is interest rates; when new interest rates rise, the value of existing bonds with lower fixed returns decreases.</p><p>Other factors include the issuer's credit rating, as changes in creditworthiness lead to price fluctuations, as well as inflation rates and general economic market expectations.</p><h2 id='s6'>Conclusion</h2><p>Investing in bonds offers investors an opportunity to generate stable income and diversify their portfolios with relatively lower risk. Understanding bond types, their advantages, and disadvantages is crucial for making informed investment decisions.</p><p>Whether you seek capital preservation or fixed income, bonds can be a valuable addition to your long-term investment strategy.</p>"
+  },
+  {
+    "id": 52,
+    "slug": "franchise-invest-in-a-ready-made-brand",
+    "title": "الفرنشايز: استثمر في علامة تجارية جاهزة",
+    "titleEn": "Franchise: Invest in a Ready-Made Brand",
+    "summary": "الفرنشايز هو استثمار في علامة تجارية راسخة ونموذج عمل مثبت، يوفر دعماً شاملاً وفرص نجاح أكبر لرواد الأعمال.",
+    "summaryEn": "Franchising is an investment in an established brand and a proven business model, offering comprehensive support and greater success opportunities for entrepreneurs.",
+    "excerpt": "اكتشف كيف يمكن للفرنشايز أن يكون بوابتك للاستثمار الآمن في عالم الأعمال، مستفيداً من قوة علامات تجارية معروفة.",
+    "excerptEn": "Discover how franchising can be your gateway to secure business investment, leveraging the power of well-known brands.",
+    "category": "ريادة الأعمال",
+    "categoryEn": "Entrepreneurship",
+    "categoryIcon": "🚀",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "12 يونيو 2026",
+    "dateEn": "June 12, 2026",
+    "dateISO": "2026-06-12",
+    "readTime": "11",
+    "views": "3452",
+    "emoji": "🚀",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article52.jpg",
+    "featured": false,
+    "breadcrumb": "ريادة الأعمال",
+    "breadcrumbEn": "Entrepreneurship",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مفهوم الفرنشايز"
+      },
+      {
+        "id": "s2",
+        "text": "مزايا الاستثمار في الفرنشايز"
+      },
+      {
+        "id": "s3",
+        "text": "تحديات واعتبارات"
+      },
+      {
+        "id": "s4",
+        "text": "كيف تختار الفرنشايز المناسب؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Understanding Franchising"
+      },
+      {
+        "id": "s2",
+        "text": "Advantages of Franchise Investment"
+      },
+      {
+        "id": "s3",
+        "text": "Challenges and Considerations"
+      },
+      {
+        "id": "s4",
+        "text": "How to Choose the Right Franchise?"
+      }
+    ],
+    "related": [
+      9
+    ],
+    "content": "<h2 id='s1'>م��هوم الفرنشايز</h2><p>الفرنشايز هو نموذج عمل يسمح لرواد الأعمال (الفرنشايزي) بتشغيل عمل تجاري باستخدام اسم وعلامة تجارية ونظام تشغيل شركة قائمة وناجحة (الفرنشايزور). يتم ذلك بموجب اتفاقية ترخيص محددة تمنح الفرنشايزي الحق في استخدام الملكية الفكرية للعلامة التجارية.</p><h2 id='s2'>مزايا الاستثمار في الفرنشايز</h2><p>يوفر الفرنشايز فرصة فريدة لبدء عمل تجاري بحد أدنى من المخاطر، حيث تستفيد من علامة تجارية معروفة ونموذج عمل مثبت. تحصل على دعم شامل من الفرنشايزور يشمل التدريب، التسويق، والعمليات التشغيلية، مما يزيد من فرص النجاح.</p><h2 id='s3'>تحديات واعتبارات</h2><p>على الرغم من المزايا، يتطلب الاستثمار في الفرنشايز الالتزام الصارم بمعايير وتشغيلات الفرنشايزور، مما يحد من المرونة الإبداعية. كما توجد رسوم أولية ورس��م امتياز مستمرة يجب أخذها في الاعتبار عند تقييم الجدوى المالية.</p><h2 id='s4'>كيف تختار الفرنشايز المناسب؟</h2><p>يتطلب اختيار الفرنشايز المناسب بحثاً دقيقاً وتقييماً شاملاً. ابحث عن علامة تجارية تتوافق مع اهتماماتك وخبراتك، وتأكد من دراسة سجلها الحافل بالنجاح ودعمها للفرنشايزيين. استشر الخبراء القانونيين والماليين قبل اتخاذ القرار.</p>",
+    "contentEn": "<h2 id='s1'>Understanding Franchising</h2><p>Franchising is a business model where an entrepreneur (franchisee) operates a business using the brand name, trademark, and operating system of an established, successful company (franchisor). This is done under a specific licensing agreement that grants the franchisee the right to use the brand's intellectual property.</p><h2 id='s2'>Advantages of Franchise Investment</h2><p>Franchising offers a unique opportunity to start a business with minimized risk, benefiting from a recognized brand and a proven business model. Franchisees receive comprehensive support from the franchisor, including training, marketing, and operational guidance, significantly increasing the chances of success.</p><h2 id='s3'>Challenges and Considerations</h2><p>Despite the advantages, investing in a franchise requires strict adherence to the franchisor's standards and operations, which limits creative flexibility. There are also initial fees and ongoing royalty payments that must be considered when evaluating financial viability.</p><h2 id='s4'>How to Choose the Right Franchise?</h2><p>Selecting the right franchise requires thorough research and comprehensive evaluation. Look for a brand that aligns with your interests and experience, and ensure you study its track record of success and its support for franchisees. Consult legal and financial experts before making a decision.</p>"
   }
 ];
 

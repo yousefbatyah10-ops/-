@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-15
-// Total articles: 55
+// Last updated: 2026-06-16
+// Total articles: 56
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -4134,6 +4134,91 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مفهوم الفرنشايز</h2><p>الفرنشايز هو نموذج عمل يتيح للمستثمر (صاحب الامتياز) تشغيل عمل تجاري باستخدام اسم وعلامة تجارية ونظام تشغيل مثبت لشركة أخرى (مانح الامتياز). هذا يقلل من مخاطر بدء عمل تجاري جديد تمامًا ويوفر مسارًا مثبتًا للنجاح.</p><h2 id='s2'>مزايا الاستثمار في الفرنشايز</h2><p>يوفر الفرنشايز الوصول إلى علامة تجارية معروفة وقاعدة عملاء جاهزة، مما يسرع من عملية بناء الثقة والربحية. كما يستفيد صاحب الامتياز من التدريب والدعم المستمر في التسويق والعمليات، مما يعزز فرص النجاح.</p><h2 id='s3'>تحديات واعتبارات</h2><p>على الرغم من المزايا، يتطلب الفرنشايز الالتزام الصارم بمعايير مانح الامت��از ودفع رسوم أولية ومستمرة. يجب على المستثمر إجراء بحث شامل حول اتفاقية الامتياز والسمعة المالية والقانونية للعلامة التجارية قبل التوقيع.</p><h2 id='s4'>خطوات أساسية للبدء</h2><p>ابدأ بتحديد الصناعة والعلامة التجارية التي تثير اهتمامك وتتوافق مع أهدافك. ثم قم بتقييم الجدوى المالية واستشر الخبراء القانونيين قبل توقيع أي اتفاقية لضمان فهمك الكامل للالتزامات والحقوق المترتبة على الفرنشايز.</p>",
     "contentEn": "<h2 id='s1'>Concept of Franchise</h2><p>Franchising is a business model that allows an investor (franchisee) to operate a business using the established name, brand, and operating system of another company (franchisor). This significantly reduces the risks associated with starting a business from scratch and provides a proven path to success.</p><h2 id='s2'>Advantages of Investing in Franchising</h2><p>Franchising offers access to a recognized brand and an established customer base, accelerating trust-building and profitability. Franchisees also benefit from ongoing training and support in marketing and operations, enhancing their chances of success.</p><h2 id='s3'>Challenges and Considerations</h2><p>Despite the advantages, franchising requires strict adherence to the franchisor's standards and the payment of initial and ongoing fees. Investors must conduct thorough research into the franchise agreement and the brand's financial and legal reputation before signing.</p><h2 id='s4'>Key Steps to Start</h2><p>Begin by identifying an an industry and brand that interests you and aligns with your goals. Then, assess financial feasibility and consult legal experts before signing any agreement to ensure a complete understanding of the obligations and rights involved in franchising.</p>"
+  },
+  {
+    "id": 56,
+    "slug": "how-to-read-company-financial-statements",
+    "title": "كيف تقرأ القوائم المالية للشركات",
+    "titleEn": "How to Read Company Financial Statements",
+    "summary": "تعلم كيف تقرأ القوائم المالية للشركات لفهم أدائها المالي واتخاذ قرارات استثمارية مستنيرة.",
+    "summaryEn": "Learn how to read company financial statements to understand their financial performance and make informed investment decisions.",
+    "excerpt": "القوائم المالية هي أدواتك الأساسية لتقييم صحة الشركة، حيث تكشف عن أصولها، التزاماتها، إيراداتها، وتدفقاتها النقدية.",
+    "excerptEn": "Financial statements are your essential tools for assessing a company's health, revealing its assets, liabilities, revenues, and cash flows.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "16 يونيو 2026",
+    "dateEn": "June 16, 2026",
+    "dateISO": "2026-06-16",
+    "readTime": "12",
+    "views": "3336",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article56.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "أهمية القوائم المالية"
+      },
+      {
+        "id": "s2",
+        "text": "الميزانية العمومية: لمحة عن الوضع المالي"
+      },
+      {
+        "id": "s3",
+        "text": "قائمة الدخل: قياس الأداء الربحي"
+      },
+      {
+        "id": "s4",
+        "text": "قائمة التدفقات النقدية: تتبع حركة النقد"
+      },
+      {
+        "id": "s5",
+        "text": "النسب المالية: أدوات التحليل"
+      },
+      {
+        "id": "s6",
+        "text": "خاتمة: نظرة شاملة للقرار الاستثماري"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "The Importance of Financial Statements"
+      },
+      {
+        "id": "s2",
+        "text": "The Balance Sheet: A Snapshot of Financial Position"
+      },
+      {
+        "id": "s3",
+        "text": "The Income Statement: Measuring Profitability Performance"
+      },
+      {
+        "id": "s4",
+        "text": "The Cash Flow Statement: Tracking Cash Movement"
+      },
+      {
+        "id": "s5",
+        "text": "Financial Ratios: Analytical Tools"
+      },
+      {
+        "id": "s6",
+        "text": "Conclusion: A Holistic View for Investment Decisions"
+      }
+    ],
+    "related": [
+      51
+    ],
+    "content": "<h2 id='s1'>أهمية القوائم المال��ة</h2><p>تعد القوائم المالية نافذتك لفهم صحة الشركة وأدائها المالي. هي أدوات أساسية للمستثمرين لاتخاذ قرارات مستنيرة.</p><p>توفر هذه القوائم رؤى حول الأصول والالتزامات والإيرادات والتدفقات النقدية، مما يكشف عن القوة المالية والربحية.</p><h2 id='s2'>الميزانية العمومية: لمحة عن الوضع المالي</h2><p>تُظهر الميزانية العمومية أصول الشركة (ما تملكه)، وخصومها (ما تدين به)، وحقوق الملكية (صافي القيمة) في لحظة زمنية محددة.</p><p>تعكس المعادلة \"الأصول = الخصوم + حقوق الملكية\" الهيكل المالي للشركة وقدرتها على الوفاء بالتزاماتها.</p><h2 id='s3'>قائمة الدخل: قياس الأداء الربحي</h2><p>توضح قائمة الدخل إيرادات الشركة ومصروفاتها وصافي ربحها أو خسارتها خلال فترة زمنية محددة، عادةً ربع سنوية أو سنوية.</p><p>من خلالها، يمكنك تقييم مدى كفاءة الشركة في توليد الأرباح من عملياتها الأساسية.</p><h2 id='s4'>قائمة التدفقات النقدية: تتبع حركة النقد</h2><p>تُفصل قائمة التدفقات النقدية مصادر واستخدامات النقد من الأنشطة التشغيلية والاستثمارية والتمويلية للشركة.</p><p>إنها حاسمة لفهم السيولة الحقيقية للشركة وقدرتها على سداد الديون وتمويل النمو.</p><h2 id='s5'>النسب المالية: أدوات التحليل</h2><p>تساعد النسب المالية، مثل نسبة الربحية والسيولة والمديونية، على تحليل القوائم المالية بعمق ومقارنة أداء الشركات.</p><p>تُبسّط هذه النسب البيانات المعقدة وتوفر مؤشرات واضحة عن الكفاءة والفعالية المالية.</p><h2 id='s6'>خاتمة: نظرة شاملة للقرار الاستثماري</h2><p>قراءة القوائم المالية تتطلب نظرة شاملة لا تقتصر على قائم�� واحدة. يجب ربط المعلومات من جميع القوائم للحصول على صورة كاملة.</p><p>الفهم الجيد لهذه الوثائق يمكّن المستثمرين من اتخاذ قرارات استثمارية أكثر ذكاءً وثقة.</p>",
+    "contentEn": "<h2 id='s1'>The Importance of Financial Statements</h2><p>Financial statements are your window into understanding a company's health and financial performance. They are essential tools for investors to make informed decisions.</p><p>These statements provide insights into assets, liabilities, revenues, and cash flows, revealing financial strength and profitability.</p><h2 id='s2'>The Balance Sheet: A Snapshot of Financial Position</h2><p>The balance sheet shows a company's assets (what it owns), liabilities (what it owes), and equity (net worth) at a specific point in time.</p><p>The equation \"Assets = Liabilities + Equity\" reflects the company's financial structure and its ability to meet obligations.</p><h2 id='s3'>The Income Statement: Measuring Profitability Performance</h2><p>The income statement details a company's revenues, expenses, and net profit or loss over a specific period, typically quarterly or annually.</p><p>Through it, you can assess how efficiently the company generates profits from its core operations.</p><h2 id='s4'>The Cash Flow Statement: Tracking Cash Movement</h2><p>The cash flow statement breaks down the sources and uses of cash from a company's operating, investing, and financing activities.</p><p>It is crucial for understanding the company's true liquidity and its ability to pay debts and fund growth.</p><h2 id='s5'>Financial Ratios: Analytical Tools</h2><p>Financial ratios, such as profitability, liquidity, and solvency ratios, help analyze financial statements in depth and compare company performance.</p><p>These ratios simplify complex data and provide clear indicators of financial efficiency and effectiveness.</p><h2 id='s6'>Conclusion: A Holistic View for Investment Decisions</h2><p>Reading financial statements requires a holistic view that is not limited to a single statement. Information from all statements must be linked to get a complete picture.</p><p>A good understanding of these documents empowers investors to make smarter and more confident investment decisions.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-16
-// Total articles: 56
+// Last updated: 2026-06-17
+// Total articles: 57
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -4219,6 +4219,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>أهمية القوائم المال��ة</h2><p>تعد القوائم المالية نافذتك لفهم صحة الشركة وأدائها المالي. هي أدوات أساسية للمستثمرين لاتخاذ قرارات مستنيرة.</p><p>توفر هذه القوائم رؤى حول الأصول والالتزامات والإيرادات والتدفقات النقدية، مما يكشف عن القوة المالية والربحية.</p><h2 id='s2'>الميزانية العمومية: لمحة عن الوضع المالي</h2><p>تُظهر الميزانية العمومية أصول الشركة (ما تملكه)، وخصومها (ما تدين به)، وحقوق الملكية (صافي القيمة) في لحظة زمنية محددة.</p><p>تعكس المعادلة \"الأصول = الخصوم + حقوق الملكية\" الهيكل المالي للشركة وقدرتها على الوفاء بالتزاماتها.</p><h2 id='s3'>قائمة الدخل: قياس الأداء الربحي</h2><p>توضح قائمة الدخل إيرادات الشركة ومصروفاتها وصافي ربحها أو خسارتها خلال فترة زمنية محددة، عادةً ربع سنوية أو سنوية.</p><p>من خلالها، يمكنك تقييم مدى كفاءة الشركة في توليد الأرباح من عملياتها الأساسية.</p><h2 id='s4'>قائمة التدفقات النقدية: تتبع حركة النقد</h2><p>تُفصل قائمة التدفقات النقدية مصادر واستخدامات النقد من الأنشطة التشغيلية والاستثمارية والتمويلية للشركة.</p><p>إنها حاسمة لفهم السيولة الحقيقية للشركة وقدرتها على سداد الديون وتمويل النمو.</p><h2 id='s5'>النسب المالية: أدوات التحليل</h2><p>تساعد النسب المالية، مثل نسبة الربحية والسيولة والمديونية، على تحليل القوائم المالية بعمق ومقارنة أداء الشركات.</p><p>تُبسّط هذه النسب البيانات المعقدة وتوفر مؤشرات واضحة عن الكفاءة والفعالية المالية.</p><h2 id='s6'>خاتمة: نظرة شاملة للقرار الاستثماري</h2><p>قراءة القوائم المالية تتطلب نظرة شاملة لا تقتصر على قائم�� واحدة. يجب ربط المعلومات من جميع القوائم للحصول على صورة كاملة.</p><p>الفهم الجيد لهذه الوثائق يمكّن المستثمرين من اتخاذ قرارات استثمارية أكثر ذكاءً وثقة.</p>",
     "contentEn": "<h2 id='s1'>The Importance of Financial Statements</h2><p>Financial statements are your window into understanding a company's health and financial performance. They are essential tools for investors to make informed decisions.</p><p>These statements provide insights into assets, liabilities, revenues, and cash flows, revealing financial strength and profitability.</p><h2 id='s2'>The Balance Sheet: A Snapshot of Financial Position</h2><p>The balance sheet shows a company's assets (what it owns), liabilities (what it owes), and equity (net worth) at a specific point in time.</p><p>The equation \"Assets = Liabilities + Equity\" reflects the company's financial structure and its ability to meet obligations.</p><h2 id='s3'>The Income Statement: Measuring Profitability Performance</h2><p>The income statement details a company's revenues, expenses, and net profit or loss over a specific period, typically quarterly or annually.</p><p>Through it, you can assess how efficiently the company generates profits from its core operations.</p><h2 id='s4'>The Cash Flow Statement: Tracking Cash Movement</h2><p>The cash flow statement breaks down the sources and uses of cash from a company's operating, investing, and financing activities.</p><p>It is crucial for understanding the company's true liquidity and its ability to pay debts and fund growth.</p><h2 id='s5'>Financial Ratios: Analytical Tools</h2><p>Financial ratios, such as profitability, liquidity, and solvency ratios, help analyze financial statements in depth and compare company performance.</p><p>These ratios simplify complex data and provide clear indicators of financial efficiency and effectiveness.</p><h2 id='s6'>Conclusion: A Holistic View for Investment Decisions</h2><p>Reading financial statements requires a holistic view that is not limited to a single statement. Information from all statements must be linked to get a complete picture.</p><p>A good understanding of these documents empowers investors to make smarter and more confident investment decisions.</p>"
+  },
+  {
+    "id": 57,
+    "slug": "how-to-buy-gold-bars-in-saudi-arabia",
+    "title": "كيف تشتري سبائك ذهب في السعودية",
+    "titleEn": "How to Buy Gold Bars in Saudi Arabia",
+    "summary": "دليلك الشامل لشراء سبائك الذهب في السعودية، من اختيار المصدر الموثوق إلى التخزين الآمن.",
+    "summaryEn": "Your comprehensive guide to buying gold bars in Saudi Arabia, from choosing a reliable source to secure storage.",
+    "excerpt": "تعلم كيفية الاستثمار في الذهب عبر شراء السبائك وأفضل الممارسات في السوق السعودي.",
+    "excerptEn": "Learn how to invest in gold through buying bars and best practices in the Saudi market.",
+    "category": "الذهب والمعادن",
+    "categoryEn": "Gold & Metals",
+    "categoryIcon": "🧸",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "17 يونيو 2026",
+    "dateEn": "June 17, 2026",
+    "dateISO": "2026-06-17",
+    "readTime": "8",
+    "views": "2543",
+    "emoji": "🧸",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article57.jpg",
+    "featured": false,
+    "breadcrumb": "الذهب والمعادن",
+    "breadcrumbEn": "Gold & Metals",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "لماذا الاستثمار في سبائك الذهب؟"
+      },
+      {
+        "id": "s2",
+        "text": "أين تشتري سبائك الذهب في السعودية؟"
+      },
+      {
+        "id": "s3",
+        "text": "اعتبارات مهمة قبل الشراء"
+      },
+      {
+        "id": "s4",
+        "text": "التخزين والأمان"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Why Invest in Gold Bars?"
+      },
+      {
+        "id": "s2",
+        "text": "Where to Buy Gold Bars in Saudi Arabia?"
+      },
+      {
+        "id": "s3",
+        "text": "Important Considerations Before Buying"
+      },
+      {
+        "id": "s4",
+        "text": "Storage and Security"
+      }
+    ],
+    "related": [
+      5
+    ],
+    "content": "<h2 id='s1'>لماذا الاستثمار في سبائك الذهب؟</h2><p>تُعتبر سبائك الذهب ملاذًا آمنًا ومخزنًا للقيمة، خ��صة في أوقات التقلبات الاقتصادية. إنها وسيلة فعالة للحفاظ على القوة الشرائية للمال وحماية الثروة من التضخم وتقلبات العملات.</p><p>كما أنها توفر سيولة عالية نسبيًا ويمكن بيعها بسهولة في أي وقت، مما يجعلها خيارًا جذابًا للمستثمرين الذين يبحثون عن استقرار على المدى الطويل.</p><h2 id='s2'>أين تشتري سبائك الذهب في السعودية؟</h2><p>في السعودية، يمكنك شراء سبائك الذهب من عدة مصادر موثوقة. تشمل هذه المصادر محلات الذهب الكبرى والمعتمدة، البنوك التي تقدم خدمات بيع وشراء المعادن الثمينة، وبعض شركات الاستثمار المتخصصة.</p><p>من المهم التأكد من سمعة البائع وحصوله على التراخيص اللازمة لضمان جودة ونقاء الذهب الذي تشتريه.</p><h2 id='s3'>اعتبارات مهمة قبل الشراء</h2><p>قبل الشراء، يجب الانتباه إلى عدة نقاط مثل نقاء الذهب (عيار 24 هو الأكثر شيوعًا للسبائك)، الوزن، وسعر الذهب العالمي لحظة الشراء. تأكد من أن السعر يتوافق مع سعر السوق الحالي مع إضافة تكلفة المصنعية.</p><p>اطلب شهادة الأصالة التي تثبت نقاء ووزن السبيكة، وتحقق من وجود الأختام والعلامات التجارية عليها.</p><h2 id='s4'>التخزين والأمان</h2><p>بعد شراء سبائك الذهب، يُعد التخزين الآمن أمرًا بالغ الأهمية. يمكنك اختيار الاحتفاظ بها في خزنة منزلية آمنة، أو استئجار صندوق ودائع آمن في أحد البنوك، وهو الخيار المفضل للكثيرين لزيادة الأمان.</p><p>تأكد من توثيق جميع مشترياتك والاحتفاظ بالفواتير وشهادات الأصالة في مكان آمن ومنفصل عن السبائك نفسها.</p>",
+    "contentEn": "<h2 id='s1'>Why Invest in Gold Bars?</h2><p>Gold bars are considered a safe haven and a store of value, especially during times of economic volatility. They are an effective means of preserving purchasing power and protecting wealth from inflation and currency fluctuations.</p><p>They also offer relatively high liquidity and can be easily sold at any time, making them an attractive option for investors seeking long-term stability.</p><h2 id='s2'>Where to Buy Gold Bars in Saudi Arabia?</h2><p>In Saudi Arabia, you can purchase gold bars from several reliable sources. These include major authorized gold shops, banks offering precious metals trading services, and some specialized investment companies.</p><p>It is crucial to verify the seller's reputation and ensure they hold the necessary licenses to guarantee the quality and purity of the gold you buy.</p><h2 id='s3'>Important Considerations Before Buying</h2><p>Before purchasing, pay attention to several points such as gold purity (24K is most common for bars), weight, and the global gold price at the time of purchase. Ensure the price aligns with the current market rate plus any manufacturing costs.</p><p>Request a certificate of authenticity proving the bar's purity and weight, and check for proper hallmarks and branding.</p><h2 id='s4'>Storage and Security</h2><p>After purchasing gold bars, secure storage is paramount. You can choose to keep them in a secure home safe, or rent a safe deposit box at a bank, which is a preferred option for many due to enhanced security.</p><p>Ensure all your purchases are documented, and keep invoices and certificates of authenticity in a safe place separate from the bars themselves.</p>"
   }
 ];
 

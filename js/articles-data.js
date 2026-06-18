@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-17
-// Total articles: 57
+// Last updated: 2026-06-18
+// Total articles: 58
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -4288,6 +4288,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>لماذا الاستثمار في سبائك الذهب؟</h2><p>تُعتبر سبائك الذهب ملاذًا آمنًا ومخزنًا للقيمة، خ��صة في أوقات التقلبات الاقتصادية. إنها وسيلة فعالة للحفاظ على القوة الشرائية للمال وحماية الثروة من التضخم وتقلبات العملات.</p><p>كما أنها توفر سيولة عالية نسبيًا ويمكن بيعها بسهولة في أي وقت، مما يجعلها خيارًا جذابًا للمستثمرين الذين يبحثون عن استقرار على المدى الطويل.</p><h2 id='s2'>أين تشتري سبائك الذهب في السعودية؟</h2><p>في السعودية، يمكنك شراء سبائك الذهب من عدة مصادر موثوقة. تشمل هذه المصادر محلات الذهب الكبرى والمعتمدة، البنوك التي تقدم خدمات بيع وشراء المعادن الثمينة، وبعض شركات الاستثمار المتخصصة.</p><p>من المهم التأكد من سمعة البائع وحصوله على التراخيص اللازمة لضمان جودة ونقاء الذهب الذي تشتريه.</p><h2 id='s3'>اعتبارات مهمة قبل الشراء</h2><p>قبل الشراء، يجب الانتباه إلى عدة نقاط مثل نقاء الذهب (عيار 24 هو الأكثر شيوعًا للسبائك)، الوزن، وسعر الذهب العالمي لحظة الشراء. تأكد من أن السعر يتوافق مع سعر السوق الحالي مع إضافة تكلفة المصنعية.</p><p>اطلب شهادة الأصالة التي تثبت نقاء ووزن السبيكة، وتحقق من وجود الأختام والعلامات التجارية عليها.</p><h2 id='s4'>التخزين والأمان</h2><p>بعد شراء سبائك الذهب، يُعد التخزين الآمن أمرًا بالغ الأهمية. يمكنك اختيار الاحتفاظ بها في خزنة منزلية آمنة، أو استئجار صندوق ودائع آمن في أحد البنوك، وهو الخيار المفضل للكثيرين لزيادة الأمان.</p><p>تأكد من توثيق جميع مشترياتك والاحتفاظ بالفواتير وشهادات الأصالة في مكان آمن ومنفصل عن السبائك نفسها.</p>",
     "contentEn": "<h2 id='s1'>Why Invest in Gold Bars?</h2><p>Gold bars are considered a safe haven and a store of value, especially during times of economic volatility. They are an effective means of preserving purchasing power and protecting wealth from inflation and currency fluctuations.</p><p>They also offer relatively high liquidity and can be easily sold at any time, making them an attractive option for investors seeking long-term stability.</p><h2 id='s2'>Where to Buy Gold Bars in Saudi Arabia?</h2><p>In Saudi Arabia, you can purchase gold bars from several reliable sources. These include major authorized gold shops, banks offering precious metals trading services, and some specialized investment companies.</p><p>It is crucial to verify the seller's reputation and ensure they hold the necessary licenses to guarantee the quality and purity of the gold you buy.</p><h2 id='s3'>Important Considerations Before Buying</h2><p>Before purchasing, pay attention to several points such as gold purity (24K is most common for bars), weight, and the global gold price at the time of purchase. Ensure the price aligns with the current market rate plus any manufacturing costs.</p><p>Request a certificate of authenticity proving the bar's purity and weight, and check for proper hallmarks and branding.</p><h2 id='s4'>Storage and Security</h2><p>After purchasing gold bars, secure storage is paramount. You can choose to keep them in a secure home safe, or rent a safe deposit box at a bank, which is a preferred option for many due to enhanced security.</p><p>Ensure all your purchases are documented, and keep invoices and certificates of authenticity in a safe place separate from the bars themselves.</p>"
+  },
+  {
+    "id": 58,
+    "slug": "ethereum-more-than-just-a-cryptocurrency",
+    "title": "الإيثيريوم: أكثر من مجرد عملة رقمية",
+    "titleEn": "Ethereum: More Than Just a Cryptocurrency",
+    "summary": "الإيثيريوم هو منصة بلوكتشين متطورة توفر أكثر من مجرد عملة رقمية، حيث تمكن العقود الذكية والتطبيقات اللامركزية من تشكيل مستقبل الإنترنت والاقتصاد الرقمي.",
+    "summaryEn": "Ethereum is an advanced blockchain platform offering more than just a digital currency, enabling smart contracts and decentralized applications to shape the future of the internet and digital economy.",
+    "excerpt": "اكتشف كيف أن الإيثيريوم، بفضل عقودها الذكية وقدرتها على استضافة التطبيقات اللامركزية، تتجاوز كونها مجرد عملة رقمية لتصبح بنية أساسية للاقتصاد الرقمي الجديد.",
+    "excerptEn": "Discover how Ethereum, with its smart contracts and ability to host decentralized applications, goes beyond being just a digital currency to become a fundamental infrastructure for the new digital economy.",
+    "category": "العملات الرقمية",
+    "categoryEn": "Cryptocurrency",
+    "categoryIcon": "₿",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "18 يونيو 2026",
+    "dateEn": "June 18, 2026",
+    "dateISO": "2026-06-18",
+    "readTime": "10",
+    "views": "5229",
+    "emoji": "₿",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article58.jpg",
+    "featured": false,
+    "breadcrumb": "العملات الرقمية",
+    "breadcrumbEn": "Cryptocurrency",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة إلى الإيثيريوم"
+      },
+      {
+        "id": "s2",
+        "text": "العقود الذكية: حجر الزاوية"
+      },
+      {
+        "id": "s3",
+        "text": "التطبيقات اللامركزية والتمويل اللامركزي"
+      },
+      {
+        "id": "s4",
+        "text": "المستقبل والتأثير"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Ethereum"
+      },
+      {
+        "id": "s2",
+        "text": "Smart Contracts: The Cornerstone"
+      },
+      {
+        "id": "s3",
+        "text": "Decentralized Applications (dApps) and Decentralized Finance (DeFi)"
+      },
+      {
+        "id": "s4",
+        "text": "Future and Impact"
+      }
+    ],
+    "related": [
+      7
+    ],
+    "content": "<h2 id='s1'>مقدمة إلى الإيثيريوم</h2><p>الإيثيريوم ليس مجرد عملة رقمية مثل البيتكوين، بل هو منصة بلوكتشين مفتوحة المصدر تتيح للمطورين بناء ونشر تطبيقات لا مركزية. عملتها الأصلية هي الإيثر (ETH)، والتي تستخدم لدفع رسوم المعاملات (Gas) على الشبكة.</p><p>تتميز الإيثيريوم بقدرتها على تشغيل عقود ذكية وبرامج معقدة، مما يوسع نطاق استخدام البلوكتشين إلى ما هو أبعد من مجرد تبادل القيمة.</p><h2 id='s2'>العقود الذكية: حجر الزاوية</h2><p>تعد العقود الذكية العمود الفقري لشبكة الإيثيريوم. هذه العقود هي برامج ذاتية التنفيذ يتم تخزينها على البلوكتشين وتعمل تلقائيًا عند استيفاء شروط معينة.</p><p>تلغي العقود الذكية الحاجة إلى وسيط، مما يقلل التكاليف ويزيد من الشفافية والأمان في المعاملات والاتفاقيات الرقمية.</p><h2 id='s3'>التطبيقات اللامركزية والتمويل اللامركزي</h2><p>بفضل العقود الذكية، ازدهرت على شبكة الإيثيريوم مجموعة واسعة من التطبيقات اللامركزية (dApps)، بما في ذلك الألعاب، ومنصات التواصل الاجتماعي، وأنظمة التصويت.</p><p>كما أدت الإيثيريوم إلى ظهور حركة التمويل اللامركزي (DeFi)، التي تقدم خدمات مالية مثل الإقراض والاقتراض والتداول دون الحاجة إلى بنوك تقليدية، مما يفتح آفاقًا جديدة للشمول المالي.</p><h2 id='s4'>المستقبل والتأثير</h2><p>تواصل الإيثيريوم التطور مع ترقيات مثل \"Merge\" التي حولتها إلى آلية إثبات الحصة (PoS)، مما يقلل من استهلاك الطاقة ويزيد من كفاءة الشبكة.</p><p>تعد الإيثي��يوم حجر زاوية في بناء الاقتصاد الرقمي الجديد، حيث تدعم الرموز غير القابلة للاستبدال (NFTs) والميتافيرس، وتلعب دورًا محوريًا في تشكيل مستقبل الإنترنت اللامركزي.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Ethereum</h2><p>Ethereum is not just a digital currency like Bitcoin; it's an open-source blockchain platform enabling developers to build and deploy decentralized applications. Its native currency, Ether (ETH), is used to pay transaction fees (Gas) on the network.</p><p>Ethereum's ability to run smart contracts and complex programs extends the scope of blockchain use far beyond mere value exchange.</p><h2 id='s2'>Smart Contracts: The Cornerstone</h2><p>Smart contracts are the backbone of the Ethereum network. These self-executing programs are stored on the blockchain and automatically operate when specific conditions are met.</p><p>Smart contracts eliminate the need for intermediaries, reducing costs and increasing transparency and security in digital transactions and agreements.</p><h2 id='s3'>Decentralized Applications (dApps) and Decentralized Finance (DeFi)</h2><p>Thanks to smart contracts, a wide range of decentralized applications (dApps) have flourished on the Ethereum network, including games, social media platforms, and voting systems.</p><p>Ethereum also pioneered the decentralized finance (DeFi) movement, offering financial services like lending, borrowing, and trading without traditional banks, opening new avenues for financial inclusion.</p><h2 id='s4'>Future and Impact</h2><p>Ethereum continues to evolve with upgrades like \"The Merge,\" which transitioned it to a Proof-of-Stake (PoS) mechanism, reducing energy consumption and increasing network efficiency.</p><p>Ethereum is a cornerstone in building the new digital economy, supporting Non-Fungible Tokens (NFTs) and the metaverse, and playing a pivotal role in shaping the future of the decentralized internet.</p>"
   }
 ];
 

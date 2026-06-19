@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-18
-// Total articles: 58
+// Last updated: 2026-06-19
+// Total articles: 59
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -4357,6 +4357,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة إلى الإيثيريوم</h2><p>الإيثيريوم ليس مجرد عملة رقمية مثل البيتكوين، بل هو منصة بلوكتشين مفتوحة المصدر تتيح للمطورين بناء ونشر تطبيقات لا مركزية. عملتها الأصلية هي الإيثر (ETH)، والتي تستخدم لدفع رسوم المعاملات (Gas) على الشبكة.</p><p>تتميز الإيثيريوم بقدرتها على تشغيل عقود ذكية وبرامج معقدة، مما يوسع نطاق استخدام البلوكتشين إلى ما هو أبعد من مجرد تبادل القيمة.</p><h2 id='s2'>العقود الذكية: حجر الزاوية</h2><p>تعد العقود الذكية العمود الفقري لشبكة الإيثيريوم. هذه العقود هي برامج ذاتية التنفيذ يتم تخزينها على البلوكتشين وتعمل تلقائيًا عند استيفاء شروط معينة.</p><p>تلغي العقود الذكية الحاجة إلى وسيط، مما يقلل التكاليف ويزيد من الشفافية والأمان في المعاملات والاتفاقيات الرقمية.</p><h2 id='s3'>التطبيقات اللامركزية والتمويل اللامركزي</h2><p>بفضل العقود الذكية، ازدهرت على شبكة الإيثيريوم مجموعة واسعة من التطبيقات اللامركزية (dApps)، بما في ذلك الألعاب، ومنصات التواصل الاجتماعي، وأنظمة التصويت.</p><p>كما أدت الإيثيريوم إلى ظهور حركة التمويل اللامركزي (DeFi)، التي تقدم خدمات مالية مثل الإقراض والاقتراض والتداول دون الحاجة إلى بنوك تقليدية، مما يفتح آفاقًا جديدة للشمول المالي.</p><h2 id='s4'>المستقبل والتأثير</h2><p>تواصل الإيثيريوم التطور مع ترقيات مثل \"Merge\" التي حولتها إلى آلية إثبات الحصة (PoS)، مما يقلل من استهلاك الطاقة ويزيد من كفاءة الشبكة.</p><p>تعد الإيثي��يوم حجر زاوية في بناء الاقتصاد الرقمي الجديد، حيث تدعم الرموز غير القابلة للاستبدال (NFTs) والميتافيرس، وتلعب دورًا محوريًا في تشكيل مستقبل الإنترنت اللامركزي.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Ethereum</h2><p>Ethereum is not just a digital currency like Bitcoin; it's an open-source blockchain platform enabling developers to build and deploy decentralized applications. Its native currency, Ether (ETH), is used to pay transaction fees (Gas) on the network.</p><p>Ethereum's ability to run smart contracts and complex programs extends the scope of blockchain use far beyond mere value exchange.</p><h2 id='s2'>Smart Contracts: The Cornerstone</h2><p>Smart contracts are the backbone of the Ethereum network. These self-executing programs are stored on the blockchain and automatically operate when specific conditions are met.</p><p>Smart contracts eliminate the need for intermediaries, reducing costs and increasing transparency and security in digital transactions and agreements.</p><h2 id='s3'>Decentralized Applications (dApps) and Decentralized Finance (DeFi)</h2><p>Thanks to smart contracts, a wide range of decentralized applications (dApps) have flourished on the Ethereum network, including games, social media platforms, and voting systems.</p><p>Ethereum also pioneered the decentralized finance (DeFi) movement, offering financial services like lending, borrowing, and trading without traditional banks, opening new avenues for financial inclusion.</p><h2 id='s4'>Future and Impact</h2><p>Ethereum continues to evolve with upgrades like \"The Merge,\" which transitioned it to a Proof-of-Stake (PoS) mechanism, reducing energy consumption and increasing network efficiency.</p><p>Ethereum is a cornerstone in building the new digital economy, supporting Non-Fungible Tokens (NFTs) and the metaverse, and playing a pivotal role in shaping the future of the decentralized internet.</p>"
+  },
+  {
+    "id": 59,
+    "slug": "ethereum-more-than-just-a-cryptocurrency",
+    "title": "الإيثيريوم: أكثر من مجرد عملة رقمية",
+    "titleEn": "Ethereum: More Than Just a Cryptocurrency",
+    "summary": "الإيثيريوم هو منصة بلوكتشين رائدة تتجاوز كونها مجرد عملة رقمية، حيث تمكن العقود الذكية والتطبيقات اللامركزية من تشكيل مستقبل الويب3.",
+    "summaryEn": "Ethereum is a leading blockchain platform that goes beyond being just a digital currency, enabling smart contracts and decentralized applications to shape the future of Web3.",
+    "excerpt": "اكتشف كيف أن الإيثيريوم، بعملتها الإيثر، يشكل ثورة في مجالات التمويل اللامركزي والرموز غير القابلة للاستبدال من خلال بنيته التحتية القوية.",
+    "excerptEn": "Discover how Ethereum, with its Ether currency, is revolutionizing decentralized finance and non-fungible tokens through its robust infrastructure.",
+    "category": "العملات الرقمية",
+    "categoryEn": "Cryptocurrency",
+    "categoryIcon": "₿",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "19 يونيو 2026",
+    "dateEn": "June 19, 2026",
+    "dateISO": "2026-06-19",
+    "readTime": "9",
+    "views": "5644",
+    "emoji": "₿",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article59.jpg",
+    "featured": false,
+    "breadcrumb": "العملات الرقمية",
+    "breadcrumbEn": "Cryptocurrency",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "الإيثيريوم: نظرة عامة"
+      },
+      {
+        "id": "s2",
+        "text": "العقود الذكية واللامركزية"
+      },
+      {
+        "id": "s3",
+        "text": "تطبيقات الإيثيريوم الواسعة"
+      },
+      {
+        "id": "s4",
+        "text": "مستقبل الإيثيريوم والتطورات"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Ethereum: An Overview"
+      },
+      {
+        "id": "s2",
+        "text": "Smart Contracts and Decentralization"
+      },
+      {
+        "id": "s3",
+        "text": "Broad Applications of Ethereum"
+      },
+      {
+        "id": "s4",
+        "text": "The Future of Ethereum and Developments"
+      }
+    ],
+    "related": [
+      46
+    ],
+    "content": "<h2 id='s1'>الإيثيريوم: نظرة عامة</h2><p>الإيثيريوم هو منصة بلوكتشين مفتوحة المصدر تمكن المطورين من بناء ونشر التطبيقات اللامركزية (dApps).</p><p>عملتها الأصلية، الإيثر (ETH)، ليست مجرد عملة رقمية للتداول، بل هي الوقود الذي يشغل شبكة الإيثيريوم ويستخدم لدفع رسوم المعاملات (Gas Fees).</p><h2 id='s2'>العقود الذكية واللامركزية</h2><p>يكمن جوهر الإيثيريوم في العقود الذكية، وهي اتفاقيات ذاتية التنفيذ مبرمجة على البلوكتشين.</p><p>هذه العقود تلغي الحاجة إلى وسطاء وتوفر الشفافية والأمان، مما يمهد الطريق لنظام مالي لامركزي بالكامل.</p><h2 id='s3'>تطبيقات الإيثيريوم الواسعة</h2><p>لقد أصبحت الإيثيريوم العمود الفقري للعديد من الابتكارات في عالم الويب3، بما في ذلك التمويل اللامركزي (DeFi) والرموز غير القابلة للاستبدال (NFTs) والمنظمات اللامركزية المستقلة (DAOs).</p><p>توفر هذه التطبيقات بدائل لامركزية للخدمات المالية التقليدية والفن الرقمي وإدارة المجتمعات.</p><h2 id='s4'>مستقبل الإيثيريوم والتطورات</h2><p>شهد الإيثيريوم مؤخرًا تحديث \"الدمج\" (The Merge) التاريخي الذي حول الشبكة إلى آلية إثبات الحصة (PoS)، مما قلل بشكل كبير من استهلاك الطاقة وزاد من أمانها.</p><p>تستمر التطورات المستقبلية، مثل \"التجزئة\" (Sharding)، في السعي لزيادة قابلية التوسع وتقليل التكاليف، مما يعزز مكانة الإيثيريوم كقوة دافعة للابتكار.</p>",
+    "contentEn": "<h2 id='s1'>Ethereum: An Overview</h2><p>Ethereum is an open-source blockchain platform that enables developers to build and deploy decentralized applications (dApps).</p><p>Its native currency, Ether (ETH), is more than just a digital asset for trading; it fuels the Ethereum network and is used to pay transaction fees (Gas Fees).</p><h2 id='s2'>Smart Contracts and Decentralization</h2><p>At the heart of Ethereum are smart contracts, self-executing agreements programmed onto the blockchain.</p><p>These contracts eliminate the need for intermediaries and provide transparency and security, paving the way for a fully decentralized financial system.</p><h2 id='s3'>Broad Applications of Ethereum</h2><p>Ethereum has become the backbone for numerous Web3 innovations, including Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), and Decentralized Autonomous Organizations (DAOs).</p><p>These applications offer decentralized alternatives to traditional financial services, digital art, and community governance.</p><h2 id='s4'>The Future of Ethereum and Developments</h2><p>Ethereum recently underwent the historic \"Merge\" upgrade, transitioning the network to a Proof-of-Stake (PoS) mechanism, which significantly reduced energy consumption and enhanced security.</p><p>Future developments, such as \"Sharding,\" continue to aim for increased scalability and reduced costs, solidifying Ethereum's position as a driving force for innovation.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-19
-// Total articles: 59
+// Last updated: 2026-06-20
+// Total articles: 60
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -4426,6 +4426,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>الإيثيريوم: نظرة عامة</h2><p>الإيثيريوم هو منصة بلوكتشين مفتوحة المصدر تمكن المطورين من بناء ونشر التطبيقات اللامركزية (dApps).</p><p>عملتها الأصلية، الإيثر (ETH)، ليست مجرد عملة رقمية للتداول، بل هي الوقود الذي يشغل شبكة الإيثيريوم ويستخدم لدفع رسوم المعاملات (Gas Fees).</p><h2 id='s2'>العقود الذكية واللامركزية</h2><p>يكمن جوهر الإيثيريوم في العقود الذكية، وهي اتفاقيات ذاتية التنفيذ مبرمجة على البلوكتشين.</p><p>هذه العقود تلغي الحاجة إلى وسطاء وتوفر الشفافية والأمان، مما يمهد الطريق لنظام مالي لامركزي بالكامل.</p><h2 id='s3'>تطبيقات الإيثيريوم الواسعة</h2><p>لقد أصبحت الإيثيريوم العمود الفقري للعديد من الابتكارات في عالم الويب3، بما في ذلك التمويل اللامركزي (DeFi) والرموز غير القابلة للاستبدال (NFTs) والمنظمات اللامركزية المستقلة (DAOs).</p><p>توفر هذه التطبيقات بدائل لامركزية للخدمات المالية التقليدية والفن الرقمي وإدارة المجتمعات.</p><h2 id='s4'>مستقبل الإيثيريوم والتطورات</h2><p>شهد الإيثيريوم مؤخرًا تحديث \"الدمج\" (The Merge) التاريخي الذي حول الشبكة إلى آلية إثبات الحصة (PoS)، مما قلل بشكل كبير من استهلاك الطاقة وزاد من أمانها.</p><p>تستمر التطورات المستقبلية، مثل \"التجزئة\" (Sharding)، في السعي لزيادة قابلية التوسع وتقليل التكاليف، مما يعزز مكانة الإيثيريوم كقوة دافعة للابتكار.</p>",
     "contentEn": "<h2 id='s1'>Ethereum: An Overview</h2><p>Ethereum is an open-source blockchain platform that enables developers to build and deploy decentralized applications (dApps).</p><p>Its native currency, Ether (ETH), is more than just a digital asset for trading; it fuels the Ethereum network and is used to pay transaction fees (Gas Fees).</p><h2 id='s2'>Smart Contracts and Decentralization</h2><p>At the heart of Ethereum are smart contracts, self-executing agreements programmed onto the blockchain.</p><p>These contracts eliminate the need for intermediaries and provide transparency and security, paving the way for a fully decentralized financial system.</p><h2 id='s3'>Broad Applications of Ethereum</h2><p>Ethereum has become the backbone for numerous Web3 innovations, including Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), and Decentralized Autonomous Organizations (DAOs).</p><p>These applications offer decentralized alternatives to traditional financial services, digital art, and community governance.</p><h2 id='s4'>The Future of Ethereum and Developments</h2><p>Ethereum recently underwent the historic \"Merge\" upgrade, transitioning the network to a Proof-of-Stake (PoS) mechanism, which significantly reduced energy consumption and enhanced security.</p><p>Future developments, such as \"Sharding,\" continue to aim for increased scalability and reduced costs, solidifying Ethereum's position as a driving force for innovation.</p>"
+  },
+  {
+    "id": 60,
+    "slug": "index-funds-the-simplest-way-to-invest",
+    "title": "صناديق المؤشرات: أبسط طريقة للاستثمار",
+    "titleEn": "Index Funds: The Simplest Way to Invest",
+    "summary": "صناديق المؤشرات تقدم طريقة مبسطة ومنخفضة التكلفة للاستثمار في السوق من خلال تتبع أداء مؤشر معين، موفرة تنوعاً فورياً ونمواً طويل الأجل.",
+    "summaryEn": "Index funds offer a simple, low-cost way to invest in the market by tracking a specific index's performance, providing instant diversification and long-term growth.",
+    "excerpt": "استكشف كيف يمكن لصناديق المؤشرات أن تكون أبسط وأكثر الطرق فعالية للاستثمار، موفرة تنوعاً واسعاً بتكاليف منخفضة للمستثمرين الجدد وذوي الخبرة.",
+    "excerptEn": "Discover how index funds can be the simplest and most effective way to invest, offering broad diversification at low costs for both new and experienced investors.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "20 يونيو 2026",
+    "dateEn": "June 20, 2026",
+    "dateISO": "2026-06-20",
+    "readTime": "9",
+    "views": "2729",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article60.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: ما هي صناديق المؤشرات؟"
+      },
+      {
+        "id": "s2",
+        "text": "كيف تعمل صناديق المؤشرات؟"
+      },
+      {
+        "id": "s3",
+        "text": "مزايا الاستثمار في صناديق المؤشرات"
+      },
+      {
+        "id": "s4",
+        "text": "هل هي مناسبة لك؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: What are Index Funds?"
+      },
+      {
+        "id": "s2",
+        "text": "How Do Index Funds Work?"
+      },
+      {
+        "id": "s3",
+        "text": "Advantages of Investing in Index Funds"
+      },
+      {
+        "id": "s4",
+        "text": "Are They Right for You?"
+      }
+    ],
+    "related": [
+      2
+    ],
+    "content": "<h2 id='s1'>مقدمة: ما هي صناديق المؤشرات؟</h2><p>صناديق المؤشرات هي نوع من الصناديق المتداولة في البورصة (ETFs) أو الصناديق المشتركة التي تهدف إلى تتبع أداء مؤشر سوق معين، مثل مؤشر S&P 500 أو مؤشر تاسي. بدلاً من محاولة التفوق على السوق، تسعى هذه الصناديق إلى محاكاته.</p><h2 id='s2'>كيف تعمل صناديق المؤشرات؟</h2><p>تعمل صناديق المؤشرات عن طريق الاحتفاظ بمجموعة من الأوراق المالية (الأسهم أو السندات) التي تعكس مكونات المؤشر المستهدف. عندما تستثمر في صندوق مؤشر، فإنك تستثمر فعليًا في جميع الشركات داخل ذلك المؤشر بنسب متناسبة.</p><h2 id='s3'>مزايا الاستثمار في صناديق المؤشرات</h2><p>تتميز صناديق المؤشرات بالعديد من المزايا، أبرزها التنوع الفوري بتكلفة منخفضة. فهي توفر تعرضًا واسعًا للسوق بأسعار رسوم إدارة أقل بكثير مقارنة بالصناديق المدارة بنشاط، مما يجعلها خيارًا فعالاً من حيث التكلفة.</p><p>كما أنها تتميز بالبساطة والشفافية، حيث يمكنك بسهولة معرفة ما تستثمر فيه. هذه الصناديق مثالية للمستثمرين الذين يبحثون عن نمو طويل الأجل دون الحاجة إلى البحث المستمر عن الأسهم الفردية.</p><h2 id='s4'>هل هي مناسبة لك؟</h2><p>صناديق المؤشرات مناسبة بشكل خاص للمستثمرين الجدد ولأولئك الذين يفضلون استراتيجية استثمارية سلبية طويلة الأجل. إذا كنت تبحث عن طريقة سهلة ومنخفضة التكلفة للدخول إلى سوق الأسهم وتحقيق عوائد تتوافق مع أداء السوق، فقد تكون صناديق المؤشرات خيارك الأمثل.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: What are Index Funds?</h2><p>Index funds are a type of exchange-traded fund (ETF) or mutual fund that aims to track the performance of a specific market index, such as the S&P 500 or TASI. Instead of trying to beat the market, these funds seek to replicate it.</p><h2 id='s2'>How Do Index Funds Work?</h2><p>Index funds operate by holding a collection of securities (stocks or bonds) that mirror the components of their target index. When you invest in an index fund, you are effectively investing in all the companies within that index in proportional weights.</p><h2 id='s3'>Advantages of Investing in Index Funds</h2><p>Index funds offer several advantages, most notably instant diversification at a low cost. They provide broad market exposure with significantly lower management fees compared to actively managed funds, making them a cost-effective option.</p><p>They also boast simplicity and transparency, as you can easily understand what you're investing in. These funds are ideal for investors seeking long-term growth without the need for constant individual stock research.</p><h2 id='s4'>Are They Right for You?</h2><p>Index funds are particularly suitable for new investors and those who prefer a long-term, passive investment strategy. If you're looking for an easy and low-cost way to enter the stock market and achieve returns consistent with market performance, index funds might be your ideal choice.</p>"
   }
 ];
 

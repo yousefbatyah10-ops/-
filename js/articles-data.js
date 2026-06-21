@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-20
-// Total articles: 60
+// Last updated: 2026-06-21
+// Total articles: 61
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -4495,6 +4495,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: ما هي صناديق المؤشرات؟</h2><p>صناديق المؤشرات هي نوع من الصناديق المتداولة في البورصة (ETFs) أو الصناديق المشتركة التي تهدف إلى تتبع أداء مؤشر سوق معين، مثل مؤشر S&P 500 أو مؤشر تاسي. بدلاً من محاولة التفوق على السوق، تسعى هذه الصناديق إلى محاكاته.</p><h2 id='s2'>كيف تعمل صناديق المؤشرات؟</h2><p>تعمل صناديق المؤشرات عن طريق الاحتفاظ بمجموعة من الأوراق المالية (الأسهم أو السندات) التي تعكس مكونات المؤشر المستهدف. عندما تستثمر في صندوق مؤشر، فإنك تستثمر فعليًا في جميع الشركات داخل ذلك المؤشر بنسب متناسبة.</p><h2 id='s3'>مزايا الاستثمار في صناديق المؤشرات</h2><p>تتميز صناديق المؤشرات بالعديد من المزايا، أبرزها التنوع الفوري بتكلفة منخفضة. فهي توفر تعرضًا واسعًا للسوق بأسعار رسوم إدارة أقل بكثير مقارنة بالصناديق المدارة بنشاط، مما يجعلها خيارًا فعالاً من حيث التكلفة.</p><p>كما أنها تتميز بالبساطة والشفافية، حيث يمكنك بسهولة معرفة ما تستثمر فيه. هذه الصناديق مثالية للمستثمرين الذين يبحثون عن نمو طويل الأجل دون الحاجة إلى البحث المستمر عن الأسهم الفردية.</p><h2 id='s4'>هل هي مناسبة لك؟</h2><p>صناديق المؤشرات مناسبة بشكل خاص للمستثمرين الجدد ولأولئك الذين يفضلون استراتيجية استثمارية سلبية طويلة الأجل. إذا كنت تبحث عن طريقة سهلة ومنخفضة التكلفة للدخول إلى سوق الأسهم وتحقيق عوائد تتوافق مع أداء السوق، فقد تكون صناديق المؤشرات خيارك الأمثل.</p>",
     "contentEn": "<h2 id='s1'>Introduction: What are Index Funds?</h2><p>Index funds are a type of exchange-traded fund (ETF) or mutual fund that aims to track the performance of a specific market index, such as the S&P 500 or TASI. Instead of trying to beat the market, these funds seek to replicate it.</p><h2 id='s2'>How Do Index Funds Work?</h2><p>Index funds operate by holding a collection of securities (stocks or bonds) that mirror the components of their target index. When you invest in an index fund, you are effectively investing in all the companies within that index in proportional weights.</p><h2 id='s3'>Advantages of Investing in Index Funds</h2><p>Index funds offer several advantages, most notably instant diversification at a low cost. They provide broad market exposure with significantly lower management fees compared to actively managed funds, making them a cost-effective option.</p><p>They also boast simplicity and transparency, as you can easily understand what you're investing in. These funds are ideal for investors seeking long-term growth without the need for constant individual stock research.</p><h2 id='s4'>Are They Right for You?</h2><p>Index funds are particularly suitable for new investors and those who prefer a long-term, passive investment strategy. If you're looking for an easy and low-cost way to enter the stock market and achieve returns consistent with market performance, index funds might be your ideal choice.</p>"
+  },
+  {
+    "id": 61,
+    "slug": "how-to-read-company-financial-statements",
+    "title": "كيف تقرأ القوائم المالية للشركات",
+    "titleEn": "How to Read Company Financial Statements",
+    "summary": "فهم القوائم المالية للشركات، مثل الميزانية العمومية وقائمة الدخل والتدفقات النقدية، ضروري للمستثمرين لتقييم الأداء واتخاذ قرارات استثمارية مدروسة.",
+    "summaryEn": "Understanding company financial statements, such as the balance sheet, income statement, and cash flow statement, is crucial for investors to assess performance and make informed investment decisions.",
+    "excerpt": "تعرف على كيفية قراءة القوائم المالية الأساسية للشركات لتقييم صحتها المالية واتخاذ قرارات استثمارية حكيمة.",
+    "excerptEn": "Learn how to read essential company financial statements to assess their financial health and make wise investment decisions.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "محمد العمري",
+    "authorEn": "Mohammed Al-Omari",
+    "authorInitial": "M",
+    "date": "21 يونيو 2026",
+    "dateEn": "June 21, 2026",
+    "dateISO": "2026-06-21",
+    "readTime": "12",
+    "views": "4574",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article61.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: لماذا نقرأ القوائم المالية؟"
+      },
+      {
+        "id": "s2",
+        "text": "قائمة المركز المالي (الميزانية العمومية)"
+      },
+      {
+        "id": "s3",
+        "text": "قائمة الدخل"
+      },
+      {
+        "id": "s4",
+        "text": "قائمة التدفقات النقدية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: Why Read Financial Statements?"
+      },
+      {
+        "id": "s2",
+        "text": "The Balance Sheet"
+      },
+      {
+        "id": "s3",
+        "text": "The Income Statement"
+      },
+      {
+        "id": "s4",
+        "text": "The Cash Flow Statement"
+      }
+    ],
+    "related": [
+      31
+    ],
+    "content": "<h2 id='s1'>مقدمة: لماذا نقرأ القوائم المالية؟</h2><p>القوائم المالية هي مرآة تعكس الأداء المالي والوضع الاقتصادي للشركة، وتعتبر أداة أساسية للمستثمرين لاتخاذ قرارات مستنيرة. فهمها يمكنك من تقييم صحة الشركة وقدرتها على تحقيق الأرباح والنمو.</p><h2 id='s2'>قائمة المركز المالي (الميزانية العمومية)</h2><p>توضح الميزانية العمومية أصول الشركة (ما تملكه)، التزاماتها (ما عليها)، وحقوق الملكية (صافي قيمة المساهمين) في لحظة زمنية محددة. معادلتها الأساسية هي: الأصول = الالتزامات + حقوق الملكية.</p><h2 id='s3'>قائمة الدخل</h2><p>تلخص قائمة الدخل، المعروفة أيضاً ببيان الأرباح والخسائر، إيرادات الشركة ومصروفاتها خلال فترة زمنية معينة (ربع سنوية أو سنوية). الهدف منها هو تحديد صافي ا��ربح أو الخسارة التي حققتها الشركة.</p><h2 id='s4'>قائمة التدفقات النقدية</h2><p>تبين قائمة التدفقات النقدية كيفية تدفق النقد داخل وخارج الشركة من خلال الأنشطة التشغيلية والاستثمارية والتمويلية. إنها تكشف عن قدرة الشركة على توليد النقد وسداد ديونها وتمويل عملياتها.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: Why Read Financial Statements?</h2><p>Financial statements are a mirror reflecting a company's financial performance and economic position, serving as an essential tool for investors to make informed decisions. Understanding them allows you to assess the company's health and its ability to generate profits and growth.</p><h2 id='s2'>The Balance Sheet</h2><p>The Balance Sheet shows a company's assets (what it owns), liabilities (what it owes), and equity (shareholders' net worth) at a specific point in time. Its fundamental equation is: Assets = Liabilities + Equity.</p><h2 id='s3'>The Income Statement</h2><p>The Income Statement, also known as the Profit and Loss Statement, summarizes a company's revenues and expenses over a specific period (quarterly or annually). Its purpose is to determine the net profit or loss generated by the company.</p><h2 id='s4'>The Cash Flow Statement</h2><p>The Cash Flow Statement shows how cash flows into and out of a company through its operating, investing, and financing activities. It reveals the company's ability to generate cash, pay its debts, and fund its operations.</p>"
   }
 ];
 

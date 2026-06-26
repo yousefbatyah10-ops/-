@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-25
-// Total articles: 64
+// Last updated: 2026-06-26
+// Total articles: 65
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -4787,6 +4787,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>التضخم: عدو القوة الشرائية</h2><p>التضخم هو الارتفاع المستمر في المستوى العام لأسعار السلع والخدمات، مما يؤدي إلى تآكل القوة الشرائية للنقود بمرور الوقت. إنه تحدٍ اقتصادي كبير يؤثر على المدخرات والاستثمارات، ويجعل أموالك تشتري أقل مما كانت عليه في السابق.</p><h2 id='s2'>لماذا يهدد التضخم مدخراتك؟</h2><p>يقلل التضخم من قيمة مدخراتك النقدية بفعالية، فكلما زادت نسبة التضخم، انخفضت القيمة الحقيقية للأموال التي تحتفظ بها في حسابات التوفير التقليدية أو النقد. لذا، من الضروري اتخاذ خطوات استباقية لحماية ثروتك من هذا التآكل الصامت لقيمتها.</p><h2 id='s3'>استراتيجيات استثمارية لحماية أموالك</h2><p>لحماية أموالك، فكّر في الاستثمار بالأصول الحقيقية مثل العقارات والسلع (كالذهب والفضة)؛ فهذه الأصول تاريخياً تُعتبر ملاذاً آمناً ضد التضخم، حيث تميل قيمتها للارتفاع مع ارتفاع الأسعار. كما أن الأسهم في الشركات القوية التي تتمتع بقوة تسعيرية وقدرة على تمرير تكاليفها المرتفعة إلى المستهلكين يمكن أن تحافظ على أرباحها وتنمو حتى في بيئة تضخمية.</p><p>ابحث عن الشركات ذات التدفقات النقدية القوية ونماذج الأعمال المرنة، وفي بعض الأسواق، قد توفر سندات الخزانة المحمية من التضخم (TIPS) حماية لرأس المال وتعديل مدفوعات الفائدة بناءً على مؤشر التضخم.</p><h2 id='s4'>التنويع والمشورة المهنية</h2><p>يُعد التنويع مفتاحاً لحماية محفظتك، فلا تضع كل بيضك في سلة واحدة. وزّع استثماراتك بين فئات الأصول المختلفة لتقليل المخاطر وزيادة فرص العوائد. استشر مستشاراً مالياً محترفاً لوضع خطة استثمارية تتناسب مع أهدافك وتحمل مخاطرك في ظل التحديات الاقتصادية الحالية، لضمان حماية أفضل لأموالك.</p>",
     "contentEn": "<h2 id='s1'>Inflation: The Enemy of Purchasing Power</h2><p>Inflation is the sustained increase in the general price level of goods and services, leading to an erosion of money's purchasing power over time. It's a significant economic challenge that impacts savings and investments, causing your money to buy less than it used to.</p><h2 id='s2'>Why Inflation Threatens Your Savings</h2><p>Inflation effectively diminishes the value of your cash savings; the higher the inflation rate, the lower the real value of money held in traditional savings accounts or cash. Therefore, it's crucial to take proactive steps to protect your wealth from this silent erosion of its value.</p><h2 id='s3'>Investment Strategies to Protect Your Money</h2><p>To protect your money, consider investing in real assets such as real estate and commodities (like gold and silver); these assets are historically considered safe havens against inflation, as their values tend to rise with increasing prices. Additionally, stocks in strong companies with pricing power and the ability to pass higher costs onto consumers can maintain profits and grow even in an inflationary environment.</p><p>Look for businesses with strong cash flows and resilient business models. In some markets, Inflation-Protected Securities (TIPS) can offer capital protection and adjust interest payments based on an inflation index.</p><h2 id='s4'>Diversification and Professional Advice</h2><p>Diversification is key to protecting your portfolio; don't put all your eggs in one basket. Spread your investments across different asset classes to mitigate risks and increase return opportunities. Consult a professional financial advisor to create an investment plan that aligns with your goals and risk tolerance amid current economic challenges, ensuring better protection for your money.</p>"
+  },
+  {
+    "id": 65,
+    "slug": "index-funds-the-simplest-way-to-invest",
+    "title": "صناديق المؤشرات: أبسط طريقة للاستثمار",
+    "titleEn": "Index Funds: The Simplest Way to Invest",
+    "summary": "صناديق المؤشرات هي استثمار بسيط وفعال يتبع أداء مؤشر سوق معين، مما يوفر تنوعاً وتكاليف منخفضة للمستثمرين.",
+    "summaryEn": "Index funds are a simple and effective investment that tracks the performance of a specific market index, offering diversification and low costs to investors.",
+    "excerpt": "اكتشف كيف يمكن لصناديق المؤشرات أن تكون أبسط وأذكى طريقة لبناء محفظة استثمارية متنوعة ومنخفضة التكلفة دون عناء اختيار الأسهم الفردية.",
+    "excerptEn": "Discover how index funds can be the simplest and smartest way to build a diversified, low-cost investment portfolio without the hassle of picking individual stocks.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "26 يونيو 2026",
+    "dateEn": "June 26, 2026",
+    "dateISO": "2026-06-26",
+    "readTime": "9",
+    "views": "1292",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article65.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هي صناديق المؤشرات؟"
+      },
+      {
+        "id": "s2",
+        "text": "لماذا هي \"أبسط\" طريقة للاستثمار؟"
+      },
+      {
+        "id": "s3",
+        "text": "مزايا رئيسية يجب معرفتها"
+      },
+      {
+        "id": "s4",
+        "text": "هل هي الخيار المناسب لك؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What are Index Funds?"
+      },
+      {
+        "id": "s2",
+        "text": "Why are they the \"Simplest\" Way to Invest?"
+      },
+      {
+        "id": "s3",
+        "text": "Key Benefits to Know"
+      },
+      {
+        "id": "s4",
+        "text": "Are They the Right Choice for You?"
+      }
+    ],
+    "related": [
+      21
+    ],
+    "content": "<h2 id='s1'>ما هي صناديق المؤشرات؟</h2><p>صناديق المؤشرات هي نوع من الصناديق الاستثمارية التي تهدف إلى تتبع أداء مؤشر سوق معين، مثل مؤشر S&P 500 أو مؤشر تاسي السعودي. بدلاً من محاولة التفوق على السوق، تسعى هذه الصناديق إلى محاكاة أدائه.</p><p>تستثمر صناديق المؤشرات في جميع الأوراق المالية أو عينة منها التي يتكون منها المؤشر، بنفس النسب تقريباً. هذا يعني أنك تستثمر في مجموعة واسعة من الشركات دفعة واحدة.</p><h2 id='s2'>لماذا هي \"أبسط\" طريقة للاستثمار؟</h2><p>تعتبر صناديق المؤشرات أبسط طريقة للاستثمار لأنها تلغي الحاجة إلى البحث المضني واختيار الأسهم الفردية. بمجرد شرائك لوحدة في الصندوق، تحصل على تنوع فوري عبر مئات أو حتى آلاف الشركات.</p><p>هذا النهج السلبي يعني أنك لا تحتاج إلى اتخاذ قرارات تداول متكررة، مما يوفر الوقت والجهد ويقلل من الأخطاء الناتجة عن الانفعالات الشخصية في السوق.</p><h2 id='s3'>مزايا رئيسية يجب معرفتها</h2><p>من أبرز مزايا صناديق المؤشرات هي تكاليفها المنخفضة مقارنة بالصناديق المدارة بنشاط، وذلك لعدم وجود حاجة لمديرين ماليين يجرون أبحاثاً مكثفة. كما أنها توفر تنوعاً كبيراً يقلل من المخاطر المرتبطة بالاستثمار في شركة واحدة.</p><p>تسمح لك هذه الصناديق بتحقيق عوائد تتماشى مع أداء السوق العام على المدى الطويل، وهو ما يفشل العديد من المستثمرين النشطين في تحقيقه بعد خصم الرسوم.</p><h2 id='s4'>هل هي الخيار المناسب لك؟</h2><p>إذا كنت مستثمراً مبتدئاً تبحث عن نقطة انطلاق سهلة وفعالة في عالم الاستثمار، أو مستثمراً متمرساً يفضل نهجاً منخفض الجهد طويل الأمد، فإن صناديق المؤشرات قد تكو�� الخيار الأمثل لك.</p><p>إنها توفر مساراً واضحاً نحو بناء الثروة بمرور الوقت، مع تقليل التعقيدات التي غالباً ما تصاحب الاستثمار في الأسواق المالية.</p>",
+    "contentEn": "<h2 id='s1'>What are Index Funds?</h2><p>Index funds are a type of investment fund designed to track the performance of a specific market index, such as the S&P 500 or the Saudi TASI index. Instead of trying to beat the market, these funds aim to replicate its performance.</p><p>Index funds invest in all or a representative sample of the securities that make up the index, in roughly the same proportions. This means you invest in a broad range of companies all at once.</p><h2 id='s2'>Why are they the \"Simplest\" Way to Invest?</h2><p>Index funds are considered the simplest way to invest because they eliminate the need for extensive research and selection of individual stocks. By purchasing a unit in the fund, you gain instant diversification across hundreds or even thousands of companies.</p><p>This passive approach means you don't need to make frequent trading decisions, saving time and effort and reducing errors that result from personal emotions in the market.</p><h2 id='s3'>Key Benefits to Know</h2><p>One of the main advantages of index funds is their low costs compared to actively managed funds, as there's no need for financial managers conducting intensive research. They also provide broad diversification, which reduces the risks associated with investing in a single company.</p><p>These funds allow you to achieve returns that align with the overall market performance over the long term, something many active investors fail to do after deducting fees.</p><h2 id='s4'>Are They the Right Choice for You?</h2><p>If you are a beginner investor looking for an easy and effective entry point into the world of investing, or an experienced investor who prefers a low-effort, long-term approach, index funds might be the perfect choice for you.</p><p>They offer a clear path to building wealth over time, while minimizing the complexities often associated with investing in financial markets.</p>"
   }
 ];
 

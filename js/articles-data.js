@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-06-28
-// Total articles: 67
+// Last updated: 2026-06-29
+// Total articles: 68
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -4994,6 +4994,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هو التسويق بالعمولة؟</h2><p>التسويق بالعمولة هو نموذج عمل يتيح للأفراد كسب عمولة عن طريق الترويج لمنتجات أو خدمات الآخرين. يقوم المسوق بالعمولة بالبحث عن منتج يعجبه، ثم يروج له، ويكسب جزءًا من كل عملية بيع تتم من خلال رابطه الخاص.</p><p>يعتمد هذا النموذج على ثلاث جهات رئيسية: التاجر (صاحب المنتج)، المسوق بالعمولة (المروج)، والمستهلك (المشتري). إنه حل مربح للجميع حيث يحصل التاجر على مبيعات، والمسوق على عمولة، والمستهلك على المنتج الذي يريده.</p><h2 id='s2'>كيف يعمل التسويق بالعمولة؟</h2><p>تبدأ العملية بانضمام المسوق إلى برنامج تسويق بالعمولة والحصول على رابط فريد للمنتج. يقوم بعد ذلك بمشاركة هذا الرابط عبر قنواته المختلفة مثل المدونات، وسائل التواصل الاجتماعي، أو البريد الإلكتروني.</p><p>عندما ينقر زائر على الرابط ويقوم بعملية شراء، يتم تتبع العملية وتسجيلها بواسطة نظام التاجر، ويحصل المسوق على عمولته المتفق عليها.</p><h2 id='s3'>مزايا التسويق بالعمولة للمبتدئين</h2><p>يتميز التسويق بالعمولة بانخفاض تكاليف البدء وعدم الحاجة لإدارة المخزون أو خدمة العملاء، مما يجعله مثاليًا للمبتدئين. يوفر مرونة كبيرة في العمل من أي مكان وفي أي وقت.</p><p>يمثل فرصة رائعة لتحقيق دخل إضافي أو حتى أساسي، مع إمكانية التوسع والنمو بمرور الوقت من خلال بناء جمهور مخلص.</p><h2 id='s4'>خطوات البدء في التسويق بالعمولة</h2><p>للبدء، اختر مجالًا أو \"نيتش\" تهتم به ولديك معرفة به، ثم ابحث عن برامج تسويق بالعمولة ذات صلة ومنتجات عالية الجودة. بعد ذلك، قم بإنشاء محتوى قيم ��جذاب يروج لهذه المنتجات بأسلوب صادق.</p><p>ركز على بناء الثقة مع جمهورك من خلال تقديم توصيات حقيقية ومفيدة، واستخدم قنوات تسويقية متعددة لزيادة مدى وصولك وفعالية حملاتك.</p>",
     "contentEn": "<h2 id='s1'>What is Affiliate Marketing?</h2><p>Affiliate marketing is a business model where individuals earn a commission by promoting other people's products or services. An affiliate finds a product they like, promotes it, and earns a piece of the profit from each sale made through their unique link.</p><p>This model typically involves three main parties: the merchant (product creator), the affiliate (promoter), and the consumer (buyer). It's a win-win solution where the merchant gains sales, the affiliate earns commission, and the consumer gets the product they desire.</p><h2 id='s2'>How Does Affiliate Marketing Work?</h2><p>The process begins when an affiliate joins an affiliate program and receives a unique product link. They then share this link across various channels such as blogs, social media, or email.</p><p>When a visitor clicks on the link and makes a purchase, the transaction is tracked and recorded by the merchant's system, and the affiliate earns their agreed-upon commission.</p><h2 id='s3'>Benefits of Affiliate Marketing for Beginners</h2><p>Affiliate marketing stands out due to its low startup costs and no need for inventory management or customer service, making it ideal for beginners. It offers great flexibility to work from anywhere, at any time.</p><p>It presents an excellent opportunity to generate supplementary or even primary income, with the potential for expansion and growth over time by building a loyal audience.</p><h2 id='s4'>Steps to Start Affiliate Marketing</h2><p>To begin, choose a niche you are passionate about and have knowledge in, then search for relevant affiliate programs and high-quality products. Next, create valuable and engaging content that genuinely promotes these products.</p><p>Focus on building trust with your audience by providing authentic and helpful recommendations, and utilize multiple marketing channels to increase your reach and campaign effectiveness.</p>"
+  },
+  {
+    "id": 68,
+    "slug": "affiliate-marketing-beginners-guide",
+    "title": "التسويق بالعمولة: دليل المبتدئين",
+    "titleEn": "Affiliate Marketing: Beginner's Guide",
+    "summary": "التسويق بالعمولة هو نموذج عمل يتيح للأفراد كسب عمولة عن طريق الترويج لمنتجات أو خدمات الآخرين دون الحاجة لامتلاكها.",
+    "summaryEn": "Affiliate marketing is a business model that allows individuals to earn a commission by promoting other people's products or services without owning them.",
+    "excerpt": "اكتشف أساسيات التسويق بالعمولة وكيف يمكن للمبتدئين البدء في هذا المجال المربح عبر الإنترنت بخطوات بسيطة وفعالة.",
+    "excerptEn": "Discover the basics of affiliate marketing and how beginners can start in this lucrative online field with simple and effective steps.",
+    "category": "الدخل السلبي",
+    "categoryEn": "Passive Income",
+    "categoryIcon": "💰",
+    "author": "محمد العمري",
+    "authorEn": "Mohammed Al-Omari",
+    "authorInitial": "M",
+    "date": "29 يونيو 2026",
+    "dateEn": "June 29, 2026",
+    "dateISO": "2026-06-29",
+    "readTime": "8",
+    "views": "3055",
+    "emoji": "💰",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article68.jpg",
+    "featured": false,
+    "breadcrumb": "الدخل السلبي",
+    "breadcrumbEn": "Passive Income",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هو التسويق بالعمولة؟"
+      },
+      {
+        "id": "s2",
+        "text": "كيف يعمل التسويق بالعمولة؟"
+      },
+      {
+        "id": "s3",
+        "text": "فوائد التسويق بالعمولة للمبتدئين"
+      },
+      {
+        "id": "s4",
+        "text": "خطوات البدء في التسويق بالعمولة"
+      },
+      {
+        "id": "s5",
+        "text": "نصائح للنجاح في التسويق بالعمولة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What is Affiliate Marketing?"
+      },
+      {
+        "id": "s2",
+        "text": "How Does Affiliate Marketing Work?"
+      },
+      {
+        "id": "s3",
+        "text": "Benefits for Beginners"
+      },
+      {
+        "id": "s4",
+        "text": "Steps to Get Started"
+      },
+      {
+        "id": "s5",
+        "text": "Tips for Success"
+      }
+    ],
+    "related": [
+      11
+    ],
+    "content": "<h2 id='s1'>ما هو التسويق بالعمولة؟</h2><p>التسويق بالعمولة هو استراتيجية تسويقية يدفع فيها التاجر أو الشركة عمولة للمسوق (التابع) مقابل كل زائر أو عميل يتم جلبه من خلال جهود المسوق الخاصة، ويعتمد هذا النموذج على مبدأ \"الدفع مقابل الأداء\".</p><p>ببساطة، أنت تروج لمنتج أو خدمة، وعندما يقوم شخص ما بالشراء عبر رابطك الفريد، تحصل على نسبة من البيع كعمولة.</p><h2 id='s2'>كيف يعمل التسويق بالعمولة؟</h2><p>العملية تبدأ عندما ينضم المسوق إلى برنامج تابع لشركة معينة ويحصل على رابط تتبع فريد، يقوم المسوق بعد ذلك بنشر هذا الرابط على منصاته المختلفة مثل المدونات، وسائل التواصل الاجتماعي، أو قوائم البريد الإلكتروني.</p><p>عندما ينقر المستخدم على الرابط ويقوم بإجراء عملية شراء أو اتخاذ إجراء محدد (مثل التسجيل)، يتم تتبع ذلك، ويحصل المسوق على عمولته المتفق عليها من الشركة المعلنة.</p><h2 id='s3'>فوائد التسويق بالعمولة للمبتدئين</h2><p>يتميز التسويق بالعمولة بانخفاض حاجز الدخول، حيث لا يتطلب إنشاء منتج خاص بك أو التعامل مع المخزون والشحن وخدمة العملاء، يمكنك البدء برأس مال قليل أو معدوم.</p><p>كما يوفر مرونة كبيرة في العمل من أي مكان وفي أي وقت، مما يجعله خيارًا جذابًا لمن يبحثون عن دخل إضافي أو وظيفة بدوام كامل عبر الإنترنت.</p><h2 id='s4'>خطوات البدء في التسويق بالعمولة</h2><p>أولاً، اختر مجالًا أو \"نيتش\" يثير اهتمامك ولديك معرفة به، ثم ابحث عن المنتجات أو الخدمات التي ترغب في الترويج لها، بعد ذلك، انضم إلى برامج التسويق بالعمولة ذات الصلة (مثل أمازون أسوشيتس أو برامج الشركات مباشرة).</p><p>ثانيًا، أنشئ منصة لترويج المنتجات، مثل مدونة، قناة يوتيوب، أو حساب على وسائل التواصل الاجتماعي، وابدأ في إنشاء محتوى قيم يجذب جمهورك ويقدم توصيات صادقة للمنتجات.</p><h2 id='s5'>نصائح للنجاح في التسويق بالعمولة</h2><p>ركز على بناء الثقة مع جمهورك من خلال تقديم مراجعات ومقارنات صادقة للمنتجات، واختر المنتجات التي تؤمن بها حقًا وتلبي احتياجات جمهورك المستهدف.</p><p>استمر في التعلم وتجربة استراتيجيات تسويقية مختلفة، وقم بتحليل بياناتك لتحسين أدائك باستمرار، فالصبر والمثابرة هما مفتاح النجاح في هذا المجال التنافسي.</p>",
+    "contentEn": "<h2 id='s1'>What is Affiliate Marketing?</h2><p>Affiliate marketing is a marketing strategy where a merchant or company pays a commission to an affiliate for every visitor or customer brought through the affiliate's own efforts, based on a \"pay-for-performance\" principle.</p><p>Simply put, you promote a product or service, and when someone makes a purchase through your unique link, you earn a percentage of that sale as commission.</p><h2 id='s2'>How Does Affiliate Marketing Work?</h2><p>The process begins when an affiliate joins a specific company's program and receives a unique tracking link. The affiliate then publishes this link on their various platforms such as blogs, social media, or email lists.</p><p>When a user clicks on the link and makes a purchase or takes a specific action (like signing up), it is tracked, and the affiliate receives their agreed-upon commission from the advertising company.</p><h2 id='s3'>Benefits for Beginners</h2><p>Affiliate marketing has a low barrier to entry, as it doesn't require creating your own product or dealing with inventory, shipping, and customer service. You can start with little to no capital.</p><p>It also offers great flexibility to work from anywhere, anytime, making it an attractive option for those seeking additional income or a full-time online career.</p><h2 id='s4'>Steps to Get Started</h2><p>First, choose a niche that interests you and in which you have knowledge, then find products or services you want to promote. After that, join relevant affiliate programs (like Amazon Associates or direct company programs).</p><p>Second, create a platform to promote products, such as a blog, YouTube channel, or social media account. Start creating valuable content that attracts your audience and provides honest product recommendations.</p><h2 id='s5'>Tips for Success</h2><p>Focus on building trust with your audience by providing honest reviews and comparisons of products. Choose products you truly believe in and that meet your target audience's needs.</p><p>Continuously learn and experiment with different marketing strategies, and analyze your data to constantly improve your performance. Patience and persistence are key to success in this competitive field.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-05
-// Total articles: 74
+// Last updated: 2026-07-06
+// Total articles: 75
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -5485,6 +5485,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هو التضخم؟</h2><p>التضخم هو ا��ارتفاع المستمر في المستوى العام لأسعار السلع والخدمات بمرور الوقت، مما يؤدي إلى تآكل القوة الشرائية للنقود. يعني ذلك أن نفس المبلغ من المال سيشتري سلعًا وخدمات أقل في المستقبل.</p><h2 id='s2'>تأثير التضخم على مدخراتك</h2><p>يُعد التضخم عدوًا صامتًا للمدخرات، فهو يقلل من قيمة أموالك النقدية المحفوظة في البنوك أو تحت الوسادة. إذا كان معدل التضخم أعلى من الفائدة التي تحصل عليها على مدخراتك، فإنك تخسر قيمة حقيقية لأموالك.</p><h2 id='s3'>الاستثمار في الأصول الحقيقية</h2><p>لتحمي أموالك، فكر في الاستثمار في الأصول التي تميل قيمتها للارتفاع مع التضخم، مثل العقارات والأسهم. العقارات غالبًا ما تحتفظ بقيمتها وتزيد إيجاراتها، بينما يمكن أن توفر الأسهم عوائد تتجاوز معدلات التضخم.</p><p>الاستثمار في الشركات القوية التي تستطيع تمرير التكاليف المرتفعة للمستهلكين يمكن أن يكون استراتيجية فعالة لمواجهة التضخم.</p><h2 id='s4'>تنويع المحفظة والذهب</h2><p>تنويع محفظتك الاستثمارية عبر فئات أصول مختلفة يقلل من المخاطر ويساعد على مواجهة تقلبات السوق والتضخم. يمكن أن يشمل ذلك السندات المرتبطة بالتضخم والسلع.</p><p>يُعتبر الذهب ملاذًا آمنًا تقليديًا في أوقات عدم اليقين الاقتصادي والتضخم، حيث يميل سعره للارتفاع عندما تنخفض قيمة العملات الورقية.</p>",
     "contentEn": "<h2 id='s1'>What is Inflation?</h2><p>Inflation is the sustained increase in the general price level of goods and services over time, leading to an erosion of purchasing power. This means that the same amount of money will buy fewer goods and services in the future.</p><h2 id='s2'>The Impact of Inflation on Your Savings</h2><p>Inflation is a silent enemy of savings, as it diminishes the value of your cash held in banks or under the mattress. If the inflation rate is higher than the interest you earn on your savings, you are losing real value from your money.</p><h2 id='s3'>Investing in Real Assets</h2><p>To protect your money, consider investing in assets whose value tends to rise with inflation, such as real estate and stocks. Real estate often retains its value and sees rising rents, while stocks can offer returns that outpace inflation.</p><p>Investing in strong companies that can pass higher costs onto consumers can be an effective strategy to combat inflation.</p><h2 id='s4'>Portfolio Diversification and Gold</h2><p>Diversifying your investment portfolio across different asset classes reduces risk and helps counter market volatility and inflation. This can include inflation-indexed bonds and commodities.</p><p>Gold is traditionally considered a safe haven during times of economic uncertainty and inflation, as its price tends to rise when the value of fiat currencies declines.</p>"
+  },
+  {
+    "id": 75,
+    "slug": "how-to-analyze-earnings-reports",
+    "title": "كيف تحلل تقارير أرباح الشركات",
+    "titleEn": "How to Analyze Earnings Reports",
+    "summary": "تحليل تقارير أرباح الشركات ضروري للمستثمرين لاتخاذ قرارات مستنيرة حول صحة الشركة وأدائها المستقبلي.",
+    "summaryEn": "Analyzing company earnings reports is crucial for investors to make informed decisions about a company's health and future performance.",
+    "excerpt": "نتعلم في هذا المقال كيفية فك شفرة تقارير أرباح الشركات لفهم أدائها المالي الحقيقي وتحديد فرص الاستثمار.",
+    "excerptEn": "In this article, we learn how to decipher company earnings reports to understand their true financial performance and identify investment opportunities.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "فاطمة الشهري",
+    "authorEn": "Fatima Al-Shahri",
+    "authorInitial": "F",
+    "date": "6 يوليو 2026",
+    "dateEn": "July 6, 2026",
+    "dateISO": "2026-07-06",
+    "readTime": "10",
+    "views": "3720",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article75.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "لماذا تقارير الأرباح مهمة؟"
+      },
+      {
+        "id": "s2",
+        "text": "المكونات الأساسية لتقرير الأرباح"
+      },
+      {
+        "id": "s3",
+        "text": "المقاييس التي يجب التركيز عليها"
+      },
+      {
+        "id": "s4",
+        "text": "قراءة ما بين السطور والتوقعات المستقبلية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Why Earnings Reports Matter?"
+      },
+      {
+        "id": "s2",
+        "text": "Key Components of the Earnings Report"
+      },
+      {
+        "id": "s3",
+        "text": "Key Metrics to Focus On"
+      },
+      {
+        "id": "s4",
+        "text": "Reading Between the Lines and Future Guidance"
+      }
+    ],
+    "related": [
+      1
+    ],
+    "content": "<h2 id='s1'>لماذا تقارير الأرباح مهمة؟</h2><p>تعتبر تقارير أرباح الشركات نافذة حيوية على الأداء المالي للشركة خلال فترة معينة، عادة ما تكون ربع سنوية أو سنوية. توفر هذه التقارير للمستثمرين رؤى أساسية حول مدى نجاح الشركة في تحقيق الأرباح وإدارة نفقاتها.</p><p>من خلال تحليل هذه التقارير، يمكن للمستثمرين تقييم الوضع المالي الحالي للشركة، وتحديد اتجاهات النمو، والتنبؤ بالأداء المستقبلي، مما يمكنهم من اتخاذ قرارات استثمارية مدروسة.</p><h2 id='s2'>المكونات الأساسية لتقرير الأرباح</h2><p>يتكون تقرير الأرباح عادة من ثلاثة بيانات مالية رئيسية: قائمة الدخل، الميزانية العمومية، وقائمة التدفقات النقدية. تُظهر قائمة الدخل إيرادات الشركة ومصروفاتها وصافي أرباحها خلال الفترة.</p><p>بينما تقدم الميزانية العمومية لمحة سريعة عن الأصول والخصوم وحقوق الملكية في نقطة زمنية محددة، وتوضح قائمة التدفقات النقدية كيفية تدفق الأموال داخل وخارج الشركة من العمليات والاستثمار والتمويل.</p><h2 id='s3'>المقاييس التي يجب التركيز عليها</h2><p>عند تحليل تقارير الأرباح، ركز على مقاييس مثل ربحية السهم (EPS)، إجمالي الإيرادات، وصافي الدخل. قارن هذه الأرقام بالربع السابق ونفس الربع من العام الماضي لتقييم النمو أو الانكماش.</p><p>كما يجب الانتباه إلى هوامش الربح (الإجمالي والتشغيلي والصافي) لمعرفة مدى كفاءة الشركة في تحويل الإيرادات إلى أرباح، بالإضافة إلى التدفق النقدي الحر الذي يعكس قدرة الشركة على توليد النقد بعد تغطية نفقاتها الرأسمالية.</p><h2 id='s4'>قراءة ما بين السطور والتوقعات المستقبلية</h2><p>لا تقتصر أهمية تقارير الأرباح على الأرقام فقط، بل تمتد لتشمل تعليقات الإد��رة والتوجيهات المستقبلية. ابحث عن أي تغييرات في التوقعات، سواء كانت إيجابية أو سلبية، والتي يمكن أن تؤثر على سعر السهم.</p><p>استمع إلى مكالمات الأرباح التي تعقدها الشركات، حيث تقدم الإدارة رؤى إضافية حول الأداء والتحديات والخطط المستقبلية، مما يمنحك صورة أكمل عن آفاق الشركة.</p>",
+    "contentEn": "<h2 id='s1'>Why Earnings Reports Matter?</h2><p>Company earnings reports are a vital window into a company's financial performance over a specific period, typically quarterly or annually. These reports provide investors with essential insights into how well the company is generating profits and managing its expenses.</p><p>By analyzing these reports, investors can assess the company's current financial health, identify growth trends, and forecast future performance, enabling them to make informed investment decisions.</p><h2 id='s2'>Key Components of the Earnings Report</h2><p>An earnings report typically consists of three main financial statements: the Income Statement, the Balance Sheet, and the Cash Flow Statement. The Income Statement shows the company's revenues, expenses, and net profit over the period.</p><p>The Balance Sheet provides a snapshot of assets, liabilities, and equity at a specific point in time, while the Cash Flow Statement illustrates how cash flows in and out of the company from operating, investing, and financing activities.</p><h2 id='s3'>Key Metrics to Focus On</h2><p>When analyzing earnings reports, focus on metrics such as Earnings Per Share (EPS), total revenue, and net income. Compare these figures to the previous quarter and the same quarter last year to assess growth or contraction.</p><p>Also, pay attention to profit margins (gross, operating, and net) to understand how efficiently the company converts revenue into profit, in addition to free cash flow, which reflects the company's ability to generate cash after covering capital expenditures.</p><h2 id='s4'>Reading Between the Lines and Future Guidance</h2><p>The importance of earnings reports extends beyond just the numbers to include management commentary and future guidance. Look for any changes in outlook, whether positive or negative, which can impact the stock price.</p><p>Listen to the earnings calls held by companies, as management often provides additional insights into performance, challenges, and future plans, giving you a more complete picture of the company's prospects.</p>"
   }
 ];
 

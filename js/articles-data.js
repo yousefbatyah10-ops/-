@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-07
-// Total articles: 76
+// Last updated: 2026-07-08
+// Total articles: 77
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -5623,6 +5623,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هو التقاعد المبكر؟</h2><p>التقاعد المبكر يعني التوقف عن العمل قبل السن التقليدية للتقاعد، وعادة ما يكون ذلك في الأربعينات أو الخمسينات. إنه يمثل فرصة للتحكم الكامل في وقتك وحياتك.</p><p>الهدف الرئيسي هو بناء ثروة كافية لتغطية نفقاتك المعيشية دون الحاجة إلى دخل ثابت من وظيفة بدوام كامل.</p><h2 id='s2'>لماذا نسعى للتقاعد المبكر؟</h2><p>يسعى الكثيرون للتقاعد المبكر لتحقيق الحرية الشخصية، قضاء وقت أطول مع العائلة، أو متابعة شغفهم وهواياتهم التي لم يتمكنوا من ممارستها سابقًا.</p><p>كما يوفر فرصة للتركيز على الصحة والرفاهية، والابتعاد عن ضغوط العمل اليومية.</p><h2 id='s3'>استراتيجيات أساسية لتحقيق التقاعد المبكر</h2><p>تتضمن الاستراتيجيات الأساسية زيادة معدل الادخار والاستثمار بقوة في أصول متنوعة مثل الأسهم والعقارات. يج�� أن يكون لديك ميزانية صارمة لخفض النفقات غير الضرورية.</p><p>من المهم أيضًا البحث عن مصادر دخل إضافية، مثل المشاريع الجانبية أو الاستثمارات المدرة للدخل، لتسريع عملية تجميع رأس المال.</p><h2 id='s4'>التحديات وكيفية التغلب عليها</h2><p>تشمل التحديات الحفاظ على الانضباط المالي على المدى الطويل والتعامل مع التضخم والتكاليف الصحية المحتملة. قد تكون هناك حاجة لتعديل خططك بمرور الوقت.</p><p>للتغلب على ذلك، يجب وضع خطة مالية مرنة ومراجعتها بانتظام، مع بناء صندوق طوارئ قوي وتأمين صحي شامل.</p>",
     "contentEn": "<h2 id='s1'>What is Early Retirement?</h2><p>Early retirement means stopping work before the traditional retirement age, typically in your forties or fifties. It represents an opportunity to gain full control over your time and life.</p><p>The main goal is to build enough wealth to cover your living expenses without needing a steady income from a full-time job.</p><h2 id='s2'>Why Pursue Early Retirement?</h2><p>Many pursue early retirement to achieve personal freedom, spend more time with family, or pursue passions and hobbies they couldn't before.</p><p>It also provides an opportunity to focus on health and well-being, escaping the pressures of daily work.</p><h2 id='s3'>Key Strategies for Early Retirement</h2><p>Key strategies include increasing your savings rate and investing aggressively in diverse assets like stocks and real estate. You should have a strict budget to cut unnecessary expenses.</p><p>It's also important to seek additional income streams, such as side hustles or income-generating investments, to accelerate capital accumulation.</p><h2 id='s4'>Challenges and How to Overcome Them</h2><p>Challenges include maintaining financial discipline long-term and dealing with inflation and potential healthcare costs. Your plans may need adjustment over time.</p><p>To overcome this, you should create a flexible financial plan and review it regularly, while building a strong emergency fund and comprehensive health insurance.</p>"
+  },
+  {
+    "id": 77,
+    "slug": "ethereum-more-than-just-a-cryptocurrency",
+    "title": "الإيثيريوم: أكثر من مجرد عملة رقمية",
+    "titleEn": "Ethereum: More Than Just a Cryptocurrency",
+    "summary": "الإيثيريوم منصة بلوكتشين ثورية تتجاوز كونها مجرد عملة رقمية، فهي تمكن من بناء العقود الذكية والتطبيقات اللامركزية التي تشكل أساس الويب 3.0.",
+    "summaryEn": "Ethereum is a revolutionary blockchain platform that goes beyond being just a digital currency, enabling the creation of smart contracts and decentralized applications that form the foundation of Web 3.0.",
+    "excerpt": "يُعد الإيثيريوم العمود الفقري للعديد من الابتكارات في عالم البلوكتشين، من العقود الذكية إلى التمويل اللامركزي والرموز غير القابلة للاستبدال.",
+    "excerptEn": "Ethereum is the backbone of many innovations in the blockchain world, from smart contracts to decentralized finance and non-fungible tokens.",
+    "category": "العملات الرقمية",
+    "categoryEn": "Cryptocurrency",
+    "categoryIcon": "₿",
+    "author": "خالد المحسن",
+    "authorEn": "Khalid Al-Muhsen",
+    "authorInitial": "K",
+    "date": "8 يوليو 2026",
+    "dateEn": "July 8, 2026",
+    "dateISO": "2026-07-08",
+    "readTime": "9",
+    "views": "2316",
+    "emoji": "₿",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article77.jpg",
+    "featured": false,
+    "breadcrumb": "العملات الرقمية",
+    "breadcrumbEn": "Cryptocurrency",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "الإيثيريوم: منصة تتجاوز العملة"
+      },
+      {
+        "id": "s2",
+        "text": "العقود الذكية: حجر الزاوية"
+      },
+      {
+        "id": "s3",
+        "text": "التطبيقات اللامركزية (dApps): عالم جديد"
+      },
+      {
+        "id": "s4",
+        "text": "ا��تمويل اللامركزي (DeFi) والرموز غير القابلة للاستبدال (NFTs)"
+      },
+      {
+        "id": "s5",
+        "text": "مستقبل الإيثيريوم: نحو الويب 3.0"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Ethereum: A Platform Beyond Currency"
+      },
+      {
+        "id": "s2",
+        "text": "Smart Contracts: The Cornerstone"
+      },
+      {
+        "id": "s3",
+        "text": "Decentralized Applications (dApps): A New World"
+      },
+      {
+        "id": "s4",
+        "text": "Decentralized Finance (DeFi) and Non-Fungible Tokens (NFTs)"
+      },
+      {
+        "id": "s5",
+        "text": "The Future of Ethereum: Towards Web 3.0"
+      }
+    ],
+    "related": [
+      7
+    ],
+    "content": "<h2 id='s1'>الإيثيريوم: منصة تتجاوز العملة</h2><p>الإيثيريوم ليس مجرد عملة رقمية (ETH) يمكن تداولها، بل هو شبكة بلوكتشين لامركزية متكاملة تسمح للمطورين ببناء ونشر تطبيقات مبتكرة. إنه نظام بيئي واسع يهدف إلى إعادة تشكيل طريقة تفاعلنا مع الإنترنت والخدمات المالية.</p><h2 id='s2'>العقود الذكية: حجر الزاوية</h2><p>يكمن جوهر قوة الإيثيريوم في العقود الذكية، وهي اتفاقيات ذاتية التنفيذ مبرمجة على البلوكتشين. هذه العقود تلغي الحاجة إلى وسطاء، مما يجعل المعاملات أكثر أمانًا وشفافية وفعالية من حيث التكلفة.</p><h2 id='s3'>التطبيقات اللامركزية (dApps): عالم جديد</h2><p>بفضل العقود الذكية، ازدهرت على شبكة الإيثيريوم آلاف التطبيقات اللامركزية (dApps). ت��راوح هذه التطبيقات من ألعاب البلوكتشين ومنصات التواصل الاجتماعي إلى أدوات إدارة الهوية، مقدمة بدائل لامركزية للخدمات التقليدية.</p><h2 id='s4'>التمويل اللامركزي (DeFi) والرموز غير القابلة للاستبدال (NFTs)</h2><p>لعب الإيثيريوم دورًا محوريًا في صعود التمويل اللامركزي (DeFi)، الذي يقدم خدمات مالية بدون بنوك أو وسطاء. كما أنه المنصة الأساسية وراء جنون الرموز غير القابلة للاستبدال (NFTs)، مما يتيح ملكية الأصول الرقمية الفريدة.</p><p>هذه الابتكارات تظهر كيف أن الإيثيريوم ليس مجرد وسيلة للتبادل، بل بنية تحتية رقمية تدعم اقتصادًا جديدًا بالكامل.</p><h2 id='s5'>مستقبل الإيثيريوم: نحو الويب 3.0</h2><p>تستمر شبكة الإيثيريوم في التطور مع ترقيات مثل \"The Merge\" التي حولتها إلى آلية إثبات الحصة (PoS)، مما يعزز كفاءتها واستدامتها. يهدف الإيثيريوم إلى أن يكون العمود الفقري للجيل القادم من الإنترنت، المعروف باسم الويب 3.0، حيث يتحكم المستخدمون ببياناتهم وأصولهم.</p>",
+    "contentEn": "<h2 id='s1'>Ethereum: A Platform Beyond Currency</h2><p>Ethereum is not merely a digital currency (ETH) for trading; it is a comprehensive, decentralized blockchain network that enables developers to build and deploy innovative applications. It's a vast ecosystem aiming to reshape how we interact with the internet and financial services.</p><h2 id='s2'>Smart Contracts: The Cornerstone</h2><p>At the core of Ethereum's power are smart contracts, which are self-executing agreements programmed onto the blockchain. These contracts eliminate the need for intermediaries, making transactions more secure, transparent, and cost-effective.</p><h2 id='s3'>Decentralized Applications (dApps): A New World</h2><p>Thanks to smart contracts, thousands of decentralized applications (dApps) have flourished on the Ethereum network. These dApps range from blockchain games and social media platforms to identity management tools, offering decentralized alternatives to traditional services.</p><h2 id='s4'>Decentralized Finance (DeFi) and Non-Fungible Tokens (NFTs)</h2><p>Ethereum has played a pivotal role in the rise of Decentralized Finance (DeFi), which offers financial services without banks or intermediaries. It is also the primary platform behind the boom of Non-Fungible Tokens (NFTs), enabling unique digital asset ownership.</p><p>These innovations demonstrate how Ethereum is not just a medium of exchange, but a digital infrastructure supporting an entirely new economy.</p><h2 id='s5'>The Future of Ethereum: Towards Web 3.0</h2><p>The Ethereum network continues to evolve with upgrades like \"The Merge,\" which transitioned it to a Proof-of-Stake (PoS) mechanism, enhancing its efficiency and sustainability. Ethereum aims to be the backbone of the next generation of the internet, known as Web 3.0, where users control their data and assets.</p>"
   }
 ];
 

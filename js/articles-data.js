@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-08
-// Total articles: 77
+// Last updated: 2026-07-10
+// Total articles: 78
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -5700,6 +5700,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>الإيثيريوم: منصة تتجاوز العملة</h2><p>الإيثيريوم ليس مجرد عملة رقمية (ETH) يمكن تداولها، بل هو شبكة بلوكتشين لامركزية متكاملة تسمح للمطورين ببناء ونشر تطبيقات مبتكرة. إنه نظام بيئي واسع يهدف إلى إعادة تشكيل طريقة تفاعلنا مع الإنترنت والخدمات المالية.</p><h2 id='s2'>العقود الذكية: حجر الزاوية</h2><p>يكمن جوهر قوة الإيثيريوم في العقود الذكية، وهي اتفاقيات ذاتية التنفيذ مبرمجة على البلوكتشين. هذه العقود تلغي الحاجة إلى وسطاء، مما يجعل المعاملات أكثر أمانًا وشفافية وفعالية من حيث التكلفة.</p><h2 id='s3'>التطبيقات اللامركزية (dApps): عالم جديد</h2><p>بفضل العقود الذكية، ازدهرت على شبكة الإيثيريوم آلاف التطبيقات اللامركزية (dApps). ت��راوح هذه التطبيقات من ألعاب البلوكتشين ومنصات التواصل الاجتماعي إلى أدوات إدارة الهوية، مقدمة بدائل لامركزية للخدمات التقليدية.</p><h2 id='s4'>التمويل اللامركزي (DeFi) والرموز غير القابلة للاستبدال (NFTs)</h2><p>لعب الإيثيريوم دورًا محوريًا في صعود التمويل اللامركزي (DeFi)، الذي يقدم خدمات مالية بدون بنوك أو وسطاء. كما أنه المنصة الأساسية وراء جنون الرموز غير القابلة للاستبدال (NFTs)، مما يتيح ملكية الأصول الرقمية الفريدة.</p><p>هذه الابتكارات تظهر كيف أن الإيثيريوم ليس مجرد وسيلة للتبادل، بل بنية تحتية رقمية تدعم اقتصادًا جديدًا بالكامل.</p><h2 id='s5'>مستقبل الإيثيريوم: نحو الويب 3.0</h2><p>تستمر شبكة الإيثيريوم في التطور مع ترقيات مثل \"The Merge\" التي حولتها إلى آلية إثبات الحصة (PoS)، مما يعزز كفاءتها واستدامتها. يهدف الإيثيريوم إلى أن يكون العمود الفقري للجيل القادم من الإنترنت، المعروف باسم الويب 3.0، حيث يتحكم المستخدمون ببياناتهم وأصولهم.</p>",
     "contentEn": "<h2 id='s1'>Ethereum: A Platform Beyond Currency</h2><p>Ethereum is not merely a digital currency (ETH) for trading; it is a comprehensive, decentralized blockchain network that enables developers to build and deploy innovative applications. It's a vast ecosystem aiming to reshape how we interact with the internet and financial services.</p><h2 id='s2'>Smart Contracts: The Cornerstone</h2><p>At the core of Ethereum's power are smart contracts, which are self-executing agreements programmed onto the blockchain. These contracts eliminate the need for intermediaries, making transactions more secure, transparent, and cost-effective.</p><h2 id='s3'>Decentralized Applications (dApps): A New World</h2><p>Thanks to smart contracts, thousands of decentralized applications (dApps) have flourished on the Ethereum network. These dApps range from blockchain games and social media platforms to identity management tools, offering decentralized alternatives to traditional services.</p><h2 id='s4'>Decentralized Finance (DeFi) and Non-Fungible Tokens (NFTs)</h2><p>Ethereum has played a pivotal role in the rise of Decentralized Finance (DeFi), which offers financial services without banks or intermediaries. It is also the primary platform behind the boom of Non-Fungible Tokens (NFTs), enabling unique digital asset ownership.</p><p>These innovations demonstrate how Ethereum is not just a medium of exchange, but a digital infrastructure supporting an entirely new economy.</p><h2 id='s5'>The Future of Ethereum: Towards Web 3.0</h2><p>The Ethereum network continues to evolve with upgrades like \"The Merge,\" which transitioned it to a Proof-of-Stake (PoS) mechanism, enhancing its efficiency and sustainability. Ethereum aims to be the backbone of the next generation of the internet, known as Web 3.0, where users control their data and assets.</p>"
+  },
+  {
+    "id": 78,
+    "slug": "investing-in-global-markets-from-saudi-arabia",
+    "title": "الاستثمار في الأسواق العالمية من السعودية",
+    "titleEn": "Investing in Global Markets from Saudi Arabia",
+    "summary": "يوفر الاستثمار في الأسواق العالمية للمستثمرين السعوديين فرصًا واسعة لتنويع محافظهم وتحقيق عوائد مجزية مع فهم التحديات المحتملة.",
+    "summaryEn": "Investing in global markets offers Saudi investors vast opportunities to diversify portfolios and achieve rewarding returns, provided potential challenges are understood.",
+    "excerpt": "يعد الاستثمار في الأسواق العالمية خيارًا استراتيجيًا للمستثمرين السعوديين الباحثين عن تنويع وتعزيز النمو بعيدًا عن السوق المحلي.",
+    "excerptEn": "Investing in global markets is a strategic option for Saudi investors seeking diversification and enhanced growth beyond the local market.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "فاطمة الشهري",
+    "authorEn": "Fatima Al-Shahri",
+    "authorInitial": "F",
+    "date": "10 يوليو 2026",
+    "dateEn": "July 10, 2026",
+    "dateISO": "2026-07-10",
+    "readTime": "9",
+    "views": "1286",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#112244,#1a3a5c)",
+    "image": "images/article78.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "فوائد الاستثمار في الأسواق العالمية"
+      },
+      {
+        "id": "s2",
+        "text": "تحديات واعتبارات مهمة"
+      },
+      {
+        "id": "s3",
+        "text": "طرق الاستثمار من السعودية"
+      },
+      {
+        "id": "s4",
+        "text": "المنصات واللوائح"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Benefits of Investing in Global Markets"
+      },
+      {
+        "id": "s2",
+        "text": "Key Challenges and Considerations"
+      },
+      {
+        "id": "s3",
+        "text": "Methods of Investing from Saudi Arabia"
+      },
+      {
+        "id": "s4",
+        "text": "Platforms and Regulations"
+      }
+    ],
+    "related": [
+      61
+    ],
+    "content": "<h2 id='s1'>فوائد الاستثمار في الأسواق العالمية</h2><p>يوفر الاستثمار في الأسواق العالمية للمستثمرين السعوديين فرصًا لتنويع محافظهم وتجاوز حدود السوق المحلية. يتيح ذلك الوصول إلى صناعات وشركات عالمية رائدة، مما يقلل من المخاطر المرتبطة بالتركيز على سوق واحد ويعزز إمكانات النمو على المدى الطويل.</p><h2 id='s2'>تحديات واعتبارات مهمة</h2><p>يتطلب الاستثمار العالمي فهمًا عميقًا لتقلبات العملات، والضرائب الدولية، والمخاطر السياسية والاقتصادية في الدول المختلفة. يجب على المستثمرين تقييم هذه العوامل بعناية لضمان اتخاذ قرارات استثمارية مستنيرة وحماية رؤوس أموالهم.</p><h2 id='s3'>طرق الاستثمار من السعودية</h2><p>يمكن للمستثمرين السعوديين الوصول إلى الأسواق العالمية عبر عدة قنوات، مثل صناديق الاستثمار المشتركة العالمية، أو صناديق المؤشرات المتداولة (ETFs)، أو التداول المباشر للأسهم والسندات الأجنبية من خلال شركات الوساطة المرخصة. يفضل اختيار الطريقة التي تتناسب مع مستوى خبرة المستثمر وأهدافه المالية.</p><h2 id='s4'>المنصات واللوائح</h2><p>تتوفر العديد من المنصات العالمية والشركات الوسيطة التي تخدم المستثمرين في السعودية، مع الالتزام باللوائح المحلية والدولية. من الضروري التأكد من أن الوسيط مرخص ومنظم لضمان الشفافية والأمان في جميع المعاملات الاستثمارية.</p>",
+    "contentEn": "<h2 id='s1'>Benefits of Investing in Global Markets</h2><p>Investing in global markets offers Saudi investors opportunities to diversify their portfolios beyond the local market. This provides access to leading global industries and companies, reducing risks associated with concentrating on a single market and enhancing long-term growth potential.</p><h2 id='s2'>Key Challenges and Considerations</h2><p>Global investing requires a deep understanding of currency fluctuations, international taxes, and political and economic risks in different countries. Investors must carefully assess these factors to make informed investment decisions and protect their capital.</p><h2 id='s3'>Methods of Investing from Saudi Arabia</h2><p>Saudi investors can access global markets through several channels, such as global mutual funds, Exchange Traded Funds (ETFs), or direct trading of foreign stocks and bonds via licensed brokerage firms. It's advisable to choose a method that aligns with the investor's experience level and financial goals.</p><h2 id='s4'>Platforms and Regulations</h2><p>Numerous global platforms and brokerage firms serve investors in Saudi Arabia, adhering to local and international regulations. It is essential to ensure that the broker is licensed and regulated to guarantee transparency and security in all investment transactions.</p>"
   }
 ];
 

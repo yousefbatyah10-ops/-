@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-10
-// Total articles: 78
+// Last updated: 2026-07-11
+// Total articles: 79
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -5769,6 +5769,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فوائد الاستثمار في الأسواق العالمية</h2><p>يوفر الاستثمار في الأسواق العالمية للمستثمرين السعوديين فرصًا لتنويع محافظهم وتجاوز حدود السوق المحلية. يتيح ذلك الوصول إلى صناعات وشركات عالمية رائدة، مما يقلل من المخاطر المرتبطة بالتركيز على سوق واحد ويعزز إمكانات النمو على المدى الطويل.</p><h2 id='s2'>تحديات واعتبارات مهمة</h2><p>يتطلب الاستثمار العالمي فهمًا عميقًا لتقلبات العملات، والضرائب الدولية، والمخاطر السياسية والاقتصادية في الدول المختلفة. يجب على المستثمرين تقييم هذه العوامل بعناية لضمان اتخاذ قرارات استثمارية مستنيرة وحماية رؤوس أموالهم.</p><h2 id='s3'>طرق الاستثمار من السعودية</h2><p>يمكن للمستثمرين السعوديين الوصول إلى الأسواق العالمية عبر عدة قنوات، مثل صناديق الاستثمار المشتركة العالمية، أو صناديق المؤشرات المتداولة (ETFs)، أو التداول المباشر للأسهم والسندات الأجنبية من خلال شركات الوساطة المرخصة. يفضل اختيار الطريقة التي تتناسب مع مستوى خبرة المستثمر وأهدافه المالية.</p><h2 id='s4'>المنصات واللوائح</h2><p>تتوفر العديد من المنصات العالمية والشركات الوسيطة التي تخدم المستثمرين في السعودية، مع الالتزام باللوائح المحلية والدولية. من الضروري التأكد من أن الوسيط مرخص ومنظم لضمان الشفافية والأمان في جميع المعاملات الاستثمارية.</p>",
     "contentEn": "<h2 id='s1'>Benefits of Investing in Global Markets</h2><p>Investing in global markets offers Saudi investors opportunities to diversify their portfolios beyond the local market. This provides access to leading global industries and companies, reducing risks associated with concentrating on a single market and enhancing long-term growth potential.</p><h2 id='s2'>Key Challenges and Considerations</h2><p>Global investing requires a deep understanding of currency fluctuations, international taxes, and political and economic risks in different countries. Investors must carefully assess these factors to make informed investment decisions and protect their capital.</p><h2 id='s3'>Methods of Investing from Saudi Arabia</h2><p>Saudi investors can access global markets through several channels, such as global mutual funds, Exchange Traded Funds (ETFs), or direct trading of foreign stocks and bonds via licensed brokerage firms. It's advisable to choose a method that aligns with the investor's experience level and financial goals.</p><h2 id='s4'>Platforms and Regulations</h2><p>Numerous global platforms and brokerage firms serve investors in Saudi Arabia, adhering to local and international regulations. It is essential to ensure that the broker is licensed and regulated to guarantee transparency and security in all investment transactions.</p>"
+  },
+  {
+    "id": 79,
+    "slug": "beginner-investor-mistakes-to-avoid",
+    "title": "أخطاء المستثمر المبتدئ: تجنبها من اليوم",
+    "titleEn": "Beginner Investor Mistakes to Avoid",
+    "summary": "للمستثمرين المبتدئين، تجنب الأخطاء الشائعة مثل الاستثمار بدون تخطيط، القرارات العاطفية، عدم التنويع، ومحاولة توقيت السوق هو مفتاح النجاح.",
+    "summaryEn": "For beginner investors, avoiding common mistakes such as unplanned investing, emotional decisions, lack of diversification, and trying to time the market is key to success.",
+    "excerpt": "تعلم كيف تتجنب الأخطاء الشائعة التي يرتكبها المستثمرون المبتدئون لتحقيق أهدافك المالية بثقة.",
+    "excerptEn": "Learn how to avoid common mistakes made by beginner investors to achieve your financial goals with confidence.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "11 يوليو 2026",
+    "dateEn": "July 11, 2026",
+    "dateISO": "2026-07-11",
+    "readTime": "11",
+    "views": "5274",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article79.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "الاستثمار بدون تخطيط وبحث كافٍ"
+      },
+      {
+        "id": "s2",
+        "text": "الاستثمار العاطفي"
+      },
+      {
+        "id": "s3",
+        "text": "عدم ا��تنويع"
+      },
+      {
+        "id": "s4",
+        "text": "محاولة توقيت السوق"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Investing Without Planning and Sufficient Research"
+      },
+      {
+        "id": "s2",
+        "text": "Emotional Investing"
+      },
+      {
+        "id": "s3",
+        "text": "Lack of Diversification"
+      },
+      {
+        "id": "s4",
+        "text": "Trying to Time the Market"
+      }
+    ],
+    "related": [
+      25
+    ],
+    "content": "<h2 id='s1'>الاستثمار بدون تخطيط وبحث كافٍ</h2><p>الكثير من المستثمرين المبتدئين يندفعون في الاستثمار دون تحديد أهداف واضحة أو إجراء بحث شامل. هذا يقود إلى قرارات عشوائية ومتهورة، غالبًا ما تكون مبنية على الإشاعات أو نصائح غير موثوقة، مما يزيد من احتمالية الخسائر.</p><p>قبل البدء، حدد أهدافك المالية، مدى تحملك للمخاطر، والمدة الزمنية لاستثمارك. خصص وقتًا كافيًا للبحث والتعلم عن الأصول التي تنوي الاستثمار فيها لتفهمها جيدًا.</p><h2 id='s2'>الاستثمار العاطفي</h2><p>الخوف والطمع هما عدوان لدودان للمستثمر. البيع بدافع الذعر عند هبوط السوق أو الشراء بدافع الطمع عند ارتفاعه بشكل مبالغ فيه، هي أخطاء شائعة يرتكبها المبتدئون وتؤدي إلى نتائج سلبية.</p><p>تجنب اتخاذ القرارات بناءً على التقلبات اليومية للسوق أو المشاع�� اللحظية. التزم بخطتك الاستثمارية طويلة الأجل وحافظ على هدوئك عند مواجهة تقلبات السوق.</p><h2 id='s3'>عدم التنويع</h2><p>وضع كل رأس المال في استثمار واحد أو عدد قليل من الأصول المترابطة هو خطأ فادح. هذا يجعلك عرضة لمخاطر كبيرة؛ فإذا تعثر هذا الاستثمار، قد تخسر جزءًا كبيرًا من أموالك.</p><p>وزع استثماراتك على فئات أصول وصناعات مختلفة لتقليل المخاطر. التنويع يحمي محفظتك من الصدمات غير المتوقعة ويعزز فرص النمو المستقر على المدى الطويل.</p><h2 id='s4'>محاولة توقيت السوق</h2><p>يعتقد العديد من المبتدئين أنهم يستطيعون التنبؤ بأفضل وقت للدخول والخروج من السوق، لكن محاولة توقيت السوق هي استراتيجية محفوفة بالفشل حتى للمحترفين. غالبًا ما تؤدي إلى تفويت المكاسب أو الشراء بأسعار مرتفعة.</p><p>بدلاً من ذلك، ركز على الاستثمار المنتظم على المدى الطويل (Dollar-Cost Averaging). استثمر مبالغ ثابتة بانتظام، بغض النظر عن ظروف السوق، لتقليل متوسط سعر الشراء والاستفادة من نمو السوق بمرور الوقت.</p>",
+    "contentEn": "<h2 id='s1'>Investing Without Planning and Sufficient Research</h2><p>Many beginner investors rush into investing without setting clear goals or conducting thorough research. This leads to random and impulsive decisions, often based on rumors or unreliable advice, increasing the likelihood of losses.</p><p>Before you start, define your financial goals, risk tolerance, and investment horizon. Dedicate enough time to research and learn about the assets you intend to invest in to understand them well.</p><h2 id='s2'>Emotional Investing</h2><p>Fear and greed are the investor's worst enemies. Panic selling during a market downturn or buying out of greed during an exaggerated rally are common mistakes beginners make, leading to negative outcomes.</p><p>Avoid making decisions based on daily market fluctuations or momentary emotions. Stick to your long-term investment plan and remain calm when facing market volatility.</p><h2 id='s3'>Lack of Diversification</h2><p>Placing all your capital in a single investment or a few correlated assets is a major mistake. This exposes you to significant risks; if that investment falters, you could lose a large portion of your money.</p><p>Distribute your investments across different asset classes and industries to reduce risk. Diversification protects your portfolio from unexpected shocks and enhances opportunities for stable long-term growth.</p><h2 id='s4'>Trying to Time the Market</h2><p>Many beginners believe they can predict the best time to enter and exit the market, but trying to time the market is a strategy fraught with failure, even for professionals. It often leads to missing gains or buying at inflated prices.</p><p>Instead, focus on long-term regular investing (Dollar-Cost Averaging). Invest fixed amounts regularly, regardless of market conditions, to reduce your average purchase price and benefit from market growth over time.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-11
-// Total articles: 79
+// Last updated: 2026-07-12
+// Total articles: 80
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -5838,6 +5838,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>الاستثمار بدون تخطيط وبحث كافٍ</h2><p>الكثير من المستثمرين المبتدئين يندفعون في الاستثمار دون تحديد أهداف واضحة أو إجراء بحث شامل. هذا يقود إلى قرارات عشوائية ومتهورة، غالبًا ما تكون مبنية على الإشاعات أو نصائح غير موثوقة، مما يزيد من احتمالية الخسائر.</p><p>قبل البدء، حدد أهدافك المالية، مدى تحملك للمخاطر، والمدة الزمنية لاستثمارك. خصص وقتًا كافيًا للبحث والتعلم عن الأصول التي تنوي الاستثمار فيها لتفهمها جيدًا.</p><h2 id='s2'>الاستثمار العاطفي</h2><p>الخوف والطمع هما عدوان لدودان للمستثمر. البيع بدافع الذعر عند هبوط السوق أو الشراء بدافع الطمع عند ارتفاعه بشكل مبالغ فيه، هي أخطاء شائعة يرتكبها المبتدئون وتؤدي إلى نتائج سلبية.</p><p>تجنب اتخاذ القرارات بناءً على التقلبات اليومية للسوق أو المشاع�� اللحظية. التزم بخطتك الاستثمارية طويلة الأجل وحافظ على هدوئك عند مواجهة تقلبات السوق.</p><h2 id='s3'>عدم التنويع</h2><p>وضع كل رأس المال في استثمار واحد أو عدد قليل من الأصول المترابطة هو خطأ فادح. هذا يجعلك عرضة لمخاطر كبيرة؛ فإذا تعثر هذا الاستثمار، قد تخسر جزءًا كبيرًا من أموالك.</p><p>وزع استثماراتك على فئات أصول وصناعات مختلفة لتقليل المخاطر. التنويع يحمي محفظتك من الصدمات غير المتوقعة ويعزز فرص النمو المستقر على المدى الطويل.</p><h2 id='s4'>محاولة توقيت السوق</h2><p>يعتقد العديد من المبتدئين أنهم يستطيعون التنبؤ بأفضل وقت للدخول والخروج من السوق، لكن محاولة توقيت السوق هي استراتيجية محفوفة بالفشل حتى للمحترفين. غالبًا ما تؤدي إلى تفويت المكاسب أو الشراء بأسعار مرتفعة.</p><p>بدلاً من ذلك، ركز على الاستثمار المنتظم على المدى الطويل (Dollar-Cost Averaging). استثمر مبالغ ثابتة بانتظام، بغض النظر عن ظروف السوق، لتقليل متوسط سعر الشراء والاستفادة من نمو السوق بمرور الوقت.</p>",
     "contentEn": "<h2 id='s1'>Investing Without Planning and Sufficient Research</h2><p>Many beginner investors rush into investing without setting clear goals or conducting thorough research. This leads to random and impulsive decisions, often based on rumors or unreliable advice, increasing the likelihood of losses.</p><p>Before you start, define your financial goals, risk tolerance, and investment horizon. Dedicate enough time to research and learn about the assets you intend to invest in to understand them well.</p><h2 id='s2'>Emotional Investing</h2><p>Fear and greed are the investor's worst enemies. Panic selling during a market downturn or buying out of greed during an exaggerated rally are common mistakes beginners make, leading to negative outcomes.</p><p>Avoid making decisions based on daily market fluctuations or momentary emotions. Stick to your long-term investment plan and remain calm when facing market volatility.</p><h2 id='s3'>Lack of Diversification</h2><p>Placing all your capital in a single investment or a few correlated assets is a major mistake. This exposes you to significant risks; if that investment falters, you could lose a large portion of your money.</p><p>Distribute your investments across different asset classes and industries to reduce risk. Diversification protects your portfolio from unexpected shocks and enhances opportunities for stable long-term growth.</p><h2 id='s4'>Trying to Time the Market</h2><p>Many beginners believe they can predict the best time to enter and exit the market, but trying to time the market is a strategy fraught with failure, even for professionals. It often leads to missing gains or buying at inflated prices.</p><p>Instead, focus on long-term regular investing (Dollar-Cost Averaging). Invest fixed amounts regularly, regardless of market conditions, to reduce your average purchase price and benefit from market growth over time.</p>"
+  },
+  {
+    "id": 80,
+    "slug": "ipos-opportunity-or-trap",
+    "title": "الاكتتابات العامة: فرصة أم فخ؟",
+    "titleEn": "IPOs: Opportunity or Trap?",
+    "summary": "الاكتتابات العامة تقدم فرصاً استثمارية واعدة لتحقيق عوائد، لكنها تحمل أيضاً مخاطر كبيرة تتطلب دراسة متأنية وتقييم دقيق لتجنب الخسائر.",
+    "summaryEn": "Initial Public Offerings (IPOs) present promising investment opportunities for returns, but they also carry significant risks that require careful study and precise evaluation to avoid losses.",
+    "excerpt": "هل الاكتتاب في الشركات الجديدة استثمار حكيم أم مغامرة غير محسوبة قد تؤدي إلى فخ؟",
+    "excerptEn": "Is investing in new company IPOs a wise investment or an uncalculated gamble that might lead to a trap?",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "عمر الخالدي",
+    "authorEn": "Omar Al-Khalidi",
+    "authorInitial": "O",
+    "date": "12 يوليو 2026",
+    "dateEn": "July 12, 2026",
+    "dateISO": "2026-07-12",
+    "readTime": "12",
+    "views": "5531",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article80.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "الاكتتابات العامة: ما هي؟"
+      },
+      {
+        "id": "s2",
+        "text": "الفرصة الواعدة"
+      },
+      {
+        "id": "s3",
+        "text": "الفخ المحتمل"
+      },
+      {
+        "id": "s4",
+        "text": "كيف تتعامل معها؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "IPOs: What Are They?"
+      },
+      {
+        "id": "s2",
+        "text": "The Promising Opportunity"
+      },
+      {
+        "id": "s3",
+        "text": "The Potential Trap"
+      },
+      {
+        "id": "s4",
+        "text": "How to Approach Them?"
+      }
+    ],
+    "related": [
+      2
+    ],
+    "content": "<h2 id='s1'>الاكتتابات العامة: ما هي؟</h2><p>تُعد الاكتتابات العامة (IPOs) العملية التي تطرح بها شركة أسهمها لأول مرة للجمهور في سوق الأوراق المالية، بهدف جمع رأس المال للتوسع أو سداد الديون.</p><p>تتيح هذه العملية للمستثمرين فرصة شراء أسهم في شركات خاصة قبل إدراجها، مما قد يوفر إمكانية تحقيق عوائد مجزية.</p><h2 id='s2'>الفرصة الواعدة</h2><p>يمكن للاكتتابات العامة أن تكون بوابتك لتحقيق أرباح رأسمالية سريعة إذا كان هناك طلب قوي على السهم بعد الإدراج، خاصة في الشركات ذات النمو المرتفع والقطاعات الواعدة.</p><p>تتيح لك فرصة امتلاك جزء من شركة قد تصبح عملاقاً في المستقبل بسعر مبكر نسبياً.</p><h2 id='s3'>الفخ المحتمل</h2><p>لكن الاكتتابات ليست خالية من المخاطر؛ فغالباً ما تُبالغ الشركات في تقييم نفسها لجذب المستثمرين�� وقد تشهد الأسهم انخفاضاً حاداً بعد فترة وجيزة من الإدراج.</p><p>كما أن نقص المعلومات التاريخية للشركة يجعل تقييمها أكثر صعوبة ومحفوفاً بالمخاطر مقارنة بالشركات المدرجة منذ فترة طويلة.</p><h2 id='s4'>كيف تتعامل معها؟</h2><p>للاستفادة من الاكتتابات وتجنب فخاخها، يجب على المستثمر إجراء بحث شامل عن الشركة، قطاعها، وفريق إدارتها، وعدم الانجراف وراء الضجيج الإعلامي.</p><p>يُنصح بتنويع المحفظة الاستثمارية وعدم تخصيص جزء كبير منها للاكتتابات وحدها، والنظر إليها كاستثمار طويل الأجل لا كمضاربة سريعة.</p>",
+    "contentEn": "<h2 id='s1'>IPOs: What Are They?</h2><p>Initial Public Offerings (IPOs) are the process by which a private company offers its shares to the public for the first time on a stock exchange, aiming to raise capital for expansion or debt repayment.</p><p>This process offers investors an opportunity to buy shares in private companies before they are listed, potentially providing significant returns.</p><h2 id='s2'>The Promising Opportunity</h2><p>IPOs can be your gateway to quick capital gains if there's strong demand for the stock post-listing, especially in high-growth companies and promising sectors.</p><p>They offer the chance to own a piece of a company that might become a future giant at a relatively early price.</p><h2 id='s3'>The Potential Trap</h2><p>However, IPOs are not without risks; companies often overvalue themselves to attract investors, and shares may experience a sharp decline shortly after listing.</p><p>Furthermore, the lack of historical company information makes their valuation more challenging and risky compared to long-listed companies.</p><h2 id='s4'>How to Approach Them?</h2><p>To benefit from IPOs and avoid their pitfalls, investors must conduct thorough research on the company, its sector, and its management team, and not be swayed by media hype.</p><p>It is advisable to diversify the investment portfolio and not allocate a large portion solely to IPOs, viewing them as a long-term investment rather than quick speculation.</p>"
   }
 ];
 

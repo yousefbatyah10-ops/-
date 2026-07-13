@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-12
-// Total articles: 80
+// Last updated: 2026-07-13
+// Total articles: 81
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -5907,6 +5907,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>الاكتتابات العامة: ما هي؟</h2><p>تُعد الاكتتابات العامة (IPOs) العملية التي تطرح بها شركة أسهمها لأول مرة للجمهور في سوق الأوراق المالية، بهدف جمع رأس المال للتوسع أو سداد الديون.</p><p>تتيح هذه العملية للمستثمرين فرصة شراء أسهم في شركات خاصة قبل إدراجها، مما قد يوفر إمكانية تحقيق عوائد مجزية.</p><h2 id='s2'>الفرصة الواعدة</h2><p>يمكن للاكتتابات العامة أن تكون بوابتك لتحقيق أرباح رأسمالية سريعة إذا كان هناك طلب قوي على السهم بعد الإدراج، خاصة في الشركات ذات النمو المرتفع والقطاعات الواعدة.</p><p>تتيح لك فرصة امتلاك جزء من شركة قد تصبح عملاقاً في المستقبل بسعر مبكر نسبياً.</p><h2 id='s3'>الفخ المحتمل</h2><p>لكن الاكتتابات ليست خالية من المخاطر؛ فغالباً ما تُبالغ الشركات في تقييم نفسها لجذب المستثمرين�� وقد تشهد الأسهم انخفاضاً حاداً بعد فترة وجيزة من الإدراج.</p><p>كما أن نقص المعلومات التاريخية للشركة يجعل تقييمها أكثر صعوبة ومحفوفاً بالمخاطر مقارنة بالشركات المدرجة منذ فترة طويلة.</p><h2 id='s4'>كيف تتعامل معها؟</h2><p>للاستفادة من الاكتتابات وتجنب فخاخها، يجب على المستثمر إجراء بحث شامل عن الشركة، قطاعها، وفريق إدارتها، وعدم الانجراف وراء الضجيج الإعلامي.</p><p>يُنصح بتنويع المحفظة الاستثمارية وعدم تخصيص جزء كبير منها للاكتتابات وحدها، والنظر إليها كاستثمار طويل الأجل لا كمضاربة سريعة.</p>",
     "contentEn": "<h2 id='s1'>IPOs: What Are They?</h2><p>Initial Public Offerings (IPOs) are the process by which a private company offers its shares to the public for the first time on a stock exchange, aiming to raise capital for expansion or debt repayment.</p><p>This process offers investors an opportunity to buy shares in private companies before they are listed, potentially providing significant returns.</p><h2 id='s2'>The Promising Opportunity</h2><p>IPOs can be your gateway to quick capital gains if there's strong demand for the stock post-listing, especially in high-growth companies and promising sectors.</p><p>They offer the chance to own a piece of a company that might become a future giant at a relatively early price.</p><h2 id='s3'>The Potential Trap</h2><p>However, IPOs are not without risks; companies often overvalue themselves to attract investors, and shares may experience a sharp decline shortly after listing.</p><p>Furthermore, the lack of historical company information makes their valuation more challenging and risky compared to long-listed companies.</p><h2 id='s4'>How to Approach Them?</h2><p>To benefit from IPOs and avoid their pitfalls, investors must conduct thorough research on the company, its sector, and its management team, and not be swayed by media hype.</p><p>It is advisable to diversify the investment portfolio and not allocate a large portion solely to IPOs, viewing them as a long-term investment rather than quick speculation.</p>"
+  },
+  {
+    "id": 81,
+    "slug": "ipos-opportunity-or-trap",
+    "title": "الاكتتابات العامة: فرصة أم فخ؟",
+    "titleEn": "IPOs: Opportunity or Trap?",
+    "summary": "الاكتتابات العامة قد تكون فرصة لتحقيق أرباح سريعة أو فخاً للمستثمرين غير المدركين للمخاطر، وتتطلب بحثاً دقيقاً لاتخاذ قرار مستنير.",
+    "summaryEn": "IPOs can be a quick profit opportunity or a trap for unaware investors, requiring careful research for informed decision-making.",
+    "excerpt": "اكتشف معنا الجوانب الإيجابية والسلبية للاكتتابات العامة وكيف يمكنك تحديد ما إذا كانت فرصة استثمارية حقيقية أم مجرد ضجيج.",
+    "excerptEn": "Explore with us the pros and cons of IPOs and how to determine if they are a real investment opportunity or just hype.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "محمد العمري",
+    "authorEn": "Mohammed Al-Omari",
+    "authorInitial": "M",
+    "date": "13 يوليو 2026",
+    "dateEn": "July 13, 2026",
+    "dateISO": "2026-07-13",
+    "readTime": "12",
+    "views": "5486",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article81.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: ما هي الاكتتابات العامة؟"
+      },
+      {
+        "id": "s2",
+        "text": "الفرص المحتملة"
+      },
+      {
+        "id": "s3",
+        "text": "المخاطر المحتملة (الفخ)"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح للمستثمرين"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: What are IPOs?"
+      },
+      {
+        "id": "s2",
+        "text": "Potential Opportunities"
+      },
+      {
+        "id": "s3",
+        "text": "Potential Risks (The Trap)"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for Investors"
+      }
+    ],
+    "related": [
+      34
+    ],
+    "content": "<h2 id='s1'>مقدمة: ما هي الاكتتابات العامة؟</h2><p>الاكتتاب العام الأولي (IPO) هو العملية التي تطرح من خلالها شركة خاصة أسهمها للجمهور لأول مرة، بهدف جمع رأس مال لتمويل النمو أو سداد الديون.</p><p>غالباً ما تُنظر إلى الاكتتابات على أنها أحداث مثيرة في السوق، حيث يمكن أن تحقق أرباحاً سريعة للمستثمرين الأوائل.</p><h2 id='s2'>الفرص المحتملة</h2><p>يمكن أن توفر الاكتتابات العامة فرصاً استثمارية مجزية، خاصة إذا كانت الشركة تتمتع بأساسيات قوية وإمكانات نمو واعدة.</p><p>إذا كان هناك طلب قوي على أسهم الشركة، فقد يشهد سعر السهم ارتفاعاً كبيراً بعد الطرح، مما يتيح للمستثمرين الأوائل تحقيق عوائد رأسمالية سريعة.</p><h2 id='s3'>المخاطر المحتملة (الفخ)</h2><p>على الرغم من الإغراءات، تحمل الاكتتابات العامة مخاطر كبيرة، فقد يتم تضخيم سعر السهم عند الطرح بسبب الضجيج التسويقي، مما يؤدي إلى تراجعه بعد فترة وجيزة من التداول.</p><p>كما أن الشركات الجديدة قد تفتقر إلى سجل حافل من الأرباح، مما يجعل تقييمها أكثر صعوبة وعرضة للتقلبات السوقية.</p><h2 id='s4'>نصائح للمستثمرين</h2><p>لتقييم الاكتتابات العامة، يجب على المستثمرين إجراء بحث شامل عن الشركة، بما في ذلك نموذج أعمالها، ووضعها المالي، وفريق إدارتها، ومخاطر الصناعة، ولا تنجرف وراء الضجيج الإعلامي.</p><p>تنويع محفظتك الاستثمارية وعدم وضع كل مدخراتك في اكتتاب واحد هو أمر بالغ الأهمية لتقليل المخاطر المحتملة.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: What are IPOs?</h2><p>An Initial Public Offering (IPO) is the process by which a private company offers its shares to the public for the first time, aiming to raise capital for growth or debt repayment.</p><p>IPOs are often seen as exciting market events, potentially generating quick profits for early investors.</p><h2 id='s2'>Potential Opportunities</h2><p>IPOs can offer rewarding investment opportunities, especially if the company possesses robust fundamentals and promising growth potential.</p><p>If there is strong demand for the company's shares, the price might experience a significant surge post-offering, allowing early investors to realize rapid capital gains.</p><h2 id='s3'>Potential Risks (The Trap)</h2><p>Despite the allure, IPOs carry substantial risks; the share price might be inflated at the offering due to marketing hype, leading to a decline shortly after trading begins.</p><p>Furthermore, new companies may lack a proven track record of profitability, making their valuation more challenging and susceptible to market fluctuations.</p><h2 id='s4'>Tips for Investors</h2><p>To evaluate IPOs, investors should conduct thorough research on the company, including its business model, financial position, management team, and industry risks; do not get swayed by media hype.</p><p>Diversifying your investment portfolio and not putting all your savings into a single IPO is crucial to mitigate potential risks.</p>"
   }
 ];
 

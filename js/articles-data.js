@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-13
-// Total articles: 81
+// Last updated: 2026-07-14
+// Total articles: 82
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -5976,6 +5976,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: ما هي الاكتتابات العامة؟</h2><p>الاكتتاب العام الأولي (IPO) هو العملية التي تطرح من خلالها شركة خاصة أسهمها للجمهور لأول مرة، بهدف جمع رأس مال لتمويل النمو أو سداد الديون.</p><p>غالباً ما تُنظر إلى الاكتتابات على أنها أحداث مثيرة في السوق، حيث يمكن أن تحقق أرباحاً سريعة للمستثمرين الأوائل.</p><h2 id='s2'>الفرص المحتملة</h2><p>يمكن أن توفر الاكتتابات العامة فرصاً استثمارية مجزية، خاصة إذا كانت الشركة تتمتع بأساسيات قوية وإمكانات نمو واعدة.</p><p>إذا كان هناك طلب قوي على أسهم الشركة، فقد يشهد سعر السهم ارتفاعاً كبيراً بعد الطرح، مما يتيح للمستثمرين الأوائل تحقيق عوائد رأسمالية سريعة.</p><h2 id='s3'>المخاطر المحتملة (الفخ)</h2><p>على الرغم من الإغراءات، تحمل الاكتتابات العامة مخاطر كبيرة، فقد يتم تضخيم سعر السهم عند الطرح بسبب الضجيج التسويقي، مما يؤدي إلى تراجعه بعد فترة وجيزة من التداول.</p><p>كما أن الشركات الجديدة قد تفتقر إلى سجل حافل من الأرباح، مما يجعل تقييمها أكثر صعوبة وعرضة للتقلبات السوقية.</p><h2 id='s4'>نصائح للمستثمرين</h2><p>لتقييم الاكتتابات العامة، يجب على المستثمرين إجراء بحث شامل عن الشركة، بما في ذلك نموذج أعمالها، ووضعها المالي، وفريق إدارتها، ومخاطر الصناعة، ولا تنجرف وراء الضجيج الإعلامي.</p><p>تنويع محفظتك الاستثمارية وعدم وضع كل مدخراتك في اكتتاب واحد هو أمر بالغ الأهمية لتقليل المخاطر المحتملة.</p>",
     "contentEn": "<h2 id='s1'>Introduction: What are IPOs?</h2><p>An Initial Public Offering (IPO) is the process by which a private company offers its shares to the public for the first time, aiming to raise capital for growth or debt repayment.</p><p>IPOs are often seen as exciting market events, potentially generating quick profits for early investors.</p><h2 id='s2'>Potential Opportunities</h2><p>IPOs can offer rewarding investment opportunities, especially if the company possesses robust fundamentals and promising growth potential.</p><p>If there is strong demand for the company's shares, the price might experience a significant surge post-offering, allowing early investors to realize rapid capital gains.</p><h2 id='s3'>Potential Risks (The Trap)</h2><p>Despite the allure, IPOs carry substantial risks; the share price might be inflated at the offering due to marketing hype, leading to a decline shortly after trading begins.</p><p>Furthermore, new companies may lack a proven track record of profitability, making their valuation more challenging and susceptible to market fluctuations.</p><h2 id='s4'>Tips for Investors</h2><p>To evaluate IPOs, investors should conduct thorough research on the company, including its business model, financial position, management team, and industry risks; do not get swayed by media hype.</p><p>Diversifying your investment portfolio and not putting all your savings into a single IPO is crucial to mitigate potential risks.</p>"
+  },
+  {
+    "id": 82,
+    "slug": "hotel-real-estate-investment",
+    "title": "الاستثمار في العقارات الفندقية",
+    "titleEn": "Hotel Real Estate Investment",
+    "summary": "الاستثمار في العقارات الفندقية يوفر فرصًا جذابة للدخل وتنوع المحفظة، لكنه يتطلب فهمًا عميقًا للسوق والمخاطر المرتبطة بقطاع الضيافة.",
+    "summaryEn": "Investing in hotel real estate offers attractive income opportunities and portfolio diversification, but requires a deep understanding of the market and the risks associated with the hospitality sector.",
+    "excerpt": "اكتشف كيف يمكن للعقارات الفندقية أن تكون إضافة قيمة لمحفظتك الاستثمارية، وما هي العوامل الرئيسية لنجاح هذا النوع من الاستثمار في ظل تقلبات السوق.",
+    "excerptEn": "Discover how hotel real estate can be a valuable addition to your investment portfolio, and what are the key factors for success in this type of investment amidst market fluctuations.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "محمد العمري",
+    "authorEn": "Mohammed Al-Omari",
+    "authorInitial": "M",
+    "date": "14 يوليو 2026",
+    "dateEn": "July 14, 2026",
+    "dateISO": "2026-07-14",
+    "readTime": "8",
+    "views": "5308",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article82.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة عن الاستثمار الفندقي"
+      },
+      {
+        "id": "s2",
+        "text": "مزايا الاستثمار في الفنادق"
+      },
+      {
+        "id": "s3",
+        "text": "تحديات ومخاطر الاستثمار الفندقي"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح للمستثمرين"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Hotel Investment"
+      },
+      {
+        "id": "s2",
+        "text": "Advantages of Hotel Investment"
+      },
+      {
+        "id": "s3",
+        "text": "Challenges and Risks of Hotel Investment"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for Investors"
+      }
+    ],
+    "related": [
+      45
+    ],
+    "content": "<h2 id='s1'>مقدمة عن الاستثمار الفندقي</h2><p>الاستثمار في العقارات الفندقية يمثل فرصة فريدة لدمج عائدات الإيجار مع النمو المحتمل لقيمة العقار، مدعومًا بقطاع السياحة والضيافة المتنامي. يشمل هذا النوع من الاستثمار شراء فنادق بالكامل، أو حصص في منتجعات، أو وحدات فندقية فردية.</p><p>إنه يتيح للمستثمرين الاستفادة من الطلب المستمر على الإقامة والسفر، مما يوفر تدفقات نقدية محتملة من إيرادات الغرف والمرافق الأخرى.</p><h2 id='s2'>مزايا الاستثمار في الفنادق</h2><p>من أبرز مزايا الاستثمار الفندقي هو إمكانية تحقيق عوائد جذابة تتجاوز العقارات التقليدية، خاصة في الوجهات السياحية المزدهرة. كما يوفر تنويعًا للمحفظة الاستثماري��، حيث يختلف أداؤه عن أسواق الأسهم والسندات.</p><p>بالإضافة إلى ذلك، غالبًا ما تتم إدارة العقارات الفندقية بواسطة شركات متخصصة، مما يقلل من العبء التشغيلي على المستثمر.</p><h2 id='s3'>تحديات ومخاطر الاستثمار الفندقي</h2><p>رغم جاذبيته، لا يخلو الاستثمار الفندقي من التحديات والمخاطر. فهو حساس للغاية للتقلبات الاقتصادية والظروف الجيوسياسية، حيث يمكن أن تؤثر الأزمات على حركة السياحة والإشغال بشكل مباشر.</p><p>كما يتطلب رأس مال كبير وقد تكون تكاليف التشغيل والصيانة مرتفعة، بالإضافة إلى المنافسة الشديدة في بعض الأسواق.</p><h2 id='s4'>نصائح للمستثمرين</h2><p>لنجاح الاستثمار في العقارات الفندقية، يجب على المستثمرين إجراء بحث شامل للسوق واختيار الموقع بعناية فائقة. يعتبر الموقع الاستراتيجي وقرب الفندق من مناط�� الجذب السياحي أو مراكز الأعمال أمرًا حيويًا.</p><p>من الضروري أيضًا تقييم سمعة وخبرة الشركة المشغلة للفندق، وفهم نموذج الإيرادات والتكاليف المحتملة بدقة قبل اتخاذ قرار الاستثمار.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Hotel Investment</h2><p>Investing in hotel real estate presents a unique opportunity to combine rental income with potential property value growth, supported by the growing tourism and hospitality sector. This type of investment includes purchasing entire hotels, stakes in resorts, or individual hotel units.</p><p>It allows investors to capitalize on the continuous demand for accommodation and travel, providing potential cash flows from room revenues and other facilities.</p><h2 id='s2'>Advantages of Hotel Investment</h2><p>One of the primary advantages of hotel investment is the potential for attractive returns that can surpass traditional real estate, especially in thriving tourist destinations. It also offers portfolio diversification, as its performance differs from stock and bond markets.</p><p>Additionally, hotel properties are often managed by specialized companies, which reduces the operational burden on the investor.</p><h2 id='s3'>Challenges and Risks of Hotel Investment</h2><p>Despite its appeal, hotel investment is not without its challenges and risks. It is highly sensitive to economic fluctuations and geopolitical conditions, as crises can directly impact tourism movement and occupancy rates.</p><p>It also requires significant capital and can have high operating and maintenance costs, in addition to intense competition in some markets.</p><h2 id='s4'>Tips for Investors</h2><p>For successful investment in hotel real estate, investors must conduct thorough market research and choose the location with extreme care. A strategic location and the hotel's proximity to tourist attractions or business centers are vital.</p><p>It is also essential to evaluate the reputation and experience of the hotel's operating company, and to thoroughly understand the revenue model and potential costs before making an investment decision.</p>"
   }
 ];
 

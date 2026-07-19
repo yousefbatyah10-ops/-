@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-18
-// Total articles: 86
+// Last updated: 2026-07-19
+// Total articles: 87
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -6337,6 +6337,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هو التقاعد المبكر؟</h2><p>التقاعد المبكر هو التوقف عن العمل قبل السن التقليدية للتقاعد، وغالباً ما يكون مدفوعاً بالرغبة في الحرية المالية واستغلال الوقت في شغف شخصي. إنه ليس مجرد التوقف عن العمل، بل هو تغيير في نمط الحياة يسمح بالتحكم الكامل في وقتك.</p><p>يتطلب هذا الهدف تخطيطاً مالياً دقيقاً وتوفيراً واستثماراً مبكراً لضمان دخل كافٍ لتغطية النفقات المعيشية دون الحاجة إلى وظيفة تقليدية.</p><h2 id='s2'>لماذا يسعى الكثيرون للتقاعد المبكر؟</h2><p>الدافع الرئيسي للتقاعد المبكر هو السعي وراء الحرية الشخصية والمرونة. يرغب الناس في قضاء المزيد من الوقت مع العائلة، أو السفر، أو ممارسة الهوايات، أو حتى بدء مشاريعهم الخاصة دون ضغوط العمل اليومي.</p><p>كما يو��ر فرصة للتركيز على الصحة والرفاهية، بعيداً عن ضغوط العمل والتوتر، مما يساهم في حياة أكثر سعادة وإشباعاً.</p><h2 id='s3'>استراتيجيات مالية لتحقيق الحلم</h2><p>لتحقيق التقاعد المبكر، يجب البدء بتحديد أهداف مالية واضحة وميزانية صارمة لخفض النفقات وزيادة المدخرات. الاستثمار الذكي في الأصول التي تولد دخلاً سلبياً، مثل الأسهم الموزعة للأرباح أو العقارات، أمر بالغ الأهمية.</p><p>إنشاء محفظة استثمارية متنوعة والالتزام بخطة ادخار قوية يمكن أن يسرع بشكل كبير من الوصول إلى نقطة الحرية المالية المطلوبة.</p><h2 id='s4'>التحديات وكيفية مواجهتها</h2><p>يواجه الساعون للتقاعد المبكر تحديات مثل التضخم، تقلبات السوق، وتغطية الرعاية الصحية. من المهم بناء صندوق طوارئ كبير والتخطيط للتأمين الصحي بشكل جيد.</p><p>التخطيط المرن والقدرة على التكيف مع الظروف الاقتصادية المتغيرة يساعدان في التغلب على هذه العقبات، مع مراجعة الخطة المالية بانتظام.</p><h2 id='s5'>هل التقاعد المبكر مناسب لك؟</h2><p>التقاعد المبكر ليس للجميع ويتطلب التزاماً وتضحيات مالية كبيرة. يجب تقييم أهدافك الشخصية وقدرتك على الادخار والاستثمار بجدية.</p><p>إذا كنت مستعداً للتخطيط بعناية واتخاذ قرارات مالية حكيمة، فإن حلم التقاعد المبكر يمكن أن يصبح حقيقة تغير مجرى حياتك نحو الأفضل.</p>",
     "contentEn": "<h2 id='s1'>What is Early Retirement?</h2><p>Early retirement means stopping work before the traditional retirement age, often driven by a desire for financial freedom and to pursue personal passions. It's more than just leaving a job; it's a lifestyle change that grants full control over your time.</p><p>Achieving this goal requires meticulous financial planning, early saving, and investing to ensure sufficient income covers living expenses without the need for a traditional job.</p><h2 id='s2'>Why Do Many Seek Early Retirement?</h2><p>The primary motivation for early retirement is the pursuit of personal freedom and flexibility. People wish to spend more time with family, travel, pursue hobbies, or even launch their own ventures without daily work pressures.</p><p>It also offers an opportunity to focus on health and well-being, away from work-related stress, contributing to a happier and more fulfilling life.</p><h2 id='s3'>Financial Strategies to Achieve the Dream</h2><p>To achieve early retirement, one must start by setting clear financial goals and adhering to a strict budget to reduce expenses and increase savings. Smart investing in assets that generate passive income, such as dividend stocks or real estate, is crucial.</p><p>Building a diversified investment portfolio and committing to a robust savings plan can significantly accelerate reaching the desired financial freedom point.</p><h2 id='s4'>Challenges and How to Face Them</h2><p>Those pursuing early retirement face challenges like inflation, market volatility, and healthcare coverage. It's vital to build a substantial emergency fund and plan for health insurance thoroughly.</p><p>Flexible planning and adaptability to changing economic conditions help overcome these obstacles, along with regular review of the financial plan.</p><h2 id='s5'>Is Early Retirement Right for You?</h2><p>Early retirement isn't for everyone and demands significant commitment and financial sacrifices. You must seriously assess your personal goals and your ability to save and invest diligently.</p><p>If you are ready to plan carefully and make wise financial decisions, the dream of early retirement can become a life-changing reality for the better.</p>"
+  },
+  {
+    "id": 87,
+    "slug": "bond-investing-a-complete-guide",
+    "title": "الاستثمار في السندات: دليل شامل",
+    "titleEn": "Bond Investing: A Complete Guide",
+    "summary": "يقدم هذا الدليل الشامل نظرة مفصلة على الاستثمار في السندات، موضحاً ماهيتها، أنواعها، مزاياها ومخاطرها، وكيفية الاستثمار فيها.",
+    "summaryEn": "This comprehensive guide provides a detailed overview of bond investing, explaining what bonds are, their types, benefits, risks, and how to invest in them.",
+    "excerpt": "تعلم أساسيات الاستثمار في السندات، من فهم طبيعتها وأنواعها المختلفة إلى تقدير مزاياها ومخاطرها الرئيسية، وكيفية البدء في هذا النوع من الاستثمار المستقر.",
+    "excerptEn": "Learn the fundamentals of bond investing, from understanding their nature and different types to appreciating their key benefits and risks, and how to get started with this stable investment type.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "19 يوليو 2026",
+    "dateEn": "July 19, 2026",
+    "dateISO": "2026-07-19",
+    "readTime": "8",
+    "views": "3823",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article87.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هي السندات؟"
+      },
+      {
+        "id": "s2",
+        "text": "أنواع السندات"
+      },
+      {
+        "id": "s3",
+        "text": "مزايا الاستثمار في السندات"
+      },
+      {
+        "id": "s4",
+        "text": "مخاطر الاستثمار في السندات"
+      },
+      {
+        "id": "s5",
+        "text": "كيف تستثمر في السندات؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What are Bonds?"
+      },
+      {
+        "id": "s2",
+        "text": "Types of Bonds"
+      },
+      {
+        "id": "s3",
+        "text": "Benefits of Bond Investing"
+      },
+      {
+        "id": "s4",
+        "text": "Risks of Bond Investing"
+      },
+      {
+        "id": "s5",
+        "text": "How to Invest in Bonds?"
+      }
+    ],
+    "related": [
+      81
+    ],
+    "content": "<h2 id='s1'>ما هي السندات؟</h2><p>السندات هي أدوات دين تصدرها الحكومات أو الشركات لجمع الأموال. عند شراء سند، فإنك تقرض المال للمصدر مقابل مدفوعات فائدة دورية (كوبونات) واستعادة المبلغ الأصلي عند تاريخ الاستحقاق.</p><h2 id='s2'>أنواع السندات</h2><p>تتنوع السندات لتشمل سندات الخزانة الحكومية، وسندات الشركات، والسندات البلدية. تختلف هذه الأنواع في مستوى المخاطر والعوائد المتوقعة، حيث تعتبر السندات الحكومية عموماً الأقل خطورة.</p><h2 id='s3'>مزايا الاستثمار في السندات</h2><p>توفر السندات تدفق دخل ثابت ومنتظم عبر مدفوعات الفائدة، مما يجعلها جذابة للمستثمرين الذين يبحثون عن الاستقرار. كما أنها تلعب دوراً في تنويع المحافظ الاستثما��ية وتقليل التقلبات الكلية.</p><h2 id='s4'>مخاطر الاستثمار في السندات</h2><p>على الرغم من استقرارها، تحمل السندات مخاطر مثل مخاطر أسعار الفائدة التي قد تؤثر على قيمة السند في السوق الثانوية، ومخاطر التضخم التي تقلل من القوة الشرائية للعوائد، ومخاطر الائتمان المتعلقة بقدرة المصدر على السداد.</p><h2 id='s5'>كيف تستثمر في السندات؟</h2><p>يمكن الاستثمار في السندات مباشرة من خلال الوسطاء الماليين أو البنوك، أو بشكل غير مباشر عبر صناديق السندات المتداولة في البورصة (ETFs) أو صناديق الاستثمار المشتركة. من المهم تقييم أهدافك الاستثمارية ومستوى تحملك للمخاطر قبل البدء.</p>",
+    "contentEn": "<h2 id='s1'>What are Bonds?</h2><p>Bonds are debt instruments issued by governments or corporations to raise capital. When you buy a bond, you lend money to the issuer in exchange for periodic interest payments (coupons) and the return of your principal amount at maturity.</p><h2 id='s2'>Types of Bonds</h2><p>Bonds vary to include government treasury bonds, corporate bonds, and municipal bonds. These types differ in their risk levels and expected returns, with government bonds generally considered less risky.</p><h2 id='s3'>Benefits of Bond Investing</h2><p>Bonds offer a stable and regular income stream through interest payments, making them attractive to investors seeking stability. They also play a role in diversifying investment portfolios and reducing overall volatility.</p><h2 id='s4'>Risks of Bond Investing</h2><p>Despite their stability, bonds carry risks such as interest rate risk, which can affect a bond's value in the secondary market, inflation risk, which reduces the purchasing power of returns, and credit risk, related to the issuer's ability to repay.</p><h2 id='s5'>How to Invest in Bonds?</h2><p>You can invest in bonds directly through financial brokers or banks, or indirectly via bond Exchange Traded Funds (ETFs) or mutual funds. It's crucial to assess your investment goals and risk tolerance before starting.</p>"
   }
 ];
 

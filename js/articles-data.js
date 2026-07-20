@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-19
-// Total articles: 87
+// Last updated: 2026-07-20
+// Total articles: 88
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -6414,6 +6414,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هي السندات؟</h2><p>السندات هي أدوات دين تصدرها الحكومات أو الشركات لجمع الأموال. عند شراء سند، فإنك تقرض المال للمصدر مقابل مدفوعات فائدة دورية (كوبونات) واستعادة المبلغ الأصلي عند تاريخ الاستحقاق.</p><h2 id='s2'>أنواع السندات</h2><p>تتنوع السندات لتشمل سندات الخزانة الحكومية، وسندات الشركات، والسندات البلدية. تختلف هذه الأنواع في مستوى المخاطر والعوائد المتوقعة، حيث تعتبر السندات الحكومية عموماً الأقل خطورة.</p><h2 id='s3'>مزايا الاستثمار في السندات</h2><p>توفر السندات تدفق دخل ثابت ومنتظم عبر مدفوعات الفائدة، مما يجعلها جذابة للمستثمرين الذين يبحثون عن الاستقرار. كما أنها تلعب دوراً في تنويع المحافظ الاستثما��ية وتقليل التقلبات الكلية.</p><h2 id='s4'>مخاطر الاستثمار في السندات</h2><p>على الرغم من استقرارها، تحمل السندات مخاطر مثل مخاطر أسعار الفائدة التي قد تؤثر على قيمة السند في السوق الثانوية، ومخاطر التضخم التي تقلل من القوة الشرائية للعوائد، ومخاطر الائتمان المتعلقة بقدرة المصدر على السداد.</p><h2 id='s5'>كيف تستثمر في السندات؟</h2><p>يمكن الاستثمار في السندات مباشرة من خلال الوسطاء الماليين أو البنوك، أو بشكل غير مباشر عبر صناديق السندات المتداولة في البورصة (ETFs) أو صناديق الاستثمار المشتركة. من المهم تقييم أهدافك الاستثمارية ومستوى تحملك للمخاطر قبل البدء.</p>",
     "contentEn": "<h2 id='s1'>What are Bonds?</h2><p>Bonds are debt instruments issued by governments or corporations to raise capital. When you buy a bond, you lend money to the issuer in exchange for periodic interest payments (coupons) and the return of your principal amount at maturity.</p><h2 id='s2'>Types of Bonds</h2><p>Bonds vary to include government treasury bonds, corporate bonds, and municipal bonds. These types differ in their risk levels and expected returns, with government bonds generally considered less risky.</p><h2 id='s3'>Benefits of Bond Investing</h2><p>Bonds offer a stable and regular income stream through interest payments, making them attractive to investors seeking stability. They also play a role in diversifying investment portfolios and reducing overall volatility.</p><h2 id='s4'>Risks of Bond Investing</h2><p>Despite their stability, bonds carry risks such as interest rate risk, which can affect a bond's value in the secondary market, inflation risk, which reduces the purchasing power of returns, and credit risk, related to the issuer's ability to repay.</p><h2 id='s5'>How to Invest in Bonds?</h2><p>You can invest in bonds directly through financial brokers or banks, or indirectly via bond Exchange Traded Funds (ETFs) or mutual funds. It's crucial to assess your investment goals and risk tolerance before starting.</p>"
+  },
+  {
+    "id": 88,
+    "slug": "blockchain-the-technology-changing-the-world",
+    "title": "البلوكشين: التقنية التي تغير العالم",
+    "titleEn": "Blockchain: The Technology Changing the World",
+    "summary": "تقنية البلوكشين هي سجل رقمي لامركزي وموزع يغير طريقة تفاعلنا مع البيانات والمعاملات عبر توفير الشفافية والأمان.",
+    "summaryEn": "Blockchain technology is a decentralized and distributed digital ledger that is changing how we interact with data and transactions by providing transparency and security.",
+    "excerpt": "استكشف كيف تعمل تقنية البلوكشين، وما هي تطبيقاتها المتنوعة التي تتجاوز العملات المشفرة، وكيف تشكل مستقبل الصناعات المختلفة.",
+    "excerptEn": "Explore how blockchain technology works, its diverse applications beyond cryptocurrencies, and how it is shaping the future of various industries.",
+    "category": "تقنية وثروة",
+    "categoryEn": "Tech & Wealth",
+    "categoryIcon": "🤖",
+    "author": "عمر الخالدي",
+    "authorEn": "Omar Al-Khalidi",
+    "authorInitial": "O",
+    "date": "20 يوليو 2026",
+    "dateEn": "July 20, 2026",
+    "dateISO": "2026-07-20",
+    "readTime": "12",
+    "views": "4381",
+    "emoji": "🤖",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article88.jpg",
+    "featured": false,
+    "breadcrumb": "تقنية وثروة",
+    "breadcrumbEn": "Tech & Wealth",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هو البلوكشين؟"
+      },
+      {
+        "id": "s2",
+        "text": "كيف يعمل البلوكشين؟"
+      },
+      {
+        "id": "s3",
+        "text": "تطبيقات البلوكشين خارج العملات المشفرة"
+      },
+      {
+        "id": "s4",
+        "text": "مستقبل البلوكشين"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What is Blockchain?"
+      },
+      {
+        "id": "s2",
+        "text": "How Does Blockchain Work?"
+      },
+      {
+        "id": "s3",
+        "text": "Blockchain Applications Beyond Cryptocurrencies"
+      },
+      {
+        "id": "s4",
+        "text": "The Future of Blockchain"
+      }
+    ],
+    "related": [
+      15
+    ],
+    "content": "<h2 id='s1'>ما هو البلوكشين؟</h2><p>البلوكشين هو سجل رقمي موزع ولامركزي يتميز بقدرته على تسجيل المعاملات بطريقة آمنة وشفافة وغير قابلة للتغيير. يمكن تخيلها كسلسلة من \"الكتل\" التي تحتوي كل منها على مجموعة من البيانات المشفرة.</p><p>تتصل هذه الكتل ببعضها البعض بترتيب زمني، مما يشكل سلسلة متصلة وآمنة للغاية. هذه البنية تجعل من المستحيل تقريباً التلاعب بالبيانات بمجرد تسجيلها.</p><h2 id='s2'>كيف يعمل البلوكشين؟</h2><p>عندما تتم معاملة جديدة، يتم تجميعها مع معاملات أخرى لتشكيل \"كتلة\" جديدة. يتم تشفير هذه الكتلة وربطها بالكتلة السابقة باستخدام خوارزميات معقدة.</p><p>يتم توزيع هذه الكتلة الجديدة على جميع المشاركين في الشبكة، الذين يتحققون من صحتها. بمجرد التحقق، تتم إضافة الكتلة إلى السجل العام، مما يضمن الشفافية والأمان دون الحاجة إلى وسيط مركزي.</p><h2 id='s3'>تطبيقات البلوكشين خارج العملات المشفرة</h2><p>على الرغم من ارتباطه الشديد بالعملات المشفرة مثل البيتكوين، تتجاوز تطبيقات البلوكشين هذا المجال بكثير. في سلاسل الإمداد، يتيح تتبع المنتجات من المصدر إلى المستهلك بشفافية تامة، مما يقلل من الاحتيال.</p><p>كما يستخدم في العقود الذكية لتنفيذ الاتفاقيات تلقائيًا عند استيفاء شروط محددة، وفي الرعاية الصحية لإدارة السجلات الطبية بأمان. كما يمكن أن يغير أنظمة التصويت، وحقوق الملكية الفكرية، وحتى إدارة الهوية الرقمية.</p><h2 id='s4'>مستقبل البلوكشين</h2><p>يمتلك البلوكشين إمكانات هائلة لإحداث ثورة في العديد من الصناعات، من التمويل إلى الخدمات اللوجستية. سيستمر في تطوير حلول مبتكرة لمشكلات الثقة و��لشفافية والكفاءة في عالمنا الرقمي.</p><p>على الرغم من التحديات المتعلقة بالتوسع والتنظيم، فإن التطور المستمر يجعل البلوكشين تقنية واعدة لمستقبل أكثر أمانًا ولامركزية. الاستثمار في فهمها وتطبيقاتها أصبح ضرورة حتمية.</p>",
+    "contentEn": "<h2 id='s1'>What is Blockchain?</h2><p>Blockchain is a distributed and decentralized digital ledger characterized by its ability to record transactions in a secure, transparent, and immutable manner. It can be imagined as a chain of \"blocks,\" each containing a set of encrypted data.</p><p>These blocks are connected to each other in chronological order, forming a highly secure and continuous chain. This structure makes it nearly impossible to tamper with data once it has been recorded.</p><h2 id='s2'>How Does Blockchain Work?</h2><p>When a new transaction occurs, it is grouped with other transactions to form a new \"block.\" This block is then encrypted and linked to the previous block using complex algorithms.</p><p>This new block is distributed to all participants in the network, who verify its validity. Once verified, the block is added to the public ledger, ensuring transparency and security without the need for a central intermediary.</p><h2 id='s3'>Blockchain Applications Beyond Cryptocurrencies</h2><p>Despite its strong association with cryptocurrencies like Bitcoin, blockchain's applications extend far beyond this field. In supply chains, it enables transparent tracking of products from source to consumer, reducing fraud.</p><p>It is also used in smart contracts to automatically execute agreements when specific conditions are met, and in healthcare for secure management of medical records. It can also transform voting systems, intellectual property rights, and even digital identity management.</p><h2 id='s4'>The Future of Blockchain</h2><p>Blockchain holds immense potential to revolutionize numerous industries, from finance to logistics. It will continue to develop innovative solutions for issues of trust, transparency, and efficiency in our digital world.</p><p>Despite challenges related to scalability and regulation, continuous development makes blockchain a promising technology for a more secure and decentralized future. Investing in understanding its applications has become an imperative.</p>"
   }
 ];
 

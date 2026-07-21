@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-20
-// Total articles: 88
+// Last updated: 2026-07-21
+// Total articles: 89
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -6483,6 +6483,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هو البلوكشين؟</h2><p>البلوكشين هو سجل رقمي موزع ولامركزي يتميز بقدرته على تسجيل المعاملات بطريقة آمنة وشفافة وغير قابلة للتغيير. يمكن تخيلها كسلسلة من \"الكتل\" التي تحتوي كل منها على مجموعة من البيانات المشفرة.</p><p>تتصل هذه الكتل ببعضها البعض بترتيب زمني، مما يشكل سلسلة متصلة وآمنة للغاية. هذه البنية تجعل من المستحيل تقريباً التلاعب بالبيانات بمجرد تسجيلها.</p><h2 id='s2'>كيف يعمل البلوكشين؟</h2><p>عندما تتم معاملة جديدة، يتم تجميعها مع معاملات أخرى لتشكيل \"كتلة\" جديدة. يتم تشفير هذه الكتلة وربطها بالكتلة السابقة باستخدام خوارزميات معقدة.</p><p>يتم توزيع هذه الكتلة الجديدة على جميع المشاركين في الشبكة، الذين يتحققون من صحتها. بمجرد التحقق، تتم إضافة الكتلة إلى السجل العام، مما يضمن الشفافية والأمان دون الحاجة إلى وسيط مركزي.</p><h2 id='s3'>تطبيقات البلوكشين خارج العملات المشفرة</h2><p>على الرغم من ارتباطه الشديد بالعملات المشفرة مثل البيتكوين، تتجاوز تطبيقات البلوكشين هذا المجال بكثير. في سلاسل الإمداد، يتيح تتبع المنتجات من المصدر إلى المستهلك بشفافية تامة، مما يقلل من الاحتيال.</p><p>كما يستخدم في العقود الذكية لتنفيذ الاتفاقيات تلقائيًا عند استيفاء شروط محددة، وفي الرعاية الصحية لإدارة السجلات الطبية بأمان. كما يمكن أن يغير أنظمة التصويت، وحقوق الملكية الفكرية، وحتى إدارة الهوية الرقمية.</p><h2 id='s4'>مستقبل البلوكشين</h2><p>يمتلك البلوكشين إمكانات هائلة لإحداث ثورة في العديد من الصناعات، من التمويل إلى الخدمات اللوجستية. سيستمر في تطوير حلول مبتكرة لمشكلات الثقة و��لشفافية والكفاءة في عالمنا الرقمي.</p><p>على الرغم من التحديات المتعلقة بالتوسع والتنظيم، فإن التطور المستمر يجعل البلوكشين تقنية واعدة لمستقبل أكثر أمانًا ولامركزية. الاستثمار في فهمها وتطبيقاتها أصبح ضرورة حتمية.</p>",
     "contentEn": "<h2 id='s1'>What is Blockchain?</h2><p>Blockchain is a distributed and decentralized digital ledger characterized by its ability to record transactions in a secure, transparent, and immutable manner. It can be imagined as a chain of \"blocks,\" each containing a set of encrypted data.</p><p>These blocks are connected to each other in chronological order, forming a highly secure and continuous chain. This structure makes it nearly impossible to tamper with data once it has been recorded.</p><h2 id='s2'>How Does Blockchain Work?</h2><p>When a new transaction occurs, it is grouped with other transactions to form a new \"block.\" This block is then encrypted and linked to the previous block using complex algorithms.</p><p>This new block is distributed to all participants in the network, who verify its validity. Once verified, the block is added to the public ledger, ensuring transparency and security without the need for a central intermediary.</p><h2 id='s3'>Blockchain Applications Beyond Cryptocurrencies</h2><p>Despite its strong association with cryptocurrencies like Bitcoin, blockchain's applications extend far beyond this field. In supply chains, it enables transparent tracking of products from source to consumer, reducing fraud.</p><p>It is also used in smart contracts to automatically execute agreements when specific conditions are met, and in healthcare for secure management of medical records. It can also transform voting systems, intellectual property rights, and even digital identity management.</p><h2 id='s4'>The Future of Blockchain</h2><p>Blockchain holds immense potential to revolutionize numerous industries, from finance to logistics. It will continue to develop innovative solutions for issues of trust, transparency, and efficiency in our digital world.</p><p>Despite challenges related to scalability and regulation, continuous development makes blockchain a promising technology for a more secure and decentralized future. Investing in understanding its applications has become an imperative.</p>"
+  },
+  {
+    "id": 89,
+    "slug": "how-to-eliminate-debt-permanently",
+    "title": "كيف تتخلص من الديون نهائياً",
+    "titleEn": "How to Eliminate Debt Permanently",
+    "summary": "التخلص من الديون نهائياً يتطلب فهماً لوضعك المالي، وضع ميزانية، تبني استراتيجية سداد فعالة، وزيادة الدخل مع تقليل النفقات لبناء مستقبل مالي مستقر.",
+    "summaryEn": "Getting rid of debt permanently requires understanding your financial situation, budgeting, adopting an effective repayment strategy, and increasing income while reducing expenses to build a stable financial future.",
+    "excerpt": "ابدأ رحلتك نحو التحرر المالي بفهم ديونك وتحديد خطة واضحة لسدادها.",
+    "excerptEn": "Begin your journey towards financial freedom by understanding your debts and outlining a clear repayment plan.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "خالد المحسن",
+    "authorEn": "Khalid Al-Muhsen",
+    "authorInitial": "K",
+    "date": "21 يوليو 2026",
+    "dateEn": "July 21, 2026",
+    "dateISO": "2026-07-21",
+    "readTime": "12",
+    "views": "5329",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#112244,#1a3a5c)",
+    "image": "images/article89.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "فهم وضعك المالي الحالي"
+      },
+      {
+        "id": "s2",
+        "text": "وضع ميزانية وسد الفجوات"
+      },
+      {
+        "id": "s3",
+        "text": "تبني استراتيجية لسداد الديون"
+      },
+      {
+        "id": "s4",
+        "text": "زيادة الدخل وتقليل النفقات"
+      },
+      {
+        "id": "s5",
+        "text": "بناء مستقبل خالٍ من الديون"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Understanding Your Current Financial Situation"
+      },
+      {
+        "id": "s2",
+        "text": "Creating a Budget and Closing Gaps"
+      },
+      {
+        "id": "s3",
+        "text": "Adopting a Debt Repayment Strategy"
+      },
+      {
+        "id": "s4",
+        "text": "Increasing Income and Reducing Expenses"
+      },
+      {
+        "id": "s5",
+        "text": "Building a Debt-Free Future"
+      }
+    ],
+    "related": [
+      26
+    ],
+    "content": "<h2 id='s1'>فهم وضعك المالي الحالي</h2><p>الخطوة الأولى للتخلص من الديون هي فهم حجمها ونوعها. قم بإعداد قائمة بجميع ديونك، بما في ذلك القروض الشخصية، بطاقات الائتمان، والرهون العقارية، مع تحديد مبلغ الدين، سعر الفائدة، والحد الأدنى للدفع لكل منها. هذا يمنحك صورة واضحة عن الوضع.</p><h2 id='s2'>وضع ميزانية وسد الفجوات</h2><p>بعد فهم ديونك، حان الوقت لإنشاء ميزانية مفصلة. سجل جميع مصادر دخلك ونفقاتك الشهرية بدقة. سيساعدك هذا على تحديد أين تذهب أموالك وإيجاد المجالات التي يمكنك فيها تقليص الإنفاق لتحرير أموال إضافية لسداد الديون.</p><h2 id='s3'>تبني استراتيجية لسداد الديون</h2><p>اختر استراتيجية لسداد ديونك. هناك طريقتان شائعتان: طريقة كرة الثلج (Snowball) حيث تسدد أصغر دين أولاً ثم تنتقل للأكبر، وطريقة الانهيار الجليد�� (Avalanche) حيث تركز على الديون ذات الفائدة الأعلى أولاً. كلتا الطريقتين فعالتان، اختر الأنسب لك.</p><h2 id='s4'>زيادة الدخل وتقليل النفقات</h2><p>لتسريع عملية التخلص من الديون، ابحث عن طرق لزيادة دخلك، مثل العمل الإضافي أو بيع الأشياء غير الضرورية. في الوقت نفسه، قلل من النفقات غير الأساسية. كل درهم إضافي توفره أو تكسبه يمكن أن يذهب مباشرة لسداد ديونك.</p><h2 id='s5'>بناء مستقبل خالٍ من الديون</h2><p>بمجرد سداد ديونك، ركز على بناء صندوق طوارئ لتجنب الوقوع في الديون مرة أخرى. استمر في الميزانية والادخار والاستثمار. هذا يضمن لك مستقبلاً مالياً مستقراً وخالياً من ضغوط الديون.</p>",
+    "contentEn": "<h2 id='s1'>Understanding Your Current Financial Situation</h2><p>The first step to getting rid of debt is to understand its size and type. List all your debts, including personal loans, credit cards, and mortgages, specifying the amount, interest rate, and minimum payment for each. This provides a clear picture of your situation.</p><h2 id='s2'>Creating a Budget and Closing Gaps</h2><p>After understanding your debts, it's time to create a detailed budget. Accurately record all your income sources and monthly expenses. This will help you identify where your money goes and find areas where you can cut spending to free up extra funds for debt repayment.</p><h2 id='s3'>Adopting a Debt Repayment Strategy</h2><p>Choose a strategy to repay your debts. Two common methods are the Snowball method, where you pay off the smallest debt first then move to the largest, and the Avalanche method, where you focus on debts with the highest interest rates first. Both are effective; choose the one that suits you best.</p><h2 id='s4'>Increasing Income and Reducing Expenses</h2><p>To accelerate the debt repayment process, look for ways to increase your income, such as taking on extra work or selling unneeded items. Simultaneously, reduce non-essential expenses. Every extra dirham you save or earn can go directly towards paying off your debts.</p><h2 id='s5'>Building a Debt-Free Future</h2><p>Once your debts are paid off, focus on building an emergency fund to avoid falling into debt again. Continue budgeting, saving, and investing. This ensures a stable financial future free from the stress of debt.</p>"
   }
 ];
 

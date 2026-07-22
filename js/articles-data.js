@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-21
-// Total articles: 89
+// Last updated: 2026-07-22
+// Total articles: 90
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -6560,6 +6560,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فهم وضعك المالي الحالي</h2><p>الخطوة الأولى للتخلص من الديون هي فهم حجمها ونوعها. قم بإعداد قائمة بجميع ديونك، بما في ذلك القروض الشخصية، بطاقات الائتمان، والرهون العقارية، مع تحديد مبلغ الدين، سعر الفائدة، والحد الأدنى للدفع لكل منها. هذا يمنحك صورة واضحة عن الوضع.</p><h2 id='s2'>وضع ميزانية وسد الفجوات</h2><p>بعد فهم ديونك، حان الوقت لإنشاء ميزانية مفصلة. سجل جميع مصادر دخلك ونفقاتك الشهرية بدقة. سيساعدك هذا على تحديد أين تذهب أموالك وإيجاد المجالات التي يمكنك فيها تقليص الإنفاق لتحرير أموال إضافية لسداد الديون.</p><h2 id='s3'>تبني استراتيجية لسداد الديون</h2><p>اختر استراتيجية لسداد ديونك. هناك طريقتان شائعتان: طريقة كرة الثلج (Snowball) حيث تسدد أصغر دين أولاً ثم تنتقل للأكبر، وطريقة الانهيار الجليد�� (Avalanche) حيث تركز على الديون ذات الفائدة الأعلى أولاً. كلتا الطريقتين فعالتان، اختر الأنسب لك.</p><h2 id='s4'>زيادة الدخل وتقليل النفقات</h2><p>لتسريع عملية التخلص من الديون، ابحث عن طرق لزيادة دخلك، مثل العمل الإضافي أو بيع الأشياء غير الضرورية. في الوقت نفسه، قلل من النفقات غير الأساسية. كل درهم إضافي توفره أو تكسبه يمكن أن يذهب مباشرة لسداد ديونك.</p><h2 id='s5'>بناء مستقبل خالٍ من الديون</h2><p>بمجرد سداد ديونك، ركز على بناء صندوق طوارئ لتجنب الوقوع في الديون مرة أخرى. استمر في الميزانية والادخار والاستثمار. هذا يضمن لك مستقبلاً مالياً مستقراً وخالياً من ضغوط الديون.</p>",
     "contentEn": "<h2 id='s1'>Understanding Your Current Financial Situation</h2><p>The first step to getting rid of debt is to understand its size and type. List all your debts, including personal loans, credit cards, and mortgages, specifying the amount, interest rate, and minimum payment for each. This provides a clear picture of your situation.</p><h2 id='s2'>Creating a Budget and Closing Gaps</h2><p>After understanding your debts, it's time to create a detailed budget. Accurately record all your income sources and monthly expenses. This will help you identify where your money goes and find areas where you can cut spending to free up extra funds for debt repayment.</p><h2 id='s3'>Adopting a Debt Repayment Strategy</h2><p>Choose a strategy to repay your debts. Two common methods are the Snowball method, where you pay off the smallest debt first then move to the largest, and the Avalanche method, where you focus on debts with the highest interest rates first. Both are effective; choose the one that suits you best.</p><h2 id='s4'>Increasing Income and Reducing Expenses</h2><p>To accelerate the debt repayment process, look for ways to increase your income, such as taking on extra work or selling unneeded items. Simultaneously, reduce non-essential expenses. Every extra dirham you save or earn can go directly towards paying off your debts.</p><h2 id='s5'>Building a Debt-Free Future</h2><p>Once your debts are paid off, focus on building an emergency fund to avoid falling into debt again. Continue budgeting, saving, and investing. This ensures a stable financial future free from the stress of debt.</p>"
+  },
+  {
+    "id": 90,
+    "slug": "how-to-read-company-financial-statements",
+    "title": "كيف تقرأ القوائم المالية للشركات",
+    "titleEn": "How to Read Company Financial Statements",
+    "summary": "تعلم كيفية قراءة القوائم المالية الأساسية للشركات لفهم أدائها المالي واتخاذ قرارات استثمارية مستنيرة.",
+    "summaryEn": "Learn how to read a company's fundamental financial statements to understand its financial performance and make informed investment decisions.",
+    "excerpt": "تُعد القوائم المالية بوصلة المستثمر لفهم صحة الشركة وأدائها.",
+    "excerptEn": "Financial statements are an investor's compass for understanding a company's health and performance.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "خالد المحسن",
+    "authorEn": "Khalid Al-Muhsen",
+    "authorInitial": "K",
+    "date": "22 يوليو 2026",
+    "dateEn": "July 22, 2026",
+    "dateISO": "2026-07-22",
+    "readTime": "10",
+    "views": "2989",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article90.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "أهمية القوائم المالية"
+      },
+      {
+        "id": "s2",
+        "text": "قائمة المركز المالي (الميزانية العمومية)"
+      },
+      {
+        "id": "s3",
+        "text": "قائمة الدخل (الأرباح والخسائر)"
+      },
+      {
+        "id": "s4",
+        "text": "قائمة التدفقات النقدية"
+      },
+      {
+        "id": "s5",
+        "text": "النسب المالية الرئيسية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Importance of Financial Statements"
+      },
+      {
+        "id": "s2",
+        "text": "Balance Sheet"
+      },
+      {
+        "id": "s3",
+        "text": "Income Statement"
+      },
+      {
+        "id": "s4",
+        "text": "Cash Flow Statement"
+      },
+      {
+        "id": "s5",
+        "text": "Key Financial Ratios"
+      }
+    ],
+    "related": [
+      37
+    ],
+    "content": "<h2 id='s1'>أهمية القوائم المالية</h2><p>تُعد القوائم المالية القلب النابض لأي شركة، فهي توفر لمحة شاملة عن صحتها المالية وأدائها التشغيلي. من خلال قراءتها، يمكن للمستثمرين والدائنين والإدارة اتخاذ قرارات مستنيرة بناءً على بيانات حقيقية.</p><p>فهم هذه القوائم ليس حكراً على المحاسبين، بل هو مهارة أساسية لكل من يرغب في تحليل الشركات وتقييم فرص الاستثمار بدقة.</p><h2 id='s2'>قائمة المركز المالي (الميزانية العمومية)</h2><p>تُظهر قائمة المركز المالي، أو الميزانية العمومية، ما تملكه الشركة (الأصول)، وما عليها (الالتزامات)، وحقوق المساهمين في لحظة زمنية محددة. وهي تعكس المعادلة المحاسبية الأساسية: الأصول = الالتزامات + حقوق الملكية.</p><p>تساعد هذه القائمة في تقييم السيولة والملاءة المالية للشركة، حيث توضح مصادر تمويل الأصول وكيفية استخدامها.</p><h2 id='s3'>قائمة الدخل (الأرباح والخسائر)</h2><p>تُلخص قائمة الدخل، المعروفة أيضاً بقائمة الأرباح والخسائر، الأداء المالي للشركة خلال فترة زمنية محددة (ربع سنوي أو سنوي). وهي توضح الإيرادات والمصروفات، وصولاً إلى صافي الربح أو الخسارة.</p><p>من خلالها، يمكن للمستثمرين فهم قدرة الشركة على تحقيق الأرباح، وتتبع نمو الإيرادات، وتحليل هوامش الربحية.</p><h2 id='s4'>قائمة التدفقات النقدية</h2><p>تُظهر قائمة التدفقات النقدية حركة النقد داخل وخارج الشركة، مقسمة إلى ثلاثة أقسام رئيسية: التدفقات النقدية من الأنشطة التشغيلية، والاستثمارية، والتمويلية. وهي تختلف عن قائمة الدخل في أنها تركز على النقد الفعلي بدلاً من الأرباح المحاسبية.</p><p>تُعتبر هذه القائمة حاسمة لتقييم قدرة الشركة على توليد النقد، سداد ديونها، وتمويل عملياتها ونموها المستقبلي.</p><h2 id='s5'>النسب ال��الية الرئيسية</h2><p>بعد قراءة القوائم الأساسية، يمكن استخدام النسب المالية لتحليل أعمق. نسب السيولة (مثل نسبة التداول) تقيس القدرة على سداد الالتزامات قصيرة الأجل، بينما تقيس نسب الربحية (مثل هامش الربح الصافي) مدى كفاءة الشركة في تحويل الإيرادات إلى أرباح.</p><p>مقارنة هذه النسب مع متوسطات الصناعة أو أداء الشركة السابق يوفر رؤى قيمة حول نقاط القوة والضعف.</p>",
+    "contentEn": "<h2 id='s1'>Importance of Financial Statements</h2><p>Financial statements are the heartbeat of any company, providing a comprehensive overview of its financial health and operational performance. By reading them, investors, creditors, and management can make informed decisions based on real data.</p><p>Understanding these statements is not exclusive to accountants; it is a fundamental skill for anyone wishing to analyze companies and evaluate investment opportunities accurately.</p><h2 id='s2'>Balance Sheet</h2><p>The balance sheet shows what a company owns (assets), what it owes (liabilities), and shareholders' equity at a specific point in time. It reflects the basic accounting equation: Assets = Liabilities + Equity.</p><p>This statement helps assess the company's liquidity and solvency, clarifying the sources of asset funding and how they are utilized.</p><h2 id='s3'>Income Statement</h2><p>The income statement, also known as the profit and loss statement, summarizes a company's financial performance over a specific period (quarterly or annually). It details revenues and expenses, leading to net profit or loss.</p><p>Through it, investors can understand the company's profitability, track revenue growth, and analyze profit margins.</p><h2 id='s4'>Cash Flow Statement</h2><p>The cash flow statement shows the movement of cash into and out of the company, divided into three main sections: cash flows from operating, investing, and financing activities. It differs from the income statement by focusing on actual cash rather than accounting profits.</p><p>This statement is crucial for assessing a company's ability to generate cash, pay its debts, and fund its operations and future growth.</p><h2 id='s5'>Key Financial Ratios</h2><p>After reviewing the primary statements, financial ratios can be used for deeper analysis. Liquidity ratios (e.g., current ratio) measure the ability to meet short-term obligations, while profitability ratios (e.g., net profit margin) assess how efficiently a company converts revenues into profits.</p><p>Comparing these ratios against industry averages or the company's past performance provides valuable insights into its strengths and weaknesses.</p>"
   }
 ];
 

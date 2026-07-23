@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-22
-// Total articles: 90
+// Last updated: 2026-07-23
+// Total articles: 91
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -6637,6 +6637,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>أهمية القوائم المالية</h2><p>تُعد القوائم المالية القلب النابض لأي شركة، فهي توفر لمحة شاملة عن صحتها المالية وأدائها التشغيلي. من خلال قراءتها، يمكن للمستثمرين والدائنين والإدارة اتخاذ قرارات مستنيرة بناءً على بيانات حقيقية.</p><p>فهم هذه القوائم ليس حكراً على المحاسبين، بل هو مهارة أساسية لكل من يرغب في تحليل الشركات وتقييم فرص الاستثمار بدقة.</p><h2 id='s2'>قائمة المركز المالي (الميزانية العمومية)</h2><p>تُظهر قائمة المركز المالي، أو الميزانية العمومية، ما تملكه الشركة (الأصول)، وما عليها (الالتزامات)، وحقوق المساهمين في لحظة زمنية محددة. وهي تعكس المعادلة المحاسبية الأساسية: الأصول = الالتزامات + حقوق الملكية.</p><p>تساعد هذه القائمة في تقييم السيولة والملاءة المالية للشركة، حيث توضح مصادر تمويل الأصول وكيفية استخدامها.</p><h2 id='s3'>قائمة الدخل (الأرباح والخسائر)</h2><p>تُلخص قائمة الدخل، المعروفة أيضاً بقائمة الأرباح والخسائر، الأداء المالي للشركة خلال فترة زمنية محددة (ربع سنوي أو سنوي). وهي توضح الإيرادات والمصروفات، وصولاً إلى صافي الربح أو الخسارة.</p><p>من خلالها، يمكن للمستثمرين فهم قدرة الشركة على تحقيق الأرباح، وتتبع نمو الإيرادات، وتحليل هوامش الربحية.</p><h2 id='s4'>قائمة التدفقات النقدية</h2><p>تُظهر قائمة التدفقات النقدية حركة النقد داخل وخارج الشركة، مقسمة إلى ثلاثة أقسام رئيسية: التدفقات النقدية من الأنشطة التشغيلية، والاستثمارية، والتمويلية. وهي تختلف عن قائمة الدخل في أنها تركز على النقد الفعلي بدلاً من الأرباح المحاسبية.</p><p>تُعتبر هذه القائمة حاسمة لتقييم قدرة الشركة على توليد النقد، سداد ديونها، وتمويل عملياتها ونموها المستقبلي.</p><h2 id='s5'>النسب ال��الية الرئيسية</h2><p>بعد قراءة القوائم الأساسية، يمكن استخدام النسب المالية لتحليل أعمق. نسب السيولة (مثل نسبة التداول) تقيس القدرة على سداد الالتزامات قصيرة الأجل، بينما تقيس نسب الربحية (مثل هامش الربح الصافي) مدى كفاءة الشركة في تحويل الإيرادات إلى أرباح.</p><p>مقارنة هذه النسب مع متوسطات الصناعة أو أداء الشركة السابق يوفر رؤى قيمة حول نقاط القوة والضعف.</p>",
     "contentEn": "<h2 id='s1'>Importance of Financial Statements</h2><p>Financial statements are the heartbeat of any company, providing a comprehensive overview of its financial health and operational performance. By reading them, investors, creditors, and management can make informed decisions based on real data.</p><p>Understanding these statements is not exclusive to accountants; it is a fundamental skill for anyone wishing to analyze companies and evaluate investment opportunities accurately.</p><h2 id='s2'>Balance Sheet</h2><p>The balance sheet shows what a company owns (assets), what it owes (liabilities), and shareholders' equity at a specific point in time. It reflects the basic accounting equation: Assets = Liabilities + Equity.</p><p>This statement helps assess the company's liquidity and solvency, clarifying the sources of asset funding and how they are utilized.</p><h2 id='s3'>Income Statement</h2><p>The income statement, also known as the profit and loss statement, summarizes a company's financial performance over a specific period (quarterly or annually). It details revenues and expenses, leading to net profit or loss.</p><p>Through it, investors can understand the company's profitability, track revenue growth, and analyze profit margins.</p><h2 id='s4'>Cash Flow Statement</h2><p>The cash flow statement shows the movement of cash into and out of the company, divided into three main sections: cash flows from operating, investing, and financing activities. It differs from the income statement by focusing on actual cash rather than accounting profits.</p><p>This statement is crucial for assessing a company's ability to generate cash, pay its debts, and fund its operations and future growth.</p><h2 id='s5'>Key Financial Ratios</h2><p>After reviewing the primary statements, financial ratios can be used for deeper analysis. Liquidity ratios (e.g., current ratio) measure the ability to meet short-term obligations, while profitability ratios (e.g., net profit margin) assess how efficiently a company converts revenues into profits.</p><p>Comparing these ratios against industry averages or the company's past performance provides valuable insights into its strengths and weaknesses.</p>"
+  },
+  {
+    "id": 91,
+    "slug": "investing-in-yourself-the-best-roi",
+    "title": "الاستثمار في نفسك: أفضل عائد ممكن",
+    "titleEn": "Investing in Yourself: The Best ROI",
+    "summary": "الاستثمار في نفسك هو أفضل استراتيجية لتحقيق عائد لا مثيل له على المدى الطويل، يشمل النمو الشخصي والمهني.",
+    "summaryEn": "Investing in yourself is the best strategy for achieving unparalleled long-term returns, encompassing both personal and professional growth.",
+    "excerpt": "اكتشف كيف يمكن لتطوير ذاتك أن يحقق لك عوائد تفوق أي استثمار تقليدي، ويفتح آفاقاً جديدة لحياتك ومستقبلك المالي.",
+    "excerptEn": "Discover how developing yourself can yield returns surpassing any traditional investment, opening new horizons for your life and financial future.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "23 يوليو 2026",
+    "dateEn": "July 23, 2026",
+    "dateISO": "2026-07-23",
+    "readTime": "8",
+    "views": "4610",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article91.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "المقدمة: لماذا الاستثمار في الذات؟"
+      },
+      {
+        "id": "s2",
+        "text": "أنواع الاستثمار في الذات"
+      },
+      {
+        "id": "s3",
+        "text": "العوائد المالية وغير المالية"
+      },
+      {
+        "id": "s4",
+        "text": "كيف تبدأ؟ خطوات عملية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: Why Invest in Yourself?"
+      },
+      {
+        "id": "s2",
+        "text": "Types of Self-Investment"
+      },
+      {
+        "id": "s3",
+        "text": "Financial and Non-Financial Returns"
+      },
+      {
+        "id": "s4",
+        "text": "How to Start? Practical Steps"
+      }
+    ],
+    "related": [
+      89
+    ],
+    "content": "<h2 id='s1'>الم��دمة: لماذا الاستثمار في الذات؟</h2><p>في عالم يركز على العوائد المالية، غالباً ما نغفل عن الاستثمار الأكثر قيمة: الاستثمار في أنفسنا. هذا النوع من الاستثمار لا يقتصر على الأموال، بل يمتد ليشمل الوقت والجهد الموجه نحو تطوير مهاراتنا، تعزيز صحتنا، وتوسيع معارفنا.</p><h2 id='s2'>أنواع الاستثمار في الذات</h2><p>يتخذ الاستثمار في الذات أشكالاً متعددة. يمكن أن يكون ذلك من خلال التعليم المستمر واكتساب مهارات جديدة، أو الاهتمام بالصحة الجسدية والعقلية، أو حتى بناء شبكة علاقات قوية. كل هذه الجوانب تساهم في بناء شخصية أكثر قوة ومرونة.</p><h2 id='s3'>العوائد المالية وغير المالية</h2><p>العوائد من هذا الاستثمار لا تقدر بثمن. مالياً، قد يؤدي إلى فرص عمل أفضل، ترقيات، وزيادة في الدخل. أما غير مالياً، فهو يمنحك ثقة بالنفس، سعادة أ��بر، قدرة على التكيف مع التحديات، وجودة حياة أعلى بكثير.</p><h2 id='s4'>كيف تبدأ؟ خطوات عملية</h2><p>للبدء، حدد المجالات التي ترغب في تطويرها وضع أهدافاً واضحة وقابلة للقياس. خصص وقتاً وموارد بانتظام لهذا الغرض، وكن صبوراً ومثابراً. تذكر أن الاستثمار في نفسك هو رحلة مستمرة، وعوائدها تتراكم مع كل خطوة تخطوها.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: Why Invest in Yourself?</h2><p>In a world focused on financial returns, we often overlook the most valuable investment: investing in ourselves. This type of investment isn't limited to money; it extends to the time and effort directed towards developing our skills, enhancing our health, and expanding our knowledge.</p><h2 id='s2'>Types of Self-Investment</h2><p>Investing in oneself takes many forms. It can be through continuous education and acquiring new skills, focusing on physical and mental health, or even building a strong network of relationships. All these aspects contribute to building a stronger and more resilient individual.</p><h2 id='s3'>Financial and Non-Financial Returns</h2><p>The returns from this investment are invaluable. Financially, it can lead to better job opportunities, promotions, and increased income. Non-financially, it grants you self-confidence, greater happiness, the ability to adapt to challenges, and a much higher quality of life.</p><h2 id='s4'>How to Start? Practical Steps</h2><p>To begin, identify the areas you wish to develop and set clear, measurable goals. Dedicate time and resources regularly for this purpose, and be patient and persistent. Remember, investing in yourself is a continuous journey, and its returns accumulate with every step you take.</p>"
   }
 ];
 

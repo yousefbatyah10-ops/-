@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-23
-// Total articles: 91
+// Last updated: 2026-07-24
+// Total articles: 92
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -6706,6 +6706,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>الم��دمة: لماذا الاستثمار في الذات؟</h2><p>في عالم يركز على العوائد المالية، غالباً ما نغفل عن الاستثمار الأكثر قيمة: الاستثمار في أنفسنا. هذا النوع من الاستثمار لا يقتصر على الأموال، بل يمتد ليشمل الوقت والجهد الموجه نحو تطوير مهاراتنا، تعزيز صحتنا، وتوسيع معارفنا.</p><h2 id='s2'>أنواع الاستثمار في الذات</h2><p>يتخذ الاستثمار في الذات أشكالاً متعددة. يمكن أن يكون ذلك من خلال التعليم المستمر واكتساب مهارات جديدة، أو الاهتمام بالصحة الجسدية والعقلية، أو حتى بناء شبكة علاقات قوية. كل هذه الجوانب تساهم في بناء شخصية أكثر قوة ومرونة.</p><h2 id='s3'>العوائد المالية وغير المالية</h2><p>العوائد من هذا الاستثمار لا تقدر بثمن. مالياً، قد يؤدي إلى فرص عمل أفضل، ترقيات، وزيادة في الدخل. أما غير مالياً، فهو يمنحك ثقة بالنفس، سعادة أ��بر، قدرة على التكيف مع التحديات، وجودة حياة أعلى بكثير.</p><h2 id='s4'>كيف تبدأ؟ خطوات عملية</h2><p>للبدء، حدد المجالات التي ترغب في تطويرها وضع أهدافاً واضحة وقابلة للقياس. خصص وقتاً وموارد بانتظام لهذا الغرض، وكن صبوراً ومثابراً. تذكر أن الاستثمار في نفسك هو رحلة مستمرة، وعوائدها تتراكم مع كل خطوة تخطوها.</p>",
     "contentEn": "<h2 id='s1'>Introduction: Why Invest in Yourself?</h2><p>In a world focused on financial returns, we often overlook the most valuable investment: investing in ourselves. This type of investment isn't limited to money; it extends to the time and effort directed towards developing our skills, enhancing our health, and expanding our knowledge.</p><h2 id='s2'>Types of Self-Investment</h2><p>Investing in oneself takes many forms. It can be through continuous education and acquiring new skills, focusing on physical and mental health, or even building a strong network of relationships. All these aspects contribute to building a stronger and more resilient individual.</p><h2 id='s3'>Financial and Non-Financial Returns</h2><p>The returns from this investment are invaluable. Financially, it can lead to better job opportunities, promotions, and increased income. Non-financially, it grants you self-confidence, greater happiness, the ability to adapt to challenges, and a much higher quality of life.</p><h2 id='s4'>How to Start? Practical Steps</h2><p>To begin, identify the areas you wish to develop and set clear, measurable goals. Dedicate time and resources regularly for this purpose, and be patient and persistent. Remember, investing in yourself is a continuous journey, and its returns accumulate with every step you take.</p>"
+  },
+  {
+    "id": 92,
+    "slug": "smart-product-pricing-strategies",
+    "title": "كيف تسعّر منتجاتك بذكاء",
+    "titleEn": "Smart Product Pricing Strategies",
+    "summary": "يتناول هذا المقال أهمية التسعير الذكي للمنتجات من خلال فهم التكاليف، تحليل السوق، التركيز على القيمة، وتطبيق استراتيجيات التسعير النفسي لتعزيز الربحية.",
+    "summaryEn": "This article discusses the importance of smart product pricing by understanding costs, analyzing the market, focusing on value, and applying psychological pricing strategies to enhance profitability.",
+    "excerpt": "اكتشف كيف يمكنك تحديد الأسعار المثلى لمنتجاتك لزيادة الأرباح وجذب العملاء بفعالية من خلال استراتيجيات تسعير مدروسة.",
+    "excerptEn": "Discover how to determine optimal prices for your products to increase profits and effectively attract customers through well-thought-out pricing strategies.",
+    "category": "ريادة الأعمال",
+    "categoryEn": "Entrepreneurship",
+    "categoryIcon": "🚀",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "24 يوليو 2026",
+    "dateEn": "July 24, 2026",
+    "dateISO": "2026-07-24",
+    "readTime": "11",
+    "views": "1574",
+    "emoji": "🚀",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article92.jpg",
+    "featured": false,
+    "breadcrumb": "ريادة الأعمال",
+    "breadcrumbEn": "Entrepreneurship",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "فهم التكاليف"
+      },
+      {
+        "id": "s2",
+        "text": "تحليل السوق والمنافسين"
+      },
+      {
+        "id": "s3",
+        "text": "التسعير المبني على القيمة"
+      },
+      {
+        "id": "s4",
+        "text": "التسعير النفسي واستراتيجياته"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Understanding Costs"
+      },
+      {
+        "id": "s2",
+        "text": "Market and Competitor Analysis"
+      },
+      {
+        "id": "s3",
+        "text": "Value-Based Pricing"
+      },
+      {
+        "id": "s4",
+        "text": "Psychological Pricing and Strategies"
+      }
+    ],
+    "related": [
+      55
+    ],
+    "content": "<h2 id='s1'>فهم التكاليف</h2><p>يعد فهم جميع التكاليف المرتبطة بمنتجك، من المواد الخام إلى التسويق، حجر الزاوية للتسعير الذكي. يجب أن يغطي السعر التكاليف المباشرة وغير المباشرة لضمان تحقيق هامش ربح مستدام.</p><h2 id='s2'>تحليل السوق والمنافسين</h2><p>دراسة أسعار المنافسين وتحليل طلب السوق أمر بالغ الأهمية لتحديد موقع منتجك. هل تسعى لتكون الخيار الأقل تكلفة، أم تقدم قيمة مضافة تبرر سعراً أعلى؟</p><h2 id='s3'>التسعير المبني على القيمة</h2><p>ركز على القيمة التي يقدمها منتجك للعميل بدلاً من مجرد تكلفته. عندما يرى العملاء قيمة حقيقية ومزايا فريدة، يكونون أكثر استعداداً لدفع سعر أعلى يتناسب مع هذه القيمة.</p><h2 id='s4'>التسعير النفسي وا��تراتيجياته</h2><p>استخدم استراتيجيات التسعير النفسي مثل الأسعار التي تنتهي بالرقم 9 (مثال: 9.99 دولار) لإعطاء انطباع بأن السعر أقل. كما يمكن للتسعير المتدرج أو حزم المنتجات أن تؤثر إيجاباً على قرارات الشراء.</p>",
+    "contentEn": "<h2 id='s1'>Understanding Costs</h2><p>Understanding all costs associated with your product, from raw materials to marketing, is the cornerstone of smart pricing. The price must cover both direct and indirect costs to ensure a sustainable profit margin.</p><h2 id='s2'>Market and Competitor Analysis</h2><p>Studying competitor prices and analyzing market demand is crucial for positioning your product. Do you aim to be the lowest-cost option, or do you offer added value that justifies a higher price?</p><h2 id='s3'>Value-Based Pricing</h2><p>Focus on the value your product delivers to the customer rather than just its cost. When customers perceive genuine value and unique benefits, they are more willing to pay a higher price commensurate with that value.</p><h2 id='s4'>Psychological Pricing and Strategies</h2><p>Employ psychological pricing strategies such as prices ending in 9 (e.g., $9.99) to give the impression of a lower price. Tiered pricing or product bundles can also positively influence purchasing decisions.</p>"
   }
 ];
 

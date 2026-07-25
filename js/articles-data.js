@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-07-24
-// Total articles: 92
+// Last updated: 2026-07-25
+// Total articles: 93
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -6775,6 +6775,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فهم التكاليف</h2><p>يعد فهم جميع التكاليف المرتبطة بمنتجك، من المواد الخام إلى التسويق، حجر الزاوية للتسعير الذكي. يجب أن يغطي السعر التكاليف المباشرة وغير المباشرة لضمان تحقيق هامش ربح مستدام.</p><h2 id='s2'>تحليل السوق والمنافسين</h2><p>دراسة أسعار المنافسين وتحليل طلب السوق أمر بالغ الأهمية لتحديد موقع منتجك. هل تسعى لتكون الخيار الأقل تكلفة، أم تقدم قيمة مضافة تبرر سعراً أعلى؟</p><h2 id='s3'>التسعير المبني على القيمة</h2><p>ركز على القيمة التي يقدمها منتجك للعميل بدلاً من مجرد تكلفته. عندما يرى العملاء قيمة حقيقية ومزايا فريدة، يكونون أكثر استعداداً لدفع سعر أعلى يتناسب مع هذه القيمة.</p><h2 id='s4'>التسعير النفسي وا��تراتيجياته</h2><p>استخدم استراتيجيات التسعير النفسي مثل الأسعار التي تنتهي بالرقم 9 (مثال: 9.99 دولار) لإعطاء انطباع بأن السعر أقل. كما يمكن للتسعير المتدرج أو حزم المنتجات أن تؤثر إيجاباً على قرارات الشراء.</p>",
     "contentEn": "<h2 id='s1'>Understanding Costs</h2><p>Understanding all costs associated with your product, from raw materials to marketing, is the cornerstone of smart pricing. The price must cover both direct and indirect costs to ensure a sustainable profit margin.</p><h2 id='s2'>Market and Competitor Analysis</h2><p>Studying competitor prices and analyzing market demand is crucial for positioning your product. Do you aim to be the lowest-cost option, or do you offer added value that justifies a higher price?</p><h2 id='s3'>Value-Based Pricing</h2><p>Focus on the value your product delivers to the customer rather than just its cost. When customers perceive genuine value and unique benefits, they are more willing to pay a higher price commensurate with that value.</p><h2 id='s4'>Psychological Pricing and Strategies</h2><p>Employ psychological pricing strategies such as prices ending in 9 (e.g., $9.99) to give the impression of a lower price. Tiered pricing or product bundles can also positively influence purchasing decisions.</p>"
+  },
+  {
+    "id": 93,
+    "slug": "platinum-the-forgotten-investment-metal",
+    "title": "البلاتينيوم: المعدن المنسي في عالم الاستثمار",
+    "titleEn": "Platinum: The Forgotten Investment Metal",
+    "summary": "يستكشف هذا المقال البلاتينيوم، المعدن الثمين الذي غالبًا ما يُتجاهل في محادثات الاستثمار، مسلطًا الضوء على خصائصه الفريدة واستخداماته الصناعية المتنوعة وإمكاناته المستقبلية.",
+    "summaryEn": "This article explores platinum, a precious metal often overlooked in investment discussions, highlighting its unique properties, diverse industrial uses, and future potential.",
+    "excerpt": "بينما تتجه الأنظار نحو الذهب والفضة، يظل البلاتينيوم يخبئ فرصًا استثمارية واعدة للمتطلعين الذين يبحثون عن قيمة غير مكتشفة.",
+    "excerptEn": "While attention often gravitates towards gold and silver, platinum continues to hold promising investment opportunities for discerning investors seeking undiscovered value.",
+    "category": "الذهب والمعادن",
+    "categoryEn": "Gold & Metals",
+    "categoryIcon": "🧸",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "25 يوليو 2026",
+    "dateEn": "July 25, 2026",
+    "dateISO": "2026-07-25",
+    "readTime": "8",
+    "views": "1198",
+    "emoji": "🧸",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article93.jpg",
+    "featured": false,
+    "breadcrumb": "الذهب والمعادن",
+    "breadcrumbEn": "Gold & Metals",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "البلاتينيوم: جوهرة صناعية منسية"
+      },
+      {
+        "id": "s2",
+        "text": "استخدامات تتجاوز المجوهرات"
+      },
+      {
+        "id": "s3",
+        "text": "لماذا هو \"منسي\" في عالم الاستثمار؟"
+      },
+      {
+        "id": "s4",
+        "text": "آفاق مستقبلية واعدة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Platinum: A Forgotten Industrial Gem"
+      },
+      {
+        "id": "s2",
+        "text": "Uses Beyond Jewelry"
+      },
+      {
+        "id": "s3",
+        "text": "Why \"Forgotten\" in the Investment World?"
+      },
+      {
+        "id": "s4",
+        "text": "Promising Future Prospects"
+      }
+    ],
+    "related": [
+      30
+    ],
+    "content": "<h2 id='s1'>البلاتينيوم: جوهرة صناعية منسية</h2><p>يُعرف البلاتينيوم بكونه أحد أندر المعادن الثمينة وأكثرها كثافة، لكنه غالبًا ما يُنسى في محادثات الاستثمار مقارنة بالذهب والفضة. يتميز بخصائص كيميائية وفيزيائية فريدة تجعله لا غنى عنه في العديد من الصناعات الحديثة.</p><h2 id='s2'>استخدامات تتجاوز المجوهرات</h2><p>تعتبر صناعة السيارات أكبر مستهلك للبلاتينيوم، حيث يُستخدم بكثافة في المحولات الحفازة لتقليل الانبعاثات الضارة. كما يدخل في صناعة المجوهرات الفاخرة، المعدات الطبية، وكمحفز في الصناعات الكيميائية والبتروكيماوية.</p><p>هذه التطبيقات المتنوعة تضمن طلبًا ثابتًا على المعدن، مما يبرز قيمته الحقيقية التي قد ل�� تنعكس دائمًا في سعره السوقي.</p><h2 id='s3'>لماذا هو \"منسي\" في عالم الاستثمار؟</h2><p>على الرغم من أهميته الصناعية، غالبًا ما يتأرجح سعر البلاتينيوم دون الذهب، مما يجعله أقل جاذبية للمستثمرين التقليديين. يرجع هذا جزئيًا إلى تقلبات الطلب من قطاع السيارات وتأثره بالدورة الاقتصادية العالمية.</p><p>ومع ذلك، فإن سعره الحالي قد يمثل فرصة للمستثمرين الباحثين عن قيمة غير مكتشفة، خاصة مع تزايد الاهتمام بالمعادن الصناعية الهامة.</p><h2 id='s4'>آفاق مستقبلية واعدة</h2><p>تتجه الأنظار نحو دور البلاتينيوم المحتمل في اقتصاد الهيدروجين، حيث يُستخدم كمحفز في خلايا الوقود. هذا التطور قد يعزز الطلب عليه بشكل كبير في المستقبل، مما يغير مكانته في سوق المعادن الثمينة.</p><p>إن الاستثمار في البلاتينيوم يتطلب فهمًا عميقًا ��ديناميكياته الفريدة، لكنه قد يكافئ المستثمرين الصبورين الذين يرون ما وراء الضجيج المحيط بالمعادن الأخرى.</p>",
+    "contentEn": "<h2 id='s1'>Platinum: A Forgotten Industrial Gem</h2><p>Platinum is known as one of the rarest and densest precious metals, yet it is often overlooked in investment discussions compared to gold and silver. It possesses unique chemical and physical properties that make it indispensable in many modern industries.</p><h2 id='s2'>Uses Beyond Jewelry</h2><p>The automotive industry is the largest consumer of platinum, extensively used in catalytic converters to reduce harmful emissions. It is also used in fine jewelry, medical equipment, and as a catalyst in chemical and petrochemical industries.</p><p>These diverse applications ensure a steady demand for the metal, highlighting its true value which may not always be reflected in its market price.</p><h2 id='s3'>Why \"Forgotten\" in the Investment World?</h2><p>Despite its industrial importance, platinum's price often fluctuates below gold, making it less attractive to traditional investors. This is partly due to demand fluctuations from the automotive sector and its sensitivity to the global economic cycle.</p><p>However, its current price may represent an opportunity for investors seeking undiscovered value, especially with growing interest in critical industrial metals.</p><h2 id='s4'>Promising Future Prospects</h2><p>Attention is turning to platinum's potential role in the hydrogen economy, where it is used as a catalyst in fuel cells. This development could significantly boost its future demand, altering its standing in the precious metals market.</p><p>Investing in platinum requires a deep understanding of its unique dynamics, but it could reward patient investors who see beyond the hype surrounding other metals.</p>"
   }
 ];
 

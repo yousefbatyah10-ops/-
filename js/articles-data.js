@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-01
-// Total articles: 100
+// Last updated: 2026-08-02
+// Total articles: 101
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -7327,6 +7327,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مفهوم الفرنشايز</h2><p>الفرنشايز، أو الامتياز التجاري، هو نموذج عمل يتيح للمستثمر (صاحب الامتياز) استخدام علامة تجارية مثبتة ونظام تشغيل ناجح لشركة أخرى (مانح الامتياز) مقابل رسوم معينة. إنه استثمار في فكرة عمل أثبتت جدواها بالفعل.</p><h2 id='s2'>مزايا الاستثمار في الفرنشايز</h2><p>يوفر الفرنشايز فرصة للدخول إلى السوق بعلامة تجارية معروفة ولها قاعدة عملاء موجودة، مما يقلل من مخاطر بدء عمل تجاري جديد من الصفر. كما يستفيد المستثمر من التدريب والدعم المستمر من الشركة الأم، بالإضافة إلى خطط تسويق جاهزة.</p><h2 id='s3'>تحديات واعتبارات</h2><p>على الرغم من المزايا، يتطلب الاستثمار في الفرنشايز التزامًا بالمعايير والسياسات الصارمة لمانح الامتياز، وقد تكون هناك رسوم أولية وعوائد مستمرة. يجب على المستثم�� إجراء بحث شامل وفهم جميع بنود العقد قبل التوقيع.</p><h2 id='s4'>هل الفرنشايز مناسب لك؟</h2><p>إذا كنت تبحث عن فرصة عمل ذات مخاطر أقل ودعم هيكلي، فالفرنشايز قد يكون خيارًا ممتازًا. إنه يوفر مسارًا مثبتًا للنجاح، لكنه يتطلب الالتزام بالنموذج التشغيلي للعلامة التجارية.</p>",
     "contentEn": "<h2 id='s1'>What is Franchising?</h2><p>Franchising is a business model that allows an investor (franchisee) to use a proven brand and successful operating system of another company (franchisor) in exchange for specific fees. It's an investment in a business idea that has already demonstrated its viability.</p><h2 id='s2'>Advantages of Investing in a Franchise</h2><p>Franchising offers the opportunity to enter the market with a well-known brand and an existing customer base, thereby reducing the risks of starting a new business from scratch. Investors also benefit from ongoing training and support from the parent company, along with ready-made marketing plans.</p><h2 id='s3'>Challenges and Considerations</h2><p>Despite the advantages, investing in a franchise requires adherence to the franchisor's strict standards and policies, and involves initial fees and ongoing royalties. Investors must conduct thorough research and understand all contract terms before signing.</p><h2 id='s4'>Is Franchising Right for You?</h2><p>If you are looking for a business opportunity with lower risk and structural support, franchising can be an excellent option. It provides a proven path to success, but requires commitment to the brand's operational model.</p>"
+  },
+  {
+    "id": 101,
+    "slug": "mortgage-comparison-saudi-banks",
+    "title": "التمويل العقاري: مقارنة بين البنوك السعودية",
+    "titleEn": "Mortgage Comparison: Saudi Banks",
+    "summary": "يقدم هذا المقال مقارنة شاملة لخيارات التمويل العقاري المتاحة في البنوك السعودية، مسلطاً الضوء على العوامل الأساسية للاختيار الأمثل.",
+    "summaryEn": "This article provides a comprehensive comparison of real estate financing options available from Saudi banks, highlighting key factors for optimal selection.",
+    "excerpt": "اكتشف الفروقات الجوهرية بين عروض التمويل العقاري من البنوك السعودية وكيفية اختيار الأنسب لاحتياجاتك.",
+    "excerptEn": "Discover the essential differences between real estate finance offers from Saudi banks and how to choose the most suitable for your needs.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "فاطمة الشهري",
+    "authorEn": "Fatima Al-Shahri",
+    "authorInitial": "F",
+    "date": "2 أغسطس 2026",
+    "dateEn": "August 2, 2026",
+    "dateISO": "2026-08-02",
+    "readTime": "8",
+    "views": "3493",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article101.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "المقدمة وأهمية التمويل العقاري"
+      },
+      {
+        "id": "s2",
+        "text": "العوامل الرئيسية للمقارنة"
+      },
+      {
+        "id": "s3",
+        "text": "نظرة عامة على البنوك السعودية الرائدة"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح لاختيار التمويل الأنسب"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction and Importance of Real Estate Finance"
+      },
+      {
+        "id": "s2",
+        "text": "Key Comparison Factors"
+      },
+      {
+        "id": "s3",
+        "text": "Overview of Leading Saudi Banks"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for Choosing the Most Suitable Finance"
+      }
+    ],
+    "related": [
+      32
+    ],
+    "content": "<h2 id='s1'>المقدمة وأهمية التمويل العقاري</h2><p>يلعب التمويل العقاري دوراً محورياً في تحقيق حلم امتلاك المنزل بالمملكة العربية السعودية، ويُعد محركاً أساسياً للسوق العقاري المزدهر.</p><p>مع تنوع الخيارات المقدمة من البنوك السعودية، يصبح فهم الفروقات بينها أمراً حيوياً لاتخاذ قرار مستنير يناسب الاحتياجات الفردية والميزانية.</p><h2 id='s2'>العوامل الرئيسية للمقارنة</h2><p>عند مقارنة عروض التمويل العقاري، يجب التركيز على عدة عوامل أساسية مثل نسبة هامش الربح (أو الفائدة)، الدفعة الأولى المطلوبة، ومدة سداد القرض.</p><p>كما يجب الانتباه إلى الرسوم الإدارية، إمكانية السداد المبكر، ومرونة شروط التمويل لضمان الشفافية وتجنب أي مفاجآت مستقبلية.</p><h2 id='s3'>نظرة عامة على البنوك السعودية الرائدة</h2><p>تقدم البنوك الكبرى مثل البنك الأهلي السعودي، مصرف الراجحي، بنك الرياض، والبنك السعودي الفرنسي مجموعة متنوعة من منتجات التمويل العقاري.</p><p>تختلف هذه المنتجات في شروطها ومزاياها، فبعضها قد يركز على تقديم حلول متوافقة مع الشريعة الإسلامية، بينما يركز البعض الآخر على تقديم أسعار تنافسية أو مرونة أكبر في السداد.</p><h2 id='s4'>نصائح لاختيار التمويل الأنسب</h2><p>قبل اتخاذ القرار، يُنصح بالبحث الدقيق ومقارنة العروض المقدمة من عدة بنوك، مع الأخذ في الاعتبار قدرتك المالية والتزاماتك المستقبلية.</p><p>لا تتردد في طلب استشارات من خبراء ماليين وقراءة الشروط والأحكام بعناية فائقة لضمان اختيار الخيار الأمثل الذي يلبي طموحاتك العقارية.</p>",
+    "contentEn": "<h2 id='s1'>Introduction and Importance of Real Estate Finance</h2><p>Real estate finance plays a pivotal role in achieving the dream of homeownership in Saudi Arabia, serving as a key driver of the thriving real estate market.</p><p>With the variety of options available from Saudi banks, understanding the differences between them becomes crucial for making an informed decision that suits individual needs and budget.</p><h2 id='s2'>Key Comparison Factors</h2><p>When comparing real estate finance offers, focus on several essential factors such as the profit margin (or interest rate), the required down payment, and the loan repayment period.</p><p>Attention should also be paid to administrative fees, early repayment options, and the flexibility of financing terms to ensure transparency and avoid any future surprises.</p><h2 id='s3'>Overview of Leading Saudi Banks</h2><p>Major banks such as Saudi National Bank (SNB), Al Rajhi Bank, Riyad Bank, and Saudi Fransi Bank offer a diverse range of real estate finance products.</p><p>These products vary in their terms and advantages; some may focus on providing Sharia-compliant solutions, while others prioritize competitive pricing or greater flexibility in repayment.</p><h2 id='s4'>Tips for Choosing the Most Suitable Finance</h2><p>Before making a decision, it is advisable to conduct thorough research and compare offers from several banks, taking into account your financial capacity and future commitments.</p><p>Do not hesitate to seek advice from financial experts and read the terms and conditions very carefully to ensure you choose the optimal option that meets your real estate aspirations.</p>"
   }
 ];
 

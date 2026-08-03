@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-02
-// Total articles: 101
+// Last updated: 2026-08-03
+// Total articles: 102
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -7396,6 +7396,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>المقدمة وأهمية التمويل العقاري</h2><p>يلعب التمويل العقاري دوراً محورياً في تحقيق حلم امتلاك المنزل بالمملكة العربية السعودية، ويُعد محركاً أساسياً للسوق العقاري المزدهر.</p><p>مع تنوع الخيارات المقدمة من البنوك السعودية، يصبح فهم الفروقات بينها أمراً حيوياً لاتخاذ قرار مستنير يناسب الاحتياجات الفردية والميزانية.</p><h2 id='s2'>العوامل الرئيسية للمقارنة</h2><p>عند مقارنة عروض التمويل العقاري، يجب التركيز على عدة عوامل أساسية مثل نسبة هامش الربح (أو الفائدة)، الدفعة الأولى المطلوبة، ومدة سداد القرض.</p><p>كما يجب الانتباه إلى الرسوم الإدارية، إمكانية السداد المبكر، ومرونة شروط التمويل لضمان الشفافية وتجنب أي مفاجآت مستقبلية.</p><h2 id='s3'>نظرة عامة على البنوك السعودية الرائدة</h2><p>تقدم البنوك الكبرى مثل البنك الأهلي السعودي، مصرف الراجحي، بنك الرياض، والبنك السعودي الفرنسي مجموعة متنوعة من منتجات التمويل العقاري.</p><p>تختلف هذه المنتجات في شروطها ومزاياها، فبعضها قد يركز على تقديم حلول متوافقة مع الشريعة الإسلامية، بينما يركز البعض الآخر على تقديم أسعار تنافسية أو مرونة أكبر في السداد.</p><h2 id='s4'>نصائح لاختيار التمويل الأنسب</h2><p>قبل اتخاذ القرار، يُنصح بالبحث الدقيق ومقارنة العروض المقدمة من عدة بنوك، مع الأخذ في الاعتبار قدرتك المالية والتزاماتك المستقبلية.</p><p>لا تتردد في طلب استشارات من خبراء ماليين وقراءة الشروط والأحكام بعناية فائقة لضمان اختيار الخيار الأمثل الذي يلبي طموحاتك العقارية.</p>",
     "contentEn": "<h2 id='s1'>Introduction and Importance of Real Estate Finance</h2><p>Real estate finance plays a pivotal role in achieving the dream of homeownership in Saudi Arabia, serving as a key driver of the thriving real estate market.</p><p>With the variety of options available from Saudi banks, understanding the differences between them becomes crucial for making an informed decision that suits individual needs and budget.</p><h2 id='s2'>Key Comparison Factors</h2><p>When comparing real estate finance offers, focus on several essential factors such as the profit margin (or interest rate), the required down payment, and the loan repayment period.</p><p>Attention should also be paid to administrative fees, early repayment options, and the flexibility of financing terms to ensure transparency and avoid any future surprises.</p><h2 id='s3'>Overview of Leading Saudi Banks</h2><p>Major banks such as Saudi National Bank (SNB), Al Rajhi Bank, Riyad Bank, and Saudi Fransi Bank offer a diverse range of real estate finance products.</p><p>These products vary in their terms and advantages; some may focus on providing Sharia-compliant solutions, while others prioritize competitive pricing or greater flexibility in repayment.</p><h2 id='s4'>Tips for Choosing the Most Suitable Finance</h2><p>Before making a decision, it is advisable to conduct thorough research and compare offers from several banks, taking into account your financial capacity and future commitments.</p><p>Do not hesitate to seek advice from financial experts and read the terms and conditions very carefully to ensure you choose the optimal option that meets your real estate aspirations.</p>"
+  },
+  {
+    "id": 102,
+    "slug": "inflation-how-to-protect-your-money",
+    "title": "التضخم: كيف تحمي أموالك منه",
+    "titleEn": "Inflation: How to Protect Your Money",
+    "summary": "التضخم يقلل من القوة الشرائية لأموالك، ولكن هناك استراتيجيات فعالة لحماية ثروتك منه.",
+    "summaryEn": "Inflation erodes the purchasing power of your money, but effective strategies exist to safeguard your wealth from its impact.",
+    "excerpt": "تعرف على مفهوم التضخم وكيف يمكنك استخدام الاستثمارات المتنوعة والخطوات المالية الذكية للحفاظ على قيمة أموالك في مواجهة ارتفاع الأسعار.",
+    "excerptEn": "Understand the concept of inflation and how you can utilize diverse investments and smart financial steps to preserve your money's value in the face of rising prices.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "فاطمة الشهري",
+    "authorEn": "Fatima Al-Shahri",
+    "authorInitial": "F",
+    "date": "3 أغسطس 2026",
+    "dateEn": "August 3, 2026",
+    "dateISO": "2026-08-03",
+    "readTime": "10",
+    "views": "4042",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article102.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هو التضخم؟"
+      },
+      {
+        "id": "s2",
+        "text": "لماذا يجب أن تهتم؟"
+      },
+      {
+        "id": "s3",
+        "text": "أصول تحميك من التضخم"
+      },
+      {
+        "id": "s4",
+        "text": "استراتيجيات إضافية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What is Inflation?"
+      },
+      {
+        "id": "s2",
+        "text": "Why Should You Care?"
+      },
+      {
+        "id": "s3",
+        "text": "Assets That Protect You from Inflation"
+      },
+      {
+        "id": "s4",
+        "text": "Additional Strategies"
+      }
+    ],
+    "related": [
+      76
+    ],
+    "content": "<h2 id='s1'>ما هو التضخم؟</h2><p>التضخم هو الارتفاع المستمر في المستوى العام لأسعار السلع والخدمات بمرور الوقت، مما يؤدي إلى تآكل القوة الشرائية للعملة. بعبارة أخرى، ما كنت تشتريه اليوم بمبلغ معين سيصبح أغلى غدًا.</p><p>يحدث التضخم لأسباب متعددة منها زيادة المعروض النقدي، ارتفاع تكاليف الإنتاج، أو زيادة الطلب الكلي عن العرض. فهمه هو الخطوة الأولى لحماية مدخراتك.</p><h2 id='s2'>لماذا يجب أن تهتم؟</h2><p>يؤثر التضخم بشكل مباشر على مدخراتك واستثماراتك. فإذا كانت أموالك لا تنمو بمعدل يفوق التضخم، فأنت تخسر فعليًا القوة الشرائية بمرور الوقت، مما يعني أنك ستكون قادرًا على شراء أقل بنفس المبلغ في المستقبل.</p><p>هذا التآكل الصامت للقيمة يمكن أن يعرض أهدافك المالية طويلة الأجل للخطر، مثل التقاعد أو تعليم الأبناء، مما يجعل حماية أموالك منه أمرًا بالغ الأهمية.</p><h2 id='s3'>أصول تحميك من التضخم</h2><p>تعتبر بعض الأصول ملاذًا آمنًا خلال فترات التضخم. العقارات غالبًا ما ترتفع قيمتها وإيراداتها الإيجارية مع ارتفاع الأسعار، وكذلك السلع مثل الذهب والنفط التي تحافظ على قيمتها أو تزداد.</p><p>كما يمكن الاستثمار في السندات المحمية من التضخم (TIPS) والتي تتكيف قيمتها مع معدلات التضخم، والأسهم في الشركات التي لديها القدرة على رفع أسعار منتجاتها وخدماتها.</p><h2 id='s4'>استراتيجيات إضافية</h2><p>التنويع هو مفتاح الحماية. لا تضع كل بيضك في سلة واحدة؛ وزع استثماراتك عبر فئات أصول مختلفة لتقليل المخاطر وزيادة فرص تحقيق عوائد تتجاوز التضخم.</p><p>بالإضافة إلى ذلك، قلل من الديون ذات الفائدة المتغيرة، وفكر في الاستثمار في تعليمك أو مهاراتك لزيادة دخلك المستقبلي، مما يعزز قدرتك على مواجهة ارتفاع تكاليف المعيشة.</p>",
+    "contentEn": "<h2 id='s1'>What is Inflation?</h2><p>Inflation is the continuous rise in the general price level of goods and services over time, leading to an erosion of currency's purchasing power. In other words, what you buy today for a certain amount will become more expensive tomorrow.</p><p>Inflation occurs due to various reasons, including an increase in money supply, rising production costs, or aggregate demand exceeding supply. Understanding it is the first step to protecting your savings.</p><h2 id='s2'>Why Should You Care?</h2><p>Inflation directly impacts your savings and investments. If your money isn't growing at a rate that surpasses inflation, you are effectively losing purchasing power over time, meaning you'll be able to buy less with the same amount in the future.</p><p>This silent erosion of value can jeopardize your long-term financial goals, such as retirement or children's education, making it crucial to protect your money from it.</p><h2 id='s3'>Assets That Protect You from Inflation</h2><p>Certain assets are considered safe havens during inflationary periods. Real estate often sees its value and rental income rise with increasing prices, as do commodities like gold and oil which maintain or increase their value.</p><p>Investing in inflation-protected securities (TIPS), whose value adjusts with inflation rates, and stocks of companies with pricing power to raise their product and service prices, can also be beneficial.</p><h2 id='s4'>Additional Strategies</h2><p>Diversification is key to protection. Don't put all your eggs in one basket; spread your investments across different asset classes to reduce risk and increase chances of achieving returns that outpace inflation.</p><p>Additionally, reduce variable-interest debt and consider investing in your education or skills to increase your future income, thereby enhancing your ability to cope with rising living costs.</p>"
   }
 ];
 

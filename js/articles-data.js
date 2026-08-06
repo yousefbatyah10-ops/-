@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-05
-// Total articles: 104
+// Last updated: 2026-08-06
+// Total articles: 105
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -7611,6 +7611,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فهم التكاليف الأساسية</h2><p>لتسعير منتجاتك بذكاء، يجب أولاً تحديد جميع التكاليف المرتبطة بإنتاجها وتوزيعها. يشمل ذلك تكاليف المواد الخام، العمالة، الشحن، والتسويق.</p><p>معرفة التكلفة الإجمالية تساعدك على تحديد نقطة التعادل وضمان أن كل عملية بيع تحقق هامش ربح مستدام.</p><h2 id='s2'>تحليل السوق والمنافسين</h2><p>دراسة أسعار المنافسين وفهم ديناميكيات السوق أمر حيوي. ابحث عن فجوات في السوق أو فرص لتقديم قيمة فريدة تبرر سعراً أعلى أو تنافسياً.</p><p>يمكنك استخدام هذه المعلومات لتحديد موقع منتجك بشكل فعال، سواء كخيار اقتصادي أو كمنتج فاخر عالي القيمة.</p><h2 id='s3'>التسعير على أساس القيمة المدركة</h2><p>ركز على القيمة التي يقدمها منتجك للعميل، ��ليس فقط تكلفة إنتاجه. العملاء مستعدون للدفع أكثر للمنتجات التي تحل مشكلاتهم بفعالية أو توفر لهم تجربة مميزة.</p><p>سلط الضوء على الفوائد الفريدة والمزايا التنافسية لمنتجك لتبرير سعره، مما يعزز من تصور العميل للقيمة.</p><h2 id='s4'>استراتيجيات التسعير النفسي والمرونة</h2><p>استخدم استراتيجيات مثل التسعير بسعر ينتهي بـ 99 (مثلاً 9.99 بدلاً من 10) لخلق تصور بأن السعر أقل. كما يمكن تقديم خيارات تسعير متعددة (مثل باقات مختلفة) لتلبية احتياجات شرائح متنوعة من العملاء.</p><p>كن مرنًا ومستعدًا لتعديل أسعارك بناءً على ردود فعل السوق، العروض الترويجية، أو التغيرات في التكاليف لضمان استمرارية الربحية والجاذبية.</p>",
     "contentEn": "<h2 id='s1'>Understanding Core Costs</h2><p>To price your products smartly, you must first identify all costs associated with their production and distribution. This includes raw materials, labor, shipping, and marketing expenses.</p><p>Knowing the total cost helps you determine your break-even point and ensures each sale generates a sustainable profit margin.</p><h2 id='s2'>Market & Competitor Analysis</h2><p>Studying competitor prices and understanding market dynamics is crucial. Look for market gaps or opportunities to offer unique value that justifies a higher or competitive price.</p><p>You can use this information to effectively position your product, whether as an economical option or a high-value premium item.</p><h2 id='s3'>Value-Based Pricing</h2><p>Focus on the value your product delivers to the customer, not just its production cost. Customers are willing to pay more for products that effectively solve their problems or provide a unique experience.</p><p>Highlight your product's unique benefits and competitive advantages to justify its price, enhancing the customer's perception of value.</p><h2 id='s4'>Psychological Pricing & Flexibility</h2><p>Employ strategies like pricing ending in .99 (e.g., 9.99 instead of 10) to create a perception of a lower price. Offering multiple pricing options (e.g., different packages) can also cater to diverse customer segments.</p><p>Be flexible and ready to adjust your prices based on market feedback, promotions, or cost changes to ensure continued profitability and appeal.</p>"
+  },
+  {
+    "id": 105,
+    "slug": "best-day-trading-strategies",
+    "title": "أفضل استراتيجيات التداول اليومي",
+    "titleEn": "Best Day Trading Strategies",
+    "summary": "يستعرض هذا المقال أفضل استراتيجيات التداول اليومي الفعالة، مثل السكالبينج وتداول الزخم والاختراق، مع التأكيد على أهمية إدارة المخاطر والانضباط لتحقيق النجاح.",
+    "summaryEn": "This article reviews the best effective day trading strategies, such as scalping, momentum, and breakout trading, emphasizing the importance of risk management and discipline for success.",
+    "excerpt": "اكتشف أهم استراتيجيات التداول اليومي التي تساعدك على تحقيق الأرباح من تقلبات السوق اليومية، مع نصائح عملية لتعزيز أدائك.",
+    "excerptEn": "Discover the most important day trading strategies that help you profit from daily market fluctuations, along with practical tips to enhance your performance.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "6 أغسطس 2026",
+    "dateEn": "August 6, 2026",
+    "dateISO": "2026-08-06",
+    "readTime": "9",
+    "views": "2587",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article105.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة عن التداول اليومي"
+      },
+      {
+        "id": "s2",
+        "text": "استراتيجية السكالبينج"
+      },
+      {
+        "id": "s3",
+        "text": "استراتيجية تداول الزخم"
+      },
+      {
+        "id": "s4",
+        "text": "استراتيجية تداول الاختراق"
+      },
+      {
+        "id": "s5",
+        "text": "إدارة المخاطر والانضباط"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Day Trading"
+      },
+      {
+        "id": "s2",
+        "text": "Scalping Strategy"
+      },
+      {
+        "id": "s3",
+        "text": "Momentum Trading Strategy"
+      },
+      {
+        "id": "s4",
+        "text": "Breakout Trading Strategy"
+      },
+      {
+        "id": "s5",
+        "text": "Risk Management and Discipline"
+      }
+    ],
+    "related": [
+      62
+    ],
+    "content": "<h2 id='s1'>مقدمة عن التداول اليومي</h2><p>التداول اليومي هو أسلوب يعتمد على فتح وإغلاق الصفقات في نفس اليوم لتجنب رسوم الاحتفاظ الليلية ومخاطر تقلبات السوق خارج ساعات التداول. يتطلب هذا النوع من التداول تركيزًا عاليًا وسرعة في اتخاذ القرار.</p><p>يهدف المتداولون اليوميون إلى الاستفادة من التحركات الصغيرة في الأسعار على مدار اليوم، مما يجعله مناسبًا للأفراد ذوي الخبرة والوقت الكافي لمراقبة الأسواق باستمرار.</p><h2 id='s2'>استراتيجية السكالبينج (Scalping)</h2><p>السكالبينج هي استراتيجية سريعة للغاية تركز على تحقيق أرباح صغيرة من تحركات الأسعار الطفيفة، غالبًا في غضون ثوانٍ أو دقائق. يقوم المتداول بفتح وإغلاق عدد كبير من الصفقات خلال جلسة ��لتداول.</p><p>تتطلب هذه الاستراتيجية تنفيذًا دقيقًا وسريعًا، بالإضافة إلى رافعة مالية عالية وتحملًا للمخاطر، مع التركيز على السيولة العالية للأصول المتداولة.</p><h2 id='s3'>استراتيجية تداول الزخم (Momentum Trading)</h2><p>تعتمد استراتيجية تداول الزخم على تحديد الأصول التي تشهد تحركات سعرية قوية وواضحة في اتجاه معين، سواء صعودًا أو هبوطًا. يقوم المتداول بالدخول في الصفقات مع استمرار هذا الزخم.</p><p>الهدف هو ركوب الموجة السعرية والاستفادة منها قبل أن يتباطأ الزخم أو ينعكس. تتطلب هذه الاستراتيجية مراقبة مستمرة للأخبار والأحداث التي قد تؤثر على حركة الأسعار.</p><h2 id='s4'>استراتيجية تداول الاختراق (Breakout Trading)</h2><p>تركز استراتيجية تداول الاختراق على تحديد مستويات الدعم والمقاومة الرئيسية، ثم الدخول في صفقة عندم�� يخترق السعر أحد هذه المستويات بحجم تداول كبير.</p><p>يعتبر الاختراق إشارة قوية لاستمرار السعر في الاتجاه الجديد، ويحاول المتداول الاستفادة من الحركة الأولية بعد الاختراق. تتطلب هذه الاستراتيجية تحليلًا فنيًا جيدًا وتحديدًا دقيقًا للمستويات المحورية.</p><h2 id='s5'>إدارة المخاطر والانضباط</h2><p>بغض النظر عن الاستراتيجية المستخدمة، فإن إدارة المخاطر أمر حيوي لنجاح التداول اليومي. يجب على المتداول تحديد حجم المخاطرة لكل صفقة واستخدام أوامر وقف الخسارة لحماية رأس المال.</p><p>الانضباط النفسي لا يقل أهمية، فالتداول اليومي يتطلب الالتزام بالخطة الموضوعة وتجنب القرارات العاطفية، بالإضافة إلى التعلم المستمر من الأخطاء وتحسين الأداء.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Day Trading</h2><p>Day trading is a style where positions are opened and closed within the same trading day to avoid overnight holding fees and market volatility risks outside trading hours. It demands high concentration and quick decision-making.</p><p>Day traders aim to profit from small price movements throughout the day, making it suitable for experienced individuals with ample time to continuously monitor markets.</p><h2 id='s2'>Scalping Strategy</h2><p>Scalping is an extremely fast strategy focused on generating small profits from minor price movements, often within seconds or minutes. Traders open and close a large number of trades during a single trading session.</p><p>This strategy requires precise and rapid execution, high leverage, and risk tolerance, with a focus on highly liquid assets.</p><h2 id='s3'>Momentum Trading Strategy</h2><p>Momentum trading identifies assets experiencing strong, clear price movements in a specific direction, either up or down. Traders enter positions as this momentum continues.</p><p>The goal is to ride the price wave and profit from it before the momentum slows or reverses. This strategy requires constant monitoring of news and events that may influence price action.</p><h2 id='s4'>Breakout Trading Strategy</h2><p>Breakout trading focuses on identifying key support and resistance levels, then entering a trade when the price breaks through one of these levels with significant trading volume.</p><p>A breakout is considered a strong signal for the price to continue in the new direction, and the trader attempts to capitalize on the initial movement after the breakout. This strategy requires good technical analysis and precise identification of pivotal levels.</p><h2 id='s5'>Risk Management and Discipline</h2><p>Regardless of the strategy used, risk management is crucial for successful day trading. Traders must define the risk size per trade and use stop-loss orders to protect capital.</p><p>Psychological discipline is equally important; day trading demands adherence to the planned strategy, avoiding emotional decisions, and continuously learning from mistakes to improve performance.</p>"
   }
 ];
 

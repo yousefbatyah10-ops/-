@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-06
-// Total articles: 105
+// Last updated: 2026-08-07
+// Total articles: 106
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -7688,6 +7688,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة عن التداول اليومي</h2><p>التداول اليومي هو أسلوب يعتمد على فتح وإغلاق الصفقات في نفس اليوم لتجنب رسوم الاحتفاظ الليلية ومخاطر تقلبات السوق خارج ساعات التداول. يتطلب هذا النوع من التداول تركيزًا عاليًا وسرعة في اتخاذ القرار.</p><p>يهدف المتداولون اليوميون إلى الاستفادة من التحركات الصغيرة في الأسعار على مدار اليوم، مما يجعله مناسبًا للأفراد ذوي الخبرة والوقت الكافي لمراقبة الأسواق باستمرار.</p><h2 id='s2'>استراتيجية السكالبينج (Scalping)</h2><p>السكالبينج هي استراتيجية سريعة للغاية تركز على تحقيق أرباح صغيرة من تحركات الأسعار الطفيفة، غالبًا في غضون ثوانٍ أو دقائق. يقوم المتداول بفتح وإغلاق عدد كبير من الصفقات خلال جلسة ��لتداول.</p><p>تتطلب هذه الاستراتيجية تنفيذًا دقيقًا وسريعًا، بالإضافة إلى رافعة مالية عالية وتحملًا للمخاطر، مع التركيز على السيولة العالية للأصول المتداولة.</p><h2 id='s3'>استراتيجية تداول الزخم (Momentum Trading)</h2><p>تعتمد استراتيجية تداول الزخم على تحديد الأصول التي تشهد تحركات سعرية قوية وواضحة في اتجاه معين، سواء صعودًا أو هبوطًا. يقوم المتداول بالدخول في الصفقات مع استمرار هذا الزخم.</p><p>الهدف هو ركوب الموجة السعرية والاستفادة منها قبل أن يتباطأ الزخم أو ينعكس. تتطلب هذه الاستراتيجية مراقبة مستمرة للأخبار والأحداث التي قد تؤثر على حركة الأسعار.</p><h2 id='s4'>استراتيجية تداول الاختراق (Breakout Trading)</h2><p>تركز استراتيجية تداول الاختراق على تحديد مستويات الدعم والمقاومة الرئيسية، ثم الدخول في صفقة عندم�� يخترق السعر أحد هذه المستويات بحجم تداول كبير.</p><p>يعتبر الاختراق إشارة قوية لاستمرار السعر في الاتجاه الجديد، ويحاول المتداول الاستفادة من الحركة الأولية بعد الاختراق. تتطلب هذه الاستراتيجية تحليلًا فنيًا جيدًا وتحديدًا دقيقًا للمستويات المحورية.</p><h2 id='s5'>إدارة المخاطر والانضباط</h2><p>بغض النظر عن الاستراتيجية المستخدمة، فإن إدارة المخاطر أمر حيوي لنجاح التداول اليومي. يجب على المتداول تحديد حجم المخاطرة لكل صفقة واستخدام أوامر وقف الخسارة لحماية رأس المال.</p><p>الانضباط النفسي لا يقل أهمية، فالتداول اليومي يتطلب الالتزام بالخطة الموضوعة وتجنب القرارات العاطفية، بالإضافة إلى التعلم المستمر من الأخطاء وتحسين الأداء.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Day Trading</h2><p>Day trading is a style where positions are opened and closed within the same trading day to avoid overnight holding fees and market volatility risks outside trading hours. It demands high concentration and quick decision-making.</p><p>Day traders aim to profit from small price movements throughout the day, making it suitable for experienced individuals with ample time to continuously monitor markets.</p><h2 id='s2'>Scalping Strategy</h2><p>Scalping is an extremely fast strategy focused on generating small profits from minor price movements, often within seconds or minutes. Traders open and close a large number of trades during a single trading session.</p><p>This strategy requires precise and rapid execution, high leverage, and risk tolerance, with a focus on highly liquid assets.</p><h2 id='s3'>Momentum Trading Strategy</h2><p>Momentum trading identifies assets experiencing strong, clear price movements in a specific direction, either up or down. Traders enter positions as this momentum continues.</p><p>The goal is to ride the price wave and profit from it before the momentum slows or reverses. This strategy requires constant monitoring of news and events that may influence price action.</p><h2 id='s4'>Breakout Trading Strategy</h2><p>Breakout trading focuses on identifying key support and resistance levels, then entering a trade when the price breaks through one of these levels with significant trading volume.</p><p>A breakout is considered a strong signal for the price to continue in the new direction, and the trader attempts to capitalize on the initial movement after the breakout. This strategy requires good technical analysis and precise identification of pivotal levels.</p><h2 id='s5'>Risk Management and Discipline</h2><p>Regardless of the strategy used, risk management is crucial for successful day trading. Traders must define the risk size per trade and use stop-loss orders to protect capital.</p><p>Psychological discipline is equally important; day trading demands adherence to the planned strategy, avoiding emotional decisions, and continuously learning from mistakes to improve performance.</p>"
+  },
+  {
+    "id": 106,
+    "slug": "franchise-invest-in-a-ready-made-brand",
+    "title": "الفرنشايز: استثمر في علامة تجارية جاهزة",
+    "titleEn": "Franchise: Invest in a Ready-Made Brand",
+    "summary": "الفرنشايز يتيح لك الاستثمار في علامة تجارية معروفة ونظام عمل مثبت، مما يقلل المخاطر ويوفر الدعم اللازم لبدء عملك الخاص.",
+    "summaryEn": "Franchising allows you to invest in a well-known brand and a proven business system, reducing risks and providing necessary support to start your own business.",
+    "excerpt": "اكتشف كيف يمكن للفرنشايز أن يكون بوابتك الآمنة للاستثمار في عالم الأعمال من خلال علامة تجارية جاهزة ودعم مستمر.",
+    "excerptEn": "Discover how franchising can be your safe gateway to investing in the business world through a ready-made brand and continuous support.",
+    "category": "ريادة الأعمال",
+    "categoryEn": "Entrepreneurship",
+    "categoryIcon": "🚀",
+    "author": "د. سامي القحطاني",
+    "authorEn": "Dr. Sami Al-Qahtani",
+    "authorInitial": "S",
+    "date": "7 أغسطس 2026",
+    "dateEn": "August 7, 2026",
+    "dateISO": "2026-08-07",
+    "readTime": "9",
+    "views": "2724",
+    "emoji": "🚀",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article106.jpg",
+    "featured": false,
+    "breadcrumb": "ريادة الأعمال",
+    "breadcrumbEn": "Entrepreneurship",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هو الفرنشايز؟"
+      },
+      {
+        "id": "s2",
+        "text": "مزايا الاستثمار في الفرنشايز"
+      },
+      {
+        "id": "s3",
+        "text": "تحديات واعتبارات مهمة"
+      },
+      {
+        "id": "s4",
+        "text": "هل الفرنشايز مناسب لك؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What is Franchising?"
+      },
+      {
+        "id": "s2",
+        "text": "Advantages of Franchise Investment"
+      },
+      {
+        "id": "s3",
+        "text": "Important Challenges and Considerations"
+      },
+      {
+        "id": "s4",
+        "text": "Is Franchising Right for You?"
+      }
+    ],
+    "related": [
+      73
+    ],
+    "content": "<h2 id='s1'>ما هو الفرنشايز؟</h2><p>الفرنشايز هو نموذج عمل يتيح لك تشغيل مشروع تجاري باستخدام اسم وعلامة تجارية ونظام تشغيل مثبت لشركة أخرى (المانح). أنت تستفيد من خبرة وسمعة هذه العلامة التجارية الراسخة لتبدأ مشروعك الخاص.</p><h2 id='s2'>مزايا الاستثمار في الفرنشايز</h2><p>يقلل الفرنشايز بشكل كبير من مخاطر بدء عمل تجاري جديد بفضل نموذج العمل المثبت والاعتراف بالعلامة التجارية. تحصل على دعم شامل في التدريب والتسويق والعمليات من المانح.</p><h2 id='s3'>تحديات واعتبارات مهمة</h2><p>يتطلب الاستثمار في الفرنشايز دفع رسوم أولية ورسوم امتياز مستمرة، وقد تحد من استقلاليتك في اتخاذ بعض القرارات التشغيلية. من الضروري إجراء بحث دقيق وفهم جميع بنود العقد قبل الالتزام.</p><h2 id='s4'>هل الفرنشايز مناسب لك؟</h2><p>الفرنشايز فرصة ممتازة لرواد الأعمال الذين يبحثون عن مسار أقل خطورة لدخول عالم الأعمال، لكنه يتطلب التزامًا بالمعايير والأنظمة المحددة. قيم أهدافك وقدراتك لتحديد ما إذا كان هذا المسار الاستثماري يتوافق مع رؤيتك.</p>",
+    "contentEn": "<h2 id='s1'>What is Franchising?</h2><p>Franchising is a business model that allows you to operate a commercial venture using the established name, brand, and operational system of another company (the franchisor). You benefit from the experience and reputation of this well-known brand to launch your own business.</p><h2 id='s2'>Advantages of Franchise Investment</h2><p>Franchising significantly reduces the risks of starting a new business due to its proven business model and brand recognition. You receive comprehensive support in training, marketing, and operations from the franchisor.</p><h2 id='s3'>Important Challenges and Considerations</h2><p>Investing in a franchise requires initial fees and ongoing royalties, and it might limit your autonomy in certain operational decisions. It's crucial to conduct thorough research and understand all contract terms before committing.</p><h2 id='s4'>Is Franchising Right for You?</h2><p>Franchising is an excellent opportunity for entrepreneurs seeking a less risky path to enter the business world, but it demands commitment to specified standards and systems. Evaluate your goals and capabilities to determine if this investment route aligns with your vision.</p>"
   }
 ];
 

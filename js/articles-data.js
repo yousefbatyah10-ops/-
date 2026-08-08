@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-07
-// Total articles: 106
+// Last updated: 2026-08-08
+// Total articles: 107
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -7757,6 +7757,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هو الفرنشايز؟</h2><p>الفرنشايز هو نموذج عمل يتيح لك تشغيل مشروع تجاري باستخدام اسم وعلامة تجارية ونظام تشغيل مثبت لشركة أخرى (المانح). أنت تستفيد من خبرة وسمعة هذه العلامة التجارية الراسخة لتبدأ مشروعك الخاص.</p><h2 id='s2'>مزايا الاستثمار في الفرنشايز</h2><p>يقلل الفرنشايز بشكل كبير من مخاطر بدء عمل تجاري جديد بفضل نموذج العمل المثبت والاعتراف بالعلامة التجارية. تحصل على دعم شامل في التدريب والتسويق والعمليات من المانح.</p><h2 id='s3'>تحديات واعتبارات مهمة</h2><p>يتطلب الاستثمار في الفرنشايز دفع رسوم أولية ورسوم امتياز مستمرة، وقد تحد من استقلاليتك في اتخاذ بعض القرارات التشغيلية. من الضروري إجراء بحث دقيق وفهم جميع بنود العقد قبل الالتزام.</p><h2 id='s4'>هل الفرنشايز مناسب لك؟</h2><p>الفرنشايز فرصة ممتازة لرواد الأعمال الذين يبحثون عن مسار أقل خطورة لدخول عالم الأعمال، لكنه يتطلب التزامًا بالمعايير والأنظمة المحددة. قيم أهدافك وقدراتك لتحديد ما إذا كان هذا المسار الاستثماري يتوافق مع رؤيتك.</p>",
     "contentEn": "<h2 id='s1'>What is Franchising?</h2><p>Franchising is a business model that allows you to operate a commercial venture using the established name, brand, and operational system of another company (the franchisor). You benefit from the experience and reputation of this well-known brand to launch your own business.</p><h2 id='s2'>Advantages of Franchise Investment</h2><p>Franchising significantly reduces the risks of starting a new business due to its proven business model and brand recognition. You receive comprehensive support in training, marketing, and operations from the franchisor.</p><h2 id='s3'>Important Challenges and Considerations</h2><p>Investing in a franchise requires initial fees and ongoing royalties, and it might limit your autonomy in certain operational decisions. It's crucial to conduct thorough research and understand all contract terms before committing.</p><h2 id='s4'>Is Franchising Right for You?</h2><p>Franchising is an excellent opportunity for entrepreneurs seeking a less risky path to enter the business world, but it demands commitment to specified standards and systems. Evaluate your goals and capabilities to determine if this investment route aligns with your vision.</p>"
+  },
+  {
+    "id": 107,
+    "slug": "how-to-buy-gold-bars-in-saudi-arabia",
+    "title": "كيف تشتري سبائك ذهب في السعودية",
+    "titleEn": "How to Buy Gold Bars in Saudi Arabia",
+    "summary": "دليل شامل لشراء سبائك الذهب في السعودية، من تحديد الأماكن الموثوقة إلى نصائح التخزين الآمن.",
+    "summaryEn": "A comprehensive guide to buying gold bars in Saudi Arabia, from identifying reliable sources to safe storage tips.",
+    "excerpt": "استكشف الخطوات الأساسية لشراء سبائك الذهب في المملكة العربية السعودية لتعزيز محفظتك الاستثمارية.",
+    "excerptEn": "Explore the essential steps to purchasing gold bars in Saudi Arabia to enhance your investment portfolio.",
+    "category": "الذهب والمعادن",
+    "categoryEn": "Gold & Metals",
+    "categoryIcon": "🧸",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "8 أغسطس 2026",
+    "dateEn": "August 8, 2026",
+    "dateISO": "2026-08-08",
+    "readTime": "10",
+    "views": "3500",
+    "emoji": "🧸",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article107.jpg",
+    "featured": false,
+    "breadcrumb": "الذهب والمعادن",
+    "breadcrumbEn": "Gold & Metals",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "لماذا الاستثمار في سبائك الذهب؟"
+      },
+      {
+        "id": "s2",
+        "text": "أين تشتري سبائك الذهب في السعودية؟"
+      },
+      {
+        "id": "s3",
+        "text": "ماذا يجب مراعاته قبل الشراء؟"
+      },
+      {
+        "id": "s4",
+        "text": "تخزين سبائك الذهب الخاصة بك"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Why Invest in Gold Bars?"
+      },
+      {
+        "id": "s2",
+        "text": "Where to Buy Gold Bars in Saudi Arabia?"
+      },
+      {
+        "id": "s3",
+        "text": "What to Consider Before Buying?"
+      },
+      {
+        "id": "s4",
+        "text": "Storing Your Gold Bars"
+      }
+    ],
+    "related": [
+      5
+    ],
+    "content": "<h2 id='s1'>لماذا الاستثمار في سبائك الذهب؟</h2><p>يُعد الذهب ملاذًا آمنًا ومخزنًا للقيمة، خاصة في أوقات عدم اليقين الاقتصادي. تتيح سبائك الذهب للمستثمرين حيازة أصل ملموس يحافظ على قوته الشرائية على المدى الطويل، مما يجعلها خيارًا جذابًا لتنويع المحافظ.</p><p>في السعودية، يزداد الاهتمام بالذهب كوسيلة للتحوط ضد التضخم وتقلبات السوق، مما يبرز أهمية فهم كيفية شرائه بشكل صحيح.</p><h2 id='s2'>أين تشتري سبائك الذهب في السعودية؟</h2><p>يمكن شراء سبائك الذهب من عدة مصادر موثوقة في المملكة، منها محلات الذهب الكبرى والمعتمدة، البنوك التي تقدم هذه الخدمة، وبعض شركات تداول المعادن الثمينة المرخصة. من الضروري التأكد من سمعة البائع وتراخيصه.</p><p>كما تتوفر خيارات الشراء عبر الإنترنت من منصات موثوقة توفر خدمة التوصيل أو التخزين الآمن، مع التأكد دائمًا من شهادات الأصالة.</p><h2 id='s3'>ماذا يجب مراعاته قبل الشراء؟</h2><p>قبل الشراء، قارن الأسعار بين عدة بائعين وتأكد من أن السعر يعكس سعر الذهب العالمي بالإضافة إلى عمولة معقولة. تحقق من نقاوة السبيكة (عادة 24 قيراط أو 999.9) ووزنها وشهادة الأصالة المرفقة.</p><p>استفسر عن سياسات البيع والشراء وإمكانية إعادة البيع في المستقبل، بالإضافة إلى فهم أي رسوم إضافية مثل رسوم التصنيع أو التخزين.</p><h2 id='s4'>تخزين سبائك الذهب الخاصة بك</h2><p>يُعد التخزين الآمن لسبائك الذهب أمرًا بالغ الأهمية. يمكنك تخزينها في خزائن منزلية مؤمنة، أو استخدام خدمات الخزائن البنكية الآمنة التي توفرها البنوك مقابل رسوم.</p><p>بعض شركات المعادن الثمينة تقدم أيضًا حلول تخزين مؤمنة في منشآتها الخاصة. تأكد من أن خيار التخزين الذي تختاره يوفر حماية كافية ضد السرقة أو التلف.</p>",
+    "contentEn": "<h2 id='s1'>Why Invest in Gold Bars?</h2><p>Gold is considered a safe haven and a store of value, especially during times of economic uncertainty. Gold bars allow investors to possess a tangible asset that maintains its purchasing power over the long term, making them an attractive option for portfolio diversification.</p><p>In Saudi Arabia, interest in gold is growing as a hedge against inflation and market volatility, highlighting the importance of understanding how to acquire it correctly.</p><h2 id='s2'>Where to Buy Gold Bars in Saudi Arabia?</h2><p>Gold bars can be purchased from several reliable sources in the Kingdom, including major accredited gold shops, banks offering this service, and some licensed precious metals trading companies. It is crucial to verify the seller's reputation and licenses.</p><p>Online purchasing options are also available from trusted platforms that provide delivery or secure storage services, always ensuring authenticity certificates.</p><h2 id='s3'>What to Consider Before Buying?</h2><p>Before purchasing, compare prices among several sellers and ensure the price reflects the global gold rate plus a reasonable premium. Verify the bar's purity (typically 24 karats or 999.9), weight, and the accompanying authenticity certificate.</p><p>Inquire about buyback policies and future resale possibilities, as well as understanding any additional fees such as manufacturing or storage costs.</p><h2 id='s4'>Storing Your Gold Bars</h2><p>Secure storage of gold bars is paramount. You can store them in secure home safes, or utilize safe deposit box services provided by banks for a fee.</p><p>Some precious metals companies also offer insured storage solutions in their own facilities. Ensure your chosen storage option provides adequate protection against theft or damage.</p>"
   }
 ];
 

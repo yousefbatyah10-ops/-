@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-11
-// Total articles: 110
+// Last updated: 2026-08-12
+// Total articles: 111
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -8033,6 +8033,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فهم وضعك المالي الحالي</h2><p>ابدأ بتحديد جميع ديونك، بما في ذلك القروض الشخصية، بطاقات الائتمان، والرهون العقارية. سجل المبالغ المستحقة، أسعار الفائدة، وتواريخ الاستحقاق لكل دين.</p><p>هذه الخطوة أساسية لرسم صورة واضحة لمدى التحدي الذي تواجهه، وستمكنك من وضع خطة سداد فعالة ومستنيرة.</p><h2 id='s2'>بناء ميزانية صارمة</h2><p>قم بإنشاء ميزانية مفصلة لتتبع دخلك ونفقاتك الشهرية. حدد أين تذهب أموالك بالضبط وابحث عن المجالات التي يمكنك تقليص الإنفاق فيها، مثل الترفيه أو الوجبات الخارجية.</p><p>الهدف هو تحرير أكبر قدر ممكن من الأموال لتوجيهها نحو سداد ديونك، مما يسرع عملية التخلص منها.</p><h2 id='s3'>اختيار استراتيجية السداد المناسبة</h2><p>هناك استراتيجيتان رئيسيتان: طريقة كرة الثلج (Snowball) تبدأ بسداد أصغر دين أولاً، بينما طريقة الانهيار الجليدي (Avalanche) تركز على الديون ذات الفائدة الأعلى.</p><p>اختر الطريقة التي تتناسب مع دوافعك المالية والنفسية، والتزم بها بصرامة لتحقيق أقصى تقدم في سداد ديونك.</p><h2 id='s4'>بناء عادات مالية صحية للمستقبل</h2><p>بعد سداد الديون، ركز على بناء صندوق طوارئ لتجنب الوقوع في الديون مرة أخرى. ابدأ بالادخار بانتظام واستثمر بحكمة.</p><p>تطوير هذه العادات سيضمن لك استقرارًا ماليًا طويل الأمد ويحميك من الصدمات المستقبلية.</p>",
     "contentEn": "<h2 id='s1'>Understand Your Current Financial Situation</h2><p>Start by identifying all your debts, including personal loans, credit cards, and mortgages. Record the outstanding amounts, interest rates, and due dates for each debt.</p><p>This step is crucial for painting a clear picture of the challenge you face and will enable you to create an effective and informed repayment plan.</p><h2 id='s2'>Build a Strict Budget</h2><p>Create a detailed budget to track your monthly income and expenses. Pinpoint exactly where your money goes and look for areas where you can cut spending, such as entertainment or dining out.</p><p>The goal is to free up as much money as possible to direct towards paying off your debts, accelerating the process of becoming debt-free.</p><h2 id='s3'>Choose the Right Repayment Strategy</h2><p>There are two main strategies: the Snowball method starts by paying off the smallest debt first, while the Avalanche method focuses on debts with the highest interest rates.</p><p>Choose the method that aligns with your financial and psychological motivations, and stick to it strictly to make maximum progress in paying off your debts.</p><h2 id='s4'>Build Healthy Financial Habits for the Future</h2><p>After paying off your debts, focus on building an emergency fund to avoid falling into debt again. Start saving regularly and invest wisely.</p><p>Developing these habits will ensure your long-term financial stability and protect you from future shocks.</p>"
+  },
+  {
+    "id": 111,
+    "slug": "mortgage-comparison-saudi-banks",
+    "title": "التمويل العقاري: مقارنة بين البنوك السعودية",
+    "titleEn": "Mortgage Comparison: Saudi Banks",
+    "summary": "يقدم هذا المقال مقارنة شاملة بين عروض التمويل العقاري لدى البنوك السعودية لمساعدة المستثمرين في اتخاذ قرار مستنير.",
+    "summaryEn": "This article provides a comprehensive comparison of real estate financing offers from Saudi banks to help investors make informed decisions.",
+    "excerpt": "استكشف الفروقات الجوهرية في منتجات التمويل العقاري بين أبرز البنوك السعودية لضمان اختيار الأنسب لاحتياجاتك.",
+    "excerptEn": "Explore the fundamental differences in real estate financing products among leading Saudi banks to ensure you choose the most suitable one for your needs.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "خالد المحسن",
+    "authorEn": "Khalid Al-Muhsen",
+    "authorInitial": "K",
+    "date": "12 أغسطس 2026",
+    "dateEn": "August 12, 2026",
+    "dateISO": "2026-08-12",
+    "readTime": "12",
+    "views": "5401",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article111.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة عن التمويل العقاري في السعودية"
+      },
+      {
+        "id": "s2",
+        "text": "معايير أساسية للمقارنة بين البنوك"
+      },
+      {
+        "id": "s3",
+        "text": "نظرة عامة على أبرز البنوك السعودية"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح لاختيار البنك المناسب"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Real Estate Financing in Saudi Arabia"
+      },
+      {
+        "id": "s2",
+        "text": "Key Comparison Criteria Among Banks"
+      },
+      {
+        "id": "s3",
+        "text": "Overview of Prominent Saudi Banks"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for Choosing the Right Bank"
+      }
+    ],
+    "related": [
+      32
+    ],
+    "content": "<h2 id='s1'>مقدمة عن التمويل العقاري في السعودية</h2><p>أصبح التمويل العقاري ركيزة أساسية لتحقيق حلم التملك في المملكة، مدعومًا بمبادرات حكومية لزيادة نسبة التملك السكني. تسعى البنوك السعودية لتقديم حلول تمويلية متنوعة تلبي احتياجات شرائح المجتمع المختلفة، مما يجعل المقارنة بينها أمرًا ضروريًا.</p><p>إن فهم الخيارات المتاحة وشروط كل بنك يمكن أن يحدث فرقًا كبيرًا في التكلفة الإجمالية ومرونة السداد على المدى الطويل.</p><h2 id='s2'>معايير أساسية للمقارنة بين البنوك</h2><p>عند مقارنة عروض التمويل العقاري، يجب التركيز على عدة عوامل رئيسية منها نسبة الربح السنوية (APR)، مدة التمويل، الدفعة الأولى المطلوبة، والرسوم الإدارية. تختلف هذه المعايير بشكل كبير من بنك لآخر وتؤثر مباشرة على جدوى التمويل.</p><p>من المهم أيضًا ��لنظر إلى شروط السداد المبكر، إمكانية إعادة التمويل، ومرونة البنك في التعامل مع التحديات المالية المحتملة للعميل.</p><h2 id='s3'>نظرة عامة على أبرز البنوك السعودية</h2><p>تقدم بنوك مثل الراجحي، الأهلي السعودي، الرياض، والإنماء مجموعة واسعة من منتجات التمويل العقاري التي تتناسب مع متطلبات مختلفة، من تمويل شراء الوحدات الجاهزة إلى تمويل البناء الذاتي. يتميز كل بنك بنقاط قوة معينة، سواء في سرعة الموافقات أو شروط التمويل الأكثر مرونة لشرائح معينة.</p><p>يُعرف بعضها ببرامجها المتوافقة مع الشريعة الإسلامية، بينما قد يقدم البعض الآخر أسعار فائدة تنافسية أو عروضًا خاصة للعملاء المميزين أو لمشاريع محددة.</p><h2 id='s4'>نصائح لاختيار البنك المناسب</h2><p>لضمان اختيار أفضل عرض تمويل عقاري، يُنصح بالبدء بمقارنة دقيقة وشاملة لجميع العروض المتاحة، مع التركيز على التكلفة الإجمالية للتمويل وليس فقط نسبة الربح الظاهرة. لا تتردد في طلب عروض سعر مفصلة من عدة بنوك.</p><p>استشر مستشارًا ماليًا متخصصًا لتقييم وضعك المالي وتحديد البنك الذي يقدم الحلول الأكثر ملاءمة لأهدافك طويلة الأجل وقدرتك على السداد، مع الأخذ في الاعتبار خدمة العملاء وسهولة الإجراءات.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Real Estate Financing in Saudi Arabia</h2><p>Real estate financing has become a cornerstone for achieving homeownership in the Kingdom, supported by government initiatives to increase housing ownership rates. Saudi banks strive to offer diverse financing solutions to meet the needs of various community segments, making a comparison among them essential.</p><p>Understanding the available options and each bank's conditions can significantly impact the total cost and repayment flexibility in the long run.</p><h2 id='s2'>Key Comparison Criteria Among Banks</h2><p>When comparing real estate financing offers, focus on several key factors including the Annual Percentage Rate (APR), financing duration, required down payment, and administrative fees. These criteria vary significantly from one bank to another and directly affect the feasibility of the financing.</p><p>It's also important to consider early repayment terms, the possibility of refinancing, and the bank's flexibility in handling potential financial challenges for the client.</p><h2 id='s3'>Overview of Prominent Saudi Banks</h2><p>Banks such as Al Rajhi, Saudi National Bank, Riyad Bank, and Alinma Bank offer a wide range of real estate financing products that suit different requirements, from financing ready-made units to self-construction financing. Each bank has specific strengths, whether in quick approvals or more flexible financing terms for certain segments.</p><p>Some are known for their Sharia-compliant programs, while others may offer competitive interest rates or special offers for premium clients or specific projects.</p><h2 id='s4'>Tips for Choosing the Right Bank</h2><p>To ensure you select the best real estate financing offer, it is advisable to start with a precise and comprehensive comparison of all available offers, focusing on the total cost of financing, not just the apparent profit rate. Do not hesitate to request detailed quotes from several banks.</p><p>Consult a specialized financial advisor to assess your financial situation and determine which bank offers the most suitable solutions for your long-term goals and repayment capacity, considering customer service and ease of procedures.</p>"
   }
 ];
 

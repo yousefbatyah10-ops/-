@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-12
-// Total articles: 111
+// Last updated: 2026-08-13
+// Total articles: 112
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -8102,6 +8102,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة عن التمويل العقاري في السعودية</h2><p>أصبح التمويل العقاري ركيزة أساسية لتحقيق حلم التملك في المملكة، مدعومًا بمبادرات حكومية لزيادة نسبة التملك السكني. تسعى البنوك السعودية لتقديم حلول تمويلية متنوعة تلبي احتياجات شرائح المجتمع المختلفة، مما يجعل المقارنة بينها أمرًا ضروريًا.</p><p>إن فهم الخيارات المتاحة وشروط كل بنك يمكن أن يحدث فرقًا كبيرًا في التكلفة الإجمالية ومرونة السداد على المدى الطويل.</p><h2 id='s2'>معايير أساسية للمقارنة بين البنوك</h2><p>عند مقارنة عروض التمويل العقاري، يجب التركيز على عدة عوامل رئيسية منها نسبة الربح السنوية (APR)، مدة التمويل، الدفعة الأولى المطلوبة، والرسوم الإدارية. تختلف هذه المعايير بشكل كبير من بنك لآخر وتؤثر مباشرة على جدوى التمويل.</p><p>من المهم أيضًا ��لنظر إلى شروط السداد المبكر، إمكانية إعادة التمويل، ومرونة البنك في التعامل مع التحديات المالية المحتملة للعميل.</p><h2 id='s3'>نظرة عامة على أبرز البنوك السعودية</h2><p>تقدم بنوك مثل الراجحي، الأهلي السعودي، الرياض، والإنماء مجموعة واسعة من منتجات التمويل العقاري التي تتناسب مع متطلبات مختلفة، من تمويل شراء الوحدات الجاهزة إلى تمويل البناء الذاتي. يتميز كل بنك بنقاط قوة معينة، سواء في سرعة الموافقات أو شروط التمويل الأكثر مرونة لشرائح معينة.</p><p>يُعرف بعضها ببرامجها المتوافقة مع الشريعة الإسلامية، بينما قد يقدم البعض الآخر أسعار فائدة تنافسية أو عروضًا خاصة للعملاء المميزين أو لمشاريع محددة.</p><h2 id='s4'>نصائح لاختيار البنك المناسب</h2><p>لضمان اختيار أفضل عرض تمويل عقاري، يُنصح بالبدء بمقارنة دقيقة وشاملة لجميع العروض المتاحة، مع التركيز على التكلفة الإجمالية للتمويل وليس فقط نسبة الربح الظاهرة. لا تتردد في طلب عروض سعر مفصلة من عدة بنوك.</p><p>استشر مستشارًا ماليًا متخصصًا لتقييم وضعك المالي وتحديد البنك الذي يقدم الحلول الأكثر ملاءمة لأهدافك طويلة الأجل وقدرتك على السداد، مع الأخذ في الاعتبار خدمة العملاء وسهولة الإجراءات.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Real Estate Financing in Saudi Arabia</h2><p>Real estate financing has become a cornerstone for achieving homeownership in the Kingdom, supported by government initiatives to increase housing ownership rates. Saudi banks strive to offer diverse financing solutions to meet the needs of various community segments, making a comparison among them essential.</p><p>Understanding the available options and each bank's conditions can significantly impact the total cost and repayment flexibility in the long run.</p><h2 id='s2'>Key Comparison Criteria Among Banks</h2><p>When comparing real estate financing offers, focus on several key factors including the Annual Percentage Rate (APR), financing duration, required down payment, and administrative fees. These criteria vary significantly from one bank to another and directly affect the feasibility of the financing.</p><p>It's also important to consider early repayment terms, the possibility of refinancing, and the bank's flexibility in handling potential financial challenges for the client.</p><h2 id='s3'>Overview of Prominent Saudi Banks</h2><p>Banks such as Al Rajhi, Saudi National Bank, Riyad Bank, and Alinma Bank offer a wide range of real estate financing products that suit different requirements, from financing ready-made units to self-construction financing. Each bank has specific strengths, whether in quick approvals or more flexible financing terms for certain segments.</p><p>Some are known for their Sharia-compliant programs, while others may offer competitive interest rates or special offers for premium clients or specific projects.</p><h2 id='s4'>Tips for Choosing the Right Bank</h2><p>To ensure you select the best real estate financing offer, it is advisable to start with a precise and comprehensive comparison of all available offers, focusing on the total cost of financing, not just the apparent profit rate. Do not hesitate to request detailed quotes from several banks.</p><p>Consult a specialized financial advisor to assess your financial situation and determine which bank offers the most suitable solutions for your long-term goals and repayment capacity, considering customer service and ease of procedures.</p>"
+  },
+  {
+    "id": 112,
+    "slug": "affiliate-marketing-beginners-guide",
+    "title": "التسويق بالعمولة: دليل المبتدئين",
+    "titleEn": "Affiliate Marketing: Beginner's Guide",
+    "summary": "دليل شامل للمبتدئين يوضح مفهوم التسويق بالعمولة، أسباب تفضيله، خطوات البدء فيه، وأهم النصائح لتحقيق النجاح وكسب الدخل.",
+    "summaryEn": "A comprehensive beginner's guide explaining affiliate marketing, its benefits, steps to get started, and key tips for achieving success and earning income.",
+    "excerpt": "اكتشف كيف يمكنك البدء في عالم التسويق بالعمولة وتحقيق دخل إضافي دون الحاجة لرأس مال كبير أو خبرة مسبقة، مع نصائح عملية لضمان نجاحك.",
+    "excerptEn": "Discover how you can start in the world of affiliate marketing and generate additional income without significant capital or prior experience, with practical tips to ensure your success.",
+    "category": "الدخل السلبي",
+    "categoryEn": "Passive Income",
+    "categoryIcon": "💰",
+    "author": "خالد المحسن",
+    "authorEn": "Khalid Al-Muhsen",
+    "authorInitial": "K",
+    "date": "13 أغسطس 2026",
+    "dateEn": "August 13, 2026",
+    "dateISO": "2026-08-13",
+    "readTime": "11",
+    "views": "5493",
+    "emoji": "💰",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article112.jpg",
+    "featured": false,
+    "breadcrumb": "الدخل السلبي",
+    "breadcrumbEn": "Passive Income",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هو التسويق بالعمولة؟"
+      },
+      {
+        "id": "s2",
+        "text": "لماذا التسويق بالعمولة خيار رائع للمبتدئين؟"
+      },
+      {
+        "id": "s3",
+        "text": "خطوات البدء في التسويق بالعمولة"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح لنجاحك كمسوق بالعمولة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What is Affiliate Marketing?"
+      },
+      {
+        "id": "s2",
+        "text": "Why is Affiliate Marketing a Great Option for Beginners?"
+      },
+      {
+        "id": "s3",
+        "text": "Steps to Get Started in Affiliate Marketing"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for Your Success as an Affiliate Marketer"
+      }
+    ],
+    "related": [
+      12
+    ],
+    "content": "<h2 id='s1'>ما هو التسويق بالعمولة؟</h2><p>التسويق بالعمولة هو نموذج أعمال يتيح لك كسب المال عن طريق الترويج لمنتجات أو خدمات الآخرين. عندما يقوم شخص ما بالشراء عبر رابط الإحالة الخاص بك، تحصل على عمولة من عملية البيع.</p><p>يعتمد هذا النظام على مبدأ الشراكة بين المعلن (صاحب المنتج) والمسوق بالعمولة، حيث يستفيد الطرفان من زيادة المبيعات والوصول إلى جمهور أوسع.</p><h2 id='s2'>لماذا التسويق بالعمولة خيار رائع للمبتدئين؟</h2><p>يُعد التسويق بالعمولة نقطة انطلاق مثالية للمستثمرين الجدد ورواد الأعمال الطموحين، حيث لا يتطلب رأس مال كبير للبدء ولا حاجة لتطوير منتجات خاصة.</p><p>كما يوفر مرونة عالية من حيث ساعات العمل والموقع الجغرافي، مما يجعله نموذجًا جذابًا لتحقيق دخل إضافي أو حتى دخل أساسي من المنزل.</p><h2 id='s3'>خطوات البدء في التسويق بالعمولة</h2><p>أولاً، اختر مجالًا متخصصًا (Niche) تهتم به ولديك معرفة جيدة عنه، ثم ابحث عن برامج عمولة موثوقة ومنتجات ذات صلة وطلب عليها.</p><p>بعد ذلك، قم بإنشاء منصة للترويج، سواء كانت مدونة، قناة يوتيوب، أو حسابات نشطة على وسائل التواصل الاجتماعي، وابدأ في إنتاج محتوى قيم يجذب جمهورك ويقنعهم بالشراء.</p><h2 id='s4'>نصائح لنجاحك كمسوق بالعمولة</h2><p>ركز على بناء الثقة مع جمهورك من خلال تقديم مراجعات صادقة ومحتوى مفيد، وتذكر أن الشفافية هي مفتاح النجاح طويل الأمد في هذا المجال.</p><p>استمر في التعلم وتتبع أحدث الاتجاهات واستراتيجيات التسويق الرقمي، ولا تتوقف عن تحليل بياناتك لتحسين أدائك وزيادة أرباحك بمرور الوقت.</p>",
+    "contentEn": "<h2 id='s1'>What is Affiliate Marketing?</h2><p>Affiliate marketing is a business model that allows you to earn money by promoting other people's products or services. When someone makes a purchase through your unique referral link, you receive a commission from that sale.</p><p>This system is based on a partnership between the advertiser (product owner) and the affiliate marketer, where both parties benefit from increased sales and reaching a wider audience.</p><h2 id='s2'>Why is Affiliate Marketing a Great Option for Beginners?</h2><p>Affiliate marketing is an ideal starting point for new investors and ambitious entrepreneurs, as it requires minimal upfront capital and no need to develop your own products.</p><p>It also offers high flexibility in terms of working hours and geographical location, making it an attractive model for generating supplementary or even primary income from home.</p><h2 id='s3'>Steps to Get Started in Affiliate Marketing</h2><p>First, choose a niche you are interested in and knowledgeable about, then research reliable affiliate programs and relevant, in-demand products.</p><p>Next, create a platform for promotion, whether it's a blog, a YouTube channel, or active social media accounts, and start producing valuable content that attracts your audience and persuades them to purchase.</p><h2 id='s4'>Tips for Your Success as an Affiliate Marketer</h2><p>Focus on building trust with your audience by providing honest reviews and useful content; remember that transparency is key to long-term success in this field.</p><p>Continuously learn and follow the latest digital marketing trends and strategies, and don't stop analyzing your data to improve your performance and increase your earnings over time.</p>"
   }
 ];
 

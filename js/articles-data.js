@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-17
-// Total articles: 116
+// Last updated: 2026-08-18
+// Total articles: 117
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -8455,6 +8455,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هو الاستثمار في الذات؟</h2><p>الاستثمار في الذات هو عملية مستمرة لتنمية قدراتك، معارفك، ورفاهيتك بشكل عام. يشمل ذلك تطوير المهارات الجديدة، تحسين الصحة البدنية والعقلية، وتعزيز الذكاء العاطفي.</p><p>إنه ليس مجرد إنفاق للمال، بل هو تخصيص للوقت والجهد والموارد لزيادة قيمتك الذاتية في جميع جوانب الحياة، مما يجعلك أكثر قدرة على مواجهة التحديات واغتنام الفرص.</p><h2 id='s2'>لماذا هو أفضل استثمار؟</h2><p>على عكس الأصول المادية التي قد تفقد قيمتها، فإن الاستثمار في نفسك هو أصل لا يتآكل بل يتزايد قيمته مع مرور الوقت. المعرفة والمهارات المكتسبة لا يمكن سرقتها أو فقدانها.</p><p>يؤدي هذا النوع من الاستثمار إلى عوائد مركبة، حيث تفتح كل مهارة جديدة أو معرفة مكتسبة أبوابًا لفرص أكبر، مما يعزز مسارك المهني والشخصي بشكل مستمر.</p><h2 id='s3'>طرق عملية للاستثمار في نفسك</h2><p>يمكنك البدء بالتعليم المستمر من خلال الدورات التدريبية، قراءة الكتب المتخصصة، أو حتى متابعة المدونات الصوتية. لا تتجاهل أهمية تطوير مهاراتك الناعمة مثل التواصل والقيادة.</p><p>كما أن الاعتناء بصحتك الجسدية والعقلية أمر بالغ الأهمية؛ يشمل ذلك التغذية السليمة، ممارسة الرياضة بانتظام، والحصول على قسط كافٍ من النوم، بالإضافة إلى تخصيص وقت للتأمل والاسترخاء.</p><h2 id='s4'>قياس العائد</h2><p>قد لا تكون عوائد الاستثمار في الذات مادية دائمًا، لكنها تظهر في شكل فرص وظيفية أفضل، علاقات شخصية أقوى، وزيادة في الثقة بالنفس والرضا العام عن الحياة.</p><p>مع مرور الوقت، ستلاحظ تحسنًا في قدرتك على حل المشكلات، اتخاذ قرارات أفضل، وتحقيق أهدافك بكفاءة أكبر، مما ينعكس إيجابًا على استقرارك المالي وسعادتك الشاملة.</p>",
     "contentEn": "<h2 id='s1'>What is Investing in Yourself?</h2><p>Investing in oneself is a continuous process of developing one's capabilities, knowledge, and overall well-being. This includes acquiring new skills, improving physical and mental health, and enhancing emotional intelligence.</p><p>It's not just about spending money, but allocating time, effort, and resources to increase your self-worth in all aspects of life, making you better equipped to face challenges and seize opportunities.</p><h2 id='s2'>Why is it the Best Investment?</h2><p>Unlike material assets that can depreciate, investing in yourself is an asset that doesn't erode but increases in value over time. Acquired knowledge and skills cannot be stolen or lost.</p><p>This type of investment leads to compounding returns, where every new skill or piece of knowledge gained opens doors to greater opportunities, continuously enhancing your professional and personal trajectory.</p><h2 id='s3'>Practical Ways to Invest in Yourself</h2><p>You can start with continuous education through training courses, reading specialized books, or even following podcasts. Don't overlook the importance of developing your soft skills such as communication and leadership.</p><p>Furthermore, taking care of your physical and mental health is crucial; this includes proper nutrition, regular exercise, getting enough sleep, and dedicating time for meditation and relaxation.</p><h2 id='s4'>Measuring the Returns</h2><p>The returns on investing in oneself may not always be financial, but they manifest as better career opportunities, stronger personal relationships, and an increase in self-confidence and overall life satisfaction.</p><p>Over time, you will notice an improvement in your problem-solving abilities, better decision-making, and achieving your goals more efficiently, which positively reflects on your financial stability and overall happiness.</p>"
+  },
+  {
+    "id": 117,
+    "slug": "how-to-eliminate-debt-permanently",
+    "title": "كيف تتخلص من الديون نهائياً",
+    "titleEn": "How to Eliminate Debt Permanently",
+    "summary": "يقدم هذا المقال دليلاً شاملاً للتخلص من الديون نهائياً من خلال تقييم الوضع المالي، واختيار استراتيجية السداد، وزيادة الدخل، والحفاظ على نمط حياة خالٍ من الديون.",
+    "summaryEn": "This article provides a comprehensive guide to permanently eliminating debt by assessing financial status, choosing a repayment strategy, increasing income, and maintaining a debt-free lifestyle.",
+    "excerpt": "تعلم كيفية التخلص من الديون نهائياً باتباع خطوات عملية تشمل تقييم وضعك المالي، وتطبيق استراتيجيات سداد فعالة، وإدارة دخلك ونفقاتك بذكاء.",
+    "excerptEn": "Learn how to get rid of debt permanently by following practical steps including assessing your financial situation, implementing effective repayment strategies, and intelligently managing your income and expenses.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "18 أغسطس 2026",
+    "dateEn": "August 18, 2026",
+    "dateISO": "2026-08-18",
+    "readTime": "8",
+    "views": "1004",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article117.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "تقييم وضعك المالي الحالي"
+      },
+      {
+        "id": "s2",
+        "text": "اختيار استراتيجية سداد الديون"
+      },
+      {
+        "id": "s3",
+        "text": "زيادة الدخل وتقليل النفقات"
+      },
+      {
+        "id": "s4",
+        "text": "الحفاظ على نمط حياة خالٍ من الديون"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Assess Your Current Financial Situation"
+      },
+      {
+        "id": "s2",
+        "text": "Choose a Debt Repayment Strategy"
+      },
+      {
+        "id": "s3",
+        "text": "Increase Income and Reduce Expenses"
+      },
+      {
+        "id": "s4",
+        "text": "Maintain a Debt-Free Lifestyle"
+      }
+    ],
+    "related": [
+      14
+    ],
+    "content": "<h2 id='s1'>تقييم وضعك المالي الحالي</h2><p>الخطوة الأولى نحو التخلص من الديون هي فهم حجم المشكلة. قم بإعداد قائمة مفصلة بجميع ديونك، بما في ذلك القروض الشخصية، بطاقات الائتمان، وقروض السيارات، مع تحديد المبلغ المستحق، سعر الفائدة، والحد الأدنى للدفع لكل منها.</p><p>بعد ذلك، قم بإنشاء ميزانية دقيقة لتتبع جميع مصادر دخلك ونفقاتك الشهرية. سيساعدك هذا على تحديد أين تذهب أموالك وإيجاد المجالات التي يمكنك فيها تقليص النفقات.</p><h2 id='s2'>اختيار استراتيجية سداد الديون</h2><p>هناك استراتيجيتان رئيسيتان لسداد الديون: طريقة كرة الثلج (Debt Snowball) وطريقة الانهيار الجليدي (Debt Avalanche). في طريقة كرة الثلج، تركز على سداد أصغر دين أولاً بينما تدفع الحد الأدنى على الديون الأخرى، مما يوفر دفعة نفسية.</p><p>أما طريقة الانهيار الجليدي، فتركز على سداد الدين ذي أعلى سعر فائدة أولاً. هذه الطريقة توفر لك أكبر قدر من المال على المدى الطويل عن طريق تقليل الفوائد المدفوعة.</p><h2 id='s3'>زيادة الدخل وتقليل النفقات</h2><p>لتسريع عملية سداد الديون، ابحث عن طرق لزيادة دخلك. يمكن أن يشمل ذلك العمل لساعات إضافية، البحث عن عمل جانبي، أو بيع أشياء لم تعد بحاجة إليها.</p><p>في الوقت نفسه، كن صارماً في تقليل نفقاتك. ابحث عن طرق لخفض التكاليف غير الضرورية مثل الاشتراك في خدمات لا تستخدمها، وتناول الطعام في المنزل بدلاً من المطاعم، وإعادة التفاوض على الفواتير الشهرية.</p><h2 id='s4'>الحفاظ على نمط حياة خالٍ من الديون</h2><p>بمجرد سداد ديونك، من الضروري اتخاذ خطوات للحفاظ على هذا الإنجاز. ابدأ ببناء صندوق طوارئ يغطي 3 إلى 6 أشهر من نفقات المعيشة لحمايتك من الديون المستقبلية في حالة حدوث نفقات غير متوقعة.</p><p>عش دائماً في حدود إمكانياتك وتجنب الوقوع في فخ الديون الجديدة. استمر في تتبع ميزانيتك وكن واعياً بقراراتك المالية لضمان مستقبل مالي مستقر وخالٍ من الديون.</p>",
+    "contentEn": "<h2 id='s1'>Assess Your Current Financial Situation</h2><p>The first step towards eliminating debt is to understand the full scope of the problem. Create a detailed list of all your debts, including personal loans, credit cards, and car loans, noting the outstanding balance, interest rate, and minimum payment for each.</p><p>Next, establish a precise budget to track all your monthly income and expenses. This will help you identify where your money is going and pinpoint areas where you can cut back on spending.</p><h2 id='s2'>Choose a Debt Repayment Strategy</h2><p>There are two primary debt repayment strategies: the Debt Snowball and the Debt Avalanche method. With the Debt Snowball method, you focus on paying off your smallest debt first while making minimum payments on others, providing a psychological boost.</p><p>The Debt Avalanche method, on the other hand, prioritizes paying off the debt with the highest interest rate first. This approach saves you the most money in the long run by minimizing interest paid.</p><h2 id='s3'>Increase Income and Reduce Expenses</h2><p>To accelerate your debt repayment process, seek ways to increase your income. This could involve working extra hours, finding a side hustle, or selling items you no longer need.</p><p>Concurrently, be rigorous in reducing your expenses. Look for ways to cut unnecessary costs, such as unsubscribing from unused services, cooking at home instead of dining out, and renegotiating monthly bills.</p><h2 id='s4'>Maintain a Debt-Free Lifestyle</h2><p>Once your debts are paid off, it's crucial to take steps to maintain this achievement. Start by building an emergency fund covering 3 to 6 months of living expenses to protect yourself from future debt in case of unexpected expenditures.</p><p>Always live within your means and avoid falling into the trap of new debt. Continue to track your budget and be mindful of your financial decisions to ensure a stable, debt-free financial future.</p>"
   }
 ];
 

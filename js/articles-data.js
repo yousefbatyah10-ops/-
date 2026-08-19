@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-18
-// Total articles: 117
+// Last updated: 2026-08-19
+// Total articles: 118
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -8524,6 +8524,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>تقييم وضعك المالي الحالي</h2><p>الخطوة الأولى نحو التخلص من الديون هي فهم حجم المشكلة. قم بإعداد قائمة مفصلة بجميع ديونك، بما في ذلك القروض الشخصية، بطاقات الائتمان، وقروض السيارات، مع تحديد المبلغ المستحق، سعر الفائدة، والحد الأدنى للدفع لكل منها.</p><p>بعد ذلك، قم بإنشاء ميزانية دقيقة لتتبع جميع مصادر دخلك ونفقاتك الشهرية. سيساعدك هذا على تحديد أين تذهب أموالك وإيجاد المجالات التي يمكنك فيها تقليص النفقات.</p><h2 id='s2'>اختيار استراتيجية سداد الديون</h2><p>هناك استراتيجيتان رئيسيتان لسداد الديون: طريقة كرة الثلج (Debt Snowball) وطريقة الانهيار الجليدي (Debt Avalanche). في طريقة كرة الثلج، تركز على سداد أصغر دين أولاً بينما تدفع الحد الأدنى على الديون الأخرى، مما يوفر دفعة نفسية.</p><p>أما طريقة الانهيار الجليدي، فتركز على سداد الدين ذي أعلى سعر فائدة أولاً. هذه الطريقة توفر لك أكبر قدر من المال على المدى الطويل عن طريق تقليل الفوائد المدفوعة.</p><h2 id='s3'>زيادة الدخل وتقليل النفقات</h2><p>لتسريع عملية سداد الديون، ابحث عن طرق لزيادة دخلك. يمكن أن يشمل ذلك العمل لساعات إضافية، البحث عن عمل جانبي، أو بيع أشياء لم تعد بحاجة إليها.</p><p>في الوقت نفسه، كن صارماً في تقليل نفقاتك. ابحث عن طرق لخفض التكاليف غير الضرورية مثل الاشتراك في خدمات لا تستخدمها، وتناول الطعام في المنزل بدلاً من المطاعم، وإعادة التفاوض على الفواتير الشهرية.</p><h2 id='s4'>الحفاظ على نمط حياة خالٍ من الديون</h2><p>بمجرد سداد ديونك، من الضروري اتخاذ خطوات للحفاظ على هذا الإنجاز. ابدأ ببناء صندوق طوارئ يغطي 3 إلى 6 أشهر من نفقات المعيشة لحمايتك من الديون المستقبلية في حالة حدوث نفقات غير متوقعة.</p><p>عش دائماً في حدود إمكانياتك وتجنب الوقوع في فخ الديون الجديدة. استمر في تتبع ميزانيتك وكن واعياً بقراراتك المالية لضمان مستقبل مالي مستقر وخالٍ من الديون.</p>",
     "contentEn": "<h2 id='s1'>Assess Your Current Financial Situation</h2><p>The first step towards eliminating debt is to understand the full scope of the problem. Create a detailed list of all your debts, including personal loans, credit cards, and car loans, noting the outstanding balance, interest rate, and minimum payment for each.</p><p>Next, establish a precise budget to track all your monthly income and expenses. This will help you identify where your money is going and pinpoint areas where you can cut back on spending.</p><h2 id='s2'>Choose a Debt Repayment Strategy</h2><p>There are two primary debt repayment strategies: the Debt Snowball and the Debt Avalanche method. With the Debt Snowball method, you focus on paying off your smallest debt first while making minimum payments on others, providing a psychological boost.</p><p>The Debt Avalanche method, on the other hand, prioritizes paying off the debt with the highest interest rate first. This approach saves you the most money in the long run by minimizing interest paid.</p><h2 id='s3'>Increase Income and Reduce Expenses</h2><p>To accelerate your debt repayment process, seek ways to increase your income. This could involve working extra hours, finding a side hustle, or selling items you no longer need.</p><p>Concurrently, be rigorous in reducing your expenses. Look for ways to cut unnecessary costs, such as unsubscribing from unused services, cooking at home instead of dining out, and renegotiating monthly bills.</p><h2 id='s4'>Maintain a Debt-Free Lifestyle</h2><p>Once your debts are paid off, it's crucial to take steps to maintain this achievement. Start by building an emergency fund covering 3 to 6 months of living expenses to protect yourself from future debt in case of unexpected expenditures.</p><p>Always live within your means and avoid falling into the trap of new debt. Continue to track your budget and be mindful of your financial decisions to ensure a stable, debt-free financial future.</p>"
+  },
+  {
+    "id": 118,
+    "slug": "ethereum-more-than-just-a-cryptocurrency",
+    "title": "الإيثيريوم: أكثر من مجرد عملة رقمية",
+    "titleEn": "Ethereum: More Than Just a Cryptocurrency",
+    "summary": "الإيثيريوم هو منصة بلوكتشين ثورية تتجاوز كونها عملة رقمية، حيث تمكن من بناء العقود الذكية والتطبيقات اللامركزية والتمويل اللامركزي والرموز غير القابلة للاستبدال، مما يجعله حجر الزاوية في مستقبل الويب3.",
+    "summaryEn": "Ethereum is a revolutionary blockchain platform that goes beyond being a digital currency, enabling the creation of smart contracts, decentralized applications, DeFi, and NFTs, making it a cornerstone of the Web3 future.",
+    "excerpt": "يمثل الإيثيريوم نظامًا بيئيًا كاملاً مبنيًا على البلوكتشين، مما يتيح الابتكار في العقو�� الذكية والتطبيقات اللامركزية والتمويل اللامركزي والرموز غير القابلة للاستبدال، وليس مجرد عملة مشفرة.",
+    "excerptEn": "Ethereum represents a complete blockchain-based ecosystem, enabling innovation in smart contracts, dApps, DeFi, and NFTs, rather than just being a cryptocurrency.",
+    "category": "العملات الرقمية",
+    "categoryEn": "Cryptocurrency",
+    "categoryIcon": "₿",
+    "author": "د. سامي القحطاني",
+    "authorEn": "Dr. Sami Al-Qahtani",
+    "authorInitial": "S",
+    "date": "19 أغسطس 2026",
+    "dateEn": "August 19, 2026",
+    "dateISO": "2026-08-19",
+    "readTime": "8",
+    "views": "4734",
+    "emoji": "₿",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article118.jpg",
+    "featured": false,
+    "breadcrumb": "العملات الرقمية",
+    "breadcrumbEn": "Cryptocurrency",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: الإيثيريوم ليس مجرد عملة"
+      },
+      {
+        "id": "s2",
+        "text": "العقود الذكية: أساس الثورة"
+      },
+      {
+        "id": "s3",
+        "text": "التطبيقات اللامركزية (dApps) والتمويل اللامركزي (DeFi)"
+      },
+      {
+        "id": "s4",
+        "text": "الرموز غير القابلة للاستبدال (NFTs) ومستقبل الويب3"
+      },
+      {
+        "id": "s5",
+        "text": "تحديثات الإيثيريوم ومستقبله"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: Ethereum is More Than Just a Currency"
+      },
+      {
+        "id": "s2",
+        "text": "Smart Contracts: The Basis of the Revolution"
+      },
+      {
+        "id": "s3",
+        "text": "Decentralized Applications (dApps) and Decentralized Finance (DeFi)"
+      },
+      {
+        "id": "s4",
+        "text": "Non-Fungible Tokens (NFTs) and the Future of Web3"
+      },
+      {
+        "id": "s5",
+        "text": "Ethereum Updates and Its Future"
+      }
+    ],
+    "related": [
+      8
+    ],
+    "content": "<h2 id='s1'>مقدمة: الإيثيريوم ليس مجرد عملة</h2><p>الإيثيريوم، ثاني أكبر عملة مشفرة من حيث القيمة السوقية، غالبًا ما يُنظر إليه على أنه مجرد منافس للبيتكوين. لكنه في الواقع يمثل منصة تكنولوجية ثورية أوسع بكثير من مجرد كونه وسيلة للتبادل.</p><p>إنه نظام بيئي كامل مبني على تقنية البلوكتشين، يتيح للمطورين بناء تطبيقات لامركزية وإنشاء عقود ذكية تحول طريقة تفاعلنا مع الإنترنت والمال.</p><h2 id='s2'>العقود الذكية: أساس الثورة</h2><p>الابتكار المحوري للإيثيريوم هو مفهوم العقود الذكية، وهي اتفاقيات ذاتية التنفيذ يتم تخزينها وتشغيلها على شبكة البلوكتشين. هذه العقود تلغي الحاجة إلى وسطاء وتضمن تنفيذ الشروط تلقائيًا بمجرد استيفائها.</p><p>تفتح العقود الذكية آفاقًا جديدة للشفافية والأمان في المعاملات، من العقود القانونية إلى إدارة سلاسل التوريد، مما يجعل الإيثيريوم بمثابة \"كمبيوتر عالمي\" لامركزي.</p><h2 id='s3'>التطبيقات اللامركزية (dApps) والتمويل اللامركزي (DeFi)</h2><p>بناءً على العقود الذكية، ازدهرت آلاف التطبيقات اللامركزية (dApps) على شبكة الإيثيريوم، تغطي مجالات مثل الألعاب، الشبكات الاجتماعية، وإدارة الهوية. هذه التطبيقات تعمل دون سلطة مركزية، مما يعزز خصوصية المستخدم ومقاومة الرقابة.</p><p>أحد أبرز مجالات التأثير هو التمويل اللامركزي (DeFi)، الذي يعيد تشكيل الخدمات المصرفية التقليدية. يقدم DeFi خدمات مثل الإقراض والاقتراض والتداول دون الحاجة إلى بنوك، معتمدًا بالكامل على العقود الذكية على الإيثيريوم.</p><h2 id='s4'>الرموز غير القابلة للاستبدال (NFTs) ومستقبل الويب3</h2><p>لعب الإيثيريوم دورًا محوريًا في صعود الرموز غير القابلة للاستبدال (NFTs)، التي تمثل ملكية أصول رقمية فريدة مثل الفن والموسيقى والعقارات الافتراضية. تُستخدم العقود الذكية للإيثيريوم لإنشاء هذه الرموز والتحقق من ملكيتها، مما يفتح أسواقًا جديدة للفنانين والمبدعين.</p><p>تتجاوز أهمية الإيثيريوم مجرد العملة الرقمية لتشمل بناء البنية التحتية لـ \"الويب3\"، وهو الجيل التالي من الإنترنت اللامركزي. يهدف الويب3 إلى منح المستخدمين سيطرة أكبر على بياناتهم وأصولهم الرقمية، والإيثيريوم في طليعة هذا التحول.</p><h2 id='s5'>تحديثات الإيثيريوم ومستقبله</h2><p>شهد الإيثيريوم مؤخرًا ��حديث \"الدمج\" (The Merge)، الذي حول الشبكة من آلية إثبات العمل (PoW) إلى إثبات الحصة (PoS)، مما قلل بشكل كبير من استهلاك الطاقة وجعله أكثر استدامة.</p><p>تستمر التحديثات المستقبلية، مثل \"التقسيم\" (Sharding)، في تعزيز قابلية التوسع وكفاءة الشبكة، مما يبشر بمستقبل مشرق للإيثيريوم كمنصة رائدة للابتكار اللامركزي على مستوى عالمي.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: Ethereum is More Than Just a Currency</h2><p>Ethereum, the second-largest cryptocurrency by market capitalization, is often seen merely as a competitor to Bitcoin. However, it actually represents a revolutionary technological platform far broader than just a medium of exchange.</p><p>It's a complete ecosystem built on blockchain technology, enabling developers to build decentralized applications and create smart contracts that transform how we interact with the internet and finance.</p><h2 id='s2'>Smart Contracts: The Basis of the Revolution</h2><p>Ethereum's pivotal innovation is the concept of smart contracts, self-executing agreements stored and run on the blockchain network. These contracts eliminate the need for intermediaries and ensure conditions are automatically fulfilled once met.</p><p>Smart contracts open new horizons for transparency and security in transactions, from legal agreements to supply chain management, making Ethereum a decentralized \"world computer.\"</p><h2 id='s3'>Decentralized Applications (dApps) and Decentralized Finance (DeFi)</h2><p>Built upon smart contracts, thousands of decentralized applications (dApps) have flourished on the Ethereum network, covering areas like gaming, social networks, and identity management. These applications operate without central authority, enhancing user privacy and censorship resistance.</p><p>One of the most prominent areas of impact is Decentralized Finance (DeFi), which is reshaping traditional banking services. DeFi offers services like lending, borrowing, and trading without the need for banks, relying entirely on smart contracts on Ethereum.</p><h2 id='s4'>Non-Fungible Tokens (NFTs) and the Future of Web3</h2><p>Ethereum has played a central role in the rise of Non-Fungible Tokens (NFTs), which represent ownership of unique digital assets such as art, music, and virtual real estate. Ethereum's smart contracts are used to create these tokens and verify their ownership, opening new markets for artists and creators.</p><p>Ethereum's importance extends beyond just digital currency to include building the infrastructure for \"Web3,\" the next generation of the decentralized internet. Web3 aims to give users greater control over their data and digital assets, and Ethereum is at the forefront of this transformation.</p><h2 id='s5'>Ethereum Updates and Its Future</h2><p>Ethereum recently underwent \"The Merge\" update, transitioning the network from a Proof-of-Work (PoW) to a Proof-of-Stake (PoS) mechanism, significantly reducing energy consumption and making it more sustainable.</p><p>Future updates, such as \"Sharding,\" continue to enhance the network's scalability and efficiency, promising a bright future for Ethereum as a leading platform for global decentralized innovation.</p>"
   }
 ];
 

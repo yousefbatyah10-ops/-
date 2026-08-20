@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-19
-// Total articles: 118
+// Last updated: 2026-08-20
+// Total articles: 119
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -8601,6 +8601,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: الإيثيريوم ليس مجرد عملة</h2><p>الإيثيريوم، ثاني أكبر عملة مشفرة من حيث القيمة السوقية، غالبًا ما يُنظر إليه على أنه مجرد منافس للبيتكوين. لكنه في الواقع يمثل منصة تكنولوجية ثورية أوسع بكثير من مجرد كونه وسيلة للتبادل.</p><p>إنه نظام بيئي كامل مبني على تقنية البلوكتشين، يتيح للمطورين بناء تطبيقات لامركزية وإنشاء عقود ذكية تحول طريقة تفاعلنا مع الإنترنت والمال.</p><h2 id='s2'>العقود الذكية: أساس الثورة</h2><p>الابتكار المحوري للإيثيريوم هو مفهوم العقود الذكية، وهي اتفاقيات ذاتية التنفيذ يتم تخزينها وتشغيلها على شبكة البلوكتشين. هذه العقود تلغي الحاجة إلى وسطاء وتضمن تنفيذ الشروط تلقائيًا بمجرد استيفائها.</p><p>تفتح العقود الذكية آفاقًا جديدة للشفافية والأمان في المعاملات، من العقود القانونية إلى إدارة سلاسل التوريد، مما يجعل الإيثيريوم بمثابة \"كمبيوتر عالمي\" لامركزي.</p><h2 id='s3'>التطبيقات اللامركزية (dApps) والتمويل اللامركزي (DeFi)</h2><p>بناءً على العقود الذكية، ازدهرت آلاف التطبيقات اللامركزية (dApps) على شبكة الإيثيريوم، تغطي مجالات مثل الألعاب، الشبكات الاجتماعية، وإدارة الهوية. هذه التطبيقات تعمل دون سلطة مركزية، مما يعزز خصوصية المستخدم ومقاومة الرقابة.</p><p>أحد أبرز مجالات التأثير هو التمويل اللامركزي (DeFi)، الذي يعيد تشكيل الخدمات المصرفية التقليدية. يقدم DeFi خدمات مثل الإقراض والاقتراض والتداول دون الحاجة إلى بنوك، معتمدًا بالكامل على العقود الذكية على الإيثيريوم.</p><h2 id='s4'>الرموز غير القابلة للاستبدال (NFTs) ومستقبل الويب3</h2><p>لعب الإيثيريوم دورًا محوريًا في صعود الرموز غير القابلة للاستبدال (NFTs)، التي تمثل ملكية أصول رقمية فريدة مثل الفن والموسيقى والعقارات الافتراضية. تُستخدم العقود الذكية للإيثيريوم لإنشاء هذه الرموز والتحقق من ملكيتها، مما يفتح أسواقًا جديدة للفنانين والمبدعين.</p><p>تتجاوز أهمية الإيثيريوم مجرد العملة الرقمية لتشمل بناء البنية التحتية لـ \"الويب3\"، وهو الجيل التالي من الإنترنت اللامركزي. يهدف الويب3 إلى منح المستخدمين سيطرة أكبر على بياناتهم وأصولهم الرقمية، والإيثيريوم في طليعة هذا التحول.</p><h2 id='s5'>تحديثات الإيثيريوم ومستقبله</h2><p>شهد الإيثيريوم مؤخرًا ��حديث \"الدمج\" (The Merge)، الذي حول الشبكة من آلية إثبات العمل (PoW) إلى إثبات الحصة (PoS)، مما قلل بشكل كبير من استهلاك الطاقة وجعله أكثر استدامة.</p><p>تستمر التحديثات المستقبلية، مثل \"التقسيم\" (Sharding)، في تعزيز قابلية التوسع وكفاءة الشبكة، مما يبشر بمستقبل مشرق للإيثيريوم كمنصة رائدة للابتكار اللامركزي على مستوى عالمي.</p>",
     "contentEn": "<h2 id='s1'>Introduction: Ethereum is More Than Just a Currency</h2><p>Ethereum, the second-largest cryptocurrency by market capitalization, is often seen merely as a competitor to Bitcoin. However, it actually represents a revolutionary technological platform far broader than just a medium of exchange.</p><p>It's a complete ecosystem built on blockchain technology, enabling developers to build decentralized applications and create smart contracts that transform how we interact with the internet and finance.</p><h2 id='s2'>Smart Contracts: The Basis of the Revolution</h2><p>Ethereum's pivotal innovation is the concept of smart contracts, self-executing agreements stored and run on the blockchain network. These contracts eliminate the need for intermediaries and ensure conditions are automatically fulfilled once met.</p><p>Smart contracts open new horizons for transparency and security in transactions, from legal agreements to supply chain management, making Ethereum a decentralized \"world computer.\"</p><h2 id='s3'>Decentralized Applications (dApps) and Decentralized Finance (DeFi)</h2><p>Built upon smart contracts, thousands of decentralized applications (dApps) have flourished on the Ethereum network, covering areas like gaming, social networks, and identity management. These applications operate without central authority, enhancing user privacy and censorship resistance.</p><p>One of the most prominent areas of impact is Decentralized Finance (DeFi), which is reshaping traditional banking services. DeFi offers services like lending, borrowing, and trading without the need for banks, relying entirely on smart contracts on Ethereum.</p><h2 id='s4'>Non-Fungible Tokens (NFTs) and the Future of Web3</h2><p>Ethereum has played a central role in the rise of Non-Fungible Tokens (NFTs), which represent ownership of unique digital assets such as art, music, and virtual real estate. Ethereum's smart contracts are used to create these tokens and verify their ownership, opening new markets for artists and creators.</p><p>Ethereum's importance extends beyond just digital currency to include building the infrastructure for \"Web3,\" the next generation of the decentralized internet. Web3 aims to give users greater control over their data and digital assets, and Ethereum is at the forefront of this transformation.</p><h2 id='s5'>Ethereum Updates and Its Future</h2><p>Ethereum recently underwent \"The Merge\" update, transitioning the network from a Proof-of-Work (PoW) to a Proof-of-Stake (PoS) mechanism, significantly reducing energy consumption and making it more sustainable.</p><p>Future updates, such as \"Sharding,\" continue to enhance the network's scalability and efficiency, promising a bright future for Ethereum as a leading platform for global decentralized innovation.</p>"
+  },
+  {
+    "id": 119,
+    "slug": "how-to-analyze-earnings-reports",
+    "title": "كيف تحلل تقارير أرباح الشركات",
+    "titleEn": "How to Analyze Earnings Reports",
+    "summary": "تحليل تقارير أرباح الشركات ضروري للمستثمرين لاتخاذ قرارات مستنيرة حول صحة الشركة وأدائها المالي وإمكانات نموها.",
+    "summaryEn": "Analyzing company earnings reports is essential for investors to make informed decisions about a company's financial health, performance, and growth potential.",
+    "excerpt": "يتناول هذا المقال كيفية فك شفرة تقارير أرباح الشركات لفهم أدائها المالي واتخاذ قرارات استثمارية حكيمة بناءً على البيانات المتوفرة.",
+    "excerptEn": "This article covers how to decipher company earnings reports to understand their financial performance and make wise investment decisions based on available data.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "20 أغسطس 2026",
+    "dateEn": "August 20, 2026",
+    "dateISO": "2026-08-20",
+    "readTime": "10",
+    "views": "1245",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article119.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "فهم أهمية تقارير الأرباح"
+      },
+      {
+        "id": "s2",
+        "text": "المكونات الأساسية للتقرير"
+      },
+      {
+        "id": "s3",
+        "text": "تحليل المقاييس والمؤشرات الرئيسية"
+      },
+      {
+        "id": "s4",
+        "text": "السياق والمقارنات"
+      },
+      {
+        "id": "s5",
+        "text": "استنتاج وتطبيق التحليل"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Understanding the Importance of Earnings Reports"
+      },
+      {
+        "id": "s2",
+        "text": "Key Components of the Report"
+      },
+      {
+        "id": "s3",
+        "text": "Analyzing Key Metrics and Indicators"
+      },
+      {
+        "id": "s4",
+        "text": "Context and Comparisons"
+      },
+      {
+        "id": "s5",
+        "text": "Conclusion and Applying Analysis"
+      }
+    ],
+    "related": [
+      33
+    ],
+    "content": "<h2 id='s1'>فهم أهمية تقارير الأرباح</h2><p>تقارير أرباح الشركات هي وثائق دورية تكشف عن الأداء المالي للشركة خلال فترة معينة، عادة ما تكون ربع سنوية أو سنوية. تُعد هذه التقارير حجر الزاوية للمستثمرين لتحليل صحة الشركة وقوتها المالية ونموها المحتمل.</p><p>يُعد الفهم العميق لهذه التقارير أمرًا بالغ الأهمية لاتخاذ قرارات استثمارية مستنيرة، حيث توفر نظرة ثاقبة حول الإيرادات والمصروفات والأرباح الصافية، مما يؤثر بشكل مباشر على تقييم الأسهم.</p><h2 id='s2'>المكونات الأساسية للتقرير</h2><p>تتكون تقارير الأرباح عادةً من ثلاثة بيانات مالية رئيسية: قائمة الدخل، الميزانية العمومية، وقائمة التدفقات النقدية. توضح قائمة الدخل إيرادات ومصروفات الشركة وربحها الصافي، بينما تعكس الميزانية العمومي�� الأصول والالتزامات وحقوق الملكية في نقطة زمنية محددة.</p><p>تُظهر قائمة التدفقات النقدية كيفية تدفق الأموال داخل وخارج الشركة من الأنشطة التشغيلية والاستثمارية والتمويلية، مما يعطي صورة واضحة عن السيولة والقدرة على توليد النقد.</p><h2 id='s3'>تحليل المقاييس والمؤشرات الرئيسية</h2><p>يجب على المستثمرين التركيز على مقاييس رئيسية مثل ربحية السهم (EPS)، والإيرادات، وصافي الدخل، وهوامش الربح. تُعد مقارنة هذه الأرقام بالتوقعات السابقة وتوقعات المحللين أمرًا حيويًا لتقييم أداء الشركة.</p><p>كما يجب الانتباه إلى توجيهات الإدارة المستقبلية، والتي تقدم تقديرات الشركة لأدائها في الفترات القادمة، مما يؤثر بشكل كبير على معنويات السوق وتوقعات المستثمرين.</p><h2 id='s4'>السياق والمقارنات</h2><p>لا يكفي النظر إلى الأرقام بمعزل عن سياقها. يجب مقارنة الأداء الحالي بالنتائج التاريخية للشركة (الفترات السابقة) لتحديد الاتجاهات والنمو أو التراجع.</p><p>من الضروري أيضًا مقارنة أداء الشركة بمنافسيها في نفس الصناعة ومتوسطات الصناعة لتقييم مدى تنافسيتها ومركزها في السوق. هذا يساعد في فهم ما إذا كان الأداء جيدًا نسبيًا أم لا.</p><h2 id='s5'>استنتاج وتطبيق التحليل</h2><p>إن تحليل تقارير الأرباح ليس مجرد قراءة للأرقام، بل هو عملية فهم شامل للصحة المالية والتشغيلية للشركة. يجب دمج هذا التحليل مع عوامل أخرى مثل ظروف السوق العامة والتحليل الفني للوصول إلى قرار استثماري متكامل.</p><p>من خلال التدقيق المستمر في هذه التقارير، يمكن للمستثمرين بناء محفظة قوية ومستنيرة، وتجنب المخاطر المحتملة، واغتنام الفرص الواعدة في السوق.</p>",
+    "contentEn": "<h2 id='s1'>Understanding the Importance of Earnings Reports</h2><p>Company earnings reports are periodic documents that reveal a company's financial performance over a specific period, usually quarterly or annually. These reports are a cornerstone for investors to analyze a company's health, financial strength, and potential growth.</p><p>A deep understanding of these reports is critical for making informed investment decisions, as they provide insight into revenues, expenses, and net profits, directly impacting stock valuation.</p><h2 id='s2'>Key Components of the Report</h2><p>Earnings reports typically consist of three main financial statements: the income statement, the balance sheet, and the cash flow statement. The income statement details a company's revenues, expenses, and net profit, while the balance sheet reflects assets, liabilities, and equity at a specific point in time.</p><p>The cash flow statement shows how cash flows in and out of the company from operating, investing, and financing activities, providing a clear picture of liquidity and cash-generating ability.</p><h2 id='s3'>Analyzing Key Metrics and Indicators</h2><p>Investors should focus on key metrics such as Earnings Per Share (EPS), revenue, net income, and profit margins. Comparing these figures against past expectations and analyst forecasts is vital for assessing the company's performance.</p><p>Attention should also be paid to management's future guidance, which provides the company's estimates for its performance in upcoming periods, significantly influencing market sentiment and investor expectations.</p><h2 id='s4'>Context and Comparisons</h2><p>It is not enough to look at figures in isolation. Current performance must be compared with the company's historical results (previous periods) to identify trends, growth, or decline.</p><p>It is also essential to compare the company's performance with its competitors in the same industry and industry averages to assess its competitiveness and market position. This helps in understanding whether the performance is relatively good or not.</p><h2 id='s5'>Conclusion and Applying Analysis</h2><p>Analyzing earnings reports is not just about reading numbers; it's a comprehensive process of understanding a company's financial and operational health. This analysis should be integrated with other factors such as general market conditions and technical analysis to reach a holistic investment decision.</p><p>By consistently scrutinizing these reports, investors can build a strong and informed portfolio, avoid potential risks, and seize promising opportunities in the market.</p>"
   }
 ];
 

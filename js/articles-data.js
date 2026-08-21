@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-20
-// Total articles: 119
+// Last updated: 2026-08-21
+// Total articles: 120
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -8678,6 +8678,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فهم أهمية تقارير الأرباح</h2><p>تقارير أرباح الشركات هي وثائق دورية تكشف عن الأداء المالي للشركة خلال فترة معينة، عادة ما تكون ربع سنوية أو سنوية. تُعد هذه التقارير حجر الزاوية للمستثمرين لتحليل صحة الشركة وقوتها المالية ونموها المحتمل.</p><p>يُعد الفهم العميق لهذه التقارير أمرًا بالغ الأهمية لاتخاذ قرارات استثمارية مستنيرة، حيث توفر نظرة ثاقبة حول الإيرادات والمصروفات والأرباح الصافية، مما يؤثر بشكل مباشر على تقييم الأسهم.</p><h2 id='s2'>المكونات الأساسية للتقرير</h2><p>تتكون تقارير الأرباح عادةً من ثلاثة بيانات مالية رئيسية: قائمة الدخل، الميزانية العمومية، وقائمة التدفقات النقدية. توضح قائمة الدخل إيرادات ومصروفات الشركة وربحها الصافي، بينما تعكس الميزانية العمومي�� الأصول والالتزامات وحقوق الملكية في نقطة زمنية محددة.</p><p>تُظهر قائمة التدفقات النقدية كيفية تدفق الأموال داخل وخارج الشركة من الأنشطة التشغيلية والاستثمارية والتمويلية، مما يعطي صورة واضحة عن السيولة والقدرة على توليد النقد.</p><h2 id='s3'>تحليل المقاييس والمؤشرات الرئيسية</h2><p>يجب على المستثمرين التركيز على مقاييس رئيسية مثل ربحية السهم (EPS)، والإيرادات، وصافي الدخل، وهوامش الربح. تُعد مقارنة هذه الأرقام بالتوقعات السابقة وتوقعات المحللين أمرًا حيويًا لتقييم أداء الشركة.</p><p>كما يجب الانتباه إلى توجيهات الإدارة المستقبلية، والتي تقدم تقديرات الشركة لأدائها في الفترات القادمة، مما يؤثر بشكل كبير على معنويات السوق وتوقعات المستثمرين.</p><h2 id='s4'>السياق والمقارنات</h2><p>لا يكفي النظر إلى الأرقام بمعزل عن سياقها. يجب مقارنة الأداء الحالي بالنتائج التاريخية للشركة (الفترات السابقة) لتحديد الاتجاهات والنمو أو التراجع.</p><p>من الضروري أيضًا مقارنة أداء الشركة بمنافسيها في نفس الصناعة ومتوسطات الصناعة لتقييم مدى تنافسيتها ومركزها في السوق. هذا يساعد في فهم ما إذا كان الأداء جيدًا نسبيًا أم لا.</p><h2 id='s5'>استنتاج وتطبيق التحليل</h2><p>إن تحليل تقارير الأرباح ليس مجرد قراءة للأرقام، بل هو عملية فهم شامل للصحة المالية والتشغيلية للشركة. يجب دمج هذا التحليل مع عوامل أخرى مثل ظروف السوق العامة والتحليل الفني للوصول إلى قرار استثماري متكامل.</p><p>من خلال التدقيق المستمر في هذه التقارير، يمكن للمستثمرين بناء محفظة قوية ومستنيرة، وتجنب المخاطر المحتملة، واغتنام الفرص الواعدة في السوق.</p>",
     "contentEn": "<h2 id='s1'>Understanding the Importance of Earnings Reports</h2><p>Company earnings reports are periodic documents that reveal a company's financial performance over a specific period, usually quarterly or annually. These reports are a cornerstone for investors to analyze a company's health, financial strength, and potential growth.</p><p>A deep understanding of these reports is critical for making informed investment decisions, as they provide insight into revenues, expenses, and net profits, directly impacting stock valuation.</p><h2 id='s2'>Key Components of the Report</h2><p>Earnings reports typically consist of three main financial statements: the income statement, the balance sheet, and the cash flow statement. The income statement details a company's revenues, expenses, and net profit, while the balance sheet reflects assets, liabilities, and equity at a specific point in time.</p><p>The cash flow statement shows how cash flows in and out of the company from operating, investing, and financing activities, providing a clear picture of liquidity and cash-generating ability.</p><h2 id='s3'>Analyzing Key Metrics and Indicators</h2><p>Investors should focus on key metrics such as Earnings Per Share (EPS), revenue, net income, and profit margins. Comparing these figures against past expectations and analyst forecasts is vital for assessing the company's performance.</p><p>Attention should also be paid to management's future guidance, which provides the company's estimates for its performance in upcoming periods, significantly influencing market sentiment and investor expectations.</p><h2 id='s4'>Context and Comparisons</h2><p>It is not enough to look at figures in isolation. Current performance must be compared with the company's historical results (previous periods) to identify trends, growth, or decline.</p><p>It is also essential to compare the company's performance with its competitors in the same industry and industry averages to assess its competitiveness and market position. This helps in understanding whether the performance is relatively good or not.</p><h2 id='s5'>Conclusion and Applying Analysis</h2><p>Analyzing earnings reports is not just about reading numbers; it's a comprehensive process of understanding a company's financial and operational health. This analysis should be integrated with other factors such as general market conditions and technical analysis to reach a holistic investment decision.</p><p>By consistently scrutinizing these reports, investors can build a strong and informed portfolio, avoid potential risks, and seize promising opportunities in the market.</p>"
+  },
+  {
+    "id": 120,
+    "slug": "mortgage-comparison-saudi-banks",
+    "title": "التمويل العقاري: مقارنة بين البنوك السعودية",
+    "titleEn": "Mortgage Comparison: Saudi Banks",
+    "summary": "يقدم هذا المقال مقارنة موجزة لأهم عروض التمويل العقاري بين البنوك السعودية، مع التركيز على المعايير الأساسية لاختيار الأنسب.",
+    "summaryEn": "This article provides a concise comparison of key real estate finance offers among Saudi banks, focusing on essential criteria for choosing the most suitable option.",
+    "excerpt": "استكشف الفروقات الجوهرية بين برامج التمويل العقاري لدى البنوك السعودية الرائدة وكيفية اختيار الأفضل لرحلتك نحو امتلاك منزل.",
+    "excerptEn": "Explore the fundamental differences between real estate finance programs at leading Saudi banks and how to choose the best for your homeownership journey.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "21 أغسطس 2026",
+    "dateEn": "August 21, 2026",
+    "dateISO": "2026-08-21",
+    "readTime": "9",
+    "views": "5871",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article120.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة في التمويل العقاري السعودي"
+      },
+      {
+        "id": "s2",
+        "text": "معايير المقارنة الرئيسية"
+      },
+      {
+        "id": "s3",
+        "text": "أبرز البنوك السعودية وعروضها"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح لاختيار الأنسب لك"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Saudi Real Estate Finance"
+      },
+      {
+        "id": "s2",
+        "text": "Key Comparison Criteria"
+      },
+      {
+        "id": "s3",
+        "text": "Prominent Saudi Banks and Their Offerings"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for Choosing the Best Option for You"
+      }
+    ],
+    "related": [
+      32
+    ],
+    "content": "<h2 id='s1'>مقدمة في التمويل العقاري السعودي</h2><p>يعد التمويل العقاري ركيزة أساسية لتحقيق حلم امتلاك منزل في المملكة العربية السعودية، حيث تقدم البنوك حلولاً متنوعة لدعم المواطنين والمقيمين. تهدف هذه المقارنة إلى تسليط الضوء على الفروقات الرئيسية بين عروض البنوك لمساعدتك في اتخاذ قرار مستنير.</p><h2 id='s2'>معايير المقارنة الرئيسية</h2><p>عند مقارنة عروض التمويل، يجب التركيز على عدة عوامل مثل نسبة الربح السنوية، التي تختلف من بنك لآخر وتؤثر بشكل كبير على التكلفة الإجمالية للقرض. كما ينبغي الانتباه إلى الدفعة المقدمة المطلوبة ومدة سداد التمويل، إضافة إلى شروط الأهلية والرسوم الإدارية.</p><h2 id='s3'>أبرز البنوك السعودية وعروضها</h2><p>يتميز بنك الراجحي بانتشاره الواسع وت��وع منتجاته المتوافقة مع الشريعة، بينما يقدم البنك الأهلي السعودي حلولاً تمويلية تنافسية تلبي شرائح مختلفة من العملاء. كذلك، يتميز بنك الرياض بمرونته في الشروط وتقديم خيارات تمويلية مبتكرة. كل بنك يسعى لتقديم مزايا تناسب احتياجات معينة.</p><h2 id='s4'>نصائح لاختيار الأنسب لك</h2><p>لتحقيق أفضل استفادة، قم بجمع عروض من عدة بنوك ومقارنتها بدقة بناءً على احتياجاتك وقدرتك المالية. لا تتردد في طلب توضيحات حول أي نقطة غير واضحة، وفكر في الاستعانة بمستشار مالي لضمان اختيار التمويل العقاري الأمثل لك.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Saudi Real Estate Finance</h2><p>Real estate finance is a cornerstone for achieving the dream of homeownership in Saudi Arabia, with banks offering diverse solutions to support citizens and residents. This comparison aims to highlight key differences between bank offerings to help you make an informed decision.</p><h2 id='s2'>Key Comparison Criteria</h2><p>When comparing finance offers, focus on several factors such as the annual profit rate, which varies between banks and significantly impacts the total loan cost. Attention should also be paid to the required down payment and the loan repayment period, in addition to eligibility conditions and administrative fees.</p><h2 id='s3'>Prominent Saudi Banks and Their Offerings</h2><p>Al Rajhi Bank is known for its wide reach and diverse Sharia-compliant products, while Saudi National Bank (SNB) offers competitive financing solutions catering to various customer segments. Riyad Bank, moreover, is distinguished by its flexible terms and innovative financing options. Each bank strives to provide advantages suited to specific needs.</p><h2 id='s4'>Tips for Choosing the Best Option for You</h2><p>To get the best benefit, collect offers from several banks and compare them carefully based on your needs and financial capability. Do not hesitate to ask for clarifications on any unclear points, and consider consulting a financial advisor to ensure you choose the optimal real estate finance for you.</p>"
   }
 ];
 

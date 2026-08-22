@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-21
-// Total articles: 120
+// Last updated: 2026-08-22
+// Total articles: 121
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -8747,6 +8747,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة في التمويل العقاري السعودي</h2><p>يعد التمويل العقاري ركيزة أساسية لتحقيق حلم امتلاك منزل في المملكة العربية السعودية، حيث تقدم البنوك حلولاً متنوعة لدعم المواطنين والمقيمين. تهدف هذه المقارنة إلى تسليط الضوء على الفروقات الرئيسية بين عروض البنوك لمساعدتك في اتخاذ قرار مستنير.</p><h2 id='s2'>معايير المقارنة الرئيسية</h2><p>عند مقارنة عروض التمويل، يجب التركيز على عدة عوامل مثل نسبة الربح السنوية، التي تختلف من بنك لآخر وتؤثر بشكل كبير على التكلفة الإجمالية للقرض. كما ينبغي الانتباه إلى الدفعة المقدمة المطلوبة ومدة سداد التمويل، إضافة إلى شروط الأهلية والرسوم الإدارية.</p><h2 id='s3'>أبرز البنوك السعودية وعروضها</h2><p>يتميز بنك الراجحي بانتشاره الواسع وت��وع منتجاته المتوافقة مع الشريعة، بينما يقدم البنك الأهلي السعودي حلولاً تمويلية تنافسية تلبي شرائح مختلفة من العملاء. كذلك، يتميز بنك الرياض بمرونته في الشروط وتقديم خيارات تمويلية مبتكرة. كل بنك يسعى لتقديم مزايا تناسب احتياجات معينة.</p><h2 id='s4'>نصائح لاختيار الأنسب لك</h2><p>لتحقيق أفضل استفادة، قم بجمع عروض من عدة بنوك ومقارنتها بدقة بناءً على احتياجاتك وقدرتك المالية. لا تتردد في طلب توضيحات حول أي نقطة غير واضحة، وفكر في الاستعانة بمستشار مالي لضمان اختيار التمويل العقاري الأمثل لك.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Saudi Real Estate Finance</h2><p>Real estate finance is a cornerstone for achieving the dream of homeownership in Saudi Arabia, with banks offering diverse solutions to support citizens and residents. This comparison aims to highlight key differences between bank offerings to help you make an informed decision.</p><h2 id='s2'>Key Comparison Criteria</h2><p>When comparing finance offers, focus on several factors such as the annual profit rate, which varies between banks and significantly impacts the total loan cost. Attention should also be paid to the required down payment and the loan repayment period, in addition to eligibility conditions and administrative fees.</p><h2 id='s3'>Prominent Saudi Banks and Their Offerings</h2><p>Al Rajhi Bank is known for its wide reach and diverse Sharia-compliant products, while Saudi National Bank (SNB) offers competitive financing solutions catering to various customer segments. Riyad Bank, moreover, is distinguished by its flexible terms and innovative financing options. Each bank strives to provide advantages suited to specific needs.</p><h2 id='s4'>Tips for Choosing the Best Option for You</h2><p>To get the best benefit, collect offers from several banks and compare them carefully based on your needs and financial capability. Do not hesitate to ask for clarifications on any unclear points, and consider consulting a financial advisor to ensure you choose the optimal real estate finance for you.</p>"
+  },
+  {
+    "id": 121,
+    "slug": "ipos-opportunity-or-trap",
+    "title": "الاكتتابات العامة: فرصة أم فخ؟",
+    "titleEn": "IPOs: Opportunity or Trap?",
+    "summary": "الاكتتابات العامة تقدم فرصاً استثمارية واعدة لجمع رأس المال والنمو، لكنها تحمل مخاطر التقييم المبالغ فيه وتقلبات السوق التي تتطلب دراسة متأنية لاتخاذ قرار استثماري حكيم.",
+    "summaryEn": "IPOs offer promising investment opportunities for capital raising and growth, yet they carry risks of overvaluation and market volatility, demanding careful study for a wise investment decision.",
+    "excerpt": "هل الاكتتابات العامة فرصة لتحقيق أرباح سريعة أم فخ يتربص بالمستثمرين غير الحذرين؟",
+    "excerptEn": "Are IPOs an opportunity for quick profits or a trap for unwary investors?",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "خالد المحسن",
+    "authorEn": "Khalid Al-Muhsen",
+    "authorInitial": "K",
+    "date": "22 أغسطس 2026",
+    "dateEn": "August 22, 2026",
+    "dateISO": "2026-08-22",
+    "readTime": "9",
+    "views": "1020",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article121.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "الاكتتابات العامة: نظرة عامة"
+      },
+      {
+        "id": "s2",
+        "text": "الجانب المشرق: فرص النمو والعوائد"
+      },
+      {
+        "id": "s3",
+        "text": "الجانب المظلم: المخاطر والتحديات"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح استثمارية: اتخاذ القرار الصحيح"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "IPOs: An Overview"
+      },
+      {
+        "id": "s2",
+        "text": "The Bright Side: Growth Opportunities and Returns"
+      },
+      {
+        "id": "s3",
+        "text": "The Dark Side: Risks and Challenges"
+      },
+      {
+        "id": "s4",
+        "text": "Investment Tips: Making the Right Decision"
+      }
+    ],
+    "related": [
+      80
+    ],
+    "content": "<h2 id='s1'>الاكتتابات العامة: نظرة عامة</h2><p>الاكتتاب العام الأولي (IPO) هو عملية طرح أسهم شركة خاصة للبيع للجمهور لأول مرة. يهدف هذا الطرح إلى جمع رأس مال للشركة والتوسع، مما يمنح المستثمرين فرصة لامتلاك جزء من شركات واعدة.</p><h2 id='s2'>الجانب المشرق: فرص النمو والعوائد</h2><p>يمكن أن توفر الاكتتابات العامة فرصًا جذابة لتحقيق عوائد رأسمالية كبيرة، خاصة إذا كانت الشركة تتمتع بأساسيات قوية وإمكانات نمو عالية. غالبًا ما تشهد بعض الاكتتابات ارتفاعًا في سعر السهم بعد الإدراج مباشرة، مما يجذب المستثمرين الباحثين عن مكاسب سريعة.</p><h2 id='s3'>الجانب المظلم: المخاطر والتحديات</h2><p>مع ذلك، ليست كل الاكتتابات ناجحة. قد تواجه بعض الشركات صعوبات بعد الإدراج، مما يؤدي إلى تراجع سعر السهم وخسارة للمستثمرين. تشمل المخاطر التقييم المبالغ فيه، ونقص الشفافية، وتقلبات السوق، وعدم وجود تاريخ تشغيلي طويل يمكن الاعتماد عليه.</p><h2 id='s4'>نصائح استثمارية: اتخاذ القرار الصحيح</h2><p>لتقييم الاكتتاب، يجب على المستثمرين إجراء بحث شامل عن الشركة، بما في ذلك نموذج عملها، وإدارتها، ووضعها المالي، وآفاق نموها. من الضروري أيضًا فهم شروط الاكتتاب ومقارنتها بالشركات المماثلة في السوق. الاستثمار في الاكتتابات يتطلب دراسة متأنية وليس مجرد الانجراف وراء الضجيج.</p>",
+    "contentEn": "<h2 id='s1'>IPOs: An Overview</h2><p>An Initial Public Offering (IPO) is the process of offering shares of a private company for sale to the public for the first time. This offering aims to raise capital for the company's expansion, giving investors an opportunity to own a part of promising businesses.</p><h2 id='s2'>The Bright Side: Growth Opportunities and Returns</h2><p>IPOs can offer attractive opportunities for significant capital gains, especially if the company has strong fundamentals and high growth potential. Some IPOs often see a surge in share price immediately after listing, attracting investors looking for quick profits.</p><h2 id='s3'>The Dark Side: Risks and Challenges</h2><p>However, not all IPOs are successful. Some companies may face difficulties after listing, leading to a decline in share price and losses for investors. Risks include overvaluation, lack of transparency, market volatility, and a limited operating history to rely on.</p><h2 id='s4'>Investment Tips: Making the Right Decision</h2><p>To evaluate an IPO, investors should conduct thorough research on the company, including its business model, management, financial position, and growth prospects. It is also crucial to understand the IPO terms and compare them with similar companies in the market. Investing in IPOs requires careful study, not just following the hype.</p>"
   }
 ];
 

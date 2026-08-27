@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-26
-// Total articles: 125
+// Last updated: 2026-08-27
+// Total articles: 126
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -9108,6 +9108,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>حدد هويتك وقيمك</h2><p>بناء علامة تجارية شخصية قوية يبدأ بتحديد هويتك الفريدة وقيمك الأساسية. اسأل نفسك: ما هي شغفك، خبراتك، وماذا تريد أن يعرف عنك الآخرون؟</p><p>إن فهم نقاط قوتك ورسالتك سيساعدك على التميز وتقديم قيمة حقيقية لجمهورك المستهدف في عالم الاستثمار والأعمال.</p><h2 id='s2'>اعرض خبراتك بفعالية</h2><p>بعد تحديد هويتك، حان الوقت لعرض خبراتك ومشاركتها مع العالم. قم بإنشاء محتوى قيم ومشاركته عبر المدونات، وسائل التواصل الاجتماعي، أو حتى من خلال التحدث في الفعاليات المتخصصة.</p><p>الاستمرارية في تقديم محتوى عالي الجودة تثبت مصداقيتك وتجذب الانتباه إلى مجالك، مما يعزز مكانتك كخبير.</p><h2 id='s3'>ابنِ حضوراً متسقاً</h2><p>الاتساق هو المفتاح في بناء العلامة التجارية الشخصية. تأكد من أن رسالتك وصورتك متطابقة عب�� جميع منصاتك الرقمية والمهنية، من ملفك الشخصي على LinkedIn إلى منشوراتك على تويتر.</p><p>يعزز هذا الاتساق الثقة ويجعل علامتك التجارية سهلة التذكر والتعرف عليها، مما يساهم في بناء سمعة قوية.</p><h2 id='s4'>تفاعل وتطور باستمرار</h2><p>لا تكتمل العلامة التجارية الشخصية بدون التفاعل مع جمهورك. استمع إلى ملاحظاتهم، أجب عن أسئلتهم، وكن منفتحاً للتطور والتعلم المستمر في مجال تخصصك.</p><p>هذا التفاعل يبني مجتمعاً حول علامتك التجارية ويضمن بقاءها ذات صلة وقيمة مع مرور الوقت، مما يعزز فرصك المهنية.</p>",
     "contentEn": "<h2 id='s1'>Define Your Identity and Values</h2><p>Building a strong personal brand begins with defining your unique identity and core values. Ask yourself: What are your passions, expertise, and what do you want others to know about you?</p><p>Understanding your strengths and message will help you stand out and offer genuine value to your target audience in the world of investment and business.</p><h2 id='s2'>Showcase Your Expertise Effectively</h2><p>Once your identity is clear, it's time to showcase your expertise and share it with the world. Create valuable content and share it through blogs, social media, or even by speaking at specialized events.</p><p>Consistency in delivering high-quality content establishes your credibility and attracts attention to your field, enhancing your position as an expert.</p><h2 id='s3'>Build a Consistent Presence</h2><p>Consistency is key in personal branding. Ensure your message and image are uniform across all your digital and professional platforms, from your LinkedIn profile to your Twitter posts.</p><p>This consistency builds trust and makes your brand memorable and easily recognizable, contributing to a strong reputation.</p><h2 id='s4'>Engage and Evolve Continuously</h2><p>A personal brand is incomplete without engaging with your audience. Listen to their feedback, answer their questions, and be open to continuous learning and evolution in your field of expertise.</p><p>This interaction builds a community around your brand and ensures it remains relevant and valuable over time, boosting your career opportunities.</p>"
+  },
+  {
+    "id": 126,
+    "slug": "how-to-eliminate-debt-permanently",
+    "title": "كيف تتخلص من الديون نهائياً",
+    "titleEn": "How to Eliminate Debt Permanently",
+    "summary": "للتخلص من الديون نهائياً، يجب تقييم وضعك المالي، وضع ميزانية صارمة، تبني استراتيجية سداد فعالة، زيادة الدخل وتقليل النفقات، وأخيراً، الحفاظ على الحرية المالية.",
+    "summaryEn": "To get rid of debt permanently, you must assess your financial situation, create a strict budget, adopt an effective repayment strategy, increase income and reduce expenses, and finally, maintain financial freedom.",
+    "excerpt": "اكتشف الخطوات الأساسية للتخلص من الديون وبناء مستقبل مالي مستقر، من تقييم الوضع الحالي إلى الحفاظ على نمط حياة خالٍ من الديون.",
+    "excerptEn": "Discover the essential steps to eliminate debt and build a stable financial future, from assessing your current situation to maintaining a debt-free lifestyle.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "فاطمة الشهري",
+    "authorEn": "Fatima Al-Shahri",
+    "authorInitial": "F",
+    "date": "27 أغسطس 2026",
+    "dateEn": "August 27, 2026",
+    "dateISO": "2026-08-27",
+    "readTime": "12",
+    "views": "5774",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article126.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "تقييم الديون وتحديد الأهداف"
+      },
+      {
+        "id": "s2",
+        "text": "إنشاء ميزانية صارمة"
+      },
+      {
+        "id": "s3",
+        "text": "تبني استراتيجية سداد فعالة"
+      },
+      {
+        "id": "s4",
+        "text": "زيادة الدخل وتقليل النفقات"
+      },
+      {
+        "id": "s5",
+        "text": "الحفاظ على الحرية المالية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Assess Debts and Set Goals"
+      },
+      {
+        "id": "s2",
+        "text": "Create a Strict Budget"
+      },
+      {
+        "id": "s3",
+        "text": "Adopt an Effective Repayment Strategy"
+      },
+      {
+        "id": "s4",
+        "text": "Increase Income & Reduce Expenses"
+      },
+      {
+        "id": "s5",
+        "text": "Maintain Financial Freedom"
+      }
+    ],
+    "related": [
+      89
+    ],
+    "content": "<h2 id='s1'>تقييم الديون وتحديد الأهداف</h2><p>ابدأ بتحديد جميع ديونك بدقة، من بطاقات ائتمان وقروض شخصية ورهون عقارية إن وجدت. اعرف المبلغ المستحق لكل دين، سعر الفائدة، وشروط السداد.</p><p>بعد فهم الصورة الكاملة، حدد هدفًا واضحًا وموعدًا نهائيًا واقعيًا للتخلص من الديون. هذا سيمنحك دافعًا قويًا وخطًا زمنيًا للعمل عليه.</p><h2 id='s2'>إنشاء ميزانية صارمة</h2><p>قم بإنشاء ميزانية مفصلة لتتبع كل قرش يدخل ويخرج من حساباتك. صنف نفقاتك إلى أساسية وغير أساسية.</p><p>سيساعدك هذا على تحديد أين يمكنك خفض الإنفاق بشكل كبير، مثل الترفيه أو تناول الطعام بالخارج، لتوجيه المزيد من الأموال نحو سداد ديونك.</p><h2 id='s3'>تبني استراتيجية سداد فعالة</h2><p>اختر استراتيجية لسداد الديون والتزم بها. يمكنك استخدام طريقة \"كرة الثلج\" بسداد أصغر دين أولاً للحصول على دافع نفسي، ثم الانتقال إلى الدين التالي.</p><p>بدلاً من ذلك، طبق طريقة \"الانهيار الجليدي\" التي تركز على سداد الديون ذات الفائدة الأعلى أولاً لتوفير أكبر قدر من المال على المدى الطويل.</p><h2 id='s4'>زيادة الدخل وتقليل النفقات</h2><p>ابحث عن طرق مبتكرة لزيادة دخلك، مثل العمل الحر، بيع ممتلكات غير ضرورية، أو طلب زيادة في الراتب. كل مبلغ إضافي يمكن أن يسرع سداد الديون.</p><p>في الوقت نفسه، استمر في تقليص النفقات غير الأساسية وتجنب تمامًا إنشاء ديون جديدة. تذكر أن كل توفير هو خطوة نحو التحرر المالي.</p><h2 id='s5'>الحفاظ على الحرية المالية</h2><p>بمجرد سداد ديونك، لا تتوقف هنا. ركز على بناء صندوق طوارئ قوي يغطي 3-6 أشهر من نفقاتك لتجنب الاقتراض في المستقبل.</p><p>حافظ على عادات إنفاق مسؤولة، وادخر بانتظام، واستثمر بحكمة لتحقيق أهدافك المالية طويلة الأجل والحفاظ على نمط حياة خالٍ من الديون بشكل دائم.</p>",
+    "contentEn": "<h2 id='s1'>Assess Debts and Set Goals</h2><p>Begin by accurately identifying all your debts, including credit cards, personal loans, and mortgages if applicable. Know the amount owed for each debt, the interest rate, and repayment terms.</p><p>After understanding the full picture, set a clear goal and a realistic deadline for becoming debt-free. This will provide strong motivation and a timeline to work towards.</p><h2 id='s2'>Create a Strict Budget</h2><p>Develop a detailed budget to track every penny coming in and going out of your accounts. Categorize your expenses into essential and non-essential.</p><p>This will help you identify areas where you can significantly cut spending, such as entertainment or dining out, to allocate more funds towards debt repayment.</p><h2 id='s3'>Adopt an Effective Repayment Strategy</h2><p>Choose a debt repayment strategy and stick to it. You can use the \"debt snowball\" method by paying off the smallest debt first for psychological momentum, then moving to the next.</p><p>Alternatively, apply the \"debt avalanche\" method, which focuses on paying off debts with the highest interest rates first to save the most money over the long run.</p><h2 id='s4'>Increase Income & Reduce Expenses</h2><p>Look for innovative ways to increase your income, such as freelancing, selling unneeded possessions, or requesting a raise. Every extra amount can accelerate debt repayment.</p><p>At the same time, continue to cut non-essential expenses and completely avoid incurring new debt. Remember, every saving is a step towards financial freedom.</p><h2 id='s5'>Maintain Financial Freedom</h2><p>Once your debts are paid off, don't stop there. Focus on building a robust emergency fund covering 3-6 months of expenses to avoid future borrowing.</p><p>Maintain responsible spending habits, save regularly, and invest wisely to achieve your long-term financial goals and sustain a permanently debt-free lifestyle.</p>"
   }
 ];
 

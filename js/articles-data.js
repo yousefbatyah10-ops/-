@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-30
-// Total articles: 129
+// Last updated: 2026-08-31
+// Total articles: 130
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -9400,6 +9400,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: ما هي الأراضي البيضاء؟</h2><p>الأراضي البيضاء هي قطع أراضٍ غير مطورة تقع عادةً ضمن النطاق العمراني أو على أطراف المدن، ومخصصة للتطوير المستقبلي وفقاً للمخططات العمرانية. تُعد هذه الأراضي فرصة استثمارية جذابة للمستثمرين الذين يبحثون عن نمو رأسمالي على المدى الطويل دون الحاجة إلى إدارة عقارات مؤجرة.</p><p>غالباً ما تكتسب هذه الأراضي قيمتها مع توسع المدن وتحسين البنية التحتية المحيطة بها، مما يجعلها محط اهتمام للمضاربين والمستثمرين الصبورين.</p><h2 id='s2'>لماذا الاستثمار في الأراضي البيضاء؟</h2><p>يتميز الاستثمار في الأراضي البيضاء بإمكانية تحقيق عوائد رأسمالية كبيرة، حيث ترتفع قيمة الأرض بشكل ملحوظ مع مرور الوقت وتطور المنطقة المحيطة. كما أنها توفر تحوطاً ضد التضخم وتحافظ على قيمة رأس المال.</p><p>إضافة إلى ذلك، تتطلب الأراضي البيضاء صيانة منخفضة جداً مقارنة بالعقارات المطورة، ولا تتطلب إدارة مستأجرين أو إصلاحات مكلفة، مما يقلل من الأعباء التشغيلية على المستثمر.</p><h2 id='s3'>تحديات ومخاطر الاستثمار</h2><p>على الرغم من جاذبيتها، ينطوي الاستثمار في الأراضي البيضاء على تحديات ومخاطر. من أبرز هذه التحديات عدم وجود دخل فوري، حيث لا تدر الأرض أي إيرادات إيجارية. كما أن السيولة قد تكون منخفضة، فقد يستغرق بيع الأرض وقتاً طويلاً.</p><p>تشمل المخاطر أيضاً التغيرات في الأنظمة والتشريعات المتعلقة بالبناء والتطوير، أو فرض رسوم على الأراضي البيضاء غير المطورة، مما قد يؤثر على الربحية المتوقعة. التقلبات الاقتصادية وتغيرات السوق العقاري يمكن أن تؤثر أيضاً على قيمة الأرض.</p><h2 id='s4'>نصائح للاستثمار الناجح</h2><p>لتحق��ق استثمار ناجح في الأراضي البيضاء، يجب إجراء بحث شامل ودراسة متأنية للموقع، مع التركيز على المناطق ذات النمو السكاني والاقتصادي المتوقع. تأكد من فهم كامل للمخططات العمرانية المستقبلية للمنطقة وتوفر البنية التحتية.</p><p>من الضروري أيضاً التحقق من الوضع القانوني للأرض، بما في ذلك ملكيتها وتصنيفها ووجود أي قيود على التطوير. يُنصح بالاستعانة بخبراء عقاريين ومستشارين قانونيين لضمان اتخاذ قرارات مستنيرة والابتعاد عن المخاطر المحتملة.</p>",
     "contentEn": "<h2 id='s1'>Introduction: What are White Lands?</h2><p>White lands are undeveloped plots of land typically located within urban boundaries or on the outskirts of cities, designated for future development according to urban plans. These lands present an attractive investment opportunity for investors seeking long-term capital growth without the need for managing rented properties.</p><p>These lands often gain value as cities expand and surrounding infrastructure improves, making them a focal point for speculators and patient investors.</p><h2 id='s2'>Why Invest in White Lands?</h2><p>Investing in white lands offers the potential for significant capital appreciation, as land value can increase considerably over time with the development of the surrounding area. They also provide a hedge against inflation and preserve capital value.</p><p>Furthermore, white lands require very low maintenance compared to developed properties, and do not entail tenant management or costly repairs, which reduces operational burdens on the investor.</p><h2 id='s3'>Challenges and Risks of Investment</h2><p>Despite their appeal, investing in white lands involves challenges and risks. Foremost among these is the lack of immediate income, as the land does not generate any rental revenue. Liquidity can also be low, as selling the land might take a long time.</p><p>Risks also include changes in regulations and legislation related to construction and development, or the imposition of taxes on undeveloped white lands, which could affect expected profitability. Economic fluctuations and changes in the real estate market can also impact land value.</p><h2 id='s4'>Tips for Successful Investment</h2><p>To achieve a successful investment in white lands, thorough research and careful study of the location are essential, focusing on areas with anticipated population and economic growth. Ensure a full understanding of the area's future urban plans and the availability of infrastructure.</p><p>It is also crucial to verify the legal status of the land, including its ownership, classification, and any development restrictions. It is advisable to consult real estate experts and legal advisors to ensure informed decision-making and avoid potential risks.</p>"
+  },
+  {
+    "id": 130,
+    "slug": "platinum-the-forgotten-investment-metal",
+    "title": "البلاتينيوم: المعدن المنسي في عالم الاستثمار",
+    "titleEn": "Platinum: The Forgotten Investment Metal",
+    "summary": "البلاتينيوم معدن ثمين ومنسي غالباً في المحافظ الاستثمارية، رغم استخداماته الصناعية المتعددة وإمكانياته الاستثمارية الفريدة.",
+    "summaryEn": "Platinum is a precious metal often forgotten in investment portfolios, despite its diverse industrial uses and unique investment potential.",
+    "excerpt": "على الرغم من بريقه وأهميته الصناعية، يظل البلاتينيوم خياراً استثمارياً مهمشاً، مما يطرح تساؤلات حول قيمته الحقيقية وإمكانياته الكامنة.",
+    "excerptEn": "Despite its luster and industrial importance, platinum remains a marginalized investment choice, raising questions about its true value and hidden potential.",
+    "category": "الذهب والمعادن",
+    "categoryEn": "Gold & Metals",
+    "categoryIcon": "🧸",
+    "author": "خالد المحسن",
+    "authorEn": "Khalid Al-Muhsen",
+    "authorInitial": "K",
+    "date": "31 أغسطس 2026",
+    "dateEn": "August 31, 2026",
+    "dateISO": "2026-08-31",
+    "readTime": "10",
+    "views": "5029",
+    "emoji": "🧸",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article130.jpg",
+    "featured": false,
+    "breadcrumb": "الذهب والمعادن",
+    "breadcrumbEn": "Gold & Metals",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: المعدن المنسي"
+      },
+      {
+        "id": "s2",
+        "text": "استخدامات البلاتينيوم المتعددة"
+      },
+      {
+        "id": "s3",
+        "text": "البلاتينيوم كاستثمار"
+      },
+      {
+        "id": "s4",
+        "text": "لماذا قد يكون الوقت مناسباً للبلاتينيوم؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: The Forgotten Metal"
+      },
+      {
+        "id": "s2",
+        "text": "Diverse Uses of Platinum"
+      },
+      {
+        "id": "s3",
+        "text": "Platinum as an Investment"
+      },
+      {
+        "id": "s4",
+        "text": "Why Now Might Be the Time for Platinum?"
+      }
+    ],
+    "related": [
+      24
+    ],
+    "content": "<h2 id='s1'>مقدمة: المعدن المنسي</h2><p>البلاتينيوم، المعروف ببريقه الفضي ومقاومته للتآكل، هو أحد أندر المعادن الثمينة وأكثرها قيمة. ومع ذلك، غالباً ما يتجاهله المستثمرون لصالح الذهب والفضة، مما يجعله \"المعدن المنسي\" في عالم الاستثمار.</p><p>يهدف هذا المقال إلى تسليط الضوء على خصائص البلاتينيوم الفريدة ودوره المتنامي في الاقتصاد العالمي، واستكشاف أسباب أهميته الاستثمارية المحتملة.</p><h2 id='s2'>استخدامات البلاتينيوم المتعددة</h2><p>تعتمد صناعات حيوية عديدة على البلاتينيوم، أبرزها صناعة السيارات (المحولات الحفازة)، حيث يساهم في تقليل الانبعاثات الضارة. كما يدخل في صناعة المجوهرات الفاخرة والأجهزة الطبية وزراعة الأسنان.</p><p>يمتد استخدام البلاتينيوم ليشمل الصناع��ت الكيميائية والبتروكيماوية كعامل حفاز، بالإضافة إلى دوره في إنتاج شاشات العرض المسطحة وتخزين البيانات. هذا التنوع في الاستخدامات يمنحه طلباً صناعياً قوياً ومستقراً.</p><h2 id='s3'>البلاتينيوم كاستثمار</h2><p>يتميز البلاتينيوم بعرض محدود، حيث تتركز غالبية إنتاجه في جنوب أفريقيا وروسيا، مما يجعله حساساً للاضطرابات الجيوسياسية ومشاكل التعدين. هذا العرض المقيد، مقابل الطلب الصناعي المتزايد، يؤثر بشكل مباشر على سعره.</p><p>على الرغم من تقلباته، يمكن أن يوفر البلاتينيوم تنويعاً جذاباً للمحافظ الاستثمارية، خاصة للمستثمرين الذين يبحثون عن أصول ذات ارتباط منخفض بالأسواق التقليدية، وذات إمكانية للنمو مدفوعة بالابتكار الصناعي.</p><h2 id='s4'>لماذا قد يكون الوقت مناسباً للبلاتينيوم؟</h2><p>مع التركيز العالمي المتزا��د على السيارات الكهربائية، قد يثير البعض مخاوف بشأن مستقبل الطلب على البلاتينيوم في المحولات الحفازة. لكنه يمتلك دوراً متزايداً في تقنيات الهيدروجين النظيف وخلايا الوقود، مما يعوض هذا التراجع المحتمل.</p><p>في ظل التوجه نحو اقتصاد أكثر صداقة للبيئة والبحث عن مصادر طاقة بديلة، قد يشهد البلاتينيوم انتعاشاً في الطلب كعنصر حاسم في هذه التقنيات المستقبلية، مما يجعله استثماراً واعداً على المدى الطويل.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: The Forgotten Metal</h2><p>Platinum, known for its silvery luster and corrosion resistance, is one of the rarest and most valuable precious metals. However, investors often overlook it in favor of gold and silver, making it \"the forgotten metal\" in the investment world.</p><p>This article aims to highlight platinum's unique properties and its growing role in the global economy, exploring the reasons for its potential investment significance.</p><h2 id='s2'>Diverse Uses of Platinum</h2><p>Many vital industries rely on platinum, most notably the automotive sector (catalytic converters), where it helps reduce harmful emissions. It is also used in luxury jewelry, medical devices, and dental implants.</p><p>Platinum's use extends to chemical and petrochemical industries as a catalyst, in addition to its role in flat-panel displays and data storage. This diversity of applications ensures strong and stable industrial demand.</p><h2 id='s3'>Platinum as an Investment</h2><p>Platinum features limited supply, with the majority of its production concentrated in South Africa and Russia, making it sensitive to geopolitical disruptions and mining issues. This restricted supply, against increasing industrial demand, directly impacts its price.</p><p>Despite its volatility, platinum can offer attractive diversification for investment portfolios, especially for investors seeking assets with low correlation to traditional markets and potential for growth driven by industrial innovation.</p><h2 id='s4'>Why Now Might Be the Time for Platinum?</h2><p>With the growing global focus on electric vehicles, some might raise concerns about the future demand for platinum in catalytic converters. However, it has an increasing role in clean hydrogen technologies and fuel cells, which offsets this potential decline.</p><p>Amidst the shift towards a greener economy and the search for alternative energy sources, platinum may experience a resurgence in demand as a crucial component in these future technologies, making it a promising long-term investment.</p>"
   }
 ];
 

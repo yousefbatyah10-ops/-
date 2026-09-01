@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-08-31
-// Total articles: 130
+// Last updated: 2026-09-01
+// Total articles: 131
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -9469,6 +9469,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: المعدن المنسي</h2><p>البلاتينيوم، المعروف ببريقه الفضي ومقاومته للتآكل، هو أحد أندر المعادن الثمينة وأكثرها قيمة. ومع ذلك، غالباً ما يتجاهله المستثمرون لصالح الذهب والفضة، مما يجعله \"المعدن المنسي\" في عالم الاستثمار.</p><p>يهدف هذا المقال إلى تسليط الضوء على خصائص البلاتينيوم الفريدة ودوره المتنامي في الاقتصاد العالمي، واستكشاف أسباب أهميته الاستثمارية المحتملة.</p><h2 id='s2'>استخدامات البلاتينيوم المتعددة</h2><p>تعتمد صناعات حيوية عديدة على البلاتينيوم، أبرزها صناعة السيارات (المحولات الحفازة)، حيث يساهم في تقليل الانبعاثات الضارة. كما يدخل في صناعة المجوهرات الفاخرة والأجهزة الطبية وزراعة الأسنان.</p><p>يمتد استخدام البلاتينيوم ليشمل الصناع��ت الكيميائية والبتروكيماوية كعامل حفاز، بالإضافة إلى دوره في إنتاج شاشات العرض المسطحة وتخزين البيانات. هذا التنوع في الاستخدامات يمنحه طلباً صناعياً قوياً ومستقراً.</p><h2 id='s3'>البلاتينيوم كاستثمار</h2><p>يتميز البلاتينيوم بعرض محدود، حيث تتركز غالبية إنتاجه في جنوب أفريقيا وروسيا، مما يجعله حساساً للاضطرابات الجيوسياسية ومشاكل التعدين. هذا العرض المقيد، مقابل الطلب الصناعي المتزايد، يؤثر بشكل مباشر على سعره.</p><p>على الرغم من تقلباته، يمكن أن يوفر البلاتينيوم تنويعاً جذاباً للمحافظ الاستثمارية، خاصة للمستثمرين الذين يبحثون عن أصول ذات ارتباط منخفض بالأسواق التقليدية، وذات إمكانية للنمو مدفوعة بالابتكار الصناعي.</p><h2 id='s4'>لماذا قد يكون الوقت مناسباً للبلاتينيوم؟</h2><p>مع التركيز العالمي المتزا��د على السيارات الكهربائية، قد يثير البعض مخاوف بشأن مستقبل الطلب على البلاتينيوم في المحولات الحفازة. لكنه يمتلك دوراً متزايداً في تقنيات الهيدروجين النظيف وخلايا الوقود، مما يعوض هذا التراجع المحتمل.</p><p>في ظل التوجه نحو اقتصاد أكثر صداقة للبيئة والبحث عن مصادر طاقة بديلة، قد يشهد البلاتينيوم انتعاشاً في الطلب كعنصر حاسم في هذه التقنيات المستقبلية، مما يجعله استثماراً واعداً على المدى الطويل.</p>",
     "contentEn": "<h2 id='s1'>Introduction: The Forgotten Metal</h2><p>Platinum, known for its silvery luster and corrosion resistance, is one of the rarest and most valuable precious metals. However, investors often overlook it in favor of gold and silver, making it \"the forgotten metal\" in the investment world.</p><p>This article aims to highlight platinum's unique properties and its growing role in the global economy, exploring the reasons for its potential investment significance.</p><h2 id='s2'>Diverse Uses of Platinum</h2><p>Many vital industries rely on platinum, most notably the automotive sector (catalytic converters), where it helps reduce harmful emissions. It is also used in luxury jewelry, medical devices, and dental implants.</p><p>Platinum's use extends to chemical and petrochemical industries as a catalyst, in addition to its role in flat-panel displays and data storage. This diversity of applications ensures strong and stable industrial demand.</p><h2 id='s3'>Platinum as an Investment</h2><p>Platinum features limited supply, with the majority of its production concentrated in South Africa and Russia, making it sensitive to geopolitical disruptions and mining issues. This restricted supply, against increasing industrial demand, directly impacts its price.</p><p>Despite its volatility, platinum can offer attractive diversification for investment portfolios, especially for investors seeking assets with low correlation to traditional markets and potential for growth driven by industrial innovation.</p><h2 id='s4'>Why Now Might Be the Time for Platinum?</h2><p>With the growing global focus on electric vehicles, some might raise concerns about the future demand for platinum in catalytic converters. However, it has an increasing role in clean hydrogen technologies and fuel cells, which offsets this potential decline.</p><p>Amidst the shift towards a greener economy and the search for alternative energy sources, platinum may experience a resurgence in demand as a crucial component in these future technologies, making it a promising long-term investment.</p>"
+  },
+  {
+    "id": 131,
+    "slug": "investing-in-undeveloped-land",
+    "title": "كيف تستثمر في الأراضي البيضاء",
+    "titleEn": "Investing in Undeveloped Land",
+    "summary": "استثمار الأراضي البيضاء يوفر فرصًا واعدة لتحقيق عوائد رأسمالية عالية مع نمو المدن، ويتطلب فهمًا للموقع، الأنظمة، والخطوات العملية.",
+    "summaryEn": "Investing in white lands offers promising opportunities for high capital gains with urban growth, requiring an understanding of location, regulations, and practical steps.",
+    "excerpt": "اكتشف كيف يمكن للأراضي البيضاء غير المطورة أن تكون استثمارًا مربحًا، مع التركيز على أهمية الموقع والتخطيط المستقبلي.",
+    "excerptEn": "Discover how undeveloped white lands can be a profitable investment, focusing on the importance of location and future planning.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "فاطمة الشهري",
+    "authorEn": "Fatima Al-Shahri",
+    "authorInitial": "F",
+    "date": "1 سبتمبر 2026",
+    "dateEn": "September 1, 2026",
+    "dateISO": "2026-09-01",
+    "readTime": "12",
+    "views": "1753",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article131.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مفهوم الأراضي البيضاء"
+      },
+      {
+        "id": "s2",
+        "text": "لماذا تستثمر في الأراضي البيضاء؟"
+      },
+      {
+        "id": "s3",
+        "text": "اعتبارات أساسية قبل الاستثمار"
+      },
+      {
+        "id": "s4",
+        "text": "خطوات عملية للاستثمار"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Understanding White Lands"
+      },
+      {
+        "id": "s2",
+        "text": "Why Invest in White Lands?"
+      },
+      {
+        "id": "s3",
+        "text": "Key Considerations Before Investing"
+      },
+      {
+        "id": "s4",
+        "text": "Practical Steps for Investing"
+      }
+    ],
+    "related": [
+      48
+    ],
+    "content": "<h2 id='s1'>مفهوم الأراضي البيضاء</h2><p>الأراضي البيضاء هي قطع أراضٍ فضاء داخل النطاق العمراني للمدن، غير مطورة وغير مستخدمة. تُعتبر فرصًا استثمارية واعدة نظرًا لقربها من الخدمات والبنى التحتية.</p><h2 id='s2'>لماذا تستثمر في الأراضي البيضاء؟</h2><p>يكمن جاذبية الاستثمار في الأراضي البيضاء في إمكانية تحقيق عوائد رأسمالية عالية مع نمو المدن وتوسعها، بالإضافة إلى انخفاض تكاليف صيانتها مقارنة بالعقارات المطورة. كما يمكن الاستفادة منها مستقبلاً بالتطوير أو البيع.</p><h2 id='s3'>اعتبارات أساسية قبل الاستثمار</h2><p>قبل الشراء، يجب التحقق من موقع الأرض، مخططات التنمية المستقبلية للمنطقة، سهولة الوصول إليها، والخدمات المتوفرة. من الضروري أيضاً فهم الأنظمة الحكومية المتعلقة بالأراضي البيض��ء، مثل الرسوم المفروضة عليها في بعض الدول.</p><h2 id='s4'>خطوات عملية للاستثمار</h2><p>ابدأ بالبحث الشامل عن الأراضي المتاحة وتحليل السوق. استشر خبراء عقاريين ومحامين للتأكد من صحة الوثائق والملكية. بعد ذلك، قم بتقييم المخاطر والعوائد المحتملة قبل اتخاذ قرار الشراء.</p>",
+    "contentEn": "<h2 id='s1'>Understanding White Lands</h2><p>White lands are vacant plots within urban boundaries, undeveloped and unused. They are considered promising investment opportunities due to their proximity to services and infrastructure.</p><h2 id='s2'>Why Invest in White Lands?</h2><p>The appeal of investing in white lands lies in the potential for high capital gains as cities grow and expand, coupled with lower maintenance costs compared to developed properties. They can also be utilized in the future through development or sale.</p><h2 id='s3'>Key Considerations Before Investing</h2><p>Before purchasing, it's crucial to verify the land's location, future development plans for the area, accessibility, and available services. It's also essential to understand government regulations related to white lands, such as taxes imposed on them in some countries.</p><h2 id='s4'>Practical Steps for Investing</h2><p>Start with comprehensive research on available lands and market analysis. Consult real estate experts and lawyers to ensure the validity of documents and ownership. Subsequently, evaluate potential risks and returns before making a purchase decision.</p>"
   }
 ];
 

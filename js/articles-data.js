@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-01
-// Total articles: 131
+// Last updated: 2026-09-02
+// Total articles: 132
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -9538,6 +9538,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مفهوم الأراضي البيضاء</h2><p>الأراضي البيضاء هي قطع أراضٍ فضاء داخل النطاق العمراني للمدن، غير مطورة وغير مستخدمة. تُعتبر فرصًا استثمارية واعدة نظرًا لقربها من الخدمات والبنى التحتية.</p><h2 id='s2'>لماذا تستثمر في الأراضي البيضاء؟</h2><p>يكمن جاذبية الاستثمار في الأراضي البيضاء في إمكانية تحقيق عوائد رأسمالية عالية مع نمو المدن وتوسعها، بالإضافة إلى انخفاض تكاليف صيانتها مقارنة بالعقارات المطورة. كما يمكن الاستفادة منها مستقبلاً بالتطوير أو البيع.</p><h2 id='s3'>اعتبارات أساسية قبل الاستثمار</h2><p>قبل الشراء، يجب التحقق من موقع الأرض، مخططات التنمية المستقبلية للمنطقة، سهولة الوصول إليها، والخدمات المتوفرة. من الضروري أيضاً فهم الأنظمة الحكومية المتعلقة بالأراضي البيض��ء، مثل الرسوم المفروضة عليها في بعض الدول.</p><h2 id='s4'>خطوات عملية للاستثمار</h2><p>ابدأ بالبحث الشامل عن الأراضي المتاحة وتحليل السوق. استشر خبراء عقاريين ومحامين للتأكد من صحة الوثائق والملكية. بعد ذلك، قم بتقييم المخاطر والعوائد المحتملة قبل اتخاذ قرار الشراء.</p>",
     "contentEn": "<h2 id='s1'>Understanding White Lands</h2><p>White lands are vacant plots within urban boundaries, undeveloped and unused. They are considered promising investment opportunities due to their proximity to services and infrastructure.</p><h2 id='s2'>Why Invest in White Lands?</h2><p>The appeal of investing in white lands lies in the potential for high capital gains as cities grow and expand, coupled with lower maintenance costs compared to developed properties. They can also be utilized in the future through development or sale.</p><h2 id='s3'>Key Considerations Before Investing</h2><p>Before purchasing, it's crucial to verify the land's location, future development plans for the area, accessibility, and available services. It's also essential to understand government regulations related to white lands, such as taxes imposed on them in some countries.</p><h2 id='s4'>Practical Steps for Investing</h2><p>Start with comprehensive research on available lands and market analysis. Consult real estate experts and lawyers to ensure the validity of documents and ownership. Subsequently, evaluate potential risks and returns before making a purchase decision.</p>"
+  },
+  {
+    "id": 132,
+    "slug": "insurance-protecting-your-wealth",
+    "title": "التأمين: حماية ثروتك من الكوارث",
+    "titleEn": "Insurance: Protecting Your Wealth",
+    "summary": "التأمين هو أداة مالية حيوية لحماية الأفراد والأعمال من المخاطر غير المتوقعة والخسائر المالية الكبيرة الناتجة عن الكوارث والأحداث المؤسفة.",
+    "summaryEn": "Insurance is a vital financial tool for protecting individuals and businesses from unexpected risks and significant financial losses resulting from disasters and unfortunate events.",
+    "excerpt": "استكشف كيف يعمل التأمين كدرع واقٍ لثروتك، مؤمّناً استقرارك المالي في وجه التحديات غير المتوقعة.",
+    "excerptEn": "Explore how insurance acts as a protective shield for your wealth, securing your financial stability against unforeseen challenges.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "2 سبتمبر 2026",
+    "dateEn": "September 2, 2026",
+    "dateISO": "2026-09-02",
+    "readTime": "10",
+    "views": "2249",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article132.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: لماذا التأمين ضروري؟"
+      },
+      {
+        "id": "s2",
+        "text": "أنواع التأمين الرئيسية لحماية الثروة"
+      },
+      {
+        "id": "s3",
+        "text": "كيف يحمي التأمين أصولك واستثماراتك؟"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح لاختيار وثيقة التأمين المناسبة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: Why Insurance is Essential?"
+      },
+      {
+        "id": "s2",
+        "text": "Key Types of Insurance for Wealth Protection"
+      },
+      {
+        "id": "s3",
+        "text": "How Insurance Protects Your Assets and Investments?"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for Choosing the Right Insurance Policy"
+      }
+    ],
+    "related": [
+      76
+    ],
+    "content": "<h2 id='s1'>مقدمة: لماذا التأمين ضروري؟</h2><p>العالم مليء بالمخاطر غير المتوقعة، من الكوارث الطبيعية إلى الحوادث الشخصية، والتي يمكن أن تسبب خسائر مالية فادحة. بدون حماية، قد تتبخر مدخرات العمر وتتأثر استثماراتك بشكل كبير.</p><p>التأمين يوفر شبكة أمان، حيث ينقل عبء المخاطر المالية من كاهلك إلى شركة التأمين، مما يضمن استمرارية استقرارك المالي حتى في أسوأ الظروف.</p><h2 id='s2'>أنواع التأمين الرئيسية لحماية الثروة</h2><p>لحماية شاملة لثروتك، هناك أنواع رئيسية من التأمين يجب مراعاتها. تأمين الممتلكات يحمي من الأضرار التي تلحق بالمنازل والمركبات، بينما يوفر التأمين الصحي تغطية لتكاليف العلاج الباهظة.</p><p>تأمين الحياة يضمن الدعم المالي لعائلتك بعد وفاتك، أما تأمين المسؤولية فيحميك من المطالبات القانونية التي قد تنشأ عن حوادث تسببها.</p><h2 id='s3'>كيف يحمي التأمين أصولك واستثماراتك؟</h2><p>عند وقوع كارثة كحريق أو سرقة، يمكن أن يؤدي التأمين إلى تعويضك عن قيمة الأصول المتضررة أو المفقودة، مما يمنعك من استخدام مدخراتك أو بيع استثماراتك لتغطية هذه الخسائر.</p><p>بذلك، يحافظ التأمين على رأس مالك الاستثماري سليماً ويسمح لخططك المالية طويلة الأمد بالاستمرار دون انقطاع، محصناً ثروتك ضد الصدمات المفاجئة.</p><h2 id='s4'>نصائح لاختيار وثيقة التأمين المناسبة</h2><p>لضمان حصولك على أفضل حماية، ابدأ بتقييم احتياجاتك ومخاطرك الشخصية والمالية بدقة. قارن بين عروض التأمين المختلفة من حيث التغطية، المزايا، والأقساط.</p><p>لا تتردد في قراءة الشروط والأحكام بعناية وطرح الأسئلة على وكيل التأمين. استشر مستشار��ً مالياً لمساعدتك في اتخاذ القرار الأمثل الذي يتناسب مع وضعك المالي وأهدافك.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: Why Insurance is Essential?</h2><p>The world is full of unexpected risks, from natural disasters to personal accidents, which can cause significant financial losses. Without protection, lifetime savings can evaporate and investments can be severely impacted.</p><p>Insurance provides a safety net, transferring the burden of financial risks from your shoulders to the insurance company, ensuring the continuity of your financial stability even in the worst circumstances.</p><h2 id='s2'>Key Types of Insurance for Wealth Protection</h2><p>For comprehensive wealth protection, there are key types of insurance to consider. Property insurance protects against damage to homes and vehicles, while health insurance covers expensive medical costs.</p><p>Life insurance ensures financial support for your family after your passing, and liability insurance protects you from legal claims that may arise from accidents you cause.</p><h2 id='s3'>How Insurance Protects Your Assets and Investments?</h2><p>In the event of a disaster like fire or theft, insurance can compensate you for the value of damaged or lost assets, preventing you from using your savings or selling your investments to cover these losses.</p><p>Thus, insurance preserves your investment capital intact and allows your long-term financial plans to continue uninterrupted, fortifying your wealth against sudden shocks.</p><h2 id='s4'>Tips for Choosing the Right Insurance Policy</h2><p>To ensure you get the best protection, start by accurately assessing your personal and financial needs and risks. Compare different insurance offers in terms of coverage, benefits, and premiums.</p><p>Do not hesitate to read the terms and conditions carefully and ask questions to the insurance agent. Consult a financial advisor to help you make the optimal decision that suits your financial situation and goals.</p>"
   }
 ];
 

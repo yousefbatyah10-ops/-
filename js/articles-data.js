@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-03
-// Total articles: 133
+// Last updated: 2026-09-04
+// Total articles: 134
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -9676,6 +9676,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: ما هو التقاعد المبكر؟</h2><p>التقاعد المبكر هو القدرة على ترك العمل قبل السن القانوني للتقاعد، مع امتلاك الموارد المالية الكافية لدعم نمط حياتك. إنه ليس مجرد توقف عن العمل، بل هو فرصة لاستعادة الوقت والتحكم في حياتك.</p><p>يتمحور هذا المفهوم حول بناء ثروة تمكنك من العيش على عوائد استثماراتك أو مدخراتك، مما يمنحك الحرية لتكريس وقتك لما يهمك حقًا.</p><h2 id='s2'>لماذا تسعى للتقاعد المبكر؟</h2><p>الدافع الرئيسي للتقاعد المبكر هو البحث عن الحرية الشخصية والمالية. يتيح لك هذا المسار قضاء المزيد من الوقت مع العائلة، ممارسة الهوايات، السفر، أو حتى بدء مشروعك الخاص بشغف بدلاً من الحاجة.</p><p>كما أنه يوفر فرصة للابتعاد عن ضغوط العمل اليومية، مما يساهم في تحسين الصحة العقلية والجسدية، وال��يش بأسلوب حياة أكثر استدامة وراحة.</p><h2 id='s3'>استراتيجيات تحقيق التقاعد المبكر</h2><p>يتطلب تحقيق التقاعد المبكر تخطيطًا ماليًا دقيقًا والتزامًا صارمًا. تبدأ الرحلة بزيادة معدل الادخار والاستثمار بشكل كبير، غالبًا ما يصل إلى 50% أو أكثر من الدخل.</p><p>تشمل الاستراتيجيات الفعالة الاستثمار في الأصول التي تدر دخلاً، مثل الأسهم الموزعة، العقارات، أو صناديق المؤشرات منخفضة التكلفة، وتقليل الديون غير الضرورية، وتبني ميزانية صارمة للتحكم في النفقات.</p><h2 id='s4'>التحديات والاعتبارات</h2><p>على الرغم من جاذبيته، يواجه التقاعد المبكر تحديات مثل التضخم، تقلبات السوق، وتكاليف الرعاية الصحية. من الضروري وضع خطة طوارئ وتوقعات واقعية للمصاريف المستقبلية.</p><p>كما يجب التفكير في الجانب النفسي؛ فالتكيف مع الحياة بدون روتين عمل قد يكون صعبًا لبعض الأشخاص، مما يستدعي التخطيط لأنشطة وهوايات تملأ هذا الفراغ.</p>",
     "contentEn": "<h2 id='s1'>Introduction: What is Early Retirement?</h2><p>Early retirement is the ability to stop working before the official retirement age, possessing sufficient financial resources to support your lifestyle. It's not just about ceasing work, but an opportunity to reclaim time and control over your life.</p><p>This concept revolves around building wealth that allows you to live off the returns of your investments or savings, granting you the freedom to dedicate your time to what truly matters to you.</p><h2 id='s2'>Why Pursue Early Retirement?</h2><p>The primary motivation for early retirement is the pursuit of personal and financial freedom. This path allows you to spend more time with family, pursue hobbies, travel, or even start your own passion project out of desire rather than necessity.</p><p>It also offers an opportunity to step away from daily work pressures, contributing to improved mental and physical health, and living a more sustainable and comfortable lifestyle.</p><h2 id='s3'>Strategies for Achieving Early Retirement</h2><p>Achieving early retirement requires meticulous financial planning and strict commitment. The journey begins with significantly increasing your savings and investment rate, often reaching 50% or more of your income.</p><p>Effective strategies include investing in income-generating assets such as dividend stocks, real estate, or low-cost index funds, reducing unnecessary debt, and adopting a strict budget to control expenses.</p><h2 id='s4'>Challenges and Considerations</h2><p>Despite its appeal, early retirement faces challenges like inflation, market fluctuations, and healthcare costs. It's crucial to have a contingency plan and realistic expectations for future expenses.</p><p>The psychological aspect also needs consideration; adapting to life without a work routine can be difficult for some, necessitating planning for activities and hobbies to fill this void.</p>"
+  },
+  {
+    "id": 134,
+    "slug": "how-to-read-company-financial-statements",
+    "title": "كيف تقرأ القوائم المالية للشركات",
+    "titleEn": "How to Read Company Financial Statements",
+    "summary": "دليل موجز للمستثمرين لفهم كيفية قراءة وتحليل القوائم المالية الأساسية للشركات لاتخاذ قرارات استثمارية مستنيرة.",
+    "summaryEn": "A concise guide for investors to understand how to read and analyze essential company financial statements for informed investment decisions.",
+    "excerpt": "تُعد القوائم المالية بمثابة خريطة طريق لتقييم صحة الشركات وأدائها، وتشمل قائمة الدخل والميزانية العمومية وقائمة التدفقات النقدية.",
+    "excerptEn": "Financial statements serve as a roadmap for assessing company health and performance, encompassing the income statement, balance sheet, and cash flow statement.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "4 سبتمبر 2026",
+    "dateEn": "September 4, 2026",
+    "dateISO": "2026-09-04",
+    "readTime": "9",
+    "views": "4186",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article134.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: لماذا نقرأ القوائم المالية؟"
+      },
+      {
+        "id": "s2",
+        "text": "قائمة الدخل: الأداء التشغيلي"
+      },
+      {
+        "id": "s3",
+        "text": "الميزانية العمومية: الوضع المالي"
+      },
+      {
+        "id": "s4",
+        "text": "قائمة التدفقات النقدية: حركة الأموال"
+      },
+      {
+        "id": "s5",
+        "text": "خاتمة: التحليل لاتخاذ القرارات"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: Why Read Financial Statements?"
+      },
+      {
+        "id": "s2",
+        "text": "Income Statement: Operating Performance"
+      },
+      {
+        "id": "s3",
+        "text": "Balance Sheet: Financial Position"
+      },
+      {
+        "id": "s4",
+        "text": "Cash Flow Statement: Movement of Funds"
+      },
+      {
+        "id": "s5",
+        "text": "Conclusion: Analysis for Decision Making"
+      }
+    ],
+    "related": [
+      113
+    ],
+    "content": "<h2 id='s1'>مقدمة: لماذا نقرأ القوائم المالية؟</h2><p>تُعد القوائم المالية بمثابة نبض الشركات، فهي تقدم لمحة شاملة عن أدائها المالي ووضعها الاقتصادي. إن فهم كيفية قراءتها وتحليلها أمر بالغ الأهمية للمستثمرين لاتخاذ قرارات مستنيرة وتحديد الفرص والمخاطر.</p><h2 id='s2'>قائمة الدخل: الأداء التشغيلي</h2><p>تُظهر قائمة الدخل، المعروفة أيضاً بقائمة الأرباح والخسائر، إيرادات الشركة ومصروفاتها على مدى فترة زمنية محددة. من خلالها، يمكنك تقييم ربحية الشركة وقدرتها على تحقيق الأرباح من عملياتها الأساسية.</p><h2 id='s3'>الميزانية العمومية: الوضع المالي</h2><p>تُقدم الميزانية العمومية لقطة سريعة لأصول الشركة وخصومها وحقوق الملكية في نقطة زمنية محددة. تساعد هذه القائمة في فهم هيكل الشركة المالي، ومقدا�� ما تملكه، وما تدين به، وصافي قيمتها.</p><h2 id='s4'>قائمة التدفقات النقدية: حركة الأموال</h2><p>تُبين قائمة التدفقات النقدية كيفية تدفق الأموال داخل وخارج الشركة، مقسمة إلى أنشطة تشغيلية واستثمارية وتمويلية. إنها تكشف عن قدرة الشركة على توليد النقد وسداد ديونها وتمويل نموها المستقبلي.</p><h2 id='s5'>خاتمة: التحليل لاتخاذ القرارات</h2><p>إن قراءة القوائم المالية ليست مجرد تجميع أرقام، بل هي عملية تحليلية لفهم صحة الشركة المالية. يُمكّنك دمج البيانات من القوائم الثلاث من تكوين رؤية شاملة لاتخاذ قرارات استثمارية مدروسة.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: Why Read Financial Statements?</h2><p>Financial statements are the pulse of companies, offering a comprehensive overview of their financial performance and economic position. Understanding how to read and analyze them is crucial for investors to make informed decisions and identify opportunities and risks.</p><h2 id='s2'>Income Statement: Operating Performance</h2><p>The income statement, also known as the profit and loss statement, shows a company's revenues and expenses over a specific period. Through it, you can assess the company's profitability and its ability to generate earnings from its core operations.</p><h2 id='s3'>Balance Sheet: Financial Position</h2><p>The balance sheet provides a snapshot of a company's assets, liabilities, and equity at a specific point in time. This statement helps in understanding the company's financial structure, how much it owns, how much it owes, and its net worth.</p><h2 id='s4'>Cash Flow Statement: Movement of Funds</h2><p>The cash flow statement illustrates how cash flows into and out of the company, categorized into operating, investing, and financing activities. It reveals the company's ability to generate cash, pay its debts, and fund its future growth.</p><h2 id='s5'>Conclusion: Analysis for Decision Making</h2><p>Reading financial statements is not merely compiling numbers; it's an analytical process to understand a company's financial health. Integrating data from all three statements enables you to form a comprehensive view for making well-informed investment decisions.</p>"
   }
 ];
 

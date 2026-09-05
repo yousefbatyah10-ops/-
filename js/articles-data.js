@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-04
-// Total articles: 134
+// Last updated: 2026-09-05
+// Total articles: 135
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -9753,6 +9753,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: لماذا نقرأ القوائم المالية؟</h2><p>تُعد القوائم المالية بمثابة نبض الشركات، فهي تقدم لمحة شاملة عن أدائها المالي ووضعها الاقتصادي. إن فهم كيفية قراءتها وتحليلها أمر بالغ الأهمية للمستثمرين لاتخاذ قرارات مستنيرة وتحديد الفرص والمخاطر.</p><h2 id='s2'>قائمة الدخل: الأداء التشغيلي</h2><p>تُظهر قائمة الدخل، المعروفة أيضاً بقائمة الأرباح والخسائر، إيرادات الشركة ومصروفاتها على مدى فترة زمنية محددة. من خلالها، يمكنك تقييم ربحية الشركة وقدرتها على تحقيق الأرباح من عملياتها الأساسية.</p><h2 id='s3'>الميزانية العمومية: الوضع المالي</h2><p>تُقدم الميزانية العمومية لقطة سريعة لأصول الشركة وخصومها وحقوق الملكية في نقطة زمنية محددة. تساعد هذه القائمة في فهم هيكل الشركة المالي، ومقدا�� ما تملكه، وما تدين به، وصافي قيمتها.</p><h2 id='s4'>قائمة التدفقات النقدية: حركة الأموال</h2><p>تُبين قائمة التدفقات النقدية كيفية تدفق الأموال داخل وخارج الشركة، مقسمة إلى أنشطة تشغيلية واستثمارية وتمويلية. إنها تكشف عن قدرة الشركة على توليد النقد وسداد ديونها وتمويل نموها المستقبلي.</p><h2 id='s5'>خاتمة: التحليل لاتخاذ القرارات</h2><p>إن قراءة القوائم المالية ليست مجرد تجميع أرقام، بل هي عملية تحليلية لفهم صحة الشركة المالية. يُمكّنك دمج البيانات من القوائم الثلاث من تكوين رؤية شاملة لاتخاذ قرارات استثمارية مدروسة.</p>",
     "contentEn": "<h2 id='s1'>Introduction: Why Read Financial Statements?</h2><p>Financial statements are the pulse of companies, offering a comprehensive overview of their financial performance and economic position. Understanding how to read and analyze them is crucial for investors to make informed decisions and identify opportunities and risks.</p><h2 id='s2'>Income Statement: Operating Performance</h2><p>The income statement, also known as the profit and loss statement, shows a company's revenues and expenses over a specific period. Through it, you can assess the company's profitability and its ability to generate earnings from its core operations.</p><h2 id='s3'>Balance Sheet: Financial Position</h2><p>The balance sheet provides a snapshot of a company's assets, liabilities, and equity at a specific point in time. This statement helps in understanding the company's financial structure, how much it owns, how much it owes, and its net worth.</p><h2 id='s4'>Cash Flow Statement: Movement of Funds</h2><p>The cash flow statement illustrates how cash flows into and out of the company, categorized into operating, investing, and financing activities. It reveals the company's ability to generate cash, pay its debts, and fund its future growth.</p><h2 id='s5'>Conclusion: Analysis for Decision Making</h2><p>Reading financial statements is not merely compiling numbers; it's an analytical process to understand a company's financial health. Integrating data from all three statements enables you to form a comprehensive view for making well-informed investment decisions.</p>"
+  },
+  {
+    "id": 135,
+    "slug": "insurance-protecting-your-wealth",
+    "title": "التأمين: حماية ثروتك من الكوارث",
+    "titleEn": "Insurance: Protecting Your Wealth",
+    "summary": "التأمين أداة مالية حيوية لحماية الأفراد والأصول من المخاطر غير المتوقعة، مما يضمن الاستقرار المالي في مواجهة الكوارث.",
+    "summaryEn": "Insurance is a vital financial tool that protects individuals and assets from unexpected risks, ensuring financial stability in the face of disasters.",
+    "excerpt": "اكتشف كيف يمكن للتأمين أن يكون درعك الواقي ضد الخسائر المالية الناجمة عن الأحداث غير المتوقعة، محافظًا على ثروتك واستقرارك المستقبلي.",
+    "excerptEn": "Discover how insurance can be your protective shield against financial losses from unforeseen events, preserving your wealth and future stability.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "5 سبتمبر 2026",
+    "dateEn": "September 5, 2026",
+    "dateISO": "2026-09-05",
+    "readTime": "9",
+    "views": "2852",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article135.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مفهوم التأمين وأهميته"
+      },
+      {
+        "id": "s2",
+        "text": "أنواع التأمين الرئيسية لحماية الثروة"
+      },
+      {
+        "id": "s3",
+        "text": "كيف يحمي التأمين أصولك المالية؟"
+      },
+      {
+        "id": "s4",
+        "text": "التأمين: استثمار في الطمأنينة والاستقرار"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "The Concept and Importance of Insurance"
+      },
+      {
+        "id": "s2",
+        "text": "Key Types of Insurance for Wealth Protection"
+      },
+      {
+        "id": "s3",
+        "text": "How Does Insurance Protect Your Financial Assets?"
+      },
+      {
+        "id": "s4",
+        "text": "Insurance: An Investment in Peace of Mind and Stability"
+      }
+    ],
+    "related": [
+      74
+    ],
+    "content": "<h2 id='s1'>مفهوم التأمين وأهميته</h2><p>التأمين هو عقد بين طرفين يلتزم بموجبه المؤمِّن بتعويض المؤمَّن له عن الخسائر المالية الناتجة عن وقوع خطر معين، مقابل قسط دوري. إنه شبكة أمان مالية ضرورية في عالم مليء بالمخاطر غير المتوقعة.</p><p>تكمن أهميته في حماية الأفراد والشركات من صدمات الكوارث الطبيعية، الحوادث، الأمراض، أو أي أحداث أخرى قد تؤدي إلى خسائر فادحة، وبالتالي الحفاظ على الثروة المكتسبة والمساعدة في التعافي.</p><h2 id='s2'>أنواع التأمين الرئيسية لحماية الثروة</h2><p>للحفاظ على الثروة، هناك أنواع تأمين أساسية يجب مراعاتها. يشمل تأمين الممتلكات المنازل والسيارات والأصول القيمة الأخرى ضد التلف أو السرقة.</p><p>يُعد التأمين الصحي والتأمين على الحياة ضروريين لحماية الأفراد وع��ئلاتهم من الأعباء المالية للأمراض أو الوفاة، بينما يحمي تأمين المسؤولية المدنية من المطالبات القانونية مكلفة.</p><h2 id='s3'>كيف يحمي التأمين أصولك المالية؟</h2><p>يعمل التأمين كآلية لنقل المخاطر، حيث يقوم بتحويل العبء المالي المحتمل للكوارث من الفرد أو الشركة إلى شركة التأمين. هذا يمنع استنزاف المدخرات أو الاضطرار إلى بيع الأصول لتغطية الخسائر.</p><p>عند وقوع حادث مؤمّن عليه، يوفر التأمين تعويضًا ماليًا يساعد في إصلاح الأضرار، استبدال الممتلكات المفقودة، أو تغطية التكاليف الطبية الباهظة، مما يحمي ثروتك من التآكل.</p><h2 id='s4'>التأمين: استثمار في الطمأنينة والاستقرار</h2><p>بدلاً من النظر إلى أقساط التأمين كمجرد نفقات، يجب اعتبارها استثمارًا استراتيجيًا في الاستقرار المالي والطمأنينة. فهو يوفر شعورًا بالأمان ويسمح لك بالتركيز على بناء ثروتك دون قلق مفرط من المجهول.</p><p>إن اختيار وثيقة التأمين المناسبة، بعد تقييم دقيق لاحتياجاتك ومقارنة الخيارات، هو خطوة حاسمة لضمان حماية شاملة وفعالة لثروتك ومستقبلك المالي.</p>",
+    "contentEn": "<h2 id='s1'>The Concept and Importance of Insurance</h2><p>Insurance is a contract between two parties where the insurer agrees to compensate the insured for financial losses resulting from a specific risk, in exchange for a periodic premium. It is an essential financial safety net in a world full of unpredictable risks.</p><p>Its importance lies in protecting individuals and businesses from the shocks of natural disasters, accidents, illnesses, or any other events that could lead to devastating losses, thereby preserving acquired wealth and aiding in recovery.</p><h2 id='s2'>Key Types of Insurance for Wealth Protection</h2><p>To preserve wealth, several essential types of insurance should be considered. Property insurance covers homes, vehicles, and other valuable assets against damage or theft.</p><p>Health and life insurance are crucial for protecting individuals and their families from the financial burdens of illness or death, while liability insurance shields against costly legal claims.</p><h2 id='s3'>How Does Insurance Protect Your Financial Assets?</h2><p>Insurance acts as a risk transfer mechanism, shifting the potential financial burden of disasters from the individual or company to the insurance provider. This prevents the depletion of savings or the need to sell assets to cover losses.</p><p>When an insured event occurs, insurance provides financial compensation that helps repair damages, replace lost property, or cover expensive medical costs, thus protecting your wealth from erosion.</p><h2 id='s4'>Insurance: An Investment in Peace of Mind and Stability</h2><p>Instead of viewing insurance premiums merely as expenses, they should be considered a strategic investment in financial stability and peace of mind. It provides a sense of security, allowing you to focus on building your wealth without excessive worry about the unknown.</p><p>Choosing the right insurance policy, after a careful assessment of your needs and comparison of options, is a crucial step to ensure comprehensive and effective protection for your wealth and financial future.</p>"
   }
 ];
 

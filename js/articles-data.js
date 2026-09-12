@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-11
-// Total articles: 140
+// Last updated: 2026-09-12
+// Total articles: 141
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -10175,6 +10175,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة ومفهوم الـ NFTs</h2><p>الرموز غير القابلة للاستبدال (NFTs) هي أصول رقمية فريدة مسجلة على البلوكتشين، اكتسبت شهرة واسعة كأعمال فنية ومقتنيات.</p><p>بعد طفرة جنونية في عامي 2021 و2022، شهد السوق تباطؤًا ملحوظًا، مما أثار تساؤلات حول استدامتها وقيمتها المستقبلية.</p><h2 id='s2'>التحولات في سوق الـ NFTs</h2><p>انتقل التركيز من المضاربة على الفن الرقمي إلى البحث عن المنفعة الحقيقية والتطبيقات العملية.</p><p>نرى الآن مشاريع تركز على الألعاب، الهوية الرقمية، حقوق الملكية الفكرية، وربط الأصول المادية بالعالم الرقمي.</p><h2 id='s3'>الفرص المستقبلية بحلول 2026</h2><p>بحلول عام 2026، من المتوقع أن تنضج تقنية الـ NFTs وتجد موطئ قدم أقوى في قطاعات مثل الترفيه، العقارات، وسلاسل التوريد.</p><p>قد نشهد تبنيًا أوسع من الشركات الكبرى والمؤسسات، مما يعزز السيولة والاستقرار في السوق.</p><h2 id='s4'>التحديات والاستنتاج</h2><p>لا تزال التحديات قائمة، مثل التقلبات السوقية، المخاوف التنظيمية، والحاجة إلى بنية تحتية أقوى.</p><p>للراغبين في الاستثمار، يجب التركيز على المشاريع ذات المنفعة الواضحة والفريق القوي، مع فهم أن المخاطر لا تزال عالية.</p>",
     "contentEn": "<h2 id='s1'>Introduction and the Concept of NFTs</h2><p>Non-Fungible Tokens (NFTs) are unique digital assets recorded on a blockchain, gaining widespread fame as art and collectibles.</p><p>After a frantic boom in 2021 and 2022, the market experienced a significant slowdown, raising questions about their sustainability and future value.</p><h2 id='s2'>Shifts in the NFT Market</h2><p>The focus has shifted from speculation on digital art to seeking real utility and practical applications.</p><p>We now see projects focusing on gaming, digital identity, intellectual property rights, and linking physical assets to the digital world.</p><h2 id='s3'>Future Opportunities by 2026</h2><p>By 2026, NFT technology is expected to mature and find a stronger foothold in sectors like entertainment, real estate, and supply chains.</p><p>We may witness broader adoption by major corporations and institutions, enhancing market liquidity and stability.</p><h2 id='s4'>Challenges and Conclusion</h2><p>Challenges persist, such as market volatility, regulatory concerns, and the need for stronger infrastructure.</p><p>For those interested in investing, focus should be on projects with clear utility and strong teams, understanding that risks remain high.</p>"
+  },
+  {
+    "id": 141,
+    "slug": "affiliate-marketing-beginners-guide",
+    "title": "التسويق بالعمولة: دليل المبتدئين",
+    "titleEn": "Affiliate Marketing: Beginner's Guide",
+    "summary": "التسويق بالعمولة هو نموذج عمل يتيح للأفراد كسب عمولة عن طريق الترويج لمنتجات أو خدمات شركات أخرى.",
+    "summaryEn": "Affiliate marketing is a business model allowing individuals to earn commissions by promoting products or services of other companies.",
+    "excerpt": "اكتشف أساسيات التسويق بالعمولة وكيف يمكن للمبتدئين البدء في هذا المجال المربح لبناء دخل إضافي.",
+    "excerptEn": "Discover the fundamentals of affiliate marketing and how beginners can start in this lucrative field to build additional income.",
+    "category": "الدخل السلبي",
+    "categoryEn": "Passive Income",
+    "categoryIcon": "💰",
+    "author": "خالد المحسن",
+    "authorEn": "Khalid Al-Muhsen",
+    "authorInitial": "K",
+    "date": "12 سبتمبر 2026",
+    "dateEn": "September 12, 2026",
+    "dateISO": "2026-09-12",
+    "readTime": "9",
+    "views": "2765",
+    "emoji": "💰",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article141.jpg",
+    "featured": false,
+    "breadcrumb": "الدخل السلبي",
+    "breadcrumbEn": "Passive Income",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هو التسويق بالعمولة؟"
+      },
+      {
+        "id": "s2",
+        "text": "كيف يعمل التسويق بالعمولة؟"
+      },
+      {
+        "id": "s3",
+        "text": "لماذا تبدأ بالتسويق بالعمولة؟"
+      },
+      {
+        "id": "s4",
+        "text": "خطوات البدء للمبتدئين"
+      },
+      {
+        "id": "s5",
+        "text": "نصائح للنجاح في التسويق بالعمولة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What is Affiliate Marketing?"
+      },
+      {
+        "id": "s2",
+        "text": "How Does Affiliate Marketing Work?"
+      },
+      {
+        "id": "s3",
+        "text": "Why Start Affiliate Marketing?"
+      },
+      {
+        "id": "s4",
+        "text": "Steps to Start for Beginners"
+      },
+      {
+        "id": "s5",
+        "text": "Tips for Success in Affiliate Marketing"
+      }
+    ],
+    "related": [
+      11
+    ],
+    "content": "<h2 id='s1'>ما هو التسويق بالعمولة؟</h2><p>��لتسويق بالعمولة هو استراتيجية تسويقية حيث يكافئ العمل التجاري واحدًا أو أكثر من المسوقين التابعين له عن كل زائر أو عميل يجلبونه من خلال جهود التسويق الخاصة بهم. إنه بمثابة وسيط يربط بين البائع والمشتري.</p><p>يعتمد هذا النموذج على مبدأ الشراكة، حيث يقوم المسوق بالترويج لمنتجات أو خدمات لا يملكها، ويكسب نسبة مئوية من كل عملية بيع ناجحة تتم عبر رابط التتبع الخاص به.</p><h2 id='s2'>كيف يعمل التسويق بالعمولة؟</h2><p>يتضمن التسويق بالعمولة ثلاثة أطراف رئيسية: البائع (التاجر)، المسوق بالعمولة (التابع)، والعميل. يقوم المسوق بالعمولة بالترويج للمنتج من خلال مدونة، وسائل تواصل اجتماعي، أو إعلانات.</p><p>عندما ينقر العميل على رابط المسوق بالعمولة ويقوم بعملية شراء، يقوم نظام التتبع بتسجيل البيع، ويحصل المسوق على عمولته المتفق عليها.</p><h2 id='s3'>لماذا تبدأ بالتسويق بالعمولة؟</h2><p>يعتبر التسويق بالعمولة جذابًا للمبتدئين لأنه لا يتطلب إنشاء منتج خاص بك أو التعامل مع المخزون والشحن. يمكنك البدء برأس مال قليل نسبيًا.</p><p>كما يوفر مرونة كبيرة في العمل من أي مكان وفي أي وقت، مما يجعله مصدر دخل إضافي مثالي أو حتى وظيفة بدوام كامل.</p><h2 id='s4'>خطوات البدء للمبتدئين</h2><p>أولاً، اختر مجالًا متخصصًا (Niche) تهتم به ولديه جمهور محتمل. ثم ابحث عن برامج التسويق بالعمولة التي تقدم منتجات أو خدمات ذات صلة بهذا المجال.</p><p>بعد ذلك، قم بإنشاء محتوى عالي الجودة (مثل مراجعات، أدلة، مقارنات) للترويج للمنتجات المختارة، وتأكد من تضمين روابط العمولة الخاصة بك بشكل طبيعي.</p><h2 id='s5'>نصائح للنجاح في التسويق بالعمولة</h2><p>ركز على ب��اء الثقة مع جمهورك من خلال التوصية بمنتجات تؤمن بها حقًا وتقدم قيمة حقيقية. الشفافية أمر بالغ الأهمية.</p><p>استمر في التعلم وتتبع أدائك، وحلل ما ينجح وما لا ينجح لتحسين استراتيجياتك باستمرار وزيادة أرباحك.</p>",
+    "contentEn": "<h2 id='s1'>What is Affiliate Marketing?</h2><p>Affiliate marketing is a marketing strategy where a business rewards one or more affiliates for each visitor or customer brought by the affiliate's own marketing efforts. It acts as an intermediary connecting the seller and the buyer.</p><p>This model is based on the principle of partnership, where the marketer promotes products or services they do not own, earning a percentage of each successful sale made through their unique tracking link.</p><h2 id='s2'>How Does Affiliate Marketing Work?</h2><p>Affiliate marketing involves three main parties: the seller (merchant), the affiliate marketer, and the customer. The affiliate promotes the product through a blog, social media, or advertisements.</p><p>When a customer clicks on the affiliate's link and makes a purchase, the tracking system records the sale, and the affiliate earns their agreed-upon commission.</p><h2 id='s3'>Why Start Affiliate Marketing?</h2><p>Affiliate marketing is appealing to beginners because it doesn't require creating your own product or dealing with inventory and shipping. You can start with relatively low capital.</p><p>It also offers great flexibility to work from anywhere, anytime, making it an ideal source of supplementary income or even a full-time career.</p><h2 id='s4'>Steps to Start for Beginners</h2><p>First, choose a niche you are interested in and that has a potential audience. Then, research affiliate programs that offer products or services related to this niche.</p><p>Next, create high-quality content (such as reviews, guides, comparisons) to promote the chosen products, and ensure your affiliate links are included naturally.</p><h2 id='s5'>Tips for Success in Affiliate Marketing</h2><p>Focus on building trust with your audience by recommending products you genuinely believe in and that offer real value. Transparency is crucial.</p><p>Continuously learn and track your performance, analyzing what works and what doesn't to constantly improve your strategies and increase your earnings.</p>"
   }
 ];
 

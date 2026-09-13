@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-12
-// Total articles: 141
+// Last updated: 2026-09-13
+// Total articles: 142
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -10252,6 +10252,91 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هو التسويق بالعمولة؟</h2><p>��لتسويق بالعمولة هو استراتيجية تسويقية حيث يكافئ العمل التجاري واحدًا أو أكثر من المسوقين التابعين له عن كل زائر أو عميل يجلبونه من خلال جهود التسويق الخاصة بهم. إنه بمثابة وسيط يربط بين البائع والمشتري.</p><p>يعتمد هذا النموذج على مبدأ الشراكة، حيث يقوم المسوق بالترويج لمنتجات أو خدمات لا يملكها، ويكسب نسبة مئوية من كل عملية بيع ناجحة تتم عبر رابط التتبع الخاص به.</p><h2 id='s2'>كيف يعمل التسويق بالعمولة؟</h2><p>يتضمن التسويق بالعمولة ثلاثة أطراف رئيسية: البائع (التاجر)، المسوق بالعمولة (التابع)، والعميل. يقوم المسوق بالعمولة بالترويج للمنتج من خلال مدونة، وسائل تواصل اجتماعي، أو إعلانات.</p><p>عندما ينقر العميل على رابط المسوق بالعمولة ويقوم بعملية شراء، يقوم نظام التتبع بتسجيل البيع، ويحصل المسوق على عمولته المتفق عليها.</p><h2 id='s3'>لماذا تبدأ بالتسويق بالعمولة؟</h2><p>يعتبر التسويق بالعمولة جذابًا للمبتدئين لأنه لا يتطلب إنشاء منتج خاص بك أو التعامل مع المخزون والشحن. يمكنك البدء برأس مال قليل نسبيًا.</p><p>كما يوفر مرونة كبيرة في العمل من أي مكان وفي أي وقت، مما يجعله مصدر دخل إضافي مثالي أو حتى وظيفة بدوام كامل.</p><h2 id='s4'>خطوات البدء للمبتدئين</h2><p>أولاً، اختر مجالًا متخصصًا (Niche) تهتم به ولديه جمهور محتمل. ثم ابحث عن برامج التسويق بالعمولة التي تقدم منتجات أو خدمات ذات صلة بهذا المجال.</p><p>بعد ذلك، قم بإنشاء محتوى عالي الجودة (مثل مراجعات، أدلة، مقارنات) للترويج للمنتجات المختارة، وتأكد من تضمين روابط العمولة الخاصة بك بشكل طبيعي.</p><h2 id='s5'>نصائح للنجاح في التسويق بالعمولة</h2><p>ركز على ب��اء الثقة مع جمهورك من خلال التوصية بمنتجات تؤمن بها حقًا وتقدم قيمة حقيقية. الشفافية أمر بالغ الأهمية.</p><p>استمر في التعلم وتتبع أدائك، وحلل ما ينجح وما لا ينجح لتحسين استراتيجياتك باستمرار وزيادة أرباحك.</p>",
     "contentEn": "<h2 id='s1'>What is Affiliate Marketing?</h2><p>Affiliate marketing is a marketing strategy where a business rewards one or more affiliates for each visitor or customer brought by the affiliate's own marketing efforts. It acts as an intermediary connecting the seller and the buyer.</p><p>This model is based on the principle of partnership, where the marketer promotes products or services they do not own, earning a percentage of each successful sale made through their unique tracking link.</p><h2 id='s2'>How Does Affiliate Marketing Work?</h2><p>Affiliate marketing involves three main parties: the seller (merchant), the affiliate marketer, and the customer. The affiliate promotes the product through a blog, social media, or advertisements.</p><p>When a customer clicks on the affiliate's link and makes a purchase, the tracking system records the sale, and the affiliate earns their agreed-upon commission.</p><h2 id='s3'>Why Start Affiliate Marketing?</h2><p>Affiliate marketing is appealing to beginners because it doesn't require creating your own product or dealing with inventory and shipping. You can start with relatively low capital.</p><p>It also offers great flexibility to work from anywhere, anytime, making it an ideal source of supplementary income or even a full-time career.</p><h2 id='s4'>Steps to Start for Beginners</h2><p>First, choose a niche you are interested in and that has a potential audience. Then, research affiliate programs that offer products or services related to this niche.</p><p>Next, create high-quality content (such as reviews, guides, comparisons) to promote the chosen products, and ensure your affiliate links are included naturally.</p><h2 id='s5'>Tips for Success in Affiliate Marketing</h2><p>Focus on building trust with your audience by recommending products you genuinely believe in and that offer real value. Transparency is crucial.</p><p>Continuously learn and track your performance, analyzing what works and what doesn't to constantly improve your strategies and increase your earnings.</p>"
+  },
+  {
+    "id": 142,
+    "slug": "bond-investing-a-complete-guide",
+    "title": "الاستثمار في السندات: دليل شامل",
+    "titleEn": "Bond Investing: A Complete Guide",
+    "summary": "دليل شامل للاستثمار في السندات يوضح ماهيتها وأنواعها ومزاياها ومخاطرها وكيفية الاستثمار فيها لتحقيق محفظة متوازنة.",
+    "summaryEn": "A comprehensive guide to bond investing, explaining their nature, types, benefits, risks, and how to invest in them for a balanced portfolio.",
+    "excerpt": "اكتشف عالم السندات وكيف يمكن أن توفر لك دخلاً ثابتًا واستقرارًا لمحفظتك الاستثمارية، مع فهم دقيق لمخاطرها وكيفية إدارتها بفعالية.",
+    "excerptEn": "Explore the world of bonds and how they can provide stable income and portfolio stability, while gaining a clear understanding of their risks and how to manage them effectively.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "13 سبتمبر 2026",
+    "dateEn": "September 13, 2026",
+    "dateISO": "2026-09-13",
+    "readTime": "9",
+    "views": "4184",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article142.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هي السندات؟"
+      },
+      {
+        "id": "s2",
+        "text": "أنواع السندات"
+      },
+      {
+        "id": "s3",
+        "text": "مزايا الاستثمار في السندات"
+      },
+      {
+        "id": "s4",
+        "text": "مخاطر الاستثمار في السندات"
+      },
+      {
+        "id": "s5",
+        "text": "كيف تستثمر في السندات؟"
+      },
+      {
+        "id": "s6",
+        "text": "خاتمة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What are Bonds?"
+      },
+      {
+        "id": "s2",
+        "text": "Types of Bonds"
+      },
+      {
+        "id": "s3",
+        "text": "Benefits of Investing in Bonds"
+      },
+      {
+        "id": "s4",
+        "text": "Risks of Investing in Bonds"
+      },
+      {
+        "id": "s5",
+        "text": "How to Invest in Bonds?"
+      },
+      {
+        "id": "s6",
+        "text": "Conclusion"
+      }
+    ],
+    "related": [
+      51
+    ],
+    "content": "<h2 id='s1'>ما هي السندات؟</h2><p>السندات هي أوراق مالية تمثل قرضًا يقدمه المستثمر لجهة مصدرة (حكومة أو شركة) مقابل الحصول على مدفوعات فائدة دورية وسداد المبلغ الأصلي عند تاريخ الاستحقاق. إنها أداة دين أساسية في الأسواق المالية.</p><p>تُعد السندات وسيلة للجهات المصدرة لجمع الأموال لتمويل مشاريعها أو عملياتها، بينما توفر للمستثمرين تدفقًا نقديًا ثابتًا نسبيًا ومستوى معينًا من الأمان مقارنة بالأسهم.</p><h2 id='s2'>أنواع السندات</h2><p>تتنوع السندات بناءً على الجهة المصدرة، وتشمل سندات الخزانة الحكومية (الأكثر أمانًا)، وسندات الشركات، وسندات البلديات. تختلف هذه الأنواع في مستوى المخاطرة والعائد المتوقع.</p><p>هناك أيضًا سندات ذات خصائص مختلفة مثل السندات ذات العائد الثابت، والسندات ذات العائد المتغير، والسندات القابلة للاستدعاء، والسندات القابلة للتحويل إلى أسهم.</p><h2 id='s3'>مزايا الاستثمار في السندات</h2><p>توفر السندات تدفق دخل ثابت ومنتظم من خلال مدفوعات الفائدة، مما يجعلها جذابة للمستثمرين الباحثين عن دخل دوري. كما أنها تُعتبر استثمارًا أكثر أمانًا من الأسهم، خاصة سندات الخزانة.</p><p>تساعد السندات في تنويع المحفظة الاستثمارية وتقليل المخاطر الإجمالية، حيث غالبًا ما تتحرك أسعارها بشكل معاكس للأسهم، مما يوفر استقرارًا خلال فترات تقلب السوق.</p><h2 id='s4'>مخاطر الاستثمار في السندات</h2><p>على الرغم من أمانها النسبي، تحمل السندات مخاطر مثل مخاطر أسعار الفائدة، حيث يؤدي ارتفاع الفوائد إلى انخفاض قيمة السندات القائمة. هناك أيضًا مخاطر التضخم التي قد تقلل من القوة الشرائية لعوائ�� السندات.</p><p>مخاطر الائتمان أو التخلف عن السداد هي خطر آخر، خاصة في سندات الشركات، حيث قد لا تتمكن الجهة المصدرة من سداد الفوائد أو المبلغ الأصلي.</p><h2 id='s5'>كيف تستثمر في السندات؟</h2><p>يمكن للمستثمرين شراء السندات مباشرة من خلال البنوك أو شركات الوساطة. كما يمكن الاستثمار فيها بشكل غير مباشر عبر صناديق السندات المتداولة في البورصة (ETFs) أو صناديق الاستثمار المشتركة للسندات.</p><p>يجب على المستثمر تحديد أهدافه الاستثمارية وتحمل المخاطر قبل الاختيار بين السندات الفردية أو الصناديق، والنظر في المدة الزمنية للسندات وجودتها الائتمانية.</p><h2 id='s6'>خاتمة</h2><p>يُعد الاستثمار في السندات جزءًا أساسيًا من محفظة استثمارية متوازنة، حيث يوفر الاستقرار والدخل. فهم خصائصها ومخاطرها ومزاياها أمر حيوي لاتخ��ذ قرارات استثمارية مستنيرة.</p><p>ننصح دائمًا بالتشاور مع مستشار مالي لتقييم مدى ملاءمة السندات لأهدافك المالية الشخصية.</p>",
+    "contentEn": "<h2 id='s1'>What are Bonds?</h2><p>Bonds are debt securities representing a loan made by an investor to a borrower (government or corporation) in exchange for periodic interest payments and the return of the principal at maturity. They are a fundamental debt instrument in financial markets.</p><p>Bonds allow issuers to raise capital for projects or operations, while offering investors relatively stable cash flow and a degree of security compared to stocks.</p><h2 id='s2'>Types of Bonds</h2><p>Bonds vary by issuer, including government treasury bonds (the safest), corporate bonds, and municipal bonds. These types differ in risk level and expected return.</p><p>There are also bonds with different features such as fixed-rate bonds, floating-rate bonds, callable bonds, and convertible bonds.</p><h2 id='s3'>Benefits of Investing in Bonds</h2><p>Bonds provide a steady and regular income stream through interest payments, making them attractive for investors seeking periodic income. They are also considered a safer investment than stocks, especially treasury bonds.</p><p>Bonds help diversify an investment portfolio and reduce overall risk, as their prices often move inversely to stocks, providing stability during market volatility.</p><h2 id='s4'>Risks of Investing in Bonds</h2><p>Despite their relative safety, bonds carry risks such as interest rate risk, where rising rates can decrease the value of existing bonds. Inflation risk can also erode the purchasing power of bond returns.</p><p>Credit risk or default risk is another concern, especially with corporate bonds, where the issuer may fail to make interest or principal payments.</p><h2 id='s5'>How to Invest in Bonds?</h2><p>Investors can buy bonds directly through banks or brokerage firms. Indirect investment is also possible via bond Exchange Traded Funds (ETFs) or bond mutual funds.</p><p>Investors should define their investment goals and risk tolerance before choosing between individual bonds or funds, considering bond duration and credit quality.</p><h2 id='s6'>Conclusion</h2><p>Investing in bonds is a crucial part of a balanced investment portfolio, offering stability and income. Understanding their characteristics, risks, and benefits is vital for informed investment decisions.</p><p>We always recommend consulting a financial advisor to assess the suitability of bonds for your personal financial goals.</p>"
   }
 ];
 

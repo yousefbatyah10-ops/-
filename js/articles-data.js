@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-13
-// Total articles: 142
+// Last updated: 2026-09-14
+// Total articles: 143
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -10337,6 +10337,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هي السندات؟</h2><p>السندات هي أوراق مالية تمثل قرضًا يقدمه المستثمر لجهة مصدرة (حكومة أو شركة) مقابل الحصول على مدفوعات فائدة دورية وسداد المبلغ الأصلي عند تاريخ الاستحقاق. إنها أداة دين أساسية في الأسواق المالية.</p><p>تُعد السندات وسيلة للجهات المصدرة لجمع الأموال لتمويل مشاريعها أو عملياتها، بينما توفر للمستثمرين تدفقًا نقديًا ثابتًا نسبيًا ومستوى معينًا من الأمان مقارنة بالأسهم.</p><h2 id='s2'>أنواع السندات</h2><p>تتنوع السندات بناءً على الجهة المصدرة، وتشمل سندات الخزانة الحكومية (الأكثر أمانًا)، وسندات الشركات، وسندات البلديات. تختلف هذه الأنواع في مستوى المخاطرة والعائد المتوقع.</p><p>هناك أيضًا سندات ذات خصائص مختلفة مثل السندات ذات العائد الثابت، والسندات ذات العائد المتغير، والسندات القابلة للاستدعاء، والسندات القابلة للتحويل إلى أسهم.</p><h2 id='s3'>مزايا الاستثمار في السندات</h2><p>توفر السندات تدفق دخل ثابت ومنتظم من خلال مدفوعات الفائدة، مما يجعلها جذابة للمستثمرين الباحثين عن دخل دوري. كما أنها تُعتبر استثمارًا أكثر أمانًا من الأسهم، خاصة سندات الخزانة.</p><p>تساعد السندات في تنويع المحفظة الاستثمارية وتقليل المخاطر الإجمالية، حيث غالبًا ما تتحرك أسعارها بشكل معاكس للأسهم، مما يوفر استقرارًا خلال فترات تقلب السوق.</p><h2 id='s4'>مخاطر الاستثمار في السندات</h2><p>على الرغم من أمانها النسبي، تحمل السندات مخاطر مثل مخاطر أسعار الفائدة، حيث يؤدي ارتفاع الفوائد إلى انخفاض قيمة السندات القائمة. هناك أيضًا مخاطر التضخم التي قد تقلل من القوة الشرائية لعوائ�� السندات.</p><p>مخاطر الائتمان أو التخلف عن السداد هي خطر آخر، خاصة في سندات الشركات، حيث قد لا تتمكن الجهة المصدرة من سداد الفوائد أو المبلغ الأصلي.</p><h2 id='s5'>كيف تستثمر في السندات؟</h2><p>يمكن للمستثمرين شراء السندات مباشرة من خلال البنوك أو شركات الوساطة. كما يمكن الاستثمار فيها بشكل غير مباشر عبر صناديق السندات المتداولة في البورصة (ETFs) أو صناديق الاستثمار المشتركة للسندات.</p><p>يجب على المستثمر تحديد أهدافه الاستثمارية وتحمل المخاطر قبل الاختيار بين السندات الفردية أو الصناديق، والنظر في المدة الزمنية للسندات وجودتها الائتمانية.</p><h2 id='s6'>خاتمة</h2><p>يُعد الاستثمار في السندات جزءًا أساسيًا من محفظة استثمارية متوازنة، حيث يوفر الاستقرار والدخل. فهم خصائصها ومخاطرها ومزاياها أمر حيوي لاتخ��ذ قرارات استثمارية مستنيرة.</p><p>ننصح دائمًا بالتشاور مع مستشار مالي لتقييم مدى ملاءمة السندات لأهدافك المالية الشخصية.</p>",
     "contentEn": "<h2 id='s1'>What are Bonds?</h2><p>Bonds are debt securities representing a loan made by an investor to a borrower (government or corporation) in exchange for periodic interest payments and the return of the principal at maturity. They are a fundamental debt instrument in financial markets.</p><p>Bonds allow issuers to raise capital for projects or operations, while offering investors relatively stable cash flow and a degree of security compared to stocks.</p><h2 id='s2'>Types of Bonds</h2><p>Bonds vary by issuer, including government treasury bonds (the safest), corporate bonds, and municipal bonds. These types differ in risk level and expected return.</p><p>There are also bonds with different features such as fixed-rate bonds, floating-rate bonds, callable bonds, and convertible bonds.</p><h2 id='s3'>Benefits of Investing in Bonds</h2><p>Bonds provide a steady and regular income stream through interest payments, making them attractive for investors seeking periodic income. They are also considered a safer investment than stocks, especially treasury bonds.</p><p>Bonds help diversify an investment portfolio and reduce overall risk, as their prices often move inversely to stocks, providing stability during market volatility.</p><h2 id='s4'>Risks of Investing in Bonds</h2><p>Despite their relative safety, bonds carry risks such as interest rate risk, where rising rates can decrease the value of existing bonds. Inflation risk can also erode the purchasing power of bond returns.</p><p>Credit risk or default risk is another concern, especially with corporate bonds, where the issuer may fail to make interest or principal payments.</p><h2 id='s5'>How to Invest in Bonds?</h2><p>Investors can buy bonds directly through banks or brokerage firms. Indirect investment is also possible via bond Exchange Traded Funds (ETFs) or bond mutual funds.</p><p>Investors should define their investment goals and risk tolerance before choosing between individual bonds or funds, considering bond duration and credit quality.</p><h2 id='s6'>Conclusion</h2><p>Investing in bonds is a crucial part of a balanced investment portfolio, offering stability and income. Understanding their characteristics, risks, and benefits is vital for informed investment decisions.</p><p>We always recommend consulting a financial advisor to assess the suitability of bonds for your personal financial goals.</p>"
+  },
+  {
+    "id": 143,
+    "slug": "mortgage-comparison-saudi-banks",
+    "title": "التمويل العقاري: مقارنة بين البنوك السعودية",
+    "titleEn": "Mortgage Comparison: Saudi Banks",
+    "summary": "يقدم هذا المقال مقارنة موجزة لبرامج التمويل العقاري المتوفرة لدى البنوك السعودية لمساعدة الأفراد في اتخاذ قرار مستنير.",
+    "summaryEn": "This article provides a concise comparison of real estate financing programs offered by Saudi banks to help individuals make informed decisions.",
+    "excerpt": "استكشف الفروقات الأساسية بين عروض التمويل العقاري لدى البنوك السعودية الرئيسية للعثور على الأنسب لاحتياجاتك.",
+    "excerptEn": "Explore the key differences between real estate finance offers from major Saudi banks to find the most suitable for your needs.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "14 سبتمبر 2026",
+    "dateEn": "September 14, 2026",
+    "dateISO": "2026-09-14",
+    "readTime": "12",
+    "views": "1958",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#112244,#1a3a5c)",
+    "image": "images/article143.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة للتمويل العقاري في السعودية"
+      },
+      {
+        "id": "s2",
+        "text": "معايير المقارنة الرئيسية"
+      },
+      {
+        "id": "s3",
+        "text": "أبرز البنوك ومميزاتها"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح لاختيار الأفضل"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Real Estate Finance in Saudi Arabia"
+      },
+      {
+        "id": "s2",
+        "text": "Key Comparison Criteria"
+      },
+      {
+        "id": "s3",
+        "text": "Prominent Banks and Their Features"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for Choosing the Best"
+      }
+    ],
+    "related": [
+      32
+    ],
+    "content": "<h2 id='s1'>مقدمة للتمويل العقاري في السعودية</h2><p>يشهد قطاع التمويل العقاري في المملكة العربية السعودية نمواً ملحوظاً، مدفوعاً برؤية 2030 وبرامج الإسكان التي تهدف لزيادة نسبة تملك المواطنين للمنازل. تقدم البنوك السعودية مجموعة واسعة من الحلول التمويلية التي تلبي مختلف الاحتياجات.</p><p>تتنافس هذه البنوك على تقديم أفضل العروض، مما يتطلب من الراغبين في الشراء فهماً عميقاً للفروقات بين المنتجات المتاحة لاتخاذ قرار مالي حكيم.</p><h2 id='s2'>معايير المقارنة الرئيسية</h2><p>عند مقارنة عروض التمويل العقاري، يجب التركيز على عدة معايير أساسية. تشمل هذه المعايير نسبة الربح السنوية (هامش الربح)، فترة السداد، نسبة الدفعة الأولى المطلوبة، والرسوم الإدارية أو رسوم التقييم.</p><p>من المهم أيضاً مراجعة شروط السداد المبكر، وخيارات المرونة في السداد، بالإضافة إلى متطلبات الأهلية لكل بنك لضمان التوافق مع وضعك المالي.</p><h2 id='s3'>أبرز البنوك ومميزاتها</h2><p>تتصدر بنوك مثل الراجحي، والبنك الأهلي السعودي، وبنك الرياض قائمة مقدمي التمويل العقاري في المملكة، حيث يقدم كل منها منتجات متنوعة كمرابحة العقار والإجارة.</p><p>يتميز بعضها بتقديم حلول متوافقة مع الشريعة الإسلامية بشكل واسع، بينما يتميز آخرون ببرامج دعم حكومية متكاملة أو مرونة أكبر في شروط الأهلية والوثائق المطلوبة.</p><h2 id='s4'>نصائح لاختيار الأفضل</h2><p>لتحقيق أفضل صفقة تمويل عقاري، يُنصح بالبدء بتقدير قدرتك المالية وميزانيتك. بعد ذلك، قم بزيارة عدة بنوك أو استخدم منصات المقارنة الإلكترونية للحصول على عروض تفصيلية.</p><p>لا تتردد في طلب توضيحات حول أي بنود غير واضحة في العقد، وقارن ليس فقط نسبة الربح بل التكلفة الإجمالية للتمويل على المدى الطويل. استشر خبيراً مالياً إذا لزم الأمر.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Real Estate Finance in Saudi Arabia</h2><p>The real estate finance sector in Saudi Arabia is experiencing significant growth, driven by Vision 2030 and housing programs aimed at increasing home ownership among citizens. Saudi banks offer a wide range of financing solutions to meet various needs.</p><p>These banks compete to provide the best offers, requiring prospective buyers to have a deep understanding of the differences between available products to make a wise financial decision.</p><h2 id='s2'>Key Comparison Criteria</h2><p>When comparing real estate finance offers, several key criteria should be considered. These include the annual profit rate, repayment period, required down payment percentage, and administrative or appraisal fees.</p><p>It's also important to review early repayment terms, flexibility options in repayment, and each bank's eligibility requirements to ensure compatibility with your financial situation.</p><h2 id='s3'>Prominent Banks and Their Features</h2><p>Banks such as Al Rajhi, Saudi National Bank (SNB), and Riyad Bank lead the real estate finance providers in the Kingdom, each offering diverse products like Murabaha and Ijarah.</p><p>Some are distinguished by offering widely Sharia-compliant solutions, while others excel in integrated government support programs or greater flexibility in eligibility criteria and required documentation.</p><h2 id='s4'>Tips for Choosing the Best</h2><p>To secure the best real estate finance deal, it's advisable to start by assessing your financial capacity and budget. Afterwards, visit several banks or use online comparison platforms to obtain detailed offers.</p><p>Do not hesitate to ask for clarifications on any unclear clauses in the contract, and compare not just the profit rate but the total cost of financing over the long term. Consult a financial expert if necessary.</p>"
   }
 ];
 

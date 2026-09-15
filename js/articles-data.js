@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-14
-// Total articles: 143
+// Last updated: 2026-09-15
+// Total articles: 144
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -10406,6 +10406,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة للتمويل العقاري في السعودية</h2><p>يشهد قطاع التمويل العقاري في المملكة العربية السعودية نمواً ملحوظاً، مدفوعاً برؤية 2030 وبرامج الإسكان التي تهدف لزيادة نسبة تملك المواطنين للمنازل. تقدم البنوك السعودية مجموعة واسعة من الحلول التمويلية التي تلبي مختلف الاحتياجات.</p><p>تتنافس هذه البنوك على تقديم أفضل العروض، مما يتطلب من الراغبين في الشراء فهماً عميقاً للفروقات بين المنتجات المتاحة لاتخاذ قرار مالي حكيم.</p><h2 id='s2'>معايير المقارنة الرئيسية</h2><p>عند مقارنة عروض التمويل العقاري، يجب التركيز على عدة معايير أساسية. تشمل هذه المعايير نسبة الربح السنوية (هامش الربح)، فترة السداد، نسبة الدفعة الأولى المطلوبة، والرسوم الإدارية أو رسوم التقييم.</p><p>من المهم أيضاً مراجعة شروط السداد المبكر، وخيارات المرونة في السداد، بالإضافة إلى متطلبات الأهلية لكل بنك لضمان التوافق مع وضعك المالي.</p><h2 id='s3'>أبرز البنوك ومميزاتها</h2><p>تتصدر بنوك مثل الراجحي، والبنك الأهلي السعودي، وبنك الرياض قائمة مقدمي التمويل العقاري في المملكة، حيث يقدم كل منها منتجات متنوعة كمرابحة العقار والإجارة.</p><p>يتميز بعضها بتقديم حلول متوافقة مع الشريعة الإسلامية بشكل واسع، بينما يتميز آخرون ببرامج دعم حكومية متكاملة أو مرونة أكبر في شروط الأهلية والوثائق المطلوبة.</p><h2 id='s4'>نصائح لاختيار الأفضل</h2><p>لتحقيق أفضل صفقة تمويل عقاري، يُنصح بالبدء بتقدير قدرتك المالية وميزانيتك. بعد ذلك، قم بزيارة عدة بنوك أو استخدم منصات المقارنة الإلكترونية للحصول على عروض تفصيلية.</p><p>لا تتردد في طلب توضيحات حول أي بنود غير واضحة في العقد، وقارن ليس فقط نسبة الربح بل التكلفة الإجمالية للتمويل على المدى الطويل. استشر خبيراً مالياً إذا لزم الأمر.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Real Estate Finance in Saudi Arabia</h2><p>The real estate finance sector in Saudi Arabia is experiencing significant growth, driven by Vision 2030 and housing programs aimed at increasing home ownership among citizens. Saudi banks offer a wide range of financing solutions to meet various needs.</p><p>These banks compete to provide the best offers, requiring prospective buyers to have a deep understanding of the differences between available products to make a wise financial decision.</p><h2 id='s2'>Key Comparison Criteria</h2><p>When comparing real estate finance offers, several key criteria should be considered. These include the annual profit rate, repayment period, required down payment percentage, and administrative or appraisal fees.</p><p>It's also important to review early repayment terms, flexibility options in repayment, and each bank's eligibility requirements to ensure compatibility with your financial situation.</p><h2 id='s3'>Prominent Banks and Their Features</h2><p>Banks such as Al Rajhi, Saudi National Bank (SNB), and Riyad Bank lead the real estate finance providers in the Kingdom, each offering diverse products like Murabaha and Ijarah.</p><p>Some are distinguished by offering widely Sharia-compliant solutions, while others excel in integrated government support programs or greater flexibility in eligibility criteria and required documentation.</p><h2 id='s4'>Tips for Choosing the Best</h2><p>To secure the best real estate finance deal, it's advisable to start by assessing your financial capacity and budget. Afterwards, visit several banks or use online comparison platforms to obtain detailed offers.</p><p>Do not hesitate to ask for clarifications on any unclear clauses in the contract, and compare not just the profit rate but the total cost of financing over the long term. Consult a financial expert if necessary.</p>"
+  },
+  {
+    "id": 144,
+    "slug": "how-to-read-company-financial-statements",
+    "title": "كيف تقرأ القوائم المالية للشركات",
+    "titleEn": "How to Read Company Financial Statements",
+    "summary": "فهم القوائم المالية للشركات هو مفتاح اتخاذ قرارات استثمارية مستنيرة وتقييم صحة الشركة.",
+    "summaryEn": "Understanding company financial statements is key to making informed investment decisions and evaluating a company's health.",
+    "excerpt": "تعلم كيفية قراءة قائمة الدخل والميزانية العمومية وقائمة التدفقات النقدية لتحليل الأداء المالي للشركات بفعالية.",
+    "excerptEn": "Learn how to read the Income Statement, Balance Sheet, and Cash Flow Statement to effectively analyze companies' financial performance.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "د. سامي القحطاني",
+    "authorEn": "Dr. Sami Al-Qahtani",
+    "authorInitial": "S",
+    "date": "15 سبتمبر 2026",
+    "dateEn": "September 15, 2026",
+    "dateISO": "2026-09-15",
+    "readTime": "12",
+    "views": "4247",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article144.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "أهمية القوائم المالية"
+      },
+      {
+        "id": "s2",
+        "text": "قائمة الدخل: مقياس الربحية"
+      },
+      {
+        "id": "s3",
+        "text": "الميزانية العمومية: لقطة مالية"
+      },
+      {
+        "id": "s4",
+        "text": "قائمة التدفقات النقدية والتحليل بالنسب"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Importance of Financial Statements"
+      },
+      {
+        "id": "s2",
+        "text": "Income Statement: A Measure of Profitability"
+      },
+      {
+        "id": "s3",
+        "text": "Balance Sheet: A Financial Snapshot"
+      },
+      {
+        "id": "s4",
+        "text": "Cash Flow Statement and Ratio Analysis"
+      }
+    ],
+    "related": [
+      79
+    ],
+    "content": "<h2 id='s1'>أهمية القوائم المالية</h2><p>تُعد القوائم المالية بمثابة بطاقة تعريف شاملة للأداء المالي للشركة، حيث توفر للمستثمرين نظرة عميقة على صحتها التشغيلية ووضعها المالي.</p><p>إن قراءة هذه القوائم بعناية تمكنك من تقييم الأرباح، والديون، والتدفقات النقدية، مما يساعد في اتخاذ قرارات استثمارية مدروسة ومبنية على أسس قوية.</p><h2 id='s2'>قائمة الدخل: مقياس الربحية</h2><p>توضح قائمة الدخل، المعروفة أيضاً ببيان الأرباح والخسائر، إيرادات الشركة ومصروفاتها وصافي أرباحها أو خسائرها خلال فترة زمنية محددة.</p><p>من خلالها، يمكنك فهم مدى فعالية الشركة في تحقيق الإيرادات والتحكم في التكاليف، مما يعكس قدرتها على تحقيق الربحية المستدامة.</p><h2 id='s3'>الميزانية العمومية: لقطة مالية</h2><p>تمثل الميزانية العمومية لقطة مالية للشركة في نقطة زمنية محددة، حيث تعرض الأصول (ما تملكه الشركة)، والخصوم (ما تدين به)، وحقوق الملكية (صافي قيمة المساهمين).</p><p>تساعدك هذه القائمة على تقييم هيكل رأس مال الشركة وسيولتها وملاءتها المالية، مما يكشف عن استقرارها وقدرتها على الوفاء بالتزاماتها.</p><h2 id='s4'>قائمة التدفقات النقدية والتحليل بالنسب</h2><p>تتبع قائمة التدفقات النقدية حركة النقد داخل وخارج الشركة، مقسمة إلى أنشطة تشغيلية واستثمارية وتمويلية، لتبين أين يأتي النقد وإلى أين يذهب.</p><p>لتحليل أعمق، استخدم النسب المالية التي تربط بين بنود القوائم المختلفة، مثل نسب الربحية، السيولة، والمديونية، لتقييم الأداء ومقارنته بالمنافسين.</p>",
+    "contentEn": "<h2 id='s1'>Importance of Financial Statements</h2><p>Financial statements serve as a comprehensive identification card for a company's financial performance, offering investors deep insights into its operational health and financial position.</p><p>Carefully reading these statements allows you to assess profits, debts, and cash flows, thereby helping you make well-informed and robust investment decisions.</p><h2 id='s2'>Income Statement: A Measure of Profitability</h2><p>The Income Statement, also known as the Profit and Loss statement, details a company's revenues, expenses, and net profit or loss over a specific period.</p><p>Through it, you can understand the company's effectiveness in generating revenue and controlling costs, reflecting its ability to achieve sustainable profitability.</p><h2 id='s3'>Balance Sheet: A Financial Snapshot</h2><p>The Balance Sheet presents a financial snapshot of a company at a specific point in time, showing its assets (what the company owns), liabilities (what it owes), and equity (the net value for shareholders).</p><p>This statement helps you evaluate the company's capital structure, liquidity, and solvency, revealing its stability and ability to meet its obligations.</p><h2 id='s4'>Cash Flow Statement and Ratio Analysis</h2><p>The Cash Flow Statement tracks the movement of cash into and out of the company, categorized into operating, investing, and financing activities, showing where cash comes from and where it goes.</p><p>For deeper analysis, use financial ratios that connect different items across the statements, such as profitability, liquidity, and debt ratios, to evaluate performance and compare it with competitors.</p>"
   }
 ];
 

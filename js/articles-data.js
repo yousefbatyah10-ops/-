@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-15
-// Total articles: 144
+// Last updated: 2026-09-16
+// Total articles: 145
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -10475,6 +10475,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>أهمية القوائم المالية</h2><p>تُعد القوائم المالية بمثابة بطاقة تعريف شاملة للأداء المالي للشركة، حيث توفر للمستثمرين نظرة عميقة على صحتها التشغيلية ووضعها المالي.</p><p>إن قراءة هذه القوائم بعناية تمكنك من تقييم الأرباح، والديون، والتدفقات النقدية، مما يساعد في اتخاذ قرارات استثمارية مدروسة ومبنية على أسس قوية.</p><h2 id='s2'>قائمة الدخل: مقياس الربحية</h2><p>توضح قائمة الدخل، المعروفة أيضاً ببيان الأرباح والخسائر، إيرادات الشركة ومصروفاتها وصافي أرباحها أو خسائرها خلال فترة زمنية محددة.</p><p>من خلالها، يمكنك فهم مدى فعالية الشركة في تحقيق الإيرادات والتحكم في التكاليف، مما يعكس قدرتها على تحقيق الربحية المستدامة.</p><h2 id='s3'>الميزانية العمومية: لقطة مالية</h2><p>تمثل الميزانية العمومية لقطة مالية للشركة في نقطة زمنية محددة، حيث تعرض الأصول (ما تملكه الشركة)، والخصوم (ما تدين به)، وحقوق الملكية (صافي قيمة المساهمين).</p><p>تساعدك هذه القائمة على تقييم هيكل رأس مال الشركة وسيولتها وملاءتها المالية، مما يكشف عن استقرارها وقدرتها على الوفاء بالتزاماتها.</p><h2 id='s4'>قائمة التدفقات النقدية والتحليل بالنسب</h2><p>تتبع قائمة التدفقات النقدية حركة النقد داخل وخارج الشركة، مقسمة إلى أنشطة تشغيلية واستثمارية وتمويلية، لتبين أين يأتي النقد وإلى أين يذهب.</p><p>لتحليل أعمق، استخدم النسب المالية التي تربط بين بنود القوائم المختلفة، مثل نسب الربحية، السيولة، والمديونية، لتقييم الأداء ومقارنته بالمنافسين.</p>",
     "contentEn": "<h2 id='s1'>Importance of Financial Statements</h2><p>Financial statements serve as a comprehensive identification card for a company's financial performance, offering investors deep insights into its operational health and financial position.</p><p>Carefully reading these statements allows you to assess profits, debts, and cash flows, thereby helping you make well-informed and robust investment decisions.</p><h2 id='s2'>Income Statement: A Measure of Profitability</h2><p>The Income Statement, also known as the Profit and Loss statement, details a company's revenues, expenses, and net profit or loss over a specific period.</p><p>Through it, you can understand the company's effectiveness in generating revenue and controlling costs, reflecting its ability to achieve sustainable profitability.</p><h2 id='s3'>Balance Sheet: A Financial Snapshot</h2><p>The Balance Sheet presents a financial snapshot of a company at a specific point in time, showing its assets (what the company owns), liabilities (what it owes), and equity (the net value for shareholders).</p><p>This statement helps you evaluate the company's capital structure, liquidity, and solvency, revealing its stability and ability to meet its obligations.</p><h2 id='s4'>Cash Flow Statement and Ratio Analysis</h2><p>The Cash Flow Statement tracks the movement of cash into and out of the company, categorized into operating, investing, and financing activities, showing where cash comes from and where it goes.</p><p>For deeper analysis, use financial ratios that connect different items across the statements, such as profitability, liquidity, and debt ratios, to evaluate performance and compare it with competitors.</p>"
+  },
+  {
+    "id": 145,
+    "slug": "smart-product-pricing-strategies",
+    "title": "كيف تسعّر منتجاتك بذكاء",
+    "titleEn": "Smart Product Pricing Strategies",
+    "summary": "يعد التسعير الذكي للمنتجات حجر الزاوية لنجاح أي عمل تجاري، فهو يوازن بين جذب العملاء وتحقيق الأرباح.",
+    "summaryEn": "Smart product pricing is the cornerstone of any successful business, balancing customer attraction and profit generation.",
+    "excerpt": "تعلم كيف تحدد أسعار منتجاتك بذكاء لضمان استمرارية عملك وتحقيق أقصى قدر من الربحية في سوق متقلب.",
+    "excerptEn": "Learn how to smartly price your products to ensure business continuity and maximize profitability in a volatile market.",
+    "category": "ريادة الأعمال",
+    "categoryEn": "Entrepreneurship",
+    "categoryIcon": "🚀",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "16 سبتمبر 2026",
+    "dateEn": "September 16, 2026",
+    "dateISO": "2026-09-16",
+    "readTime": "12",
+    "views": "2821",
+    "emoji": "🚀",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article145.jpg",
+    "featured": false,
+    "breadcrumb": "ريادة الأعمال",
+    "breadcrumbEn": "Entrepreneurship",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "أهمية التسعير الذكي"
+      },
+      {
+        "id": "s2",
+        "text": "فهم التكاليف والقيمة"
+      },
+      {
+        "id": "s3",
+        "text": "تحليل السوق والمنافسين"
+      },
+      {
+        "id": "s4",
+        "text": "استراتيجيات التسعير الفعالة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "The Importance of Smart Pricing"
+      },
+      {
+        "id": "s2",
+        "text": "Understanding Costs and Value"
+      },
+      {
+        "id": "s3",
+        "text": "Market and Competitor Analysis"
+      },
+      {
+        "id": "s4",
+        "text": "Effective Pricing Strategies"
+      }
+    ],
+    "related": [
+      71
+    ],
+    "content": "<h2 id='s1'>أهمية التسعير الذكي</h2><p>إن تسعير المنتجات ليس مجرد تحديد رقم، بل هو قرار استراتيجي يؤثر بشكل مباشر على المبيعات والربحية وموقع علامتك التجارية في السوق. التسعير الخاطئ قد يؤدي إلى خسارة العملاء أو تآكل الأرباح.</p><p>لذا، يتطلب التسعير الذكي فهماً عميقاً لسوقك وعملائك وتكاليفك، مما يمكن الشركات من تحقيق أقصى قيمة لمنتجاتها وخدماتها.</p><h2 id='s2'>فهم التكاليف والقيمة</h2><p>الخطوة الأولى هي تحديد جميع التكاليف المرتبطة بإنتاج المنتج أو تقديم الخدمة، بما في ذلك التكاليف الثابتة والمتغيرة. هذا يضمن أن السعر يغطي النفقات ويترك هامش ربح صحي.</p><p>بعد ذلك، يجب تقدير القيمة المدركة للمنتج من قبل العميل. ما الفوائد التي يحصل عليها؟ وما المبلغ الذي سيكون على استعداد لدفعه مقابل هذه القيمة؟</p><h2 id='s3'>تحليل السوق والمنافسين</h2><p>دراسة أسعار ا��منافسين أمر حيوي لفهم المشهد التسعيري العام. لا تهدف إلى تقليدهم، بل إلى تحديد كيفية تموضع منتجك بناءً على جودته وميزاته الفريدة مقارنة بالبدائل.</p><p>كما يجب تحليل طلب السوق ومرونة الأسعار. هل منتجك مرن سعرياً (يتأثر الطلب بتغير السعر) أم غير مرن؟ هذا يساعد في تحديد مدى تأثير تخفيض أو زيادة الأسعار على المبيعات.</p><h2 id='s4'>استراتيجيات التسعير الفعالة</h2><p>هناك العديد من استراتيجيات التسعير، مثل التسعير على أساس التكلفة زائد الربح، التسعير على أساس القيمة، أو التسعير التنافسي. اختيار الاستراتيجية المناسبة يعتمد على أهدافك ونوع منتجك ومرحلته في دورة الحياة.</p><p>يمكن أيضاً استخدام التسعير النفسي، مثل إنهاء الأسعار بالرقم 9 (مثال: 99.99 دولار)، لخلق تصور بقيمة أفضل. تذكر أن التسعير ليس ثابتاً، بل يجب مراجعته وتعديله باستمرار.</p>",
+    "contentEn": "<h2 id='s1'>The Importance of Smart Pricing</h2><p>Pricing products is not just about setting a number; it's a strategic decision that directly impacts sales, profitability, and your brand's market position. Incorrect pricing can lead to customer loss or profit erosion.</p><p>Therefore, smart pricing requires a deep understanding of your market, customers, and costs, enabling businesses to maximize the value of their products and services.</p><h2 id='s2'>Understanding Costs and Value</h2><p>The first step is to identify all costs associated with producing the product or providing the service, including fixed and variable costs. This ensures the price covers expenses and leaves a healthy profit margin.</p><p>Next, the perceived value of the product to the customer must be estimated. What benefits do they receive? And how much would they be willing to pay for this value?</p><h2 id='s3'>Market and Competitor Analysis</h2><p>Studying competitor prices is vital to understand the overall pricing landscape. Aim not to imitate them, but to determine how to position your product based on its quality and unique features compared to alternatives.</p><p>Market demand and price elasticity should also be analyzed. Is your product price-elastic (demand affected by price changes) or inelastic? This helps determine the impact of price reductions or increases on sales.</p><h2 id='s4'>Effective Pricing Strategies</h2><p>There are many pricing strategies, such as cost-plus pricing, value-based pricing, or competitive pricing. Choosing the right strategy depends on your goals, product type, and its life cycle stage.</p><p>Psychological pricing, such as ending prices with .99 (e.g., $99.99), can also be used to create a perception of better value. Remember that pricing is not static; it should be continuously reviewed and adjusted.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-17
-// Total articles: 146
+// Last updated: 2026-09-18
+// Total articles: 147
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -10613,6 +10613,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هي العملات المستقرة؟</h2><p>العملات المستقرة هي نوع من العملات المشفرة مصممة للحفاظ على قيمة ثابتة، على عكس التقلبات الشديدة التي تشهدها عملات مثل البيتكوين والإيثيريوم. تهدف هذه العملات إلى الجمع بين مزايا البلوك تشين (مثل الشفافية واللامركزية) مع استقرار العملات التقليدية.</p><h2 id='s2'>كيف تعمل العملات المستقرة؟</h2><p>تعتمد العملات المستقرة عادةً على ربط قيمتها بأصل مستقر، مثل الدولار الأمريكي أو الذهب، أو سلة من العملات. يتم دعم العملات المستقرة الأكثر شيوعًا باحتياطيات من العملات الورقية التقليدية، حيث يتم الاحتفاظ بدولار واحد مقابل كل عملة مستقرة صادرة لضمان قيمتها.</p><h2 id='s3'>لماذا \"الدولار الرقمي\"؟</h2><p>يُطلق على ��لعديد من العملات المستقرة اسم \"الدولار الرقمي\" لأنها مرتبطة بالدولار الأمريكي بنسبة 1:1، مثل USDT وUSDC. يتيح هذا الربط للمستخدمين الاستفادة من سرعة وكفاءة معاملات العملات المشفرة مع تجنب تقلبات السوق، مما يجعلها أداة مثالية للتداول والتحويلات الدولية.</p><h2 id='s4'>المزايا والمخاطر</h2><p>توفر العملات المستقرة مزايا عديدة، منها الاستقرار في الأسواق المتقلبة، سرعة التحويلات الدولية وتكاليفها المنخفضة، وسهولة الوصول إليها. ومع ذلك، هناك مخاطر محتملة مثل الشفافية حول الاحتياطيات، والمخاوف التنظيمية، ومخاطر المركزية لبعض المصدرين.</p>",
     "contentEn": "<h2 id='s1'>What are Stablecoins?</h2><p>Stablecoins are a type of cryptocurrency designed to maintain a stable value, unlike the wild fluctuations seen in coins like Bitcoin and Ethereum. These currencies aim to combine the benefits of blockchain (such as transparency and decentralization) with the stability of traditional currencies.</p><h2 id='s2'>How do Stablecoins work?</h2><p>Stablecoins typically peg their value to a stable asset, such as the US dollar or gold, or a basket of currencies. The most common stablecoins are backed by reserves of traditional fiat currencies, where one dollar is held for every stablecoin issued to ensure its value.</p><h2 id='s3'>Why \"Digital Dollar\"?</h2><p>Many stablecoins are referred to as \"digital dollars\" because they are pegged 1:1 to the US dollar, such as USDT and USDC. This pegging allows users to benefit from the speed and efficiency of cryptocurrency transactions while avoiding market volatility, making them an ideal tool for trading and international remittances.</p><h2 id='s4'>Benefits and Risks</h2><p>Stablecoins offer numerous benefits, including stability in volatile markets, fast and low-cost international transfers, and easy accessibility. However, there are potential risks such as transparency regarding reserves, regulatory concerns, and centralization risks for some issuers.</p>"
+  },
+  {
+    "id": 147,
+    "slug": "beginner-investor-mistakes-to-avoid",
+    "title": "أخطاء المستثمر المبتدئ: تجنبها من اليوم",
+    "titleEn": "Beginner Investor Mistakes to Avoid",
+    "summary": "يقدم هذا المقال دليلاً شاملاً للمستثمرين المبتدئين لتجنب الأخطاء الشائعة التي قد تعيق نجاحهم المالي.",
+    "summaryEn": "This article provides a comprehensive guide for beginner investors to avoid common mistakes that could hinder their financial success.",
+    "excerpt": "تعلم كيفية تجنب الأخطاء الشائعة في الاستثمار مثل عدم البحث الكافي، الاستثمار العاطفي، وعدم تنويع المحفظة.",
+    "excerptEn": "Learn how to avoid common investment mistakes such as insufficient research, emotional investing, and lack of portfolio diversification.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "18 سبتمبر 2026",
+    "dateEn": "September 18, 2026",
+    "dateISO": "2026-09-18",
+    "readTime": "11",
+    "views": "5737",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article147.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "عدم البحث الكافي واتخاذ قرارات متسرعة"
+      },
+      {
+        "id": "s2",
+        "text": "الاستثمار العاطفي"
+      },
+      {
+        "id": "s3",
+        "text": "عدم تنويع المحفظة"
+      },
+      {
+        "id": "s4",
+        "text": "محاولة توقيت السوق"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Lack of Sufficient Research and Hasty Decisions"
+      },
+      {
+        "id": "s2",
+        "text": "Emotional Investing"
+      },
+      {
+        "id": "s3",
+        "text": "Lack of Portfolio Diversification"
+      },
+      {
+        "id": "s4",
+        "text": "Trying to Time the Market"
+      }
+    ],
+    "related": [
+      81
+    ],
+    "content": "<h2 id='s1'>عدم البحث الكافي واتخاذ قرارات متسرعة</h2><p>كثيرون يبدأون الاستثمار دون فهم عميق للشركات أو الأسواق، معتمدين على نصائح غير موثوقة أو مجرد \"تريند\". هذا يؤدي غالبًا إلى شراء أصول مبالغ فيها أو بيع أصول واعدة قبل أوانها.</p><p>تجنب هذا الخطأ يتطلب تخصيص وقت كافٍ للبحث والتعلم عن الأصول التي تنوي الاستثمار فيها. افهم أساسيات الشركة، صناعتها، ومؤشراتها المالية قبل اتخاذ أي قرار.</p><h2 id='s2'>الاستثمار العاطفي</h2><p>الخوف من الخسارة والطمع في الربح السريع يدفعان المستثمرين المبتدئين لاتخاذ قرارات غير منطقية. البيع عند الهبوط الحاد والشراء عند الارتفاع المبالغ فيه هما نتيجتان شائعتان لهذا السلوك.</p><p>حافظ على هدوئك والتزم بخطتك الاستثمارية طويلة الأجل. لا تدع تقلبات السوق اليومية تملي عليك قراراتك، وتذكر أن الاستثمار الناجح ي��طلب صبرًا وانضباطًا.</p><h2 id='s3'>عدم تنويع المحفظة</h2><p>وضع كل البيض في سلة واحدة، أي استثمار كل رأس المال في أصل واحد أو عدد قليل جدًا من الأصول، يزيد من المخاطر بشكل كبير. أي صدمة لهذا الأصل قد تدمر محفظتك بالكامل.</p><p>التنويع يوزع المخاطر ويحمي المحفظة من تقلبات سوق محدد أو صناعة معينة. استثمر في أنواع مختلفة من الأصول والقطاعات الجغرافية لتقليل المخاطر الإجمالية.</p><h2 id='s4'>محاولة توقيت السوق</h2><p>محاولة التنبؤ بالقمم والقيعان في السوق بشكل دائم هي مهمة شبه مستحيلة حتى للمحترفين. المستثمرون المبتدئون غالبًا ما يخسرون فرصًا أو يتكبدون خسائر بمحاولتهم هذه بدلاً من الاستثمار طويل الأجل.</p><p>بدلاً من محاولة توقيت السوق، ركز على الاستثمار بانتظام على فترات زمنية محددة (متوسط التكلفة بالدولار). هذا النهج يقلل من تأثير تقلبات الأسعار ويساعد على بناء ثروة بمرور الوقت.</p>",
+    "contentEn": "<h2 id='s1'>Lack of Sufficient Research and Hasty Decisions</h2><p>Many beginners invest without a deep understanding of companies or markets, relying on unreliable tips or mere trends. This often leads to buying overvalued assets or selling promising ones prematurely.</p><p>Avoiding this mistake requires dedicating enough time to research and learn about the assets you intend to invest in. Understand the company's fundamentals, its industry, and financial indicators before making any decision.</p><h2 id='s2'>Emotional Investing</h2><p>Fear of loss and greed for quick profits drive novice investors to make irrational decisions. Selling during sharp declines and buying during exaggerated rallies are common outcomes of this behavior.</p><p>Stay calm and stick to your long-term investment plan. Do not let daily market fluctuations dictate your decisions, and remember that successful investing requires patience and discipline.</p><h2 id='s3'>Lack of Portfolio Diversification</h2><p>Putting all eggs in one basket, meaning investing all capital in a single asset or very few assets, significantly increases risk. Any shock to that single asset could devastate your entire portfolio.</p><p>Diversification spreads risk and protects the portfolio from specific market fluctuations or industries. Invest in different types of assets and geographical sectors to reduce overall risk.</p><h2 id='s4'>Trying to Time the Market</h2><p>Constantly trying to predict market tops and bottoms is an almost impossible task, even for professionals. Beginner investors often miss opportunities or incur losses by attempting this instead of focusing on long-term investing.</p><p>Instead of trying to time the market, focus on investing regularly over fixed periods (dollar-cost averaging). This approach reduces the impact of price fluctuations and helps build wealth over time.</p>"
   }
 ];
 

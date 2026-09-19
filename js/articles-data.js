@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-18
-// Total articles: 147
+// Last updated: 2026-09-19
+// Total articles: 148
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -10682,6 +10682,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>عدم البحث الكافي واتخاذ قرارات متسرعة</h2><p>كثيرون يبدأون الاستثمار دون فهم عميق للشركات أو الأسواق، معتمدين على نصائح غير موثوقة أو مجرد \"تريند\". هذا يؤدي غالبًا إلى شراء أصول مبالغ فيها أو بيع أصول واعدة قبل أوانها.</p><p>تجنب هذا الخطأ يتطلب تخصيص وقت كافٍ للبحث والتعلم عن الأصول التي تنوي الاستثمار فيها. افهم أساسيات الشركة، صناعتها، ومؤشراتها المالية قبل اتخاذ أي قرار.</p><h2 id='s2'>الاستثمار العاطفي</h2><p>الخوف من الخسارة والطمع في الربح السريع يدفعان المستثمرين المبتدئين لاتخاذ قرارات غير منطقية. البيع عند الهبوط الحاد والشراء عند الارتفاع المبالغ فيه هما نتيجتان شائعتان لهذا السلوك.</p><p>حافظ على هدوئك والتزم بخطتك الاستثمارية طويلة الأجل. لا تدع تقلبات السوق اليومية تملي عليك قراراتك، وتذكر أن الاستثمار الناجح ي��طلب صبرًا وانضباطًا.</p><h2 id='s3'>عدم تنويع المحفظة</h2><p>وضع كل البيض في سلة واحدة، أي استثمار كل رأس المال في أصل واحد أو عدد قليل جدًا من الأصول، يزيد من المخاطر بشكل كبير. أي صدمة لهذا الأصل قد تدمر محفظتك بالكامل.</p><p>التنويع يوزع المخاطر ويحمي المحفظة من تقلبات سوق محدد أو صناعة معينة. استثمر في أنواع مختلفة من الأصول والقطاعات الجغرافية لتقليل المخاطر الإجمالية.</p><h2 id='s4'>محاولة توقيت السوق</h2><p>محاولة التنبؤ بالقمم والقيعان في السوق بشكل دائم هي مهمة شبه مستحيلة حتى للمحترفين. المستثمرون المبتدئون غالبًا ما يخسرون فرصًا أو يتكبدون خسائر بمحاولتهم هذه بدلاً من الاستثمار طويل الأجل.</p><p>بدلاً من محاولة توقيت السوق، ركز على الاستثمار بانتظام على فترات زمنية محددة (متوسط التكلفة بالدولار). هذا النهج يقلل من تأثير تقلبات الأسعار ويساعد على بناء ثروة بمرور الوقت.</p>",
     "contentEn": "<h2 id='s1'>Lack of Sufficient Research and Hasty Decisions</h2><p>Many beginners invest without a deep understanding of companies or markets, relying on unreliable tips or mere trends. This often leads to buying overvalued assets or selling promising ones prematurely.</p><p>Avoiding this mistake requires dedicating enough time to research and learn about the assets you intend to invest in. Understand the company's fundamentals, its industry, and financial indicators before making any decision.</p><h2 id='s2'>Emotional Investing</h2><p>Fear of loss and greed for quick profits drive novice investors to make irrational decisions. Selling during sharp declines and buying during exaggerated rallies are common outcomes of this behavior.</p><p>Stay calm and stick to your long-term investment plan. Do not let daily market fluctuations dictate your decisions, and remember that successful investing requires patience and discipline.</p><h2 id='s3'>Lack of Portfolio Diversification</h2><p>Putting all eggs in one basket, meaning investing all capital in a single asset or very few assets, significantly increases risk. Any shock to that single asset could devastate your entire portfolio.</p><p>Diversification spreads risk and protects the portfolio from specific market fluctuations or industries. Invest in different types of assets and geographical sectors to reduce overall risk.</p><h2 id='s4'>Trying to Time the Market</h2><p>Constantly trying to predict market tops and bottoms is an almost impossible task, even for professionals. Beginner investors often miss opportunities or incur losses by attempting this instead of focusing on long-term investing.</p><p>Instead of trying to time the market, focus on investing regularly over fixed periods (dollar-cost averaging). This approach reduces the impact of price fluctuations and helps build wealth over time.</p>"
+  },
+  {
+    "id": 148,
+    "slug": "ethereum-more-than-just-a-cryptocurrency",
+    "title": "الإيثيريوم: أكثر من مجرد عملة رقمية",
+    "titleEn": "Ethereum: More Than Just a Cryptocurrency",
+    "summary": "الإيثيريوم هي أكثر من مجرد عملة رقمية؛ إنها منصة بلوكتشين رائدة تدعم العقود الذكية والتطبيقات اللامركزية التي تشكل أساس الابتكار في عالم التمويل اللامركزي (DeFi) والرموز غير القابلة للاستبدال (NFTs).",
+    "summaryEn": "Ethereum is more than just a digital currency; it is a leading blockchain platform that supports smart contracts and decentralized applications, forming the foundation for innovation in decentralized finance (DeFi) and non-fungible tokens (NFTs).",
+    "excerpt": "اكتشف كيف أصبحت الإيثيريوم حجر الزاوية في بناء مستقبل الإنترنت اللامركزي، متجاوز�� دورها كعملة مشفرة بسيطة.",
+    "excerptEn": "Discover how Ethereum has become the cornerstone for building the future of the decentralized internet, moving beyond its role as a simple cryptocurrency.",
+    "category": "العملات الرقمية",
+    "categoryEn": "Cryptocurrency",
+    "categoryIcon": "₿",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "19 سبتمبر 2026",
+    "dateEn": "September 19, 2026",
+    "dateISO": "2026-09-19",
+    "readTime": "11",
+    "views": "2398",
+    "emoji": "₿",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article148.jpg",
+    "featured": false,
+    "breadcrumb": "العملات الرقمية",
+    "breadcrumbEn": "Cryptocurrency",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "الإيثيريوم: منصة البلوك تشين الرائدة"
+      },
+      {
+        "id": "s2",
+        "text": "العقود الذكية: أساس الابتكار"
+      },
+      {
+        "id": "s3",
+        "text": "التطبيقات اللامركزية (dApps): عالم من الإمكانيات"
+      },
+      {
+        "id": "s4",
+        "text": "من DeFi إلى NFTs: تأثير الإيثيريوم"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Ethereum: The Leading Blockchain Platform"
+      },
+      {
+        "id": "s2",
+        "text": "Smart Contracts: The Foundation of Innovation"
+      },
+      {
+        "id": "s3",
+        "text": "Decentralized Applications (dApps): A World of Possibilities"
+      },
+      {
+        "id": "s4",
+        "text": "From DeFi to NFTs: Ethereum's Impact"
+      }
+    ],
+    "related": [
+      38
+    ],
+    "content": "<h2 id='s1'>الإيثيريوم: منصة البلوك تشين الرائدة</h2><p>الإيثيريوم ليست مجرد عملة رقمية يمكن تداولها، بل هي شبكة بلوكتشين لا مركزية مفتوحة المصدر ومنصة حوسبة عالمية تمكن المطورين من بناء ونشر تطبيقات لا مركزية (dApps). تعتبر عملتها الأصلية، الإيثر (ETH)، بمثابة \"وقود\" لتشغيل المعاملات والعمليات داخل الشبكة.</p><h2 id='s2'>العقود الذكية: أساس الابتكار</h2><p>يكمن الابتكار الجوهري للإيثيريوم في مفهوم \"العقود الذكية\". هذه العقود هي برامج يتم تنفيذها تلقائيًا على البلوك تشين عندما يتم استيفاء شروط معينة، دون الحاجة إلى وسيط. لقد أحدثت العقود الذكية ثورة في طريقة إجراء الاتفاقيات والمعاملات الرقمية، مما يوفر الشفافية والأمان.</p><h2 id='s3'>التطبيقات اللامركزية (dApps): عالم من الإمكانيات</h2><p>باستخدام العقود الذكية، يستطيع المطورون إنشاء تطبيقات لا مركزية (dApps) تعمل على شبكة الإيثيريوم. هذه التطبيقات ليست مملوكة أو متحكم بها من قبل كيان واحد، مما يعزز مقاومة الرقابة ويضمن الشفافية. تتراوح الـ dApps من الألعاب إلى المنصات المالية.</p><h2 id='s4'>من DeFi إلى NFTs: تأثير الإيثيريوم</h2><p>لقد أدت مرونة الإيثيريوم إلى ظهور نظام بيئي واسع يشمل التمويل اللامركزي (DeFi) حيث يمكن للمستخدمين الإقراض والاقتراض والتداول دون بنوك، والرموز غير القابلة للاستبدال (NFTs) التي تمثل ملكية الأصول الرقمية الفريدة. هذا التنوع يبرز الدور المحوري للإيثيريوم في تشكيل مستقبل الويب 3.</p>",
+    "contentEn": "<h2 id='s1'>Ethereum: The Leading Blockchain Platform</h2><p>Ethereum is not merely a digital currency for trading; it is an open-source, decentralized blockchain network and a global computing platform that enables developers to build and deploy decentralized applications (dApps). Its native currency, Ether (ETH), serves as \"fuel\" to power transactions and operations within the network.</p><h2 id='s2'>Smart Contracts: The Foundation of Innovation</h2><p>Ethereum's fundamental innovation lies in the concept of \"smart contracts.\" These are self-executing programs stored on the blockchain that automatically run when predefined conditions are met, eliminating the need for intermediaries. Smart contracts have revolutionized digital agreements and transactions, providing transparency and security.</p><h2 id='s3'>Decentralized Applications (dApps): A World of Possibilities</h2><p>Utilizing smart contracts, developers can create decentralized applications (dApps) that operate on the Ethereum network. These applications are not owned or controlled by a single entity, enhancing censorship resistance and ensuring transparency. dApps range from games to financial platforms.</p><h2 id='s4'>From DeFi to NFTs: Ethereum's Impact</h2><p>Ethereum's versatility has led to the emergence of a vast ecosystem, including Decentralized Finance (DeFi), where users can lend, borrow, and trade without banks, and Non-Fungible Tokens (NFTs), which represent ownership of unique digital assets. This diversity highlights Ethereum's pivotal role in shaping the future of Web3.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-19
-// Total articles: 148
+// Last updated: 2026-09-20
+// Total articles: 149
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -10751,6 +10751,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>الإيثيريوم: منصة البلوك تشين الرائدة</h2><p>الإيثيريوم ليست مجرد عملة رقمية يمكن تداولها، بل هي شبكة بلوكتشين لا مركزية مفتوحة المصدر ومنصة حوسبة عالمية تمكن المطورين من بناء ونشر تطبيقات لا مركزية (dApps). تعتبر عملتها الأصلية، الإيثر (ETH)، بمثابة \"وقود\" لتشغيل المعاملات والعمليات داخل الشبكة.</p><h2 id='s2'>العقود الذكية: أساس الابتكار</h2><p>يكمن الابتكار الجوهري للإيثيريوم في مفهوم \"العقود الذكية\". هذه العقود هي برامج يتم تنفيذها تلقائيًا على البلوك تشين عندما يتم استيفاء شروط معينة، دون الحاجة إلى وسيط. لقد أحدثت العقود الذكية ثورة في طريقة إجراء الاتفاقيات والمعاملات الرقمية، مما يوفر الشفافية والأمان.</p><h2 id='s3'>التطبيقات اللامركزية (dApps): عالم من الإمكانيات</h2><p>باستخدام العقود الذكية، يستطيع المطورون إنشاء تطبيقات لا مركزية (dApps) تعمل على شبكة الإيثيريوم. هذه التطبيقات ليست مملوكة أو متحكم بها من قبل كيان واحد، مما يعزز مقاومة الرقابة ويضمن الشفافية. تتراوح الـ dApps من الألعاب إلى المنصات المالية.</p><h2 id='s4'>من DeFi إلى NFTs: تأثير الإيثيريوم</h2><p>لقد أدت مرونة الإيثيريوم إلى ظهور نظام بيئي واسع يشمل التمويل اللامركزي (DeFi) حيث يمكن للمستخدمين الإقراض والاقتراض والتداول دون بنوك، والرموز غير القابلة للاستبدال (NFTs) التي تمثل ملكية الأصول الرقمية الفريدة. هذا التنوع يبرز الدور المحوري للإيثيريوم في تشكيل مستقبل الويب 3.</p>",
     "contentEn": "<h2 id='s1'>Ethereum: The Leading Blockchain Platform</h2><p>Ethereum is not merely a digital currency for trading; it is an open-source, decentralized blockchain network and a global computing platform that enables developers to build and deploy decentralized applications (dApps). Its native currency, Ether (ETH), serves as \"fuel\" to power transactions and operations within the network.</p><h2 id='s2'>Smart Contracts: The Foundation of Innovation</h2><p>Ethereum's fundamental innovation lies in the concept of \"smart contracts.\" These are self-executing programs stored on the blockchain that automatically run when predefined conditions are met, eliminating the need for intermediaries. Smart contracts have revolutionized digital agreements and transactions, providing transparency and security.</p><h2 id='s3'>Decentralized Applications (dApps): A World of Possibilities</h2><p>Utilizing smart contracts, developers can create decentralized applications (dApps) that operate on the Ethereum network. These applications are not owned or controlled by a single entity, enhancing censorship resistance and ensuring transparency. dApps range from games to financial platforms.</p><h2 id='s4'>From DeFi to NFTs: Ethereum's Impact</h2><p>Ethereum's versatility has led to the emergence of a vast ecosystem, including Decentralized Finance (DeFi), where users can lend, borrow, and trade without banks, and Non-Fungible Tokens (NFTs), which represent ownership of unique digital assets. This diversity highlights Ethereum's pivotal role in shaping the future of Web3.</p>"
+  },
+  {
+    "id": 149,
+    "slug": "best-day-trading-strategies",
+    "title": "أفضل استراتيجيات التداول اليومي",
+    "titleEn": "Best Day Trading Strategies",
+    "summary": "يستعرض هذا المقال أفضل استراتيجيات التداول اليومي التي يمكن للمتداولين تطبيقها لتحقيق أرباح سريعة في الأسواق المالية.",
+    "summaryEn": "This article reviews the best day trading strategies that traders can implement to achieve quick profits in financial markets.",
+    "excerpt": "لتحقيق النجاح في التداول اليومي، من الضروري فهم وتطبيق استراتيجيات فعالة تساعد على اتخاذ قرارات تداول مستنيرة وحماية رأس المال.",
+    "excerptEn": "To succeed in day trading, it is essential to understand and apply effective strategies that help in making informed trading decisions and protecting capital.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "20 سبتمبر 2026",
+    "dateEn": "September 20, 2026",
+    "dateISO": "2026-09-20",
+    "readTime": "9",
+    "views": "1908",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article149.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "المضاربة اللحظية (Scalping)"
+      },
+      {
+        "id": "s2",
+        "text": "تداول الزخم (Momentum Trading)"
+      },
+      {
+        "id": "s3",
+        "text": "تداول الاتجاه (Trend Trading)"
+      },
+      {
+        "id": "s4",
+        "text": "تداول الاختراق (Breakout Trading)"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Scalping"
+      },
+      {
+        "id": "s2",
+        "text": "Momentum Trading"
+      },
+      {
+        "id": "s3",
+        "text": "Trend Trading"
+      },
+      {
+        "id": "s4",
+        "text": "Breakout Trading"
+      }
+    ],
+    "related": [
+      33
+    ],
+    "content": "<h2 id='s1'>المضاربة اللحظية (Scalping)</h2><p>المضاربة اللحظية هي استراتيجية تداول يومي تركز على تحقيق أرباح صغيرة جداً من تحركات الأسعار الطفيفة، عن طريق فتح وإغلاق صفقات متعددة خلال دقائق أو حتى ثوانٍ. يتطلب هذا الأسلوب سرعة فائقة في اتخاذ القرار والتنفيذ، بالإضافة إلى القدرة على مراقبة السوق بدقة شديدة.</p><p>يهدف المتداولون الذين يتبعون هذه الاستراتيجية إلى الاستفادة من فروقات الأسعار الضيقة، معتمدين على حجم تداول كبير لتعويض صغر الأرباح لكل صفقة، مما يجعلها مناسبة للأسواق ذات السيولة العالية.</p><h2 id='s2'>تداول الزخم (Momentum Trading)</h2><p>تعتمد استراتيجية تداول الزخم على تحديد الأسهم أو الأصول التي تشهد تحركات سعرية قوية ومفاجئة، مدعومة بحجم تداول كبير. يسعى المتداولون إلى الدخول في هذه الاتجاهات الق��ية، سواء كانت صعودية أو هبوطية، والاستفادة من استمرارها.</p><p>الهدف هو ركوب موجة السعر قبل أن تفقد زخمها وتنعكس، مما يتطلب مراقبة مستمرة للأخبار والأحداث التي قد تؤثر على حركة الأسعار.</p><h2 id='s3'>تداول الاتجاه (Trend Trading)</h2><p>يقوم متداولو الاتجاه بتحديد الاتجاه السائد للسوق، سواء كان صعوديًا (Bullish) أو هبوطيًا (Bearish)، ويقومون بفتح صفقات تتماشى مع هذا الاتجاه. يعتمدون بشكل كبير على التحليل الفني، مثل المتوسطات المتحركة ومؤشرات القوة النسبية، لتأكيد الاتجاه وتحديد نقاط الدخول والخروج.</p><p>تتطلب هذه الاستراتيجية الصبر والقدرة على التمسك بالصفقة طالما أن الاتجاه مستمر، مع وضع أوامر وقف الخسارة لحماية الأرباح وتقليل المخاطر عند انعكاس الاتجاه.</p><h2 id='s4'>تداول الاختراق (Breakout Trading)</h2><p>تتضمن استراتيجية تداول الاختراق البحث عن مستويات دعم أو مقاومة رئيسية، والدخول في صفقة عندما يخترق السعر هذه المستويات بقوة. يشير الاختراق القوي عادة إلى بداية حركة سعرية كبيرة في اتجاه الاختراق.</p><p>يتطلب هذا النوع من التداول القدرة على تحديد المستويات الرئيسية بدقة ومراقبة حجم التداول عند الاختراق، حيث أن الاختراقات الكاذبة يمكن أن تؤدي إلى خسائر. إدارة المخاطر هنا حاسمة.</p>",
+    "contentEn": "<h2 id='s1'>Scalping</h2><p>Scalping is a day trading strategy focused on generating very small profits from tiny price movements by opening and closing multiple trades within minutes or even seconds. This approach demands extremely fast decision-making and execution, along with the ability to monitor the market with high precision.</p><p>Traders employing this strategy aim to benefit from narrow price spreads, relying on high trading volume to compensate for the small profit per trade, making it suitable for highly liquid markets.</p><h2 id='s2'>Momentum Trading</h2><p>Momentum trading strategy relies on identifying stocks or assets experiencing strong and sudden price movements, supported by significant trading volume. Traders seek to enter these powerful trends, whether bullish or bearish, and profit from their continuation.</p><p>The goal is to ride the price wave before it loses momentum and reverses, which requires continuous monitoring of news and events that may affect price action.</p><h2 id='s3'>Trend Trading</h2><p>Trend traders identify the prevailing market trend, whether bullish or bearish, and open positions that align with this direction. They heavily rely on technical analysis tools, such as moving averages and the Relative Strength Index, to confirm the trend and determine optimal entry and exit points.</p><p>This strategy requires patience and the ability to hold a trade as long as the trend continues, while setting stop-loss orders to protect profits and minimize risks upon trend reversal.</p><h2 id='s4'>Breakout Trading</h2><p>Breakout trading strategy involves identifying key support or resistance levels and entering a trade when the price strongly breaks through these levels. A strong breakout typically signals the beginning of a significant price movement in the direction of the breakout.</p><p>This type of trading requires the ability to accurately identify key levels and monitor trading volume during a breakout, as false breakouts can lead to losses. Risk management is crucial here.</p>"
   }
 ];
 

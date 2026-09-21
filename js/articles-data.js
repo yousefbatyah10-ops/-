@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-20
-// Total articles: 149
+// Last updated: 2026-09-21
+// Total articles: 150
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -10820,6 +10820,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>المضاربة اللحظية (Scalping)</h2><p>المضاربة اللحظية هي استراتيجية تداول يومي تركز على تحقيق أرباح صغيرة جداً من تحركات الأسعار الطفيفة، عن طريق فتح وإغلاق صفقات متعددة خلال دقائق أو حتى ثوانٍ. يتطلب هذا الأسلوب سرعة فائقة في اتخاذ القرار والتنفيذ، بالإضافة إلى القدرة على مراقبة السوق بدقة شديدة.</p><p>يهدف المتداولون الذين يتبعون هذه الاستراتيجية إلى الاستفادة من فروقات الأسعار الضيقة، معتمدين على حجم تداول كبير لتعويض صغر الأرباح لكل صفقة، مما يجعلها مناسبة للأسواق ذات السيولة العالية.</p><h2 id='s2'>تداول الزخم (Momentum Trading)</h2><p>تعتمد استراتيجية تداول الزخم على تحديد الأسهم أو الأصول التي تشهد تحركات سعرية قوية ومفاجئة، مدعومة بحجم تداول كبير. يسعى المتداولون إلى الدخول في هذه الاتجاهات الق��ية، سواء كانت صعودية أو هبوطية، والاستفادة من استمرارها.</p><p>الهدف هو ركوب موجة السعر قبل أن تفقد زخمها وتنعكس، مما يتطلب مراقبة مستمرة للأخبار والأحداث التي قد تؤثر على حركة الأسعار.</p><h2 id='s3'>تداول الاتجاه (Trend Trading)</h2><p>يقوم متداولو الاتجاه بتحديد الاتجاه السائد للسوق، سواء كان صعوديًا (Bullish) أو هبوطيًا (Bearish)، ويقومون بفتح صفقات تتماشى مع هذا الاتجاه. يعتمدون بشكل كبير على التحليل الفني، مثل المتوسطات المتحركة ومؤشرات القوة النسبية، لتأكيد الاتجاه وتحديد نقاط الدخول والخروج.</p><p>تتطلب هذه الاستراتيجية الصبر والقدرة على التمسك بالصفقة طالما أن الاتجاه مستمر، مع وضع أوامر وقف الخسارة لحماية الأرباح وتقليل المخاطر عند انعكاس الاتجاه.</p><h2 id='s4'>تداول الاختراق (Breakout Trading)</h2><p>تتضمن استراتيجية تداول الاختراق البحث عن مستويات دعم أو مقاومة رئيسية، والدخول في صفقة عندما يخترق السعر هذه المستويات بقوة. يشير الاختراق القوي عادة إلى بداية حركة سعرية كبيرة في اتجاه الاختراق.</p><p>يتطلب هذا النوع من التداول القدرة على تحديد المستويات الرئيسية بدقة ومراقبة حجم التداول عند الاختراق، حيث أن الاختراقات الكاذبة يمكن أن تؤدي إلى خسائر. إدارة المخاطر هنا حاسمة.</p>",
     "contentEn": "<h2 id='s1'>Scalping</h2><p>Scalping is a day trading strategy focused on generating very small profits from tiny price movements by opening and closing multiple trades within minutes or even seconds. This approach demands extremely fast decision-making and execution, along with the ability to monitor the market with high precision.</p><p>Traders employing this strategy aim to benefit from narrow price spreads, relying on high trading volume to compensate for the small profit per trade, making it suitable for highly liquid markets.</p><h2 id='s2'>Momentum Trading</h2><p>Momentum trading strategy relies on identifying stocks or assets experiencing strong and sudden price movements, supported by significant trading volume. Traders seek to enter these powerful trends, whether bullish or bearish, and profit from their continuation.</p><p>The goal is to ride the price wave before it loses momentum and reverses, which requires continuous monitoring of news and events that may affect price action.</p><h2 id='s3'>Trend Trading</h2><p>Trend traders identify the prevailing market trend, whether bullish or bearish, and open positions that align with this direction. They heavily rely on technical analysis tools, such as moving averages and the Relative Strength Index, to confirm the trend and determine optimal entry and exit points.</p><p>This strategy requires patience and the ability to hold a trade as long as the trend continues, while setting stop-loss orders to protect profits and minimize risks upon trend reversal.</p><h2 id='s4'>Breakout Trading</h2><p>Breakout trading strategy involves identifying key support or resistance levels and entering a trade when the price strongly breaks through these levels. A strong breakout typically signals the beginning of a significant price movement in the direction of the breakout.</p><p>This type of trading requires the ability to accurately identify key levels and monitor trading volume during a breakout, as false breakouts can lead to losses. Risk management is crucial here.</p>"
+  },
+  {
+    "id": 150,
+    "slug": "inflation-how-to-protect-your-money",
+    "title": "التضخم: كيف تحمي أموالك منه",
+    "titleEn": "Inflation: How to Protect Your Money",
+    "summary": "التضخم يقلل من قيمة أموالك بمرور الوقت، ولحماية مدخراتك يجب تبني استراتيجيات استثمارية ذكية وتنويع الأصول.",
+    "summaryEn": "Inflation erodes the value of your money over time, requiring smart investment strategies and asset diversification to protect your savings.",
+    "excerpt": "تعرف على التضخم وكيف يؤثر على قوتك الشرائية، واكتشف أفضل الاستراتيجيات لحماية أموالك ومدخراتك من تآكل قيمتها.",
+    "excerptEn": "Understand inflation and its impact on your purchasing power, then discover the best strategies to protect your money and savings from value erosion.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "خالد المحسن",
+    "authorEn": "Khalid Al-Muhsen",
+    "authorInitial": "K",
+    "date": "21 سبتمبر 2026",
+    "dateEn": "September 21, 2026",
+    "dateISO": "2026-09-21",
+    "readTime": "12",
+    "views": "3686",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article150.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "فهم التضخم وأسبابه"
+      },
+      {
+        "id": "s2",
+        "text": "تأثير التضخم على مدخراتك"
+      },
+      {
+        "id": "s3",
+        "text": "استراتيجيات استثمارية لمواجهة التضخم"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح عملية لحماية قوتك الشرائية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Understanding Inflation and Its Causes"
+      },
+      {
+        "id": "s2",
+        "text": "The Impact of Inflation on Your Savings"
+      },
+      {
+        "id": "s3",
+        "text": "Investment Strategies to Counter Inflation"
+      },
+      {
+        "id": "s4",
+        "text": "Practical Tips to Protect Your Purchasing Power"
+      }
+    ],
+    "related": [
+      69
+    ],
+    "content": "<h2 id='s1'>فهم التضخم وأسبابه</h2><p>التضخم هو الارتفاع المستمر في المستوى العام لأسعار السلع والخدمات بمرور الوقت، مما يؤدي إلى تآكل القوة الشرائية للنقود. يحدث عادة نتيجة لعدة عوامل مثل زيادة المعروض النقدي، ارتفاع تكاليف الإنتاج، أو زيادة الطلب الكلي.</p><h2 id='s2'>تأثير التضخم على مدخراتك</h2><p>يعد التضخم عدوًا صامتًا للمدخرات، حيث تقل قيمة أموالك بمرور الوقت إذا لم تحقق عوائد تفوق معدل التضخم. هذا يعني أن المبلغ الذي كنت تستطيع شراءه اليوم، سيشتري لك أقل في المستقبل، مما يقلل من قيمتها الحقيقية.</p><h2 id='s3'>استراتيجيات استثمارية لمواجهة التضخم</h2><p>لمواجهة التضخم، يُنصح بالاستثمار في الأصول التي تحتفظ بقيمتها أو تزيدها خلال فترات ارتفاع الأسعار. يشمل ذلك العقارات، السلع مثل الذهب، والأسهم في الشركات ذات القدرة على تمرير التكاليف المرتفعة للمستهلكين. هذه الأصول غالبًا ما تكون ملاذًا آمنًا ضد تآكل القوة الشرائية.</p><p>كما يمكن النظر في السندات المحمية من التضخم (TIPS) التي تعدل قيمتها الأساسية مع التغيرات في مؤشر أسعار المستهلك، مما يوفر حماية مباشرة لرأس المال والعائد.</p><h2 id='s4'>نصائح عملية لحماية قوتك الشرائية</h2><p>لتحمي أموالك بفعالية، نوّع محفظتك الاستثمارية ولا تضع كل بيضك في سلة واحدة. حافظ على سيولة كافية للطوارئ، ولكن لا تترك مبالغ كبيرة من النقود معطلة دون استثمار. راقب معدلات التضخم باستمرار وراجع استراتيجياتك الاستثمارية بانتظام لضمان توافقها مع الأوضاع الاقتصادية الراهنة.</p>",
+    "contentEn": "<h2 id='s1'>Understanding Inflation and Its Causes</h2><p>Inflation is the sustained increase in the general price level of goods and services over time, leading to an erosion of money's purchasing power. It typically occurs due to factors such as an increase in the money supply, rising production costs, or increased aggregate demand.</p><h2 id='s2'>The Impact of Inflation on Your Savings</h2><p>Inflation is a silent enemy of savings, as the value of your money decreases over time if your returns do not exceed the inflation rate. This means that the amount you could buy today will buy less in the future, diminishing its real value.</p><h2 id='s3'>Investment Strategies to Counter Inflation</h2><p>To combat inflation, it is advisable to invest in assets that retain or increase their value during periods of rising prices. This includes real estate, commodities like gold, and stocks in companies with the ability to pass higher costs on to consumers. These assets often serve as a safe haven against the erosion of purchasing power.</p><p>Consider also Inflation-Protected Securities (TIPS), which adjust their principal value with changes in the Consumer Price Index, offering direct protection for capital and returns.</p><h2 id='s4'>Practical Tips to Protect Your Purchasing Power</h2><p>To effectively protect your money, diversify your investment portfolio and avoid putting all your eggs in one basket. Maintain sufficient liquidity for emergencies, but do not leave large sums of cash idle without investment. Continuously monitor inflation rates and regularly review your investment strategies to ensure they align with current economic conditions.</p>"
   }
 ];
 

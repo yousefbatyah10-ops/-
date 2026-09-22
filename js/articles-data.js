@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-21
-// Total articles: 150
+// Last updated: 2026-09-22
+// Total articles: 151
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -10889,6 +10889,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فهم التضخم وأسبابه</h2><p>التضخم هو الارتفاع المستمر في المستوى العام لأسعار السلع والخدمات بمرور الوقت، مما يؤدي إلى تآكل القوة الشرائية للنقود. يحدث عادة نتيجة لعدة عوامل مثل زيادة المعروض النقدي، ارتفاع تكاليف الإنتاج، أو زيادة الطلب الكلي.</p><h2 id='s2'>تأثير التضخم على مدخراتك</h2><p>يعد التضخم عدوًا صامتًا للمدخرات، حيث تقل قيمة أموالك بمرور الوقت إذا لم تحقق عوائد تفوق معدل التضخم. هذا يعني أن المبلغ الذي كنت تستطيع شراءه اليوم، سيشتري لك أقل في المستقبل، مما يقلل من قيمتها الحقيقية.</p><h2 id='s3'>استراتيجيات استثمارية لمواجهة التضخم</h2><p>لمواجهة التضخم، يُنصح بالاستثمار في الأصول التي تحتفظ بقيمتها أو تزيدها خلال فترات ارتفاع الأسعار. يشمل ذلك العقارات، السلع مثل الذهب، والأسهم في الشركات ذات القدرة على تمرير التكاليف المرتفعة للمستهلكين. هذه الأصول غالبًا ما تكون ملاذًا آمنًا ضد تآكل القوة الشرائية.</p><p>كما يمكن النظر في السندات المحمية من التضخم (TIPS) التي تعدل قيمتها الأساسية مع التغيرات في مؤشر أسعار المستهلك، مما يوفر حماية مباشرة لرأس المال والعائد.</p><h2 id='s4'>نصائح عملية لحماية قوتك الشرائية</h2><p>لتحمي أموالك بفعالية، نوّع محفظتك الاستثمارية ولا تضع كل بيضك في سلة واحدة. حافظ على سيولة كافية للطوارئ، ولكن لا تترك مبالغ كبيرة من النقود معطلة دون استثمار. راقب معدلات التضخم باستمرار وراجع استراتيجياتك الاستثمارية بانتظام لضمان توافقها مع الأوضاع الاقتصادية الراهنة.</p>",
     "contentEn": "<h2 id='s1'>Understanding Inflation and Its Causes</h2><p>Inflation is the sustained increase in the general price level of goods and services over time, leading to an erosion of money's purchasing power. It typically occurs due to factors such as an increase in the money supply, rising production costs, or increased aggregate demand.</p><h2 id='s2'>The Impact of Inflation on Your Savings</h2><p>Inflation is a silent enemy of savings, as the value of your money decreases over time if your returns do not exceed the inflation rate. This means that the amount you could buy today will buy less in the future, diminishing its real value.</p><h2 id='s3'>Investment Strategies to Counter Inflation</h2><p>To combat inflation, it is advisable to invest in assets that retain or increase their value during periods of rising prices. This includes real estate, commodities like gold, and stocks in companies with the ability to pass higher costs on to consumers. These assets often serve as a safe haven against the erosion of purchasing power.</p><p>Consider also Inflation-Protected Securities (TIPS), which adjust their principal value with changes in the Consumer Price Index, offering direct protection for capital and returns.</p><h2 id='s4'>Practical Tips to Protect Your Purchasing Power</h2><p>To effectively protect your money, diversify your investment portfolio and avoid putting all your eggs in one basket. Maintain sufficient liquidity for emergencies, but do not leave large sums of cash idle without investment. Continuously monitor inflation rates and regularly review your investment strategies to ensure they align with current economic conditions.</p>"
+  },
+  {
+    "id": 151,
+    "slug": "how-to-build-a-strong-personal-brand",
+    "title": "كيف تبني علامة تجارية شخصية قوية",
+    "titleEn": "How to Build a Strong Personal Brand",
+    "summary": "بناء علامة تجارية شخصية قوية يتطلب تحديد هويتك، بناء تواجد رقمي فعال، التواصل المستمر، والحفاظ على الأصالة والثبات في رسالتك.",
+    "summaryEn": "Building a strong personal brand requires defining your identity, establishing an effective digital presence, consistent networking, and maintaining authenticity and consistency in your message.",
+    "excerpt": "اكتشف الخطوات الأساسية لبناء علامة تجارية شخصية مميزة تبرز خبراتك وتزيد من تأثيرك في عالم الاستثمار والأعمال.",
+    "excerptEn": "Discover the essential steps to build a distinctive personal brand that highlights your expertise and increases your influence in the world of investment and business.",
+    "category": "ريادة الأعمال",
+    "categoryEn": "Entrepreneurship",
+    "categoryIcon": "🚀",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "22 سبتمبر 2026",
+    "dateEn": "September 22, 2026",
+    "dateISO": "2026-09-22",
+    "readTime": "8",
+    "views": "3205",
+    "emoji": "🚀",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article151.jpg",
+    "featured": false,
+    "breadcrumb": "ريادة الأعمال",
+    "breadcrumbEn": "Entrepreneurship",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "تحديد هويتك وقيمتك الفريدة"
+      },
+      {
+        "id": "s2",
+        "text": "بناء تواجدك الرقمي الفعال"
+      },
+      {
+        "id": "s3",
+        "text": "التواصل وبناء العلاقات"
+      },
+      {
+        "id": "s4",
+        "text": "الثبات والأصالة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Define Your Identity and Unique Value"
+      },
+      {
+        "id": "s2",
+        "text": "Build Your Effective Digital Presence"
+      },
+      {
+        "id": "s3",
+        "text": "Network and Build Relationships"
+      },
+      {
+        "id": "s4",
+        "text": "Consistency and Authenticity"
+      }
+    ],
+    "related": [
+      145
+    ],
+    "content": "<h2 id='s1'>تحديد هويتك وقيمتك الفريدة</h2><p>ابدأ بتحديد ما يميزك، شغفك، خبراتك، والقيمة التي تقدمها. هذه هي أساس علامتك التجارية الشخصية التي ستجذب الفرص المناسبة لك.</p><p>فهم نقاط قوتك ومجال تخصصك يساعدك على استهداف الجمهور المناسب وتقديم محتوى ذي صلة يعكس خبرتك الحقيقية.</p><h2 id='s2'>بناء تواجدك الرقمي الفعال</h2><p>أنشئ ملفات تعريف احترافية على منصات مثل لينكد إن، تويتر، أو مدونة شخصية. شارك خبراتك بانتظام وبجودة عالية لتعزيز ظهورك.</p><p>استخدم هذه المنصات لعرض معرفتك، آرائك، وإنجازاتك، مما يعزز مصداقيتك كخبير موثوق في مجالك.</p><h2 id='s3'>التواصل وبناء العلاقات</h2><p>شارك في الفعاليات الصناعية، الندوات عبر الإنترنت، وتفاعل مع الآخرين في مجالك. بناء شبكة علاقات قوية أمر بالغ الأهمية لتوسيع نفوذك.</p><p>التعاون مع الخبراء الآخرين والمشاركة في النقاشات يوسع من نطاق وصولك ويعزز مكانتك كمرجع موثوق به.</p><h2 id='s4'>الثبات والأصالة</h2><p>حافظ على رسالة وصوت متسقين عبر جميع قنواتك. الأصالة هي مفتاح بناء الثقة مع جمهورك ومع شبكة علاقاتك.</p><p>كن حقيقيًا في تفاعلاتك ومحتواك. العلامة التجارية الشخصية القوية تُبنى على الصدق والشفافية بمرور الوقت.</p>",
+    "contentEn": "<h2 id='s1'>Define Your Identity and Unique Value</h2><p>Start by identifying what makes you unique, your passions, expertise, and the value you offer. This is the foundation of your personal brand that will attract the right opportunities.</p><p>Understanding your strengths and niche helps you target the right audience and deliver relevant content that reflects your true expertise.</p><h2 id='s2'>Build Your Effective Digital Presence</h2><p>Create professional profiles on platforms like LinkedIn, Twitter, or a personal blog. Share your expertise regularly and with high quality to enhance your visibility.</p><p>Use these platforms to showcase your knowledge, insights, and achievements, thereby enhancing your credibility as a trusted expert in your field.</p><h2 id='s3'>Network and Build Relationships</h2><p>Participate in industry events, webinars, and interact with others in your field. Building a strong network is crucial for expanding your influence.</p><p>Collaborating with other experts and engaging in discussions expands your reach and strengthens your position as a trusted reference.</p><h2 id='s4'>Consistency and Authenticity</h2><p>Maintain a consistent message and voice across all your channels. Authenticity is key to building trust with your audience and network.</p><p>Be genuine in your interactions and content. A strong personal brand is built on honesty and transparency over time.</p>"
   }
 ];
 

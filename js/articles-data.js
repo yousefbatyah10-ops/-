@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-25
-// Total articles: 154
+// Last updated: 2026-09-26
+// Total articles: 155
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -11165,6 +11165,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: لماذا الطاقة المتجددة؟</h2><p>يشهد العالم تحولاً جذريًا نحو مصادر الطاقة النظيفة، حيث لم تعد الطاقة المتجددة مجرد خيار بيئي، بل ضرورة اقتصادية واستراتيجية. يتزايد الطلب على حلول مستدامة لتلبية احتياجات الطاقة المتنامية وتقليل الاعتماد على الوقود الأحفوري.</p><p>هذا التحول يدفع الحكومات والشركات والأفراد للاستثمار في تقنيات مثل الطاقة الشمسية وطاقة الرياح، مما يمثل فرصة استثمارية لا مثيل لها.</p><h2 id='s2'>الفرص الاستثمارية الواعدة</h2><p>تتنوع فرص الاستثمار في قطاع الطاقة المتجددة لتشمل تطوير المشاريع الكبيرة، تصنيع المكونات، وتوفير حلول تخزين الطاقة الذكية. الأسواق الناشئة تقدم إمكانات نمو هائلة، بينما تستمر الأسواق المتقدمة في الابتكار والتوسع.</p><p>يمكن للم��تثمرين استكشاف صناديق الاستثمار المتداولة (ETFs)، أسهم الشركات الرائدة في هذا المجال، أو حتى الاستثمار المباشر في مشاريع البنية التحتية الخضراء.</p><h2 id='s3'>المزايا الاقتصادية والبيئية</h2><p>توفر الطاقة المتجددة مزايا اقتصادية كبيرة، بما في ذلك انخفاض تكاليف التشغيل على المدى الطويل، استقرار أسعار الطاقة، وخلق فرص عمل جديدة في سلسلة القيمة بأكملها. كما أنها تعزز استقلالية الطاقة للدول.</p><p>على الصعيد البيئي، تساهم هذه المصادر في الحد من انبعاثات الكربون وتلوث الهواء، مما يدعم جهود مكافحة تغير المناخ ويحسن جودة الحياة للأجيال القادمة.</p><h2 id='s4'>التحديات والآفاق المستقبلية</h2><p>بالرغم من الإيجابيات، يواجه قطاع الطاقة المتجددة تحديات مثل تقلبات الإنتاج، الحاجة إلى حلول تخزين فعالة، وتكاليف البنية التحتية الأولية. ومع ذلك، فإن التقدم التكنولوجي المستمر يقلل من هذه العقبات.</p><p>المستقبل يحمل آفاقًا واعدة مع تطور تقنيات جديدة مثل الهيدروجين الأخضر وتحسين كفاءة البطاريات، مما يعزز مكانة الطاقة المتجددة كركيزة أساسية لاقتصاد عالمي مستدام.</p>",
     "contentEn": "<h2 id='s1'>Introduction: Why Renewable Energy?</h2><p>The world is witnessing a radical shift towards clean energy sources, where renewable energy is no longer just an environmental option, but an economic and strategic necessity. Demand for sustainable solutions is growing to meet increasing energy needs and reduce reliance on fossil fuels.</p><p>This transformation is driving governments, companies, and individuals to invest in technologies like solar and wind power, representing an unparalleled investment opportunity.</p><h2 id='s2'>Promising Investment Opportunities</h2><p>Investment opportunities in the renewable energy sector vary to include large-scale project development, component manufacturing, and providing smart energy storage solutions. Emerging markets offer huge growth potential, while developed markets continue to innovate and expand.</p><p>Investors can explore Exchange Traded Funds (ETFs), shares of leading companies in the field, or even direct investment in green infrastructure projects.</p><h2 id='s3'>Economic and Environmental Benefits</h2><p>Renewable energy offers significant economic advantages, including lower long-term operating costs, stable energy prices, and the creation of new jobs across the entire value chain. It also enhances countries' energy independence.</p><p>Environmentally, these sources contribute to reducing carbon emissions and air pollution, supporting climate change mitigation efforts and improving quality of life for future generations.</p><h2 id='s4'>Challenges and Future Prospects</h2><p>Despite the positives, the renewable energy sector faces challenges such as production fluctuations, the need for efficient storage solutions, and initial infrastructure costs. However, continuous technological advancement is mitigating these obstacles.</p><p>The future holds promising prospects with the development of new technologies like green hydrogen and improved battery efficiency, reinforcing renewable energy's position as a cornerstone of a sustainable global economy.</p>"
+  },
+  {
+    "id": 155,
+    "slug": "platinum-the-forgotten-investment-metal",
+    "title": "البلاتينيوم: المعدن المنسي في عالم الاستثمار",
+    "titleEn": "Platinum: The Forgotten Investment Metal",
+    "summary": "يستكشف هذا المقال البلاتينيوم، المعدن الثمين الذي غالبًا ما يُنسى في المحافظ الاستثمارية، مسلطًا الضوء على استخداماته المتنوعة وإمكانياته كفرصة استثمارية فريدة.",
+    "summaryEn": "This article explores platinum, the precious metal often forgotten in investment portfolios, highlighting its diverse uses and potential as a unique investment opportunity.",
+    "excerpt": "رغم ندرته وأهميته الصناعية، يبقى البلاتينيوم في الظل مقارنة بالذهب والفضة، مما يجعله خيارًا مثيرًا للاهتمام للمستثمرين الباحثين عن التنوع.",
+    "excerptEn": "Despite its rarity and industrial importance, platinum remains in the shadow compared to gold and silver, making it an interesting option for investors seeking diversification.",
+    "category": "الذهب والمعادن",
+    "categoryEn": "Gold & Metals",
+    "categoryIcon": "🧸",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "26 سبتمبر 2026",
+    "dateEn": "September 26, 2026",
+    "dateISO": "2026-09-26",
+    "readTime": "10",
+    "views": "4379",
+    "emoji": "🧸",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article155.jpg",
+    "featured": false,
+    "breadcrumb": "الذهب والمعادن",
+    "breadcrumbEn": "Gold & Metals",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: البلاتينيوم في الظل"
+      },
+      {
+        "id": "s2",
+        "text": "الاستخدامات الصناعية المتنوعة"
+      },
+      {
+        "id": "s3",
+        "text": "البلاتينيوم كفرصة استثمارية"
+      },
+      {
+        "id": "s4",
+        "text": "المخاطر والتوقعات المستقبلية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: Platinum in the Shadows"
+      },
+      {
+        "id": "s2",
+        "text": "Diverse Industrial Applications"
+      },
+      {
+        "id": "s3",
+        "text": "Platinum as an Investment Opportunity"
+      },
+      {
+        "id": "s4",
+        "text": "Risks and Future Outlook"
+      }
+    ],
+    "related": [
+      93
+    ],
+    "content": "<h2 id='s1'>مقدمة: البلاتينيوم في الظل</h2><p>يُعرف الذهب والفضة جيدًا في عالم الاستثمار، لكن البلاتينيوم، هذا المعدن الثمين النادر، غالبًا ما يظل في الظل. إنه معدن أبيض فضي يتميز بخصائص فريدة تجعله لا غنى عنه في العديد من الصناعات.</p><p>على الرغم من ندرته الشديدة - فهو أكثر ندرة من الذهب بثلاثين مرة - إلا أن قيمته الاستثمارية غالبًا ما تُغفل، مما يجعله \"المعدن المنسي\" الذي يستحق نظرة فاحصة من المستثمرين.</p><h2 id='s2'>الاستخدامات الصناعية المتنوعة</h2><p>تعتبر الاستخدامات الصناعية هي المحرك الرئيسي للطلب على البلاتينيوم. فهو مكون أساسي في المحولات الحفازة للسيارات، التي تقلل من الانبعاثات الضارة، مما يربط مصيره بصناعة السيارات العالمية.</p><p>إضافة إلى ذلك، يدخل البلاتينيوم في صناعة المجوهرات الفاخرة، والأجهزة الطبية، وتكرير البترول، وكمحفز في العديد من العمليات الكيميائية. هذه المجموعة الواسعة من التطبيقات تضمن طلبًا مستمرًا عليه.</p><h2 id='s3'>البلاتينيوم كفرصة استثمارية</h2><p>بالنسبة للمستثمرين، يمكن أن يقدم البلاتينيوم فرصة جذابة للتنويع. تاريخياً، تُظهر أسعاره تقلبات يمكن أن توفر فرصًا للمكاسب، خاصة عند مقارنته بالذهب والفضة.</p><p>الندرة المتأصلة للمعدن، جنبًا إلى جنب مع الطلب الصناعي الثابت والمتزايد في بعض القطاعات، يمكن أن تدعم قيمته على المدى الطويل. كما أن تقلبات العرض، التي تتأثر بشكل كبير بإنتاج جنوب إفريقيا، يمكن أن تؤثر على الأسعار.</p><h2 id='s4'>المخاطر والتوقعات المستقبلية</h2><p>لا يخلو الاستثمار في البلاتينيوم من المخاطر. فأسعاره شديدة الحساسية للتغيرات في صناعة السيارات والاقتصاد العالمي. كما أن أي اضطرابات في سلاسل التوريد، خاصة من مناطق التعدين الرئيسية، يمكن أن تؤثر بشكل كبير على الأسواق.</p><p>مع ذلك، ومع التوجه العالمي نحو معايير بيئية أكثر صرامة وزيادة الطلب على التقنيات النظيفة، قد يجد البلاتينيوم استخدامات جديدة ويزداد الطلب عليه، مما قد يعزز مكانته كمعدن استثماري قيّم في المستقبل.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: Platinum in the Shadows</h2><p>Gold and silver are well-known in the investment world, but platinum, this rare precious metal, often remains in the shadows. It is a silvery-white metal characterized by unique properties that make it indispensable in many industries.</p><p>Despite its extreme rarity – it is thirty times rarer than gold – its investment value is often overlooked, making it the 'forgotten metal' that deserves a closer look from investors.</p><h2 id='s2'>Diverse Industrial Applications</h2><p>Industrial uses are the main driver of demand for platinum. It is a key component in automotive catalytic converters, which reduce harmful emissions, linking its fate to the global automotive industry.</p><p>Additionally, platinum is used in fine jewelry, medical devices, petroleum refining, and as a catalyst in many chemical processes. This wide range of applications ensures continuous demand.</p><h2 id='s3'>Platinum as an Investment Opportunity</h2><p>For investors, platinum can offer an attractive diversification opportunity. Historically, its prices show fluctuations that can provide opportunities for gains, especially when compared to gold and silver.</p><p>The metal's inherent rarity, coupled with steady and increasing industrial demand in certain sectors, can support its long-term value. Supply fluctuations, heavily influenced by South African production, can also impact prices.</p><h2 id='s4'>Risks and Future Outlook</h2><p>Investing in platinum is not without risks. Its prices are highly sensitive to changes in the automotive industry and the global economy. Any disruptions in supply chains, especially from major mining regions, can significantly impact markets.</p><p>However, with the global shift towards stricter environmental standards and increasing demand for clean technologies, platinum may find new uses and increased demand, potentially strengthening its position as a valuable investment metal in the future.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-26
-// Total articles: 155
+// Last updated: 2026-09-27
+// Total articles: 156
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -11234,6 +11234,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: البلاتينيوم في الظل</h2><p>يُعرف الذهب والفضة جيدًا في عالم الاستثمار، لكن البلاتينيوم، هذا المعدن الثمين النادر، غالبًا ما يظل في الظل. إنه معدن أبيض فضي يتميز بخصائص فريدة تجعله لا غنى عنه في العديد من الصناعات.</p><p>على الرغم من ندرته الشديدة - فهو أكثر ندرة من الذهب بثلاثين مرة - إلا أن قيمته الاستثمارية غالبًا ما تُغفل، مما يجعله \"المعدن المنسي\" الذي يستحق نظرة فاحصة من المستثمرين.</p><h2 id='s2'>الاستخدامات الصناعية المتنوعة</h2><p>تعتبر الاستخدامات الصناعية هي المحرك الرئيسي للطلب على البلاتينيوم. فهو مكون أساسي في المحولات الحفازة للسيارات، التي تقلل من الانبعاثات الضارة، مما يربط مصيره بصناعة السيارات العالمية.</p><p>إضافة إلى ذلك، يدخل البلاتينيوم في صناعة المجوهرات الفاخرة، والأجهزة الطبية، وتكرير البترول، وكمحفز في العديد من العمليات الكيميائية. هذه المجموعة الواسعة من التطبيقات تضمن طلبًا مستمرًا عليه.</p><h2 id='s3'>البلاتينيوم كفرصة استثمارية</h2><p>بالنسبة للمستثمرين، يمكن أن يقدم البلاتينيوم فرصة جذابة للتنويع. تاريخياً، تُظهر أسعاره تقلبات يمكن أن توفر فرصًا للمكاسب، خاصة عند مقارنته بالذهب والفضة.</p><p>الندرة المتأصلة للمعدن، جنبًا إلى جنب مع الطلب الصناعي الثابت والمتزايد في بعض القطاعات، يمكن أن تدعم قيمته على المدى الطويل. كما أن تقلبات العرض، التي تتأثر بشكل كبير بإنتاج جنوب إفريقيا، يمكن أن تؤثر على الأسعار.</p><h2 id='s4'>المخاطر والتوقعات المستقبلية</h2><p>لا يخلو الاستثمار في البلاتينيوم من المخاطر. فأسعاره شديدة الحساسية للتغيرات في صناعة السيارات والاقتصاد العالمي. كما أن أي اضطرابات في سلاسل التوريد، خاصة من مناطق التعدين الرئيسية، يمكن أن تؤثر بشكل كبير على الأسواق.</p><p>مع ذلك، ومع التوجه العالمي نحو معايير بيئية أكثر صرامة وزيادة الطلب على التقنيات النظيفة، قد يجد البلاتينيوم استخدامات جديدة ويزداد الطلب عليه، مما قد يعزز مكانته كمعدن استثماري قيّم في المستقبل.</p>",
     "contentEn": "<h2 id='s1'>Introduction: Platinum in the Shadows</h2><p>Gold and silver are well-known in the investment world, but platinum, this rare precious metal, often remains in the shadows. It is a silvery-white metal characterized by unique properties that make it indispensable in many industries.</p><p>Despite its extreme rarity – it is thirty times rarer than gold – its investment value is often overlooked, making it the 'forgotten metal' that deserves a closer look from investors.</p><h2 id='s2'>Diverse Industrial Applications</h2><p>Industrial uses are the main driver of demand for platinum. It is a key component in automotive catalytic converters, which reduce harmful emissions, linking its fate to the global automotive industry.</p><p>Additionally, platinum is used in fine jewelry, medical devices, petroleum refining, and as a catalyst in many chemical processes. This wide range of applications ensures continuous demand.</p><h2 id='s3'>Platinum as an Investment Opportunity</h2><p>For investors, platinum can offer an attractive diversification opportunity. Historically, its prices show fluctuations that can provide opportunities for gains, especially when compared to gold and silver.</p><p>The metal's inherent rarity, coupled with steady and increasing industrial demand in certain sectors, can support its long-term value. Supply fluctuations, heavily influenced by South African production, can also impact prices.</p><h2 id='s4'>Risks and Future Outlook</h2><p>Investing in platinum is not without risks. Its prices are highly sensitive to changes in the automotive industry and the global economy. Any disruptions in supply chains, especially from major mining regions, can significantly impact markets.</p><p>However, with the global shift towards stricter environmental standards and increasing demand for clean technologies, platinum may find new uses and increased demand, potentially strengthening its position as a valuable investment metal in the future.</p>"
+  },
+  {
+    "id": 156,
+    "slug": "best-day-trading-strategies",
+    "title": "أفضل استراتيجيات التداول اليومي",
+    "titleEn": "Best Day Trading Strategies",
+    "summary": "يقدم هذا المقال نظرة عامة على أفضل استراتيجيات التداول اليومي الشائعة، مع التركيز على أهمية الانضباط وإدارة المخاطر لتحقيق النجاح.",
+    "summaryEn": "This article provides an overview of the best common day trading strategies, emphasizing the importance of discipline and risk management for success.",
+    "excerpt": "اكتشف استراتيجيات التداول اليومي الفعالة مثل المضاربة وتداول الزخم والاختراق والنطاق لتحسين أدائك في الأسواق المالية.",
+    "excerptEn": "Discover effective day trading strategies like scalping, momentum, breakout, and range trading to enhance your performance in financial markets.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "27 سبتمبر 2026",
+    "dateEn": "September 27, 2026",
+    "dateISO": "2026-09-27",
+    "readTime": "9",
+    "views": "2671",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article156.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "المضاربة (Scalping)"
+      },
+      {
+        "id": "s2",
+        "text": "تداول الزخم (Momentum Trading)"
+      },
+      {
+        "id": "s3",
+        "text": "تداول الاختراق (Breakout Trading)"
+      },
+      {
+        "id": "s4",
+        "text": "تداول النطاق (Range Trading)"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Scalping"
+      },
+      {
+        "id": "s2",
+        "text": "Momentum Trading"
+      },
+      {
+        "id": "s3",
+        "text": "Breakout Trading"
+      },
+      {
+        "id": "s4",
+        "text": "Range Trading"
+      }
+    ],
+    "related": [
+      62
+    ],
+    "content": "<h2 id='s1'>المضاربة (Scalping)</h2><p>تعتمد استراتيجية المضاربة على فتح وإغلاق صفقات متعددة خلال فترة زمنية قصيرة جدًا، قد لا تتجاوز بضع دقائق أو حتى ثوانٍ، بهدف تحقيق أرباح صغيرة من تحركات الأسعار الطفيفة.</p><p>تتطلب هذه الاستراتيجية تركيزًا عاليًا وسرعة في اتخاذ القرار، بالإضافة إلى رافعة مالية مناسبة وتنفيذ سريع للأوامر للاستفادة من فروقات الأسعار الضئيلة.</p><h2 id='s2'>تداول الزخم (Momentum Trading)</h2><p>يركز تداول الزخم على تحديد الأسهم أو الأصول التي تشهد تحركات سعرية قوية ومدعومة بحجم تداول كبير، والدخول في صفقات في اتجاه هذا الزخم.</p><p>يبحث المتداولون عن الأصول التي تظهر اتجاهات واضحة صعودًا أو هبوطًا، ويخرجون من الصفقات بمجرد أن يبدأ الزخم في التباطؤ أو يظهر علامات انعكاس.</p><h2 id='s3'>تداول الاختراق (Breakout Trading)</h2><p>تتضمن استراتيجية تداول الاختراق الدخول في صفقة عندما يخترق سعر الأصل مستوى مقاومة رئيسي (للشراء) أو مستوى دعم رئيسي (للبيع)، مما يشير إلى بداية اتجاه جديد.</p><p>يتطلب هذا النوع من التداول تحديد مستويات الدعم والمقاومة بدقة ومراقبة حجم التداول عند الاختراق لتأكيد صحته وتجنب الاختراقات الكاذبة.</p<h2 id='s4'>تداول النطاق (Range Trading)</h2><p>يعتمد تداول النطاق على تحديد الأصول التي تتحرك أسعارها ضمن نطاق محدد بين مستوى دعم ومستوى مقاومة واضحين دون اختراقهما.</p><p>يقوم المتداولون بالشراء بالقرب من مستوى الدعم والبيع بالقرب من مستوى المقاومة، مع وضع أوامر وقف الخسارة خارج هذا النطاق لحماية رأس المال.</p>",
+    "contentEn": "<h2 id='s1'>Scalping</h2><p>Scalping involves opening and closing multiple trades within a very short timeframe, often just minutes or even seconds, aiming to profit from small price movements.</p><p>This strategy demands high concentration, quick decision-making, appropriate leverage, and fast order execution to capitalize on tiny price differences.</p><h2 id='s2'>Momentum Trading</h2><p>Momentum trading focuses on identifying stocks or assets experiencing strong price movements supported by high trading volume, and entering trades in the direction of this momentum.</p><p>Traders look for assets showing clear upward or downward trends, exiting positions once the momentum begins to slow down or shows signs of reversal.</p><h2 id='s3'>Breakout Trading</h2><p>Breakout trading involves entering a trade when an asset's price breaks through a major resistance level (for buying) or a major support level (for selling), signaling the start of a new trend.</p><p>This type of trading requires accurately identifying support and resistance levels and monitoring trading volume during the breakout to confirm its validity and avoid false breakouts.</p><h2 id='s4'>Range Trading</h2><p>Range trading relies on identifying assets whose prices move within a defined range between clear support and resistance levels without breaking them.</p><p>Traders buy near the support level and sell near the resistance level, placing stop-loss orders outside this range to protect capital.</p>"
   }
 ];
 

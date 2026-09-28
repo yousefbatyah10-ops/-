@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-27
-// Total articles: 156
+// Last updated: 2026-09-28
+// Total articles: 157
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -11303,6 +11303,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>المضاربة (Scalping)</h2><p>تعتمد استراتيجية المضاربة على فتح وإغلاق صفقات متعددة خلال فترة زمنية قصيرة جدًا، قد لا تتجاوز بضع دقائق أو حتى ثوانٍ، بهدف تحقيق أرباح صغيرة من تحركات الأسعار الطفيفة.</p><p>تتطلب هذه الاستراتيجية تركيزًا عاليًا وسرعة في اتخاذ القرار، بالإضافة إلى رافعة مالية مناسبة وتنفيذ سريع للأوامر للاستفادة من فروقات الأسعار الضئيلة.</p><h2 id='s2'>تداول الزخم (Momentum Trading)</h2><p>يركز تداول الزخم على تحديد الأسهم أو الأصول التي تشهد تحركات سعرية قوية ومدعومة بحجم تداول كبير، والدخول في صفقات في اتجاه هذا الزخم.</p><p>يبحث المتداولون عن الأصول التي تظهر اتجاهات واضحة صعودًا أو هبوطًا، ويخرجون من الصفقات بمجرد أن يبدأ الزخم في التباطؤ أو يظهر علامات انعكاس.</p><h2 id='s3'>تداول الاختراق (Breakout Trading)</h2><p>تتضمن استراتيجية تداول الاختراق الدخول في صفقة عندما يخترق سعر الأصل مستوى مقاومة رئيسي (للشراء) أو مستوى دعم رئيسي (للبيع)، مما يشير إلى بداية اتجاه جديد.</p><p>يتطلب هذا النوع من التداول تحديد مستويات الدعم والمقاومة بدقة ومراقبة حجم التداول عند الاختراق لتأكيد صحته وتجنب الاختراقات الكاذبة.</p<h2 id='s4'>تداول النطاق (Range Trading)</h2><p>يعتمد تداول النطاق على تحديد الأصول التي تتحرك أسعارها ضمن نطاق محدد بين مستوى دعم ومستوى مقاومة واضحين دون اختراقهما.</p><p>يقوم المتداولون بالشراء بالقرب من مستوى الدعم والبيع بالقرب من مستوى المقاومة، مع وضع أوامر وقف الخسارة خارج هذا النطاق لحماية رأس المال.</p>",
     "contentEn": "<h2 id='s1'>Scalping</h2><p>Scalping involves opening and closing multiple trades within a very short timeframe, often just minutes or even seconds, aiming to profit from small price movements.</p><p>This strategy demands high concentration, quick decision-making, appropriate leverage, and fast order execution to capitalize on tiny price differences.</p><h2 id='s2'>Momentum Trading</h2><p>Momentum trading focuses on identifying stocks or assets experiencing strong price movements supported by high trading volume, and entering trades in the direction of this momentum.</p><p>Traders look for assets showing clear upward or downward trends, exiting positions once the momentum begins to slow down or shows signs of reversal.</p><h2 id='s3'>Breakout Trading</h2><p>Breakout trading involves entering a trade when an asset's price breaks through a major resistance level (for buying) or a major support level (for selling), signaling the start of a new trend.</p><p>This type of trading requires accurately identifying support and resistance levels and monitoring trading volume during the breakout to confirm its validity and avoid false breakouts.</p><h2 id='s4'>Range Trading</h2><p>Range trading relies on identifying assets whose prices move within a defined range between clear support and resistance levels without breaking them.</p><p>Traders buy near the support level and sell near the resistance level, placing stop-loss orders outside this range to protect capital.</p>"
+  },
+  {
+    "id": 157,
+    "slug": "how-to-buy-gold-bars-in-saudi-arabia",
+    "title": "كيف تشتري سبائك ذهب في السعودية",
+    "titleEn": "How to Buy Gold Bars in Saudi Arabia",
+    "summary": "شراء سبائك الذهب في السعودية يُعد استثمارًا آمنًا وملاذًا للقيمة، ويتطلب معرفة بالخطوات الصحيحة والمصادر الموثوقة لضمان استثمار ناجح.",
+    "summaryEn": "Buying gold bars in Saudi Arabia is considered a safe investment and a store of value, requiring knowledge of the correct steps and reliable sources to ensure a successful investment.",
+    "excerpt": "يوفر الاستثمار في سبائك الذهب في السعودية طريقة موثوقة للحفاظ على الثروة وحمايتها من تقلبات السوق، مع ضرورة اختيار الموردين المعتمدين والعناية بالتخزين الآمن.",
+    "excerptEn": "Investing in gold bars in Saudi Arabia offers a reliable way to preserve wealth and protect it from market fluctuations, emphasizing the importance of choosing accredited suppliers and ensuring secure storage.",
+    "category": "الذهب والمعادن",
+    "categoryEn": "Gold & Metals",
+    "categoryIcon": "🧸",
+    "author": "عمر الخالدي",
+    "authorEn": "Omar Al-Khalidi",
+    "authorInitial": "O",
+    "date": "28 سبتمبر 2026",
+    "dateEn": "September 28, 2026",
+    "dateISO": "2026-09-28",
+    "readTime": "10",
+    "views": "2001",
+    "emoji": "🧸",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article157.jpg",
+    "featured": false,
+    "breadcrumb": "الذهب والمعادن",
+    "breadcrumbEn": "Gold & Metals",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "لماذا تستثمر في سبائك الذهب؟"
+      },
+      {
+        "id": "s2",
+        "text": "أين تشتري سبائك الذهب في السعودية؟"
+      },
+      {
+        "id": "s3",
+        "text": "عوامل يجب مراعاتها قبل الشراء"
+      },
+      {
+        "id": "s4",
+        "text": "تخزين وحماية استثماراتك"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Why Invest in Gold Bars?"
+      },
+      {
+        "id": "s2",
+        "text": "Where to Buy Gold Bars in Saudi Arabia?"
+      },
+      {
+        "id": "s3",
+        "text": "Factors to Consider Before Buying"
+      },
+      {
+        "id": "s4",
+        "text": "Storing and Protecting Your Investment"
+      }
+    ],
+    "related": [
+      5
+    ],
+    "content": "<h2 id='s1'>لماذا تستثمر في سبائك الذهب؟</h2><p>تُعتبر سبائك الذهب ملاذًا آمنًا ومخزنًا للقيمة على مر العصور، خاصة في أوقات عدم اليقين الاقتصادي. إنها وسيلة فعالة لتنويع المحفظة الاستثمارية والحماية من التضخم وتقلبات العملات.</p><p>يُفضل المستثمرون الذهب المادي لسهولة حيازته وقيمته الجوهرية التي لا ترتبط بأداء الشركات أو الحكومات، مما يجعله خيارًا جذابًا للحفاظ على الثروة على المدى الطويل.</p><h2 id='s2'>أين تشتري سبائك الذهب في السعودية؟</h2><p>يمكن شراء سبائك الذهب من عدة مصادر موثوقة في المملكة، أبرزها البنوك الكبرى التي تقدم هذه الخدمة، وشركات الذهب والمجوهرات المعتمدة ذات السمعة الطيبة. ك��ا توجد منصات إلكترونية متخصصة تقدم خدمة الشراء والتوصيل الآمن.</p><p>من الضروري التأكد من أن البائع مرخص ومعترف به من قبل الجهات الرسمية لضمان جودة ونقاء الذهب والابتعاد عن عمليات الاحتيال.</p><h2 id='s3'>عوامل يجب مراعاتها قبل الشراء</h2><p>عند شراء السبائك، يجب الانتباه إلى نقاء الذهب (عيار 24 قيراط هو الأكثر شيوعًا للسبائك) ووزن السبيكة، حيث تتوفر بأوزان مختلفة تبدأ من جرام واحد وحتى كيلوجرامات. تأكد من وجود ختم المصنع وشهادة الأصالة.</p><p>قارن الأسعار بين عدة بائعين، مع الأخذ في الاعتبار أن سعر الذهب يتحدد بالسعر العالمي مضافًا إليه مصنعية بسيطة. كما يجب الاستفسار عن سياسات البيع وإعادة الشراء.</p><h2 id='s4'>تخزين وحماية استثماراتك</h2><p>بعد الشراء، يُعد التخزين الآمن أمرًا بالغ الأهمية. يمكنك استخدا�� صناديق الودائع الآمنة في البنوك، والتي توفر حماية عالية ضد السرقة أو الضياع، مقابل رسوم سنوية.</p><p>بدلاً من ذلك، يمكن تخزين السبائك في خزائن منزلية آمنة، ولكن يجب التأكد من أنها مؤمنة بشكل جيد ومحمية ضد الحرائق والسرقة، مع ضرورة إبلاغ شركة التأمين إذا كانت القيمة كبيرة.</p>",
+    "contentEn": "<h2 id='s1'>Why Invest in Gold Bars?</h2><p>Gold bars have been considered a safe haven and a store of value throughout history, especially during times of economic uncertainty. They are an effective means of diversifying an investment portfolio and protecting against inflation and currency fluctuations.</p><p>Investors often prefer physical gold for its ease of ownership and intrinsic value, which is not tied to the performance of companies or governments, making it an attractive option for long-term wealth preservation.</p><h2 id='s2'>Where to Buy Gold Bars in Saudi Arabia?</h2><p>Gold bars can be purchased from several reliable sources in the Kingdom, most notably major banks that offer this service, and reputable authorized gold and jewelry companies. There are also specialized online platforms that offer secure purchase and delivery services.</p><p>It is essential to ensure that the seller is licensed and recognized by official authorities to guarantee the quality and purity of the gold and to avoid fraud.</p><h2 id='s3'>Factors to Consider Before Buying</h2><p>When purchasing bars, attention should be paid to the purity of the gold (24-karat is most common for bars) and the weight of the bar, as they are available in various weights ranging from one gram to several kilograms. Ensure the presence of a manufacturer's stamp and a certificate of authenticity.</p><p>Compare prices among several sellers, keeping in mind that the price of gold is determined by the global price plus a small fabrication fee. Also, inquire about sales and buyback policies.</p><h2 id='s4'>Storing and Protecting Your Investment</h2><p>After purchase, secure storage is crucial. You can use safe deposit boxes in banks, which offer high protection against theft or loss, for an annual fee.</p><p>Alternatively, bars can be stored in secure home safes, but it must be ensured that they are well-secured and protected against fire and theft, with the necessity of informing the insurance company if the value is significant.</p>"
   }
 ];
 

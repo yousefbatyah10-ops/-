@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-28
-// Total articles: 157
+// Last updated: 2026-09-29
+// Total articles: 158
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -11372,6 +11372,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>لماذا تستثمر في سبائك الذهب؟</h2><p>تُعتبر سبائك الذهب ملاذًا آمنًا ومخزنًا للقيمة على مر العصور، خاصة في أوقات عدم اليقين الاقتصادي. إنها وسيلة فعالة لتنويع المحفظة الاستثمارية والحماية من التضخم وتقلبات العملات.</p><p>يُفضل المستثمرون الذهب المادي لسهولة حيازته وقيمته الجوهرية التي لا ترتبط بأداء الشركات أو الحكومات، مما يجعله خيارًا جذابًا للحفاظ على الثروة على المدى الطويل.</p><h2 id='s2'>أين تشتري سبائك الذهب في السعودية؟</h2><p>يمكن شراء سبائك الذهب من عدة مصادر موثوقة في المملكة، أبرزها البنوك الكبرى التي تقدم هذه الخدمة، وشركات الذهب والمجوهرات المعتمدة ذات السمعة الطيبة. ك��ا توجد منصات إلكترونية متخصصة تقدم خدمة الشراء والتوصيل الآمن.</p><p>من الضروري التأكد من أن البائع مرخص ومعترف به من قبل الجهات الرسمية لضمان جودة ونقاء الذهب والابتعاد عن عمليات الاحتيال.</p><h2 id='s3'>عوامل يجب مراعاتها قبل الشراء</h2><p>عند شراء السبائك، يجب الانتباه إلى نقاء الذهب (عيار 24 قيراط هو الأكثر شيوعًا للسبائك) ووزن السبيكة، حيث تتوفر بأوزان مختلفة تبدأ من جرام واحد وحتى كيلوجرامات. تأكد من وجود ختم المصنع وشهادة الأصالة.</p><p>قارن الأسعار بين عدة بائعين، مع الأخذ في الاعتبار أن سعر الذهب يتحدد بالسعر العالمي مضافًا إليه مصنعية بسيطة. كما يجب الاستفسار عن سياسات البيع وإعادة الشراء.</p><h2 id='s4'>تخزين وحماية استثماراتك</h2><p>بعد الشراء، يُعد التخزين الآمن أمرًا بالغ الأهمية. يمكنك استخدا�� صناديق الودائع الآمنة في البنوك، والتي توفر حماية عالية ضد السرقة أو الضياع، مقابل رسوم سنوية.</p><p>بدلاً من ذلك، يمكن تخزين السبائك في خزائن منزلية آمنة، ولكن يجب التأكد من أنها مؤمنة بشكل جيد ومحمية ضد الحرائق والسرقة، مع ضرورة إبلاغ شركة التأمين إذا كانت القيمة كبيرة.</p>",
     "contentEn": "<h2 id='s1'>Why Invest in Gold Bars?</h2><p>Gold bars have been considered a safe haven and a store of value throughout history, especially during times of economic uncertainty. They are an effective means of diversifying an investment portfolio and protecting against inflation and currency fluctuations.</p><p>Investors often prefer physical gold for its ease of ownership and intrinsic value, which is not tied to the performance of companies or governments, making it an attractive option for long-term wealth preservation.</p><h2 id='s2'>Where to Buy Gold Bars in Saudi Arabia?</h2><p>Gold bars can be purchased from several reliable sources in the Kingdom, most notably major banks that offer this service, and reputable authorized gold and jewelry companies. There are also specialized online platforms that offer secure purchase and delivery services.</p><p>It is essential to ensure that the seller is licensed and recognized by official authorities to guarantee the quality and purity of the gold and to avoid fraud.</p><h2 id='s3'>Factors to Consider Before Buying</h2><p>When purchasing bars, attention should be paid to the purity of the gold (24-karat is most common for bars) and the weight of the bar, as they are available in various weights ranging from one gram to several kilograms. Ensure the presence of a manufacturer's stamp and a certificate of authenticity.</p><p>Compare prices among several sellers, keeping in mind that the price of gold is determined by the global price plus a small fabrication fee. Also, inquire about sales and buyback policies.</p><h2 id='s4'>Storing and Protecting Your Investment</h2><p>After purchase, secure storage is crucial. You can use safe deposit boxes in banks, which offer high protection against theft or loss, for an annual fee.</p><p>Alternatively, bars can be stored in secure home safes, but it must be ensured that they are well-secured and protected against fire and theft, with the necessity of informing the insurance company if the value is significant.</p>"
+  },
+  {
+    "id": 158,
+    "slug": "investing-in-global-markets-from-saudi-arabia",
+    "title": "الاستثمار في الأسواق العالمية من السعودية",
+    "titleEn": "Investing in Global Markets from Saudi Arabia",
+    "summary": "يوفر الاستثمار في الأسواق العالمية من السعودية فرصًا كبيرة لتنويع المحافظ وتحقيق عوائد مجزية، مع ضرورة فهم الآليات والمخاطر.",
+    "summaryEn": "Investing in global markets from Saudi Arabia offers significant opportunities for portfolio diversification and rewarding returns, requiring an understanding of mechanisms and risks.",
+    "excerpt": "يفتح الاستثمار العالمي للمستثمرين السعوديين آفاقًا جديدة للنمو والتنويع بعيدًا عن السوق المحلي.",
+    "excerptEn": "Global investment opens new horizons for growth and diversification for Saudi investors beyond the local market.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "29 سبتمبر 2026",
+    "dateEn": "September 29, 2026",
+    "dateISO": "2026-09-29",
+    "readTime": "10",
+    "views": "4318",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article158.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "لماذا الاستثمار العالمي من السعودية؟"
+      },
+      {
+        "id": "s2",
+        "text": "كيف تبدأ رحلتك الاستثمارية؟"
+      },
+      {
+        "id": "s3",
+        "text": "أهم الأدوات والاعتبارات"
+      },
+      {
+        "id": "s4",
+        "text": "الفرص والتحديات"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Why Global Investment from Saudi Arabia?"
+      },
+      {
+        "id": "s2",
+        "text": "How to Start Your Investment Journey?"
+      },
+      {
+        "id": "s3",
+        "text": "Key Tools and Considerations"
+      },
+      {
+        "id": "s4",
+        "text": "Opportunities and Challenges"
+      }
+    ],
+    "related": [
+      81
+    ],
+    "content": "<h2 id='s1'>لماذا الاستثمار العالمي من السعودية؟</h2><p>يبحث المستثمرون السعوديون بشكل متزايد عن فرص تتجاوز السوق المحلي، ويوفر الاستثمار في الأسواق العالمية تنويعًا استراتيجيًا للمحفظة. يساهم هذا التنويع في تقليل المخاطر المرتبطة بالاعتماد على اقتصاد واحد، ويفتح الأبواب أمام قطاعات وصناعات عالمية مزدهرة.</p><h2 id='s2'>كيف تبدأ رحلتك الاستثمارية؟</h2><p>للبدء، يحتاج المستثمر السعودي إلى اختيار وسيط مالي عالمي موثوق ومرخص يتيح الوصول إلى الأسواق الدولية. توفر العديد من المنصات الرقمية الآن أدوات سهلة الاستخدام لفتح حسابات التداول وتنفيذ الصفقات في أسواق الأسهم، السندات، وصناديق المؤشرات المتداولة (ETFs) العالمية.</p><h2 id='s3'>أهم الأدوات والاعتبارات</h2><p>يمكن للمستثمرين الاختيار بين الأسهم الفردية لشركات عالمية كبرى، أو صناديف المؤشرات المتداولة التي تتبع أسواقًا أو قطاعات معينة، أو صناديق الاستثمار المشتركة. من الضروري فهم المخاطر المرتبطة بتقلبات أسعار العملات والتحديات التنظيمية لكل سوق.</p><h2 id='s4'>الفرص والتحديات</h2><p>يقدم الاستثمار العالمي فرصًا للنمو في الاقتصادات المتقدمة والناشئة، بالإضافة إلى الوصول لابتكارات تكنولوجية وقطاعات لا تتوفر محليًا بنفس الحجم. ومع ذلك، يتطلب الأمر بحثًا دقيقًا وفهمًا عميقًا لديناميكيات السوق العالمية، بالإضافة إلى إدارة فعالة للمخاطر للحفاظ على استقرار المحفظة.</p>",
+    "contentEn": "<h2 id='s1'>Why Global Investment from Saudi Arabia?</h2><p>Saudi investors are increasingly looking for opportunities beyond the local market, and investing in global markets offers strategic portfolio diversification. This diversification helps reduce risks associated with relying on a single economy and opens doors to thriving global sectors and industries.</p><h2 id='s2'>How to Start Your Investment Journey?</h2><p>To begin, a Saudi investor needs to choose a reliable and licensed international financial broker that provides access to global markets. Many digital platforms now offer user-friendly tools to open trading accounts and execute trades in global stock markets, bonds, and Exchange Traded Funds (ETFs).</p><h2 id='s3'>Key Tools and Considerations</h2><p>Investors can choose between individual stocks of major global companies, ETFs that track specific markets or sectors, or mutual funds. It is essential to understand the risks associated with currency fluctuations and the regulatory challenges of each market.</p><h2 id='s4'>Opportunities and Challenges</h2><p>Global investment offers growth opportunities in developed and emerging economies, as well as access to technological innovations and sectors not available locally on the same scale. However, it requires meticulous research and a deep understanding of global market dynamics, in addition to effective risk management to maintain portfolio stability.</p>"
   }
 ];
 

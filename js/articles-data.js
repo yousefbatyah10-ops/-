@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-29
-// Total articles: 158
+// Last updated: 2026-09-30
+// Total articles: 159
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -11441,6 +11441,91 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>لماذا الاستثمار العالمي من السعودية؟</h2><p>يبحث المستثمرون السعوديون بشكل متزايد عن فرص تتجاوز السوق المحلي، ويوفر الاستثمار في الأسواق العالمية تنويعًا استراتيجيًا للمحفظة. يساهم هذا التنويع في تقليل المخاطر المرتبطة بالاعتماد على اقتصاد واحد، ويفتح الأبواب أمام قطاعات وصناعات عالمية مزدهرة.</p><h2 id='s2'>كيف تبدأ رحلتك الاستثمارية؟</h2><p>للبدء، يحتاج المستثمر السعودي إلى اختيار وسيط مالي عالمي موثوق ومرخص يتيح الوصول إلى الأسواق الدولية. توفر العديد من المنصات الرقمية الآن أدوات سهلة الاستخدام لفتح حسابات التداول وتنفيذ الصفقات في أسواق الأسهم، السندات، وصناديق المؤشرات المتداولة (ETFs) العالمية.</p><h2 id='s3'>أهم الأدوات والاعتبارات</h2><p>يمكن للمستثمرين الاختيار بين الأسهم الفردية لشركات عالمية كبرى، أو صناديف المؤشرات المتداولة التي تتبع أسواقًا أو قطاعات معينة، أو صناديق الاستثمار المشتركة. من الضروري فهم المخاطر المرتبطة بتقلبات أسعار العملات والتحديات التنظيمية لكل سوق.</p><h2 id='s4'>الفرص والتحديات</h2><p>يقدم الاستثمار العالمي فرصًا للنمو في الاقتصادات المتقدمة والناشئة، بالإضافة إلى الوصول لابتكارات تكنولوجية وقطاعات لا تتوفر محليًا بنفس الحجم. ومع ذلك، يتطلب الأمر بحثًا دقيقًا وفهمًا عميقًا لديناميكيات السوق العالمية، بالإضافة إلى إدارة فعالة للمخاطر للحفاظ على استقرار المحفظة.</p>",
     "contentEn": "<h2 id='s1'>Why Global Investment from Saudi Arabia?</h2><p>Saudi investors are increasingly looking for opportunities beyond the local market, and investing in global markets offers strategic portfolio diversification. This diversification helps reduce risks associated with relying on a single economy and opens doors to thriving global sectors and industries.</p><h2 id='s2'>How to Start Your Investment Journey?</h2><p>To begin, a Saudi investor needs to choose a reliable and licensed international financial broker that provides access to global markets. Many digital platforms now offer user-friendly tools to open trading accounts and execute trades in global stock markets, bonds, and Exchange Traded Funds (ETFs).</p><h2 id='s3'>Key Tools and Considerations</h2><p>Investors can choose between individual stocks of major global companies, ETFs that track specific markets or sectors, or mutual funds. It is essential to understand the risks associated with currency fluctuations and the regulatory challenges of each market.</p><h2 id='s4'>Opportunities and Challenges</h2><p>Global investment offers growth opportunities in developed and emerging economies, as well as access to technological innovations and sectors not available locally on the same scale. However, it requires meticulous research and a deep understanding of global market dynamics, in addition to effective risk management to maintain portfolio stability.</p>"
+  },
+  {
+    "id": 159,
+    "slug": "investing-in-undeveloped-land",
+    "title": "كيف تستثمر في الأراضي البيضاء",
+    "titleEn": "Investing in Undeveloped Land",
+    "summary": "الاستثمار في الأراضي البيضاء يقدم فرصة واعدة لتحقيق عوائد رأسمالية كبيرة مع نمو المدن، لكنه يتطلب فهمًا دقيقًا للسوق والمخاطر المحتملة.",
+    "summaryEn": "Investing in white lands offers a promising opportunity for significant capital appreciation with urban growth, but it requires a precise understanding of the market and potential risks.",
+    "excerpt": "تعد الأراضي البيضاء فرصة استثمارية جذابة بفضل إمكانية تحقيق عوائد رأسمالية عالية وتكاليف تشغيلية منخفضة، مع ضرورة الانتباه للتحديات التنظيمية والسوقية.",
+    "excerptEn": "White lands represent an attractive investment opportunity due to their potential for high capital returns and low operational costs, though careful attention to regulatory and market challenges is essential.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "30 سبتمبر 2026",
+    "dateEn": "September 30, 2026",
+    "dateISO": "2026-09-30",
+    "readTime": "8",
+    "views": "3318",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article159.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة للاستثمار في الأراضي البيضاء"
+      },
+      {
+        "id": "s2",
+        "text": "مزايا الاستثمار في الأراضي البيضاء"
+      },
+      {
+        "id": "s3",
+        "text": "تحديات ومخاطر الاستثمار"
+      },
+      {
+        "id": "s4",
+        "text": "اعتبارات أساسية قبل الاستثمار"
+      },
+      {
+        "id": "s5",
+        "text": "استراتيجيات الاستثمار في الأراضي البيضاء"
+      },
+      {
+        "id": "s6",
+        "text": "خاتمة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Investing in White Lands"
+      },
+      {
+        "id": "s2",
+        "text": "Advantages of Investing in White Lands"
+      },
+      {
+        "id": "s3",
+        "text": "Challenges and Risks of Investment"
+      },
+      {
+        "id": "s4",
+        "text": "Key Considerations Before Investing"
+      },
+      {
+        "id": "s5",
+        "text": "Strategies for Investing in White Lands"
+      },
+      {
+        "id": "s6",
+        "text": "Conclusion"
+      }
+    ],
+    "related": [
+      97
+    ],
+    "content": "<h2 id='s1'>مقدمة للاستثمار في الأراضي البيضاء</h2><p>الأراضي البيضاء هي قطع أراضٍ غير مطورة تقع ضمن النطاق العمراني للمدن، وتمثل فرصة استثمارية واعدة لتحقيق عوائد رأسمالية مع نمو المدن وتوسعها.</p><h2 id='s2'>مزايا الاستثمار في الأراضي البيضاء</h2><p>يتميز هذا النوع من الاستثمار بتكاليف تشغيلية وصيانة منخفضة جدًا مقارنة بالعقارات المطورة، مما يجعله خيارًا جذابًا للمستثمرين الباحثين عن استثمار سلبي طويل الأجل.</p><h2 id='s3'>تحديات ومخاطر الاستثمار</h2><p>من أبرز التحديات التغيرات في اللوائح الحكومية، مثل فرض رسوم على الأراضي البيضاء أو قيود على البناء، بالإضافة إلى مخاطر انخفاض السيولة في بعض الأحيان.</p><h2 id='s4'>اعتبارات أساسية قبل الاستثمار</h2><p>يجب إجراء دراسة شاملة للموقع، خطط التنمية المستقبلية للمنطقة، والتحقق من الوضع القانوني للأرض وخلوها من أي نزاعات أو قيود.</p><h2 id='s5'>استراتيجيات الاستثمار في الأراضي البيضاء</h2><p>يمكن للمستثمرين شراء الأراضي والاحتفاظ بها على المدى الطويل، أو الدخول في شراكات مع مطورين، أو حتى تقسيمها وبيعها كقطع أصغر لتحقيق أرباح.</p><h2 id='s6'>خاتمة</h2><p>الاستثمار في الأراضي البيضاء يحمل إمكانات نمو كبيرة، لكنه يتطلب بحثًا دقيقًا وفهمًا عميقًا للسوق لضمان اتخاذ قرارات استثمارية مستنيرة ومربحة.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Investing in White Lands</h2><p>White lands are undeveloped plots located within urban boundaries, representing a promising investment opportunity to achieve capital returns as cities grow and expand.</p><h2 id='s2'>Advantages of Investing in White Lands</h2><p>This type of investment is characterized by very low operational and maintenance costs compared to developed properties, making it an attractive option for investors seeking long-term passive investment.</p><h2 id='s3'>Challenges and Risks of Investment</h2><p>Key challenges include changes in government regulations, such as imposing fees on white lands or building restrictions, in addition to the risk of reduced liquidity at times.</p><h2 id='s4'>Key Considerations Before Investing</h2><p>A comprehensive study of the location, future development plans for the area, and verification of the land's legal status, ensuring it's free from disputes or restrictions, must be conducted.</p><h2 id='s5'>Strategies for Investing in White Lands</h2><p>Investors can buy and hold land for the long term, enter partnerships with developers, or even subdivide and sell it as smaller plots to generate profits.</p><h2 id='s6'>Conclusion</h2><p>Investing in white lands holds significant growth potential, but it requires thorough research and a deep understanding of the market to ensure informed and profitable investment decisions.</p>"
   }
 ];
 

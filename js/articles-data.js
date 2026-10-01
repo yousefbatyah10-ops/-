@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-09-30
-// Total articles: 159
+// Last updated: 2026-10-01
+// Total articles: 160
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -11526,6 +11526,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة للاستثمار في الأراضي البيضاء</h2><p>الأراضي البيضاء هي قطع أراضٍ غير مطورة تقع ضمن النطاق العمراني للمدن، وتمثل فرصة استثمارية واعدة لتحقيق عوائد رأسمالية مع نمو المدن وتوسعها.</p><h2 id='s2'>مزايا الاستثمار في الأراضي البيضاء</h2><p>يتميز هذا النوع من الاستثمار بتكاليف تشغيلية وصيانة منخفضة جدًا مقارنة بالعقارات المطورة، مما يجعله خيارًا جذابًا للمستثمرين الباحثين عن استثمار سلبي طويل الأجل.</p><h2 id='s3'>تحديات ومخاطر الاستثمار</h2><p>من أبرز التحديات التغيرات في اللوائح الحكومية، مثل فرض رسوم على الأراضي البيضاء أو قيود على البناء، بالإضافة إلى مخاطر انخفاض السيولة في بعض الأحيان.</p><h2 id='s4'>اعتبارات أساسية قبل الاستثمار</h2><p>يجب إجراء دراسة شاملة للموقع، خطط التنمية المستقبلية للمنطقة، والتحقق من الوضع القانوني للأرض وخلوها من أي نزاعات أو قيود.</p><h2 id='s5'>استراتيجيات الاستثمار في الأراضي البيضاء</h2><p>يمكن للمستثمرين شراء الأراضي والاحتفاظ بها على المدى الطويل، أو الدخول في شراكات مع مطورين، أو حتى تقسيمها وبيعها كقطع أصغر لتحقيق أرباح.</p><h2 id='s6'>خاتمة</h2><p>الاستثمار في الأراضي البيضاء يحمل إمكانات نمو كبيرة، لكنه يتطلب بحثًا دقيقًا وفهمًا عميقًا للسوق لضمان اتخاذ قرارات استثمارية مستنيرة ومربحة.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Investing in White Lands</h2><p>White lands are undeveloped plots located within urban boundaries, representing a promising investment opportunity to achieve capital returns as cities grow and expand.</p><h2 id='s2'>Advantages of Investing in White Lands</h2><p>This type of investment is characterized by very low operational and maintenance costs compared to developed properties, making it an attractive option for investors seeking long-term passive investment.</p><h2 id='s3'>Challenges and Risks of Investment</h2><p>Key challenges include changes in government regulations, such as imposing fees on white lands or building restrictions, in addition to the risk of reduced liquidity at times.</p><h2 id='s4'>Key Considerations Before Investing</h2><p>A comprehensive study of the location, future development plans for the area, and verification of the land's legal status, ensuring it's free from disputes or restrictions, must be conducted.</p><h2 id='s5'>Strategies for Investing in White Lands</h2><p>Investors can buy and hold land for the long term, enter partnerships with developers, or even subdivide and sell it as smaller plots to generate profits.</p><h2 id='s6'>Conclusion</h2><p>Investing in white lands holds significant growth potential, but it requires thorough research and a deep understanding of the market to ensure informed and profitable investment decisions.</p>"
+  },
+  {
+    "id": 160,
+    "slug": "how-to-analyze-earnings-reports",
+    "title": "كيف تحلل تقارير أرباح الشركات",
+    "titleEn": "How to Analyze Earnings Reports",
+    "summary": "تحليل تقارير أرباح الشركات ضروري للمستثمرين لاتخاذ قرارات مستنيرة حول صحة الشركة وأدائها المالي الحقيقي.",
+    "summaryEn": "Analyzing company earnings reports is crucial for investors to make informed decisions about a company's true financial health and performance.",
+    "excerpt": "تعرف على كيفية فك رموز تقارير الأرباح لفهم أداء الشركات وتحديد فرص الاستثمار الواعدة.",
+    "excerptEn": "Learn how to decipher earnings reports to understand company performance and identify promising investment opportunities.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "خالد المحسن",
+    "authorEn": "Khalid Al-Muhsen",
+    "authorInitial": "K",
+    "date": "1 أكتوبر 2026",
+    "dateEn": "October 1, 2026",
+    "dateISO": "2026-10-01",
+    "readTime": "12",
+    "views": "4824",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article160.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: أهمية تقارير الأرباح"
+      },
+      {
+        "id": "s2",
+        "text": "فهم المكونات الرئيسية للتقرير"
+      },
+      {
+        "id": "s3",
+        "text": "ما وراء الأرقام: المقارنة والتوقعات"
+      },
+      {
+        "id": "s4",
+        "text": "المؤشرات الهامة التي يجب التركيز عليها"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: Importance of Earnings Reports"
+      },
+      {
+        "id": "s2",
+        "text": "Understanding Key Components of the Report"
+      },
+      {
+        "id": "s3",
+        "text": "Beyond the Numbers: Comparison and Expectations"
+      },
+      {
+        "id": "s4",
+        "text": "Important Metrics to Focus On"
+      }
+    ],
+    "related": [
+      41
+    ],
+    "content": "<h2 id='s1'>مقدمة: أهمية تقارير الأرباح</h2><p>تقارير أرباح الشركات هي نافذة المستثمر على الأداء المالي والتشغيلي للشركة خلال فترة محددة، وغالباً ما تكون ربع سنوية أو سنوية. تُعد هذه التقارير حجر الزاوية في التحليل الأساسي، حيث تكشف عن الإيرادات، المصروفات، وصافي الأرباح.</p><p>يساعد فهم هذه التقارير المستثمرين على تقييم مدى قوة الشركة، قدرتها على تحقيق النمو، واستدامتها المالية، مما يمكنهم من اتخاذ قرارات استثمارية مدروسة.</p><h2 id='s2'>فهم المكونات الرئيسية للتقرير</h2><p>يجب على المستثمر التركيز على ثلاث قوائم مالية رئيسية: قائمة الدخل التي توضح الإيرادات والمصروفات وصافي الربح، والميزانية العمومية التي تعرض الأصول والخصوم وحقوق الملكية في نقطة زمنية محددة.</p><p>بالإضافة إلى ذلك، تعد قائمة التدفقات النقدية حيوية، حيث تبين كيفية توليد واستخدام الشركة للنقد من الأنشطة التشغيلية والاستثمارية والتمويلية، مما يعطي صورة أوضح عن السيولة الحقيقية.</p><h2 id='s3'>ما وراء الأرقام: المقارنة والتوقعات</h2><p>لا يكفي مجرد قراءة الأرقام الحالية، بل يجب مقارنتها بأداء الشركة في الفترات السابقة (ربع سنوي وسنوي) لتحديد الاتجاهات والنمو أو التراجع. كما أن مقارنتها بأداء المنافسين في نفس الصناعة أمر بالغ الأهمية لتقييم موقع الشركة التنافسي.</p><p>يجب أيضاً مقارنة الأرقام الفعلية بتوقعات المحللين. إذا فاقت الشركة التوقعات بشكل كبير، فقد يشير ذلك إلى أداء قوي، بينما قد تشير الأرقام الأقل إلى مشاكل محتملة أو تحديات مستقبلية.</p><h2 id='s4'>المؤشرات الهامة التي يجب التركيز عليها</h2><p>ركز على نمو الإيرادات وصافي الدخل لتحديد قدرة الشركة على التوسع والربحية. كما أن ربحية السهم (EPS) تُعد مؤشراً حاسماً لقيمة السهم، ونسب الهامش (مثل هامش الربح الإجمالي وصافي الربح) تكشف عن كفاءة إدارة التكاليف.</p><p>لا تنسَ تحليل التدفقات النقدية الحرة وقدرة الشركة على سداد الديون. فالشركة ذات التدفقات النقدية القوية ونسبة ديون معقولة تكون عادةً أكثر استقراراً وجاذبية للاستثمار على المدى الطويل.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: Importance of Earnings Reports</h2><p>Company earnings reports serve as an investor's window into a company's financial and operational performance over a specific period, typically quarterly or annually. These reports are a cornerstone of fundamental analysis, revealing revenues, expenses, and net profits.</p><p>Understanding these reports helps investors assess a company's strength, growth potential, and financial sustainability, enabling them to make informed investment decisions.</p><h2 id='s2'>Understanding Key Components of the Report</h2><p>Investors should focus on three main financial statements: the income statement, which details revenues, expenses, and net profit; and the balance sheet, which presents assets, liabilities, and equity at a specific point in time.</p><p>Furthermore, the cash flow statement is vital, showing how the company generates and uses cash from operating, investing, and financing activities, providing a clearer picture of true liquidity.</p><h2 id='s3'>Beyond the Numbers: Comparison and Expectations</h2><p>Simply reading current figures is insufficient; they must be compared with the company's performance in previous periods (quarterly and annually) to identify trends and growth or decline. Comparing them with competitors in the same industry is also crucial for assessing the company's competitive position.</p><p>Actual figures should also be compared against analyst expectations. If the company significantly beats expectations, it may indicate strong performance, while lower figures might signal potential issues or future challenges.</p><h2 id='s4'>Important Metrics to Focus On</h2><p>Focus on revenue growth and net income to determine the company's ability to expand and its profitability. Earnings Per Share (EPS) is also a critical indicator of share value, and margin ratios (like gross and net profit margins) reveal cost management efficiency.</p><p>Don't forget to analyze free cash flows and the company's ability to service debt. A company with strong cash flows and a reasonable debt-to-equity ratio is typically more stable and attractive for long-term investment.</p>"
   }
 ];
 

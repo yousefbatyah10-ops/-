@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-01
-// Total articles: 160
+// Last updated: 2026-10-02
+// Total articles: 161
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -11595,6 +11595,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: أهمية تقارير الأرباح</h2><p>تقارير أرباح الشركات هي نافذة المستثمر على الأداء المالي والتشغيلي للشركة خلال فترة محددة، وغالباً ما تكون ربع سنوية أو سنوية. تُعد هذه التقارير حجر الزاوية في التحليل الأساسي، حيث تكشف عن الإيرادات، المصروفات، وصافي الأرباح.</p><p>يساعد فهم هذه التقارير المستثمرين على تقييم مدى قوة الشركة، قدرتها على تحقيق النمو، واستدامتها المالية، مما يمكنهم من اتخاذ قرارات استثمارية مدروسة.</p><h2 id='s2'>فهم المكونات الرئيسية للتقرير</h2><p>يجب على المستثمر التركيز على ثلاث قوائم مالية رئيسية: قائمة الدخل التي توضح الإيرادات والمصروفات وصافي الربح، والميزانية العمومية التي تعرض الأصول والخصوم وحقوق الملكية في نقطة زمنية محددة.</p><p>بالإضافة إلى ذلك، تعد قائمة التدفقات النقدية حيوية، حيث تبين كيفية توليد واستخدام الشركة للنقد من الأنشطة التشغيلية والاستثمارية والتمويلية، مما يعطي صورة أوضح عن السيولة الحقيقية.</p><h2 id='s3'>ما وراء الأرقام: المقارنة والتوقعات</h2><p>لا يكفي مجرد قراءة الأرقام الحالية، بل يجب مقارنتها بأداء الشركة في الفترات السابقة (ربع سنوي وسنوي) لتحديد الاتجاهات والنمو أو التراجع. كما أن مقارنتها بأداء المنافسين في نفس الصناعة أمر بالغ الأهمية لتقييم موقع الشركة التنافسي.</p><p>يجب أيضاً مقارنة الأرقام الفعلية بتوقعات المحللين. إذا فاقت الشركة التوقعات بشكل كبير، فقد يشير ذلك إلى أداء قوي، بينما قد تشير الأرقام الأقل إلى مشاكل محتملة أو تحديات مستقبلية.</p><h2 id='s4'>المؤشرات الهامة التي يجب التركيز عليها</h2><p>ركز على نمو الإيرادات وصافي الدخل لتحديد قدرة الشركة على التوسع والربحية. كما أن ربحية السهم (EPS) تُعد مؤشراً حاسماً لقيمة السهم، ونسب الهامش (مثل هامش الربح الإجمالي وصافي الربح) تكشف عن كفاءة إدارة التكاليف.</p><p>لا تنسَ تحليل التدفقات النقدية الحرة وقدرة الشركة على سداد الديون. فالشركة ذات التدفقات النقدية القوية ونسبة ديون معقولة تكون عادةً أكثر استقراراً وجاذبية للاستثمار على المدى الطويل.</p>",
     "contentEn": "<h2 id='s1'>Introduction: Importance of Earnings Reports</h2><p>Company earnings reports serve as an investor's window into a company's financial and operational performance over a specific period, typically quarterly or annually. These reports are a cornerstone of fundamental analysis, revealing revenues, expenses, and net profits.</p><p>Understanding these reports helps investors assess a company's strength, growth potential, and financial sustainability, enabling them to make informed investment decisions.</p><h2 id='s2'>Understanding Key Components of the Report</h2><p>Investors should focus on three main financial statements: the income statement, which details revenues, expenses, and net profit; and the balance sheet, which presents assets, liabilities, and equity at a specific point in time.</p><p>Furthermore, the cash flow statement is vital, showing how the company generates and uses cash from operating, investing, and financing activities, providing a clearer picture of true liquidity.</p><h2 id='s3'>Beyond the Numbers: Comparison and Expectations</h2><p>Simply reading current figures is insufficient; they must be compared with the company's performance in previous periods (quarterly and annually) to identify trends and growth or decline. Comparing them with competitors in the same industry is also crucial for assessing the company's competitive position.</p><p>Actual figures should also be compared against analyst expectations. If the company significantly beats expectations, it may indicate strong performance, while lower figures might signal potential issues or future challenges.</p><h2 id='s4'>Important Metrics to Focus On</h2><p>Focus on revenue growth and net income to determine the company's ability to expand and its profitability. Earnings Per Share (EPS) is also a critical indicator of share value, and margin ratios (like gross and net profit margins) reveal cost management efficiency.</p><p>Don't forget to analyze free cash flows and the company's ability to service debt. A company with strong cash flows and a reasonable debt-to-equity ratio is typically more stable and attractive for long-term investment.</p>"
+  },
+  {
+    "id": 161,
+    "slug": "smart-product-pricing-strategies",
+    "title": "كيف تسعّر منتجاتك بذكاء",
+    "titleEn": "Smart Product Pricing Strategies",
+    "summary": "التسعير الذكي للمنتجات هو مفتاح تحقيق الأرباح المستدامة وتعزيز مكانة علامتك التجارية في السوق التنافسي.",
+    "summaryEn": "Smart product pricing is key to achieving sustainable profits and enhancing your brand's position in a competitive market.",
+    "excerpt": "تعلم كيفية تحديد السعر الأمثل لمنتجاتك من خلال فهم التكاليف والقيمة المدركة وتحليل السوق والمنافسين، وتبني استراتيجيات تسعير فعالة.",
+    "excerptEn": "Learn how to determine the optimal price for your products by understanding costs, perceived value, market and competitor analysis, and adopting effective pricing strategies.",
+    "category": "ريادة الأعمال",
+    "categoryEn": "Entrepreneurship",
+    "categoryIcon": "🚀",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "2 أكتوبر 2026",
+    "dateEn": "October 2, 2026",
+    "dateISO": "2026-10-02",
+    "readTime": "8",
+    "views": "5313",
+    "emoji": "🚀",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article161.jpg",
+    "featured": false,
+    "breadcrumb": "ريادة الأعمال",
+    "breadcrumbEn": "Entrepreneurship",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "أهمية التسعير الذكي"
+      },
+      {
+        "id": "s2",
+        "text": "فهم التكاليف والقيمة"
+      },
+      {
+        "id": "s3",
+        "text": "تحليل السوق والمنافسين"
+      },
+      {
+        "id": "s4",
+        "text": "استراتيجيات التسعير الفعالة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Importance of Smart Pricing"
+      },
+      {
+        "id": "s2",
+        "text": "Understanding Costs and Value"
+      },
+      {
+        "id": "s3",
+        "text": "Market and Competitor Analysis"
+      },
+      {
+        "id": "s4",
+        "text": "Effective Pricing Strategies"
+      }
+    ],
+    "related": [
+      92
+    ],
+    "content": "<h2 id='s1'>أهمية التسعير الذكي</h2><p>التسعير ليس مجرد تحديد رقم، بل هو فن وعلم يؤثر بشكل مباشر على الأرباح ووضع علامتك التجارية في السوق. التسعير الذكي يضمن الاستدامة والنمو لعملك.</p><h2 id='s2'>فهم التكاليف والقيمة</h2><p>ابدأ بحساب جميع التكاليف المباشرة وغير المباشرة لمنتجك لتحديد نقطة التعادل. بعد ذلك، ركز على القيمة التي يدركها العميل لمنتجك؛ فالسعر يجب أن يعكس هذه القيمة ليجذب العملاء.</p><h2 id='s3'>تحليل السوق والمنافسين</h2><p>ادرس أسعار المنافسين عن كثب لتحديد موقعك التنافسي. حلل حجم السوق والطلب لتجنب التسعير المرتفع الذي يقلل المبيعات أو المنخفض الذي يهدر الأرباح المحتملة.</p><h2 id='s4'>استراتيجيات التسعير الفعالة</h2><p>فكر في استراتيجيات مثل تسعير الاختراق لجذب العملاء، أو التسعير المتميز للمنتجات الفاخرة، أو التسعير النفسي (مثل 99.99 دولار). كن مرنًا وراقب أداء التسعير باستمرار لضمان فعاليته.</p>",
+    "contentEn": "<h2 id='s1'>Importance of Smart Pricing</h2><p>Pricing is not just about setting a number; it's an art and science directly impacting profits and your brand's market position. Smart pricing ensures sustainability and growth for your business.</p><h2 id='s2'>Understanding Costs and Value</h2><p>Start by calculating all direct and indirect costs of your product to determine the break-even point. Then, focus on the perceived value of your product to the customer; the price should reflect this value to attract customers.</p><h2 id='s3'>Market and Competitor Analysis</h2><p>Closely study competitor prices to determine your competitive position. Analyze market size and demand to avoid overpricing that reduces sales or underpricing that squanders potential profits.</p><h2 id='s4'>Effective Pricing Strategies</h2><p>Consider strategies like penetration pricing to attract customers, premium pricing for luxury products, or psychological pricing (e.g., $99.99). Be flexible and continuously monitor pricing performance to ensure its effectiveness.</p>"
   }
 ];
 

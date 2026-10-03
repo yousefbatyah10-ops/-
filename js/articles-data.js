@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-02
-// Total articles: 161
+// Last updated: 2026-10-03
+// Total articles: 162
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -11664,6 +11664,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>أهمية التسعير الذكي</h2><p>التسعير ليس مجرد تحديد رقم، بل هو فن وعلم يؤثر بشكل مباشر على الأرباح ووضع علامتك التجارية في السوق. التسعير الذكي يضمن الاستدامة والنمو لعملك.</p><h2 id='s2'>فهم التكاليف والقيمة</h2><p>ابدأ بحساب جميع التكاليف المباشرة وغير المباشرة لمنتجك لتحديد نقطة التعادل. بعد ذلك، ركز على القيمة التي يدركها العميل لمنتجك؛ فالسعر يجب أن يعكس هذه القيمة ليجذب العملاء.</p><h2 id='s3'>تحليل السوق والمنافسين</h2><p>ادرس أسعار المنافسين عن كثب لتحديد موقعك التنافسي. حلل حجم السوق والطلب لتجنب التسعير المرتفع الذي يقلل المبيعات أو المنخفض الذي يهدر الأرباح المحتملة.</p><h2 id='s4'>استراتيجيات التسعير الفعالة</h2><p>فكر في استراتيجيات مثل تسعير الاختراق لجذب العملاء، أو التسعير المتميز للمنتجات الفاخرة، أو التسعير النفسي (مثل 99.99 دولار). كن مرنًا وراقب أداء التسعير باستمرار لضمان فعاليته.</p>",
     "contentEn": "<h2 id='s1'>Importance of Smart Pricing</h2><p>Pricing is not just about setting a number; it's an art and science directly impacting profits and your brand's market position. Smart pricing ensures sustainability and growth for your business.</p><h2 id='s2'>Understanding Costs and Value</h2><p>Start by calculating all direct and indirect costs of your product to determine the break-even point. Then, focus on the perceived value of your product to the customer; the price should reflect this value to attract customers.</p><h2 id='s3'>Market and Competitor Analysis</h2><p>Closely study competitor prices to determine your competitive position. Analyze market size and demand to avoid overpricing that reduces sales or underpricing that squanders potential profits.</p><h2 id='s4'>Effective Pricing Strategies</h2><p>Consider strategies like penetration pricing to attract customers, premium pricing for luxury products, or psychological pricing (e.g., $99.99). Be flexible and continuously monitor pricing performance to ensure its effectiveness.</p>"
+  },
+  {
+    "id": 162,
+    "slug": "best-day-trading-strategies",
+    "title": "أفضل استراتيجيات التداول اليومي",
+    "titleEn": "Best Day Trading Strategies",
+    "summary": "يستعرض هذا المقال أفضل استراتيجيات التداول اليومي الشائعة، موضحًا كيفية تطبيق كل منها لتحقيق أقصى استفادة من تحركات السوق السريعة.",
+    "summaryEn": "This article reviews the best common day trading strategies, explaining how to apply each to maximize benefits from rapid market movements.",
+    "excerpt": "اكتشف أهم استراتيجيات التداول اليومي مثل السكالبينج، تداول الزخم، والاختراق، وكيف يمكن أن تساعدك في تحقيق أرباح في الأسواق المتقلبة.",
+    "excerptEn": "Discover the most important day trading strategies such as scalping, momentum, and breakout trading, and how they can help you profit in volatile markets.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "3 أكتوبر 2026",
+    "dateEn": "October 3, 2026",
+    "dateISO": "2026-10-03",
+    "readTime": "9",
+    "views": "4839",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article162.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "المقدمة: فهم التداول اليومي"
+      },
+      {
+        "id": "s2",
+        "text": "استراتيجية السكالبينج (Scalping)"
+      },
+      {
+        "id": "s3",
+        "text": "استراتيجية تداول الزخم (Momentum Trading)"
+      },
+      {
+        "id": "s4",
+        "text": "استراتيجية تداول الاختراق (Breakout Trading)"
+      },
+      {
+        "id": "s5",
+        "text": "استراتيجية التداول العكسي (Reversal Trading)"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: Understanding Day Trading"
+      },
+      {
+        "id": "s2",
+        "text": "Scalping Strategy"
+      },
+      {
+        "id": "s3",
+        "text": "Momentum Trading Strategy"
+      },
+      {
+        "id": "s4",
+        "text": "Breakout Trading Strategy"
+      },
+      {
+        "id": "s5",
+        "text": "Reversal Trading Strategy"
+      }
+    ],
+    "related": [
+      41
+    ],
+    "content": "<h2 id='s1'>المقدمة: فهم التداول اليومي</h2><p>التداول اليومي هو استراتيجية شراء وبيع الأوراق المالية خلال يوم تداول واحد بهدف تحقيق أرباح من تحركات الأسعار الصغيرة. يتطلب هذا النوع من التداول تركيزًا عاليًا وانضباطًا شديدًا، بالإضافة إلى معرفة عميقة بالسوق.</p><p>لتحقيق النجاح، يجب على المتداولين اليوميين تبني استراتيجيات مدروسة وإدارة مخاطر صارمة، حيث أن التقلبات السريعة يمكن أن تؤدي إلى مكاسب أو خسائر كبيرة.</p><h2 id='s2'>استراتيجية السكالبينج (Scalping)</h2><p>تعتمد السكالبينج على تنفيذ عدد كبير من الصفقات السريعة جدًا للاستفادة من أصغر تحركات الأسعار. يهدف المتداولون هنا إلى تحقيق أرباح صغيرة ومتكررة تتراكم بمرور الوقت.</p><p>تتطلب هذه الاستراتيجية سرعة في اتخاذ القرار وتنفيذ الصفقات، بالإضافة إلى استخدام أدوات تحليل فني متقدمة ومراقبة دقيقة للسوق.</p><h2 id='s3'>استراتيجية تداول الزخم (Momentum Trading)</h2><p>يركز تداول الزخم على تحديد الأصول التي تشهد تحركات سعرية قوية ومستمرة في اتجاه معين، ثم الدخول في صفقات مع هذا الاتجاه. الهدف هو ركوب الموجة الصعودية أو الهبوطية طالما استمر الزخم.</p><p>يتطلب هذا الأسلوب مراقبة الأخبار والأحداث التي قد تدفع الأسعار، والقدرة على الخروج بسرعة عند تلاشي الزخم لتجنب الانعكاسات.</p><h2 id='s4'>استراتيجية تداول الاختراق (Breakout Trading)</h2><p>تعتمد هذه الاستراتيجية على الدخول في صفقة عندما يخترق سعر الأصل مستوى مقاومة رئيسيًا للأعلى أو مستوى دعم رئيسيًا للأسفل. يشير الاختراق غالبًا إلى بداية اتجاه جديد قوي.</p><p>يتطلب تحديد مستويات الدعم والمقاومة بدقة، واستخدام مؤشرات الحجم لتأكيد قوة الاختراق، مع وضع أوامر وقف الخسارة لحماية رأس المال.</p><h2 id='s5'>استراتيجية التداول العكسي (Reversal Trading)</h2><p>تهدف استراتيجية التداول العكسي إلى تحديد نهاية الاتجاه الحالي وبداية اتجاه معاكس. يدخل المتداولون في صفقات عندما يرون علامات على ضعف الاتجاه الحالي وانعكاس وشيك.</p><p>يتطلب هذا الأسلوب فهمًا عميقًا لأنماط الشموع اليابانية والمؤشرات الفنية التي تشير إلى الانعكاس، بالإضافة إلى الصبر لتأكيد الإشارة قبل الدخول.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: Understanding Day Trading</h2><p>Day trading is a strategy of buying and selling securities within a single trading day to profit from small price movements. This type of trading demands high concentration, strict discipline, and deep market knowledge.</p><p>To succeed, day traders must adopt well-planned strategies and rigorous risk management, as rapid fluctuations can lead to significant gains or losses.</p><h2 id='s2'>Scalping Strategy</h2><p>Scalping involves executing a large number of very quick trades to capitalize on the smallest price movements. Traders aim to achieve small, frequent profits that accumulate over time.</p><p>This strategy requires fast decision-making and trade execution, along with the use of advanced technical analysis tools and precise market monitoring.</p><h2 id='s3'>Momentum Trading Strategy</h2><p>Momentum trading focuses on identifying assets experiencing strong, sustained price movements in a particular direction, then entering trades with that trend. The goal is to ride the upward or downward wave as long as the momentum continues.</p><p>This approach requires monitoring news and events that may drive prices, and the ability to exit quickly when momentum fades to avoid reversals.</p><h2 id='s4'>Breakout Trading Strategy</h2><p>This strategy relies on entering a trade when an asset's price breaks above a key resistance level or below a key support level. A breakout often signals the beginning of a strong new trend.</p><p>It requires accurately identifying support and resistance levels, using volume indicators to confirm the strength of the breakout, and placing stop-loss orders to protect capital.</p><h2 id='s5'>Reversal Trading Strategy</h2><p>The reversal trading strategy aims to identify the end of a current trend and the beginning of an opposite one. Traders enter positions when they see signs of weakening current trends and an imminent reversal.</p><p>This approach requires a deep understanding of candlestick patterns and technical indicators that signal reversals, as well as patience to confirm the signal before entry.</p>"
   }
 ];
 

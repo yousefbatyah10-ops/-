@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-03
-// Total articles: 162
+// Last updated: 2026-10-04
+// Total articles: 163
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -11741,6 +11741,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>المقدمة: فهم التداول اليومي</h2><p>التداول اليومي هو استراتيجية شراء وبيع الأوراق المالية خلال يوم تداول واحد بهدف تحقيق أرباح من تحركات الأسعار الصغيرة. يتطلب هذا النوع من التداول تركيزًا عاليًا وانضباطًا شديدًا، بالإضافة إلى معرفة عميقة بالسوق.</p><p>لتحقيق النجاح، يجب على المتداولين اليوميين تبني استراتيجيات مدروسة وإدارة مخاطر صارمة، حيث أن التقلبات السريعة يمكن أن تؤدي إلى مكاسب أو خسائر كبيرة.</p><h2 id='s2'>استراتيجية السكالبينج (Scalping)</h2><p>تعتمد السكالبينج على تنفيذ عدد كبير من الصفقات السريعة جدًا للاستفادة من أصغر تحركات الأسعار. يهدف المتداولون هنا إلى تحقيق أرباح صغيرة ومتكررة تتراكم بمرور الوقت.</p><p>تتطلب هذه الاستراتيجية سرعة في اتخاذ القرار وتنفيذ الصفقات، بالإضافة إلى استخدام أدوات تحليل فني متقدمة ومراقبة دقيقة للسوق.</p><h2 id='s3'>استراتيجية تداول الزخم (Momentum Trading)</h2><p>يركز تداول الزخم على تحديد الأصول التي تشهد تحركات سعرية قوية ومستمرة في اتجاه معين، ثم الدخول في صفقات مع هذا الاتجاه. الهدف هو ركوب الموجة الصعودية أو الهبوطية طالما استمر الزخم.</p><p>يتطلب هذا الأسلوب مراقبة الأخبار والأحداث التي قد تدفع الأسعار، والقدرة على الخروج بسرعة عند تلاشي الزخم لتجنب الانعكاسات.</p><h2 id='s4'>استراتيجية تداول الاختراق (Breakout Trading)</h2><p>تعتمد هذه الاستراتيجية على الدخول في صفقة عندما يخترق سعر الأصل مستوى مقاومة رئيسيًا للأعلى أو مستوى دعم رئيسيًا للأسفل. يشير الاختراق غالبًا إلى بداية اتجاه جديد قوي.</p><p>يتطلب تحديد مستويات الدعم والمقاومة بدقة، واستخدام مؤشرات الحجم لتأكيد قوة الاختراق، مع وضع أوامر وقف الخسارة لحماية رأس المال.</p><h2 id='s5'>استراتيجية التداول العكسي (Reversal Trading)</h2><p>تهدف استراتيجية التداول العكسي إلى تحديد نهاية الاتجاه الحالي وبداية اتجاه معاكس. يدخل المتداولون في صفقات عندما يرون علامات على ضعف الاتجاه الحالي وانعكاس وشيك.</p><p>يتطلب هذا الأسلوب فهمًا عميقًا لأنماط الشموع اليابانية والمؤشرات الفنية التي تشير إلى الانعكاس، بالإضافة إلى الصبر لتأكيد الإشارة قبل الدخول.</p>",
     "contentEn": "<h2 id='s1'>Introduction: Understanding Day Trading</h2><p>Day trading is a strategy of buying and selling securities within a single trading day to profit from small price movements. This type of trading demands high concentration, strict discipline, and deep market knowledge.</p><p>To succeed, day traders must adopt well-planned strategies and rigorous risk management, as rapid fluctuations can lead to significant gains or losses.</p><h2 id='s2'>Scalping Strategy</h2><p>Scalping involves executing a large number of very quick trades to capitalize on the smallest price movements. Traders aim to achieve small, frequent profits that accumulate over time.</p><p>This strategy requires fast decision-making and trade execution, along with the use of advanced technical analysis tools and precise market monitoring.</p><h2 id='s3'>Momentum Trading Strategy</h2><p>Momentum trading focuses on identifying assets experiencing strong, sustained price movements in a particular direction, then entering trades with that trend. The goal is to ride the upward or downward wave as long as the momentum continues.</p><p>This approach requires monitoring news and events that may drive prices, and the ability to exit quickly when momentum fades to avoid reversals.</p><h2 id='s4'>Breakout Trading Strategy</h2><p>This strategy relies on entering a trade when an asset's price breaks above a key resistance level or below a key support level. A breakout often signals the beginning of a strong new trend.</p><p>It requires accurately identifying support and resistance levels, using volume indicators to confirm the strength of the breakout, and placing stop-loss orders to protect capital.</p><h2 id='s5'>Reversal Trading Strategy</h2><p>The reversal trading strategy aims to identify the end of a current trend and the beginning of an opposite one. Traders enter positions when they see signs of weakening current trends and an imminent reversal.</p><p>This approach requires a deep understanding of candlestick patterns and technical indicators that signal reversals, as well as patience to confirm the signal before entry.</p>"
+  },
+  {
+    "id": 163,
+    "slug": "how-to-analyze-earnings-reports",
+    "title": "كيف تحلل تقارير أرباح الشركات",
+    "titleEn": "How to Analyze Earnings Reports",
+    "summary": "تحليل تقارير أرباح الشركات ضروري للمستثمرين لفهم الأداء المالي واتخاذ قرارات استثمارية مستنيرة.",
+    "summaryEn": "Analyzing company earnings reports is essential for investors to understand financial performance and make informed investment decisions.",
+    "excerpt": "اكتشف كيفية فك شفرة تقارير أرباح الشركات، من فهم المكونات الأساسية إلى تحليل الأرقام الرئيسية وتوقعات الإدارة، لتوجيه استثماراتك بذكاء.",
+    "excerptEn": "Learn how to decipher company earnings reports, from understanding basic components to analyzing key figures and management guidance, to intelligently guide your investments.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "4 أكتوبر 2026",
+    "dateEn": "October 4, 2026",
+    "dateISO": "2026-10-04",
+    "readTime": "9",
+    "views": "2813",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#112244,#1a3a5c)",
+    "image": "images/article163.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: أهمية تحليل تقارير الأرباح"
+      },
+      {
+        "id": "s2",
+        "text": "فهم المكونات الأساسية للتقرير"
+      },
+      {
+        "id": "s3",
+        "text": "التركيز على الأرقام الرئيسية والمقارنات"
+      },
+      {
+        "id": "s4",
+        "text": "ما وراء الأرقام: التوقعات والإدارة"
+      },
+      {
+        "id": "s5",
+        "text": "خاتمة: اتخاذ قرارات استثمارية مستنيرة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: Importance of Analyzing Earnings Reports"
+      },
+      {
+        "id": "s2",
+        "text": "Understanding the Basic Components of the Report"
+      },
+      {
+        "id": "s3",
+        "text": "Focusing on Key Figures and Comparisons"
+      },
+      {
+        "id": "s4",
+        "text": "Beyond the Numbers: Outlook and Management"
+      },
+      {
+        "id": "s5",
+        "text": "Conclusion: Making Informed Investment Decisions"
+      }
+    ],
+    "related": [
+      114
+    ],
+    "content": "<h2 id='s1'>مقدمة: أهمية تحليل تقارير الأرباح</h2><p>تقارير أرباح الشركات هي نافذة حيوية على أدائها المالي وصحتها العامة. تحليلها بفعالية يمكن أن يكشف عن فرص استثمارية أو يحذر من مخاطر محتملة، مما يجعلها أداة لا غنى عنها للمستثمرين.</p><h2 id='s2'>فهم المكونات الأساسية للتقرير</h2><p>تتضمن هذه التقارير عادةً قائمة الدخل، الميزانية العمومية، وقائمة التدفقات النقدية. يجب على المستثمر فهم ما يمثله كل قسم وكيفية ترابطها لتقديم صورة مالية شاملة.</p><h2 id='s3'>التركيز على الأرقام الرئيسية والمقارنات</h2><p>ابحث عن صافي الربح، ربحية السهم (EPS)، والإيرادات. قارن هذه الأرقام بالفترات السابقة (الربع السابق، العام الماضي) وبتوقعات المحللين لقياس أداء الشركة الفعلي.</p><h2 id='s4'>ما وراء الأرقام: التوق��ات والإدارة</h2><p>لا تكتفِ بالأرقام التاريخية. انتبه لتوجيهات الإدارة المستقبلية وتوقعاتها للأرباح والإيرادات. هذه التوقعات غالبًا ما تؤثر بشكل كبير على معنويات السوق وسعر السهم.</p><h2 id='s5'>خاتمة: اتخاذ قرارات استثمارية مستنيرة</h2><p>تحليل تقارير الأرباح ليس مجرد قراءة للأرقام، بل هو فن يتطلب فهمًا عميقًا للسياق الاقتصادي والصناعي. باستخدام هذه المهارات، يمكنك اتخاذ قرارات استثمارية أكثر استنارة وثقة.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: Importance of Analyzing Earnings Reports</h2><p>Company earnings reports are a vital window into their financial performance and overall health. Effectively analyzing them can reveal investment opportunities or warn of potential risks, making them an indispensable tool for investors.</p><h2 id='s2'>Understanding the Basic Components of the Report</h2><p>These reports typically include the income statement, balance sheet, and cash flow statement. Investors must understand what each section represents and how they interrelate to provide a comprehensive financial picture.</p><h2 id='s3'>Focusing on Key Figures and Comparisons</h2><p>Look for net profit, earnings per share (EPS), and revenue. Compare these figures to previous periods (prior quarter, last year) and analyst expectations to gauge the company's actual performance.</p><h2 id='s4'>Beyond the Numbers: Outlook and Management</h2><p>Don't stop at historical figures. Pay attention to management's future guidance and their outlook for earnings and revenue. These projections often significantly impact market sentiment and stock price.</p><h2 id='s5'>Conclusion: Making Informed Investment Decisions</h2><p>Analyzing earnings reports is not just about reading numbers; it's an art that requires a deep understanding of the economic and industry context. By utilizing these skills, you can make more informed and confident investment decisions.</p>"
   }
 ];
 

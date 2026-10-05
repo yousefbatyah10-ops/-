@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-04
-// Total articles: 163
+// Last updated: 2026-10-05
+// Total articles: 164
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -11818,6 +11818,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: أهمية تحليل تقارير الأرباح</h2><p>تقارير أرباح الشركات هي نافذة حيوية على أدائها المالي وصحتها العامة. تحليلها بفعالية يمكن أن يكشف عن فرص استثمارية أو يحذر من مخاطر محتملة، مما يجعلها أداة لا غنى عنها للمستثمرين.</p><h2 id='s2'>فهم المكونات الأساسية للتقرير</h2><p>تتضمن هذه التقارير عادةً قائمة الدخل، الميزانية العمومية، وقائمة التدفقات النقدية. يجب على المستثمر فهم ما يمثله كل قسم وكيفية ترابطها لتقديم صورة مالية شاملة.</p><h2 id='s3'>التركيز على الأرقام الرئيسية والمقارنات</h2><p>ابحث عن صافي الربح، ربحية السهم (EPS)، والإيرادات. قارن هذه الأرقام بالفترات السابقة (الربع السابق، العام الماضي) وبتوقعات المحللين لقياس أداء الشركة الفعلي.</p><h2 id='s4'>ما وراء الأرقام: التوق��ات والإدارة</h2><p>لا تكتفِ بالأرقام التاريخية. انتبه لتوجيهات الإدارة المستقبلية وتوقعاتها للأرباح والإيرادات. هذه التوقعات غالبًا ما تؤثر بشكل كبير على معنويات السوق وسعر السهم.</p><h2 id='s5'>خاتمة: اتخاذ قرارات استثمارية مستنيرة</h2><p>تحليل تقارير الأرباح ليس مجرد قراءة للأرقام، بل هو فن يتطلب فهمًا عميقًا للسياق الاقتصادي والصناعي. باستخدام هذه المهارات، يمكنك اتخاذ قرارات استثمارية أكثر استنارة وثقة.</p>",
     "contentEn": "<h2 id='s1'>Introduction: Importance of Analyzing Earnings Reports</h2><p>Company earnings reports are a vital window into their financial performance and overall health. Effectively analyzing them can reveal investment opportunities or warn of potential risks, making them an indispensable tool for investors.</p><h2 id='s2'>Understanding the Basic Components of the Report</h2><p>These reports typically include the income statement, balance sheet, and cash flow statement. Investors must understand what each section represents and how they interrelate to provide a comprehensive financial picture.</p><h2 id='s3'>Focusing on Key Figures and Comparisons</h2><p>Look for net profit, earnings per share (EPS), and revenue. Compare these figures to previous periods (prior quarter, last year) and analyst expectations to gauge the company's actual performance.</p><h2 id='s4'>Beyond the Numbers: Outlook and Management</h2><p>Don't stop at historical figures. Pay attention to management's future guidance and their outlook for earnings and revenue. These projections often significantly impact market sentiment and stock price.</p><h2 id='s5'>Conclusion: Making Informed Investment Decisions</h2><p>Analyzing earnings reports is not just about reading numbers; it's an art that requires a deep understanding of the economic and industry context. By utilizing these skills, you can make more informed and confident investment decisions.</p>"
+  },
+  {
+    "id": 164,
+    "slug": "beginner-investor-mistakes-to-avoid",
+    "title": "أخطاء المستثمر المبتدئ: تجنبها من اليوم",
+    "titleEn": "Beginner Investor Mistakes to Avoid",
+    "summary": "يتناول المقال الأخطاء الشائعة التي يرتكبها المستثمرون المبتدئون، مثل نقص البحث والقرارات العاطفية وعدم التنويع، ويقدم نصائح لتجنبها لضمان رحلة استثمارية ناجحة.",
+    "summaryEn": "This article discusses common mistakes made by beginner investors, such as insufficient research, emotional decisions, and lack of diversification, offering advice to avoid them for a successful investment journey.",
+    "excerpt": "تجنب الأخطاء الشائعة للمستثمرين المبتدئين يبدأ بالمعرفة والانضباط والتنويع، مما يمهد الطريق لرحلة استثمارية ناجحة ومستدامة.",
+    "excerptEn": "Avoiding common beginner investor mistakes begins with knowledge, discipline, and diversification, paving the way for a successful and sustainable investment journey.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "5 أكتوبر 2026",
+    "dateEn": "October 5, 2026",
+    "dateISO": "2026-10-05",
+    "readTime": "10",
+    "views": "4648",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article164.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "الاستثمار بدون بحث كافٍ"
+      },
+      {
+        "id": "s2",
+        "text": "القرارات المبنية على العواطف"
+      },
+      {
+        "id": "s3",
+        "text": "عدم تنويع المحفظة"
+      },
+      {
+        "id": "s4",
+        "text": "مطاردة الأرباح السريعة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Investing Without Sufficient Research"
+      },
+      {
+        "id": "s2",
+        "text": "Emotion-Based Decisions"
+      },
+      {
+        "id": "s3",
+        "text": "Lack of Portfolio Diversification"
+      },
+      {
+        "id": "s4",
+        "text": "Chasing Quick Profits"
+      }
+    ],
+    "related": [
+      119
+    ],
+    "content": "<h2 id='s1'>الاستثمار بدون بحث كافٍ</h2><p>يقع العديد من المستثمرين المبتدئين في فخ الاستثمار في أصول لا يفهمونها جيدًا، مجرد الاعتماد على نصائح غير موثوقة أو الشائعات، مما يؤدي إلى خسائر فادحة.</p><p>من الضروري قضاء الوقت الكافي لفهم طبيعة الاستثمار، المخاطر المرتبطة به، وكيفية عمل السوق قبل وضع أي أموال، فالمعرفة هي حجر الزاوية لأي قرار استثماري ناجح.</p><h2 id='s2'>القرارات المبنية على العواطف</h2><p>الخوف من الخسارة أو الطمع في تحقيق مكاسب سريعة يدفع المستثمرين المبتدئين لاتخاذ قرارات متسرعة وغير عقلانية، مثل البيع في أوقات الهبوط الشديد أو الشراء عند الذروة.</p><p>يتطلب الاستثمار الانضباط والصبر؛ يجب على المستثمر تحديد استراتيجيته والالتزام بها، وتجنب ردود الفعل العاطفية لتقلبات السوق اليومية.</p><h2 id='s3'>عدم تنويع المحفظة</h2><p>وضع كل البيض في سلة واحدة، أي استثمار كل رأس المال في أصل واحد أو قطاع واحد، هو خطأ شائع ومكلف يزيد من تعرض المحفظة لمخاطر كبيرة إذا تراجع أداء هذا الأصل.</p><p>التنويع يقلل من المخاطر عن طريق توزيع الاستثمارات عبر أصول مختلفة (أسهم، سندات، عقارات) وقطاعات متنوعة، مما يحمي المحفظة من الصدمات المفاجئة في سوق معين.</p><h2 id='s4'>مطاردة الأرباح السريعة</h2><p>يحلم الكثيرون بالثراء السريع ويتبعون استثمارات واعدة بتحقيق عوائد ضخمة في فترة قصيرة، وغالبًا ما تكون هذه الاستثمارات شديدة المخاطر أو حتى احتيالية.</p><p>الاستثمار الحقيقي هو ماراثون وليس سباق سرعة؛ بناء الثروة يستغرق وقتًا وجهدًا، والتركيز على الأهداف طويلة الأجل واتباع استراتيجية مدروسة هو الطريق الأمثل للنجاح.</p>",
+    "contentEn": "<h2 id='s1'>Investing Without Sufficient Research</h2><p>Many beginner investors fall into the trap of investing in assets they don't fully understand, relying solely on unreliable tips or rumors, which can lead to significant losses.</p><p>It's crucial to dedicate enough time to understand the nature of the investment, its associated risks, and how the market operates before committing any funds. Knowledge is the cornerstone of any successful investment decision.</p><h2 id='s2'>Emotion-Based Decisions</h2><p>The fear of loss or the greed for quick gains often pushes novice investors to make hasty and irrational decisions, such as selling during sharp downturns or buying at market peaks.</p><p>Investing demands discipline and patience; investors should define their strategy and stick to it, avoiding emotional reactions to daily market fluctuations.</p><h2 id='s3'>Lack of Portfolio Diversification</h2><p>Putting all your eggs in one basket, meaning investing all capital in a single asset or sector, is a common and costly mistake that significantly increases the portfolio's exposure to risks if that particular asset underperforms.</p><p>Diversification reduces risk by spreading investments across various assets (stocks, bonds, real estate) and diverse sectors, which protects the portfolio from sudden shocks in a specific market.</p><h2 id='s4'>Chasing Quick Profits</h2><p>Many dream of getting rich quickly and pursue investments promising huge returns in a short period; often, these investments are extremely risky or even fraudulent.</p><p>True investing is a marathon, not a sprint; building wealth takes time and effort, and focusing on long-term goals and following a well-thought-out strategy is the optimal path to success.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-06
-// Total articles: 165
+// Last updated: 2026-10-07
+// Total articles: 166
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -11956,6 +11956,91 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>لماذا الاستثمار للأطفال؟</h2><p>الاستثمار لأطفالك في سن مبكرة يفتح لهم آفاقاً واسعة لمستقبل مالي مشرق. يتيح لهم الاستفادة القصوى من قوة الفائدة المركبة على المدى الطويل، مما يضمن لهم رأس مال كبير عند بلوغهم سن الرشد.</p><p>هذا لا يقتصر على توفير تكاليف التعليم الجامعي الباهظة فحسب، بل يمنحهم أيضاً قاعدة مالية صلبة لبدء حياتهم أو تحقيق أحلامهم المستقبلية، سواء كانت شراء منزل أو بدء عمل تجاري.</p><h2 id='s2'>أدوات استثمارية مناسبة</h2><p>تتضمن الخيارات الشائعة حسابات الوصاية مثل حسابات \"UGMA/UTMA\" التي تسمح للوالدين بإدارة الأصول حتى يبلغ الطفل السن القانوني. كما تعد صناديق المؤشرات المتداولة (ETFs) وصناديق الاستثمار المشتركة منخفضة التكلفة خيارات ممت��زة لنموها المستقر وتنويعها.</p><p>يمكن أيضاً النظر في سندات الادخار الحكومية أو حتى حسابات التوفير ذات العوائد المرتفعة للمبالغ الصغيرة أو كجزء من استراتيجية متنوعة.</p><h2 id='s3'>كيف تبدأ؟ خطوات عملية</h2><p>ابدأ بتحديد أهدافك المالية بوضوح: هل هو للتعليم، الزواج، أم بداية حياة مهنية؟ اختر حساب الوصاية المناسب أو أداة الاستثمار التي تتوافق مع هذه الأهداف ومستوى المخاطرة الذي يناسبك.</p><p>بعد ذلك، قم بإعداد خطة للاستثمار المنتظم، حتى لو كانت بمبالغ صغيرة. الأهم هو الانضباط والاستمرارية، وتذكر أن تعليم أطفالك أساسيات المال والاستثمار جزء لا يتجزأ من هذه العملية.</p><h2 id='s4'>نصائح مهمة للوالدين</h2><p>الصبر هو مفتاح النجاح في الاستثمار طويل الأجل. ركز على النمو التدريجي وتجنب محاولة توقيت السوق. كن قدوة حسنة لأطفالك من خلال إظهار عادات مالية مسؤولة.</p><p>لا تتردد في إشراك أطفالك في فهم رحلة الاستثمار بطريقة مبسطة ومناسبة لأعمارهم، فهذا يغرس فيهم الثقافة المالية منذ الصغر.</p>",
     "contentEn": "<h2 id='s1'>Why Invest for Children?</h2><p>Investing for your children at an early age opens up vast horizons for a bright financial future. It allows them to maximize the power of compound interest over the long term, ensuring a substantial capital sum when they reach adulthood.</p><p>This is not limited to saving for expensive university tuition fees; it also provides them with a solid financial foundation to start their lives or achieve their future dreams, whether it's buying a home or starting a business.</p><h2 id='s2'>Suitable Investment Tools</h2><p>Popular options include custodial accounts like UGMA/UTMA accounts, which allow parents to manage assets until the child reaches legal age. Low-cost Exchange Traded Funds (ETFs) and mutual funds are also excellent choices for their stable growth and diversification.</p><p>Government savings bonds or even high-yield savings accounts can also be considered for smaller amounts or as part of a diversified strategy.</p><h2 id='s3'>How to Start? Practical Steps</h2><p>Begin by clearly defining your financial goals: Is it for education, marriage, or starting a career? Choose the appropriate custodial account or investment vehicle that aligns with these goals and your suitable risk level.</p><p>Next, set up a plan for regular investing, even if with small amounts. Discipline and consistency are paramount. Remember that teaching your children the basics of money and investing is an integral part of this process.</p><h2 id='s4'>Important Tips for Parents</h2><p>Patience is key to long-term investment success. Focus on gradual growth and avoid trying to time the market. Be a good role model for your children by demonstrating responsible financial habits.</p><p>Don't hesitate to involve your children in understanding the investment journey in a simplified, age-appropriate manner, as this instills financial literacy from a young age.</p>"
+  },
+  {
+    "id": 166,
+    "slug": "bond-investing-a-complete-guide",
+    "title": "الاستثمار في السندات: دليل شامل",
+    "titleEn": "Bond Investing: A Complete Guide",
+    "summary": "دليل شامل حول الاستثمار في السندات، يغطي أنواعها، مزاياها، مخاطرها، وكيفية الاستثمار فيها لتحقيق الاستقرار المالي.",
+    "summaryEn": "A comprehensive guide to investing in bonds, covering their types, benefits, risks, and how to invest in them for financial stability.",
+    "excerpt": "اكتشف أساسيات السندات كأداة استثمارية، من تعريفها وأنواعها إلى مزاياها ومخاطرها، لمساعدتك في بناء محفظة متوازنة.",
+    "excerptEn": "Explore the fundamentals of bonds as an investment tool, from their definition and types to their benefits and risks, to help you build a balanced portfolio.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "د. سامي القحطاني",
+    "authorEn": "Dr. Sami Al-Qahtani",
+    "authorInitial": "S",
+    "date": "7 أكتوبر 2026",
+    "dateEn": "October 7, 2026",
+    "dateISO": "2026-10-07",
+    "readTime": "9",
+    "views": "3162",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article166.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هي السندات؟"
+      },
+      {
+        "id": "s2",
+        "text": "أنواع السندات الرئيسية"
+      },
+      {
+        "id": "s3",
+        "text": "مزايا الاستثمار في السندات"
+      },
+      {
+        "id": "s4",
+        "text": "المخاطر المرتبطة بالسندات"
+      },
+      {
+        "id": "s5",
+        "text": "كيف تستثمر في السندات؟"
+      },
+      {
+        "id": "s6",
+        "text": "خاتمة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What Are Bonds?"
+      },
+      {
+        "id": "s2",
+        "text": "Main Types of Bonds"
+      },
+      {
+        "id": "s3",
+        "text": "Benefits of Investing in Bonds"
+      },
+      {
+        "id": "s4",
+        "text": "Risks Associated with Bonds"
+      },
+      {
+        "id": "s5",
+        "text": "How to Invest in Bonds?"
+      },
+      {
+        "id": "s6",
+        "text": "Conclusion"
+      }
+    ],
+    "related": [
+      90
+    ],
+    "content": "<h2 id='s1'>ما هي السندات؟</h2><p>السندات هي أوراق مالية تمثل قرضًا يقدمه المستثمر لجهة مصدرة (حكومة أو شركة). في المقابل، تتعهد الجهة المصدرة بسداد أصل القرض في تاريخ استحقاق محدد، بالإضافة إلى دفعات فائدة دورية (كوبونات).</p><p>تعتبر السندات أداة استثمارية شائعة لجني دخل ثابت وحماية رأس المال من تقلبات السوق الشديدة، مما يجعلها جزءًا أساسيًا من المحافظ الاستثمارية المتنوعة.</p><h2 id='s2'>أنواع السندات الرئيسية</h2><p>تتنوع السندات بناءً على الجهة المصدرة. تشمل السندات الحكومية (مثل أذون الخزانة) التي تعتبر الأكثر أمانًا، وسندات الشركات التي تصدرها الشركات لتمويل عملياتها وتوفر عادة عوائد أعلى مقابل مخاطر أكبر.</p><p>هناك أيضًا السندات البلدية التي تصدرها الحكومات المحلية لتمويل مشاريع البنية التحتية، و��ندات الخزانة المحمية من التضخم (TIPS) التي تعدل قيمتها مع التضخم.</p><h2 id='s3'>مزايا الاستثمار في السندات</h2><p>توفر السندات مصدرًا مستقرًا للدخل من خلال دفعات الفائدة المنتظمة، مما يجعلها مثالية للمتقاعدين أو الباحثين عن تدفق نقدي ثابت. كما أنها توفر عنصر استقرار للمحفظة الاستثمارية، خاصة خلال فترات تقلبات سوق الأسهم.</p><p>تساعد السندات في تنويع المحفظة، حيث غالبًا ما تتحرك أسعارها بشكل معاكس لأسعار الأسهم، مما يقلل من المخاطر الإجمالية للمحفظة.</p><h2 id='s4'>المخاطر المرتبطة بالسندات</h2><p>على الرغم من استقرارها، لا تخلو السندات من المخاطر. تشمل مخاطر أسعار الفائدة؛ فارتفاع أسعار الفائدة يؤدي عادة إلى انخفاض أسعار السندات القائمة. هناك أيضًا مخاطر الائتمان، وهي احتمالية عدم قدرة الجهة المصدرة على سداد أصل الدين أو الفوائد.</p><p>علاوة على ذلك، يمكن أن تؤدي مخاطر التضخم إلى تآكل القوة الشرائية لدفعات الفائدة الثابتة وعائد السند عند الاستحقاق.</p><h2 id='s5'>كيف تستثمر في السندات؟</h2><p>يمكن للمستثمرين شراء السندات بشكل مباشر من خلال وسيط أو بنك استثماري. بدلاً من ذلك، يمكن الاستثمار في صناديق السندات المشتركة أو صناديق المؤشرات المتداولة (ETFs) المتخصصة في السندات.</p><p>تتيح الصناديق المشتركة وصناديق المؤشرات المتداولة تنويعًا أكبر وإدارة احترافية، مما يقلل من المخاطر المرتبطة بالسندات الفردية، وتناسب المستثمرين الذين يفضلون عدم إدارة محفظة السندات بأنفسهم.</p><h2 id='s6'>خاتمة</h2><p>الاستثمار في السندات يوفر توازنًا بين العائد والمخاطرة، ويوفر دخلًا ثابتًا واستقرارًا للمحفظة. فهم أنواعها ومزاياها ومخاطرها أمر بالغ الأهمية قبل اتخاذ قرار الاستثمار.</p><p>ينبغي على المستثمرين تقييم أهدافهم المالية وقدرتهم على تحمل المخاطر لتحديد ما إذا كانت السندات تتناسب مع استراتيجيتهم الاستثمارية.</p>",
+    "contentEn": "<h2 id='s1'>What Are Bonds?</h2><p>Bonds are debt securities representing a loan made by an investor to a borrower (typically a government or corporation). In return, the issuer promises to repay the principal amount at a specified maturity date, along with periodic interest payments (coupons).</p><p>Bonds are a popular investment tool for generating fixed income and protecting capital from severe market fluctuations, making them an essential part of diversified investment portfolios.</p><h2 id='s2'>Main Types of Bonds</h2><p>Bonds vary based on the issuer. Government bonds (like Treasury bills) are considered the safest, while corporate bonds, issued by companies to finance operations, typically offer higher returns for greater risk.</p><p>There are also municipal bonds, issued by local governments to fund infrastructure projects, and Treasury Inflation-Protected Securities (TIPS), whose value adjusts with inflation.</p><h2 id='s3'>Benefits of Investing in Bonds</h2><p>Bonds provide a stable source of income through regular interest payments, making them ideal for retirees or those seeking consistent cash flow. They also offer a stabilizing element to an investment portfolio, especially during periods of stock market volatility.</p><p>Bonds help diversify a portfolio, as their prices often move inversely to stock prices, thereby reducing overall portfolio risk.</p><h2 id='s4'>Risks Associated with Bonds</h2><p>Despite their stability, bonds are not without risks. These include interest rate risk; rising interest rates typically lead to a decrease in the prices of existing bonds. There is also credit risk, which is the possibility that the issuer may default on principal or interest payments.</p><p>Furthermore, inflation risk can erode the purchasing power of fixed interest payments and the bond's return at maturity.</p><h2 id='s5'>How to Invest in Bonds?</h2><p>Investors can purchase bonds directly through a broker or investment bank. Alternatively, one can invest in bond mutual funds or Exchange Traded Funds (ETFs) specializing in bonds.</p><p>Mutual funds and ETFs offer greater diversification and professional management, reducing risks associated with individual bonds, and suit investors who prefer not to manage their bond portfolio themselves.</p><h2 id='s6'>Conclusion</h2><p>Investing in bonds offers a balance between return and risk, providing stable income and portfolio stability. Understanding their types, benefits, and risks is crucial before making an investment decision.</p><p>Investors should assess their financial goals and risk tolerance to determine if bonds fit their investment strategy.</p>"
   }
 ];
 

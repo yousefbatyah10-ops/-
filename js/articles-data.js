@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-07
-// Total articles: 166
+// Last updated: 2026-10-08
+// Total articles: 167
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -12041,6 +12041,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هي السندات؟</h2><p>السندات هي أوراق مالية تمثل قرضًا يقدمه المستثمر لجهة مصدرة (حكومة أو شركة). في المقابل، تتعهد الجهة المصدرة بسداد أصل القرض في تاريخ استحقاق محدد، بالإضافة إلى دفعات فائدة دورية (كوبونات).</p><p>تعتبر السندات أداة استثمارية شائعة لجني دخل ثابت وحماية رأس المال من تقلبات السوق الشديدة، مما يجعلها جزءًا أساسيًا من المحافظ الاستثمارية المتنوعة.</p><h2 id='s2'>أنواع السندات الرئيسية</h2><p>تتنوع السندات بناءً على الجهة المصدرة. تشمل السندات الحكومية (مثل أذون الخزانة) التي تعتبر الأكثر أمانًا، وسندات الشركات التي تصدرها الشركات لتمويل عملياتها وتوفر عادة عوائد أعلى مقابل مخاطر أكبر.</p><p>هناك أيضًا السندات البلدية التي تصدرها الحكومات المحلية لتمويل مشاريع البنية التحتية، و��ندات الخزانة المحمية من التضخم (TIPS) التي تعدل قيمتها مع التضخم.</p><h2 id='s3'>مزايا الاستثمار في السندات</h2><p>توفر السندات مصدرًا مستقرًا للدخل من خلال دفعات الفائدة المنتظمة، مما يجعلها مثالية للمتقاعدين أو الباحثين عن تدفق نقدي ثابت. كما أنها توفر عنصر استقرار للمحفظة الاستثمارية، خاصة خلال فترات تقلبات سوق الأسهم.</p><p>تساعد السندات في تنويع المحفظة، حيث غالبًا ما تتحرك أسعارها بشكل معاكس لأسعار الأسهم، مما يقلل من المخاطر الإجمالية للمحفظة.</p><h2 id='s4'>المخاطر المرتبطة بالسندات</h2><p>على الرغم من استقرارها، لا تخلو السندات من المخاطر. تشمل مخاطر أسعار الفائدة؛ فارتفاع أسعار الفائدة يؤدي عادة إلى انخفاض أسعار السندات القائمة. هناك أيضًا مخاطر الائتمان، وهي احتمالية عدم قدرة الجهة المصدرة على سداد أصل الدين أو الفوائد.</p><p>علاوة على ذلك، يمكن أن تؤدي مخاطر التضخم إلى تآكل القوة الشرائية لدفعات الفائدة الثابتة وعائد السند عند الاستحقاق.</p><h2 id='s5'>كيف تستثمر في السندات؟</h2><p>يمكن للمستثمرين شراء السندات بشكل مباشر من خلال وسيط أو بنك استثماري. بدلاً من ذلك، يمكن الاستثمار في صناديق السندات المشتركة أو صناديق المؤشرات المتداولة (ETFs) المتخصصة في السندات.</p><p>تتيح الصناديق المشتركة وصناديق المؤشرات المتداولة تنويعًا أكبر وإدارة احترافية، مما يقلل من المخاطر المرتبطة بالسندات الفردية، وتناسب المستثمرين الذين يفضلون عدم إدارة محفظة السندات بأنفسهم.</p><h2 id='s6'>خاتمة</h2><p>الاستثمار في السندات يوفر توازنًا بين العائد والمخاطرة، ويوفر دخلًا ثابتًا واستقرارًا للمحفظة. فهم أنواعها ومزاياها ومخاطرها أمر بالغ الأهمية قبل اتخاذ قرار الاستثمار.</p><p>ينبغي على المستثمرين تقييم أهدافهم المالية وقدرتهم على تحمل المخاطر لتحديد ما إذا كانت السندات تتناسب مع استراتيجيتهم الاستثمارية.</p>",
     "contentEn": "<h2 id='s1'>What Are Bonds?</h2><p>Bonds are debt securities representing a loan made by an investor to a borrower (typically a government or corporation). In return, the issuer promises to repay the principal amount at a specified maturity date, along with periodic interest payments (coupons).</p><p>Bonds are a popular investment tool for generating fixed income and protecting capital from severe market fluctuations, making them an essential part of diversified investment portfolios.</p><h2 id='s2'>Main Types of Bonds</h2><p>Bonds vary based on the issuer. Government bonds (like Treasury bills) are considered the safest, while corporate bonds, issued by companies to finance operations, typically offer higher returns for greater risk.</p><p>There are also municipal bonds, issued by local governments to fund infrastructure projects, and Treasury Inflation-Protected Securities (TIPS), whose value adjusts with inflation.</p><h2 id='s3'>Benefits of Investing in Bonds</h2><p>Bonds provide a stable source of income through regular interest payments, making them ideal for retirees or those seeking consistent cash flow. They also offer a stabilizing element to an investment portfolio, especially during periods of stock market volatility.</p><p>Bonds help diversify a portfolio, as their prices often move inversely to stock prices, thereby reducing overall portfolio risk.</p><h2 id='s4'>Risks Associated with Bonds</h2><p>Despite their stability, bonds are not without risks. These include interest rate risk; rising interest rates typically lead to a decrease in the prices of existing bonds. There is also credit risk, which is the possibility that the issuer may default on principal or interest payments.</p><p>Furthermore, inflation risk can erode the purchasing power of fixed interest payments and the bond's return at maturity.</p><h2 id='s5'>How to Invest in Bonds?</h2><p>Investors can purchase bonds directly through a broker or investment bank. Alternatively, one can invest in bond mutual funds or Exchange Traded Funds (ETFs) specializing in bonds.</p><p>Mutual funds and ETFs offer greater diversification and professional management, reducing risks associated with individual bonds, and suit investors who prefer not to manage their bond portfolio themselves.</p><h2 id='s6'>Conclusion</h2><p>Investing in bonds offers a balance between return and risk, providing stable income and portfolio stability. Understanding their types, benefits, and risks is crucial before making an investment decision.</p><p>Investors should assess their financial goals and risk tolerance to determine if bonds fit their investment strategy.</p>"
+  },
+  {
+    "id": 167,
+    "slug": "ipos-opportunity-or-trap",
+    "title": "الاكتتابات العامة: فرصة أم فخ؟",
+    "titleEn": "IPOs: Opportunity or Trap?",
+    "summary": "الاكتتابات العامة يمكن أن تكون فرصة لتحقيق عوائد، ولكنها تحمل أيضًا مخاطر كبيرة تتطلب بحثًا دقيقًا وفهمًا للأساسيات المالية للشركة قبل الاستثمار.",
+    "summaryEn": "Initial Public Offerings can be an opportunity for returns, but they also carry significant risks requiring thorough research and understanding of the company's financial fundamentals before investing.",
+    "excerpt": "هل الاكتتابات العامة فرصة استثمارية ذهبية أم فخ محتمل للمستثمرين الجدد؟",
+    "excerptEn": "Are IPOs a golden investment opportunity or a potential trap for new investors?",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "8 أكتوبر 2026",
+    "dateEn": "October 8, 2026",
+    "dateISO": "2026-10-08",
+    "readTime": "8",
+    "views": "4101",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article167.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هي الاكتتابات العامة؟"
+      },
+      {
+        "id": "s2",
+        "text": "الفرص الجذابة"
+      },
+      {
+        "id": "s3",
+        "text": "المخاطر والفخاخ المحتملة"
+      },
+      {
+        "id": "s4",
+        "text": "كيفية التعامل مع الاكتتابات"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What are IPOs?"
+      },
+      {
+        "id": "s2",
+        "text": "The Attractive Opportunities"
+      },
+      {
+        "id": "s3",
+        "text": "Potential Risks and Traps"
+      },
+      {
+        "id": "s4",
+        "text": "How to Approach IPOs"
+      }
+    ],
+    "related": [
+      60
+    ],
+    "content": "<h2 id='s1'>ما هي الاكتتابات العامة؟</h2><p>الاكتتاب العام هو العملية التي تطرح من خلالها شركة خاصة أسهمها للبيع للجمهور لأول مرة. يهدف ذلك عادة إلى جمع رأس مال لتمويل النمو أو سداد الديون، ويتحول وضع الشركة من خاصة إلى عامة.</p><h2 id='s2'>الفرص الجذابة</h2><p>يمكن أن توفر الاكتتابات العامة فرصًا لتحقيق عوائد سريعة للمستثمرين، خاصة إذا كان هناك طلب كبير على أسهم الشركة الجديدة. ينجذب الكثيرون إلى فكرة الدخول في استثمار شركة واعدة في مراحلها المبكرة قبل أن ترتفع قيمتها بشكل كبير.</p><h2 id='s3'>المخاطر والفخاخ المحتملة</h2><p>ومع ذلك، لا تخلو الاكتتابات من المخاطر؛ فقد تكون أسعار الطرح مبالغًا فيها، وقد لا يواكب أداء الشركة التوقعات العالية بعد الإدراج. يمكن أن يؤدي التقلب الشديد في الأسعار خلال الأيام والأسابيع الأولى إلى خسائر للمستثمرين غير الحذرين.</p><h2 id='s4'>كيفية التعامل مع الاكتتابات</h2><p>للتعامل مع الاكتتابات بذكاء، يجب على المستثمرين إجراء بحث شامل عن الشركة، وتقييم نموذج عملها، وإدارة الفريق، وآفاق النمو. من الضروري عدم الانجراف وراء الضجيج الإعلامي والتركيز على الأساسيات المالية للشركة، مع تخصيص جزء صغير فقط من المحفظة الاستثمارية لهذه النوعية من الاستثمارات.</p>",
+    "contentEn": "<h2 id='s1'>What are IPOs?</h2><p>An Initial Public Offering (IPO) is the process by which a private company offers its shares for sale to the public for the first time. This typically aims to raise capital for growth or debt repayment, transforming the company's status from private to public.</p><h2 id='s2'>The Attractive Opportunities</h2><p>IPOs can offer opportunities for quick returns for investors, especially if there is high demand for the new company's shares. Many are attracted to the idea of investing in a promising company in its early stages before its value significantly increases.</p><h2 id='s3'>Potential Risks and Traps</h2><p>However, IPOs are not without risks; offering prices can be overvalued, and the company's performance might not meet high expectations post-listing. Extreme price volatility in the initial days and weeks can lead to losses for unwary investors.</p><h2 id='s4'>How to Approach IPOs</h2><p>To approach IPOs wisely, investors should conduct thorough research on the company, evaluate its business model, management team, and growth prospects. It's crucial not to get carried away by media hype and to focus on the company's financial fundamentals, allocating only a small portion of the investment portfolio to such investments.</p>"
   }
 ];
 

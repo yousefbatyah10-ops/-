@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-08
-// Total articles: 167
+// Last updated: 2026-10-09
+// Total articles: 168
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -12110,6 +12110,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هي الاكتتابات العامة؟</h2><p>الاكتتاب العام هو العملية التي تطرح من خلالها شركة خاصة أسهمها للبيع للجمهور لأول مرة. يهدف ذلك عادة إلى جمع رأس مال لتمويل النمو أو سداد الديون، ويتحول وضع الشركة من خاصة إلى عامة.</p><h2 id='s2'>الفرص الجذابة</h2><p>يمكن أن توفر الاكتتابات العامة فرصًا لتحقيق عوائد سريعة للمستثمرين، خاصة إذا كان هناك طلب كبير على أسهم الشركة الجديدة. ينجذب الكثيرون إلى فكرة الدخول في استثمار شركة واعدة في مراحلها المبكرة قبل أن ترتفع قيمتها بشكل كبير.</p><h2 id='s3'>المخاطر والفخاخ المحتملة</h2><p>ومع ذلك، لا تخلو الاكتتابات من المخاطر؛ فقد تكون أسعار الطرح مبالغًا فيها، وقد لا يواكب أداء الشركة التوقعات العالية بعد الإدراج. يمكن أن يؤدي التقلب الشديد في الأسعار خلال الأيام والأسابيع الأولى إلى خسائر للمستثمرين غير الحذرين.</p><h2 id='s4'>كيفية التعامل مع الاكتتابات</h2><p>للتعامل مع الاكتتابات بذكاء، يجب على المستثمرين إجراء بحث شامل عن الشركة، وتقييم نموذج عملها، وإدارة الفريق، وآفاق النمو. من الضروري عدم الانجراف وراء الضجيج الإعلامي والتركيز على الأساسيات المالية للشركة، مع تخصيص جزء صغير فقط من المحفظة الاستثمارية لهذه النوعية من الاستثمارات.</p>",
     "contentEn": "<h2 id='s1'>What are IPOs?</h2><p>An Initial Public Offering (IPO) is the process by which a private company offers its shares for sale to the public for the first time. This typically aims to raise capital for growth or debt repayment, transforming the company's status from private to public.</p><h2 id='s2'>The Attractive Opportunities</h2><p>IPOs can offer opportunities for quick returns for investors, especially if there is high demand for the new company's shares. Many are attracted to the idea of investing in a promising company in its early stages before its value significantly increases.</p><h2 id='s3'>Potential Risks and Traps</h2><p>However, IPOs are not without risks; offering prices can be overvalued, and the company's performance might not meet high expectations post-listing. Extreme price volatility in the initial days and weeks can lead to losses for unwary investors.</p><h2 id='s4'>How to Approach IPOs</h2><p>To approach IPOs wisely, investors should conduct thorough research on the company, evaluate its business model, management team, and growth prospects. It's crucial not to get carried away by media hype and to focus on the company's financial fundamentals, allocating only a small portion of the investment portfolio to such investments.</p>"
+  },
+  {
+    "id": 168,
+    "slug": "smart-product-pricing-strategies",
+    "title": "كيف تسعّر منتجاتك بذكاء",
+    "titleEn": "Smart Product Pricing Strategies",
+    "summary": "تسعير المنتجات بذكاء يتطلب فهم التكاليف، تحليل السوق، التركيز على القيمة المقدمة، وتطبيق استراتيجيات تسعير نفسية لزيادة الربحية وجذب العملاء.",
+    "summaryEn": "Smart product pricing involves understanding costs, analyzing the market, focusing on delivered value, and applying psychological pricing strategies to boost profitability and attract customers.",
+    "excerpt": "اكتشف كيف يمكن للتسعير الذكي أن يعزز أرباحك ويجذب المزيد من العملاء من خلال استراتيجيات مجربة وفعالة.",
+    "excerptEn": "Discover how smart pricing can boost your profits and attract more customers through proven and effective strategies.",
+    "category": "ريادة الأعمال",
+    "categoryEn": "Entrepreneurship",
+    "categoryIcon": "🚀",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "9 أكتوبر 2026",
+    "dateEn": "October 9, 2026",
+    "dateISO": "2026-10-09",
+    "readTime": "8",
+    "views": "3581",
+    "emoji": "🚀",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article168.jpg",
+    "featured": false,
+    "breadcrumb": "ريادة الأعمال",
+    "breadcrumbEn": "Entrepreneurship",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "فهم التكاليف الأساسية"
+      },
+      {
+        "id": "s2",
+        "text": "تحليل السوق والمنافسين"
+      },
+      {
+        "id": "s3",
+        "text": "التسعير القائم على القيمة"
+      },
+      {
+        "id": "s4",
+        "text": "استراتيجيات التسعير النفسي"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Understanding Core Costs"
+      },
+      {
+        "id": "s2",
+        "text": "Market and Competitor Analysis"
+      },
+      {
+        "id": "s3",
+        "text": "Value-Based Pricing"
+      },
+      {
+        "id": "s4",
+        "text": "Psychological Pricing Strategies"
+      }
+    ],
+    "related": [
+      55
+    ],
+    "content": "<h2 id='s1'>فهم التكاليف الأساسية</h2><p>قبل تحديد السعر، يجب معرفة جميع التكاليف المرتبطة بالمنتج: المواد الخام، العمالة، التسويق، والتكاليف التشغيلية. هذا يضمن تغطية النفقات وتحقيق هامش ربح مستدام.</p><h2 id='s2'>تحليل السوق والمنافسين</h2><p>ادرس أسعار المنافسين لمنتجات مشابهة. حدد ما إذا كنت تريد أن تكون الخيار الأقل تكلفة، أو الأعلى جودة، أو في مكان ما بينهما، بناءً على قيمة منتجك وموقعك في السوق.</p><h2 id='s3'>التسعير القائم على القيمة</h2><p>بدلاً من التركيز فقط على التكلفة، سعّر منتجك بناءً على القيمة التي يقدمها للعميل والفوائد التي يحصل عليها. قد يكون العملاء مستعدين لدفع المزيد مقابل حل مشكلة أو توفير وقت وجهد.</p><h2 id='s4'>استراتيجيات التسعير النفسي</h2><p>استخدم تقنيات مثل التسعير بسعر ينتهي بـ 9 (مثال: 9.99 بدلاً من 10) لجعل السعر يبدو أقل جاذبية. كما يمكن تقديم خيارات متعددة (مثل ثلاثة مستويات أسعار) لتوجيه العملاء نحو الخيار المرغوب وزيادة متوسط قيمة الطلب.</p>",
+    "contentEn": "<h2 id='s1'>Understanding Core Costs</h2><p>Before setting a price, you must know all associated product costs: raw materials, labor, marketing, and operational expenses. This ensures expense coverage and the achievement of a sustainable profit margin.</p><h2 id='s2'>Market and Competitor Analysis</h2><p>Study competitors' prices for similar products. Decide if you want to be the lowest cost, highest quality, or somewhere in between, based on your product's value and market positioning.</p><h2 id='s3'>Value-Based Pricing</h2><p>Instead of focusing solely on cost, price your product based on the value it offers to the customer and the benefits they receive. Customers may be willing to pay more for a solution or to save time and effort.</p><h2 id='s4'>Psychological Pricing Strategies</h2><p>Employ techniques like pricing ending in .99 (e.g., 9.99 instead of 10) to make the price seem more appealing. Also, offer multiple options (like three price tiers) to guide customers toward a desired choice and increase average order value.</p>"
   }
 ];
 

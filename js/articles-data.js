@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-09
-// Total articles: 168
+// Last updated: 2026-10-10
+// Total articles: 169
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -12179,6 +12179,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فهم التكاليف الأساسية</h2><p>قبل تحديد السعر، يجب معرفة جميع التكاليف المرتبطة بالمنتج: المواد الخام، العمالة، التسويق، والتكاليف التشغيلية. هذا يضمن تغطية النفقات وتحقيق هامش ربح مستدام.</p><h2 id='s2'>تحليل السوق والمنافسين</h2><p>ادرس أسعار المنافسين لمنتجات مشابهة. حدد ما إذا كنت تريد أن تكون الخيار الأقل تكلفة، أو الأعلى جودة، أو في مكان ما بينهما، بناءً على قيمة منتجك وموقعك في السوق.</p><h2 id='s3'>التسعير القائم على القيمة</h2><p>بدلاً من التركيز فقط على التكلفة، سعّر منتجك بناءً على القيمة التي يقدمها للعميل والفوائد التي يحصل عليها. قد يكون العملاء مستعدين لدفع المزيد مقابل حل مشكلة أو توفير وقت وجهد.</p><h2 id='s4'>استراتيجيات التسعير النفسي</h2><p>استخدم تقنيات مثل التسعير بسعر ينتهي بـ 9 (مثال: 9.99 بدلاً من 10) لجعل السعر يبدو أقل جاذبية. كما يمكن تقديم خيارات متعددة (مثل ثلاثة مستويات أسعار) لتوجيه العملاء نحو الخيار المرغوب وزيادة متوسط قيمة الطلب.</p>",
     "contentEn": "<h2 id='s1'>Understanding Core Costs</h2><p>Before setting a price, you must know all associated product costs: raw materials, labor, marketing, and operational expenses. This ensures expense coverage and the achievement of a sustainable profit margin.</p><h2 id='s2'>Market and Competitor Analysis</h2><p>Study competitors' prices for similar products. Decide if you want to be the lowest cost, highest quality, or somewhere in between, based on your product's value and market positioning.</p><h2 id='s3'>Value-Based Pricing</h2><p>Instead of focusing solely on cost, price your product based on the value it offers to the customer and the benefits they receive. Customers may be willing to pay more for a solution or to save time and effort.</p><h2 id='s4'>Psychological Pricing Strategies</h2><p>Employ techniques like pricing ending in .99 (e.g., 9.99 instead of 10) to make the price seem more appealing. Also, offer multiple options (like three price tiers) to guide customers toward a desired choice and increase average order value.</p>"
+  },
+  {
+    "id": 169,
+    "slug": "platinum-the-forgotten-investment-metal",
+    "title": "البلاتينيوم: المعدن المنسي في عالم الاستثمار",
+    "titleEn": "Platinum: The Forgotten Investment Metal",
+    "summary": "البلاتينيوم معدن ثمين منسي يمتلك خصائص فريدة وتطبيقات صناعية واسعة، مما يجعله فرصة استثمارية واعدة لتنويع المحافظ.",
+    "summaryEn": "Platinum is a forgotten precious metal with unique properties and wide industrial applications, making it a promising investment opportunity for portfolio diversification.",
+    "excerpt": "على الرغم من ندرته وأهميته، غالبًا ما يُغفل عن البلاتينيوم في محادثات الاستثمار، لكن تطبيقاته المتنوعة وآفاقه المستقبلية تستدعي الاهتمام.",
+    "excerptEn": "Despite its rarity and importance, platinum is often overlooked in investment discussions, yet its diverse applications and future prospects warrant attention.",
+    "category": "الذهب والمعادن",
+    "categoryEn": "Gold & Metals",
+    "categoryIcon": "🧸",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "10 أكتوبر 2026",
+    "dateEn": "October 10, 2026",
+    "dateISO": "2026-10-10",
+    "readTime": "9",
+    "views": "1528",
+    "emoji": "🧸",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article169.jpg",
+    "featured": false,
+    "breadcrumb": "الذهب والمعادن",
+    "breadcrumbEn": "Gold & Metals",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "البلاتينيوم: المعدن المنسي حقًا؟"
+      },
+      {
+        "id": "s2",
+        "text": "تطبيقات البلاتينيوم المتنوعة"
+      },
+      {
+        "id": "s3",
+        "text": "العوامل المؤثرة على قيمته الاستثمارية"
+      },
+      {
+        "id": "s4",
+        "text": "آفاق المستقبل للبلاتينيوم"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Platinum: Truly the Forgotten Metal?"
+      },
+      {
+        "id": "s2",
+        "text": "Diverse Applications of Platinum"
+      },
+      {
+        "id": "s3",
+        "text": "Factors Influencing its Investment Value"
+      },
+      {
+        "id": "s4",
+        "text": "Future Outlook for Platinum"
+      }
+    ],
+    "related": [
+      24
+    ],
+    "content": "<h2 id='s1'>البلاتينيوم: المعدن المنسي حقًا؟</h2><p>يُعرف الذهب والفضة ببريقهما الاستثماري، لكن البلاتينيوم، هذا المعدن الثمين النادر، غالبًا ما يُغفل عنه في محادثات الاستثمار. على الرغم من خصائصه الفريدة وتطبيقاته المتعددة، يبقى البلاتينيوم \"الجوهرة المخفية\" للكثيرين.</p><p>إن ندرته وأهميته الصناعية تجعله مرشحًا مثيرًا للاهتمام للمستثمرين الباحثين عن تنويع محافظهم بعيدًا عن المعادن الثمينة التقليدية.</p><h2 id='s2'>تطبيقات البلاتينيوم المتنوعة</h2><p>لا يقتصر استخدام البلاتينيوم على المجوهرات الفاخرة فحسب، بل يلعب دورًا حيويًا في العديد من الصناعات الحديثة. يُعد المحول الحفاز في السيارات من أبرز تطبيقاته، حيث يساعد على تقليل الانبعاثات الضارة.</p><p>كما يدخل في صناعة الإلكترونيات، الأجهزة الطبية، وتكرير النفط، مما يؤكد على أهميته الاستراتيجية والاقتصادية.</p><h2 id='s3'>العوامل المؤثرة على قيمته الاستثمارية</h2><p>يتأثر سعر البلاتينيوم بعوامل العرض والطلب العالمية، لا سيما من قطاع السيارات الذي يمثل جزءًا كبيرًا من استهلاكه. التقلبات في الإنتاج من جنوب أفريقيا، المنتج الرئيسي، يمكن أن تؤثر بشكل كبير على الأسعار.</p><p>كذلك، تؤثر التطورات الاقتصادية الكلية والتحولات نحو مصادر الطاقة النظيفة على جاذبيته الاستثمارية.</p><h2 id='s4'>آفاق المستقبل للبلاتينيوم</h2><p>مع تزايد الاهتمام بالبيئة وتطوير خلايا الوقود الهيدروجينية، قد يشهد الطلب على البلاتينيوم انتعاشًا كبيرًا. يُعد البلاتينيوم مكونًا أساسيًا في هذه التقنيات الخضراء الواعدة.</p><p>هذا التوجه المستقبلي، بالإضافة إلى ندرته المتأصلة واستخداماته الصناعية المستمرة، يضفي عليه إمكانات استثمارية طويلة الأمد تستحق النظر.</p>",
+    "contentEn": "<h2 id='s1'>Platinum: Truly the Forgotten Metal?</h2><p>Gold and silver are renowned for their investment luster, but platinum, this rare precious metal, is often overlooked in investment discussions. Despite its unique properties and diverse applications, platinum remains a \"hidden gem\" for many.</p><p>Its scarcity and industrial importance make it an intriguing candidate for investors seeking to diversify their portfolios beyond traditional precious metals.</p><h2 id='s2'>Diverse Applications of Platinum</h2><p>Platinum is not just for luxury jewelry; it plays a vital role in many modern industries. Catalytic converters in automobiles are one of its most prominent applications, helping to reduce harmful emissions.</p><p>It is also used in electronics, medical devices, and oil refining, underscoring its strategic and economic importance.</p><h2 id='s3'>Factors Influencing its Investment Value</h2><p>Platinum's price is influenced by global supply and demand factors, particularly from the automotive sector, which accounts for a significant portion of its consumption. Fluctuations in production from South Africa, the primary producer, can significantly impact prices.</p><p>Macroeconomic developments and shifts towards clean energy sources also affect its investment appeal.</p><h2 id='s4'>Future Outlook for Platinum</h2><p>With increasing environmental awareness and the development of hydrogen fuel cells, demand for platinum could see a significant resurgence. Platinum is a key component in these promising green technologies.</p><p>This future trend, coupled with its inherent scarcity and ongoing industrial uses, gives it long-term investment potential worth considering.</p>"
   }
 ];
 

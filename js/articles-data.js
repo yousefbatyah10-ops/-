@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-15
-// Total articles: 174
+// Last updated: 2026-10-17
+// Total articles: 175
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -12601,6 +12601,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة للاستثمار في الذهب</h2><p>يُعد الذهب ملاذًا آمنًا ومخزنًا للقيمة، خاصة في أوقات عدم اليقين الاقتصادي. شراء سبائك الذهب في السعودية يُعد خيارًا شائعًا للمستثمرين للحفاظ على ثرواتهم وتنميتها على المدى الطويل، لما يوفره من استقرار وقدرة على التحوط ضد التضخم.</p><h2 id='s2'>أين تشتري سبائك الذهب في السعودية؟</h2><p>يمكن شراء سبائك الذهب من تجار الذهب والمجوهرات الموثوقين والمعروفين في السوق السعودي، وكذلك من بعض البنوك الكبرى التي تقدم هذه الخدمة. تأكد دائمًا من التعامل مع جهات ذات سمعة جيدة ومعتمدة لضمان جودة المنتج وأصالته.</p><p>توفر بعض المنصات الإلكترونية المتخصصة أيضًا خيارًا لشراء السبائك، ولكن من الضروري التحقق من تراخيصها وخدمات التوصيل أو التخزين الآمن التي تقدمها قبل الشراء.</p><h2 id='s3'>أنواع السبائك ومعايير الجودة</h2><p>تتوفر السبائك بأوزان مختلفة تبدأ من جرام واحد وصولاً إلى الكيلوجرامات، وأكثرها شيوعًا هو عيار 24 قيراطًا (999.9)، الذي يمثل الذهب الخالص. عند الشراء، يجب التأكد من وجود ختم المصفاة المنتجة، والعيار، والوزن بوضوح على السبيكة لضمان أصالتها.</p><h2 id='s4'>التحقق والتخزين الآمن</h2><p>عند إتمام عملية الشراء، اطلب فاتورة مفصلة تحتوي على جميع معلومات السبيكة، بما في ذلك الوزن، العيار، والسعر. يُنصح بتخزين السبائك في خزائن آمنة بالمنزل إذا كانت صغيرة، أو في صناديق الودائع الآمنة بالبنوك لتجنب مخاطر السرقة أو الضياع وتوفير حماية قصوى لاستثمارك.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Gold Investment</h2><p>Gold is considered a safe haven and a store of value, especially during times of economic uncertainty. Buying gold bars in Saudi Arabia is a popular option for investors seeking to preserve and grow their wealth long-term, offering stability and a hedge against inflation.</p><h2 id='s2'>Where to Buy Gold Bars in Saudi Arabia?</h2><p>Gold bars can be purchased from trusted and reputable gold and jewelry dealers in the Saudi market, as well as from some major banks that offer this service. Always ensure you deal with accredited and well-known entities to guarantee product quality and authenticity.</p><p>Some specialized online platforms also offer an option to buy bars, but it is essential to verify their licenses and the secure delivery or storage services they provide before making a purchase.</p><h2 id='s3'>Types of Bars and Quality Standards</h2><p>Gold bars are available in various weights, from one gram up to kilograms, with 24-karat (999.9) being the most common purity, representing pure gold. When purchasing, ensure the refinery's stamp, purity, and weight are clearly marked on the bar to confirm its authenticity.</p><h2 id='s4'>Verification and Secure Storage</h2><p>Upon completing the purchase, request a detailed invoice containing all the bar's information, including weight, purity, and price. It is advisable to store gold bars in secure home safes for smaller quantities, or in bank safe deposit boxes to mitigate risks of theft or loss, providing maximum protection for your investment.</p>"
+  },
+  {
+    "id": 175,
+    "slug": "investing-for-kids-start-early",
+    "title": "الاستثمار للأطفال: ابدأ مبكراً",
+    "titleEn": "Investing for Kids: Start Early",
+    "summary": "الاستثمار المبكر لأطفالك يفتح لهم آفاقاً مالية مستقبلية مشرقة، مستفيداً من قوة الفائدة المركبة والتخطيط السليم.",
+    "summaryEn": "Early investment for your children opens bright future financial horizons, leveraging the power of compound interest and sound planning.",
+    "excerpt": "ابدأ رحلة الاستثمار لأطفالك اليوم لتبني لهم مستقبلاً مالياً آمناً ومشرقاً.",
+    "excerptEn": "Start your children's investment journey today to build a secure and bright financial future for them.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "د. سامي القحطاني",
+    "authorEn": "Dr. Sami Al-Qahtani",
+    "authorInitial": "S",
+    "date": "17 أكتوبر 2026",
+    "dateEn": "October 17, 2026",
+    "dateISO": "2026-10-17",
+    "readTime": "9",
+    "views": "1504",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article175.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "لماذا الاستثمار لأطفالك؟"
+      },
+      {
+        "id": "s2",
+        "text": "كيف تبدأ: أدوات الاستثمار"
+      },
+      {
+        "id": "s3",
+        "text": "تعليم الأطفال عن المال"
+      },
+      {
+        "id": "s4",
+        "text": "اعتبارات ونصائح رئيسية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Why Invest for Your Children?"
+      },
+      {
+        "id": "s2",
+        "text": "How to Start: Investment Vehicles"
+      },
+      {
+        "id": "s3",
+        "text": "Teaching Children About Money"
+      },
+      {
+        "id": "s4",
+        "text": "Key Considerations and Tips"
+      }
+    ],
+    "related": [
+      102
+    ],
+    "content": "<h2 id='s1'>لماذا الاستثمار لأطفالك؟</h2><p>يعد الاستثمار ل��طفالك من أروع الهدايا التي يمكنك تقديمها لهم، فهو يمنحهم بداية مالية قوية. فكلما بدأت مبكراً، كلما زادت فرصة أموالهم للنمو بشكل كبير بفضل قوة الفائدة المركبة على المدى الطويل.</p><p>إن التخطيط المالي المبكر يضمن توفير رأس مال كبير لتعليمهم الجامعي، أو لبدء مشروعهم الخاص، أو حتى لشراء منزلهم الأول، مما يقلل من الأعباء المالية المستقبلية عليهم.</p><h2 id='s2'>كيف تبدأ: أدوات الاستثمار</h2><p>للبدء، يمكنك فتح حساب توفير خاص للطفل، أو استكشاف خيارات استثمارية أكثر تقدماً مثل صناديق المؤشرات المتداولة (ETFs) التي توفر تنوعاً كبيراً بتكلفة منخفضة.</p><p>يمكن أيضاً النظر في أسهم الشركات ذات النمو المستقر والتي تتمتع بآفاق مستقبلية واعدة، مع الأخذ في الاعتبار أن الاستثمار في الأسهم يحمل مخاطر أعلى ويتطلب بحثاً جيداً.</p><h2 id='s3'>تعليم الأطفال عن المال</h2><p>لا يقتصر الاستثمار على جمع الأموال فقط، بل يشمل أيضاً غرس الوعي المالي لدى أطفالك. تحدث معهم عن قيمة المال، أهمية الادخار، وكيف تعمل الاستثمارات بطرق مبسطة ومناسبة لأعمارهم.</p><p>يمكنك إشراكهم في بعض القرارات المالية البسيطة أو منحهم مصروفاً ليتعلموا كيفية إدارته، مما يبني لديهم أساساً قوياً للتعامل مع أموالهم مستقبلاً.</p><h2 id='s4'>اعتبارات ونصائح رئيسية</h2><p>ابدأ بمبالغ صغيرة تتناسب مع ميزانيتك، فالمهم هو الاستمرارية والالتزام على المدى الطويل. لا تضغط على نفسك لتبدأ بمبالغ ضخمة، بل اجعل الاستثمار عادة منتظمة.</p><p>من الضروري أيضاً استشارة مستشار مالي متخصص لمساعدتك في اختيار أفضل استراتيجيات الاستثمار التي تتناسب مع أهدافك المالية ومستوى تحملك للمخاطر.</p>",
+    "contentEn": "<h2 id='s1'>Why Invest for Your Children?</h2><p>Investing for your children is one of the most valuable gifts you can give them, providing a strong financial head start. The earlier you begin, the greater the opportunity for their money to grow significantly through the power of compound interest over the long term.</p><p>Early financial planning ensures a substantial capital for their university education, starting their own business, or even buying their first home, alleviating future financial burdens on them.</p><h2 id='s2'>How to Start: Investment Vehicles</h2><p>To begin, you can open a dedicated savings account for the child, or explore more advanced investment options such as Exchange Traded Funds (ETFs) which offer broad diversification at low cost.</p><p>Consider also growth stocks of stable companies with promising future prospects, bearing in mind that stock investments carry higher risks and require thorough research.</p><h2 id='s3'>Teaching Children About Money</h2><p>Investing is not just about accumulating money; it's also about instilling financial awareness in your children. Talk to them about the value of money, the importance of saving, and how investments work in simple, age-appropriate ways.</p><p>You can involve them in simple financial decisions or give them an allowance to learn how to manage it, building a strong foundation for handling their finances in the future.</p><h2 id='s4'>Key Considerations and Tips</h2><p>Start with small amounts that fit your budget; consistency and long-term commitment are key. Don't pressure yourself to start with large sums, but rather make investing a regular habit.</p><p>It is also essential to consult a specialized financial advisor to help you choose the best investment strategies that align with your financial goals and risk tolerance.</p>"
   }
 ];
 

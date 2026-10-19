@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-18
-// Total articles: 176
+// Last updated: 2026-10-19
+// Total articles: 177
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -12739,6 +12739,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>أهمية الأمن السيبراني المتزايدة</h2><p>مع تزايد الاعتماد على الرقمنة في كافة جوانب الحياة والأعمال، أصبح الأمن السيبراني ضرورة قصوى لا ترفاً. تتصاعد الهجمات الإلكترونية تعقيداً وخطورة، مما يهدد البيانات الحساسة والبنى التحتية الحيوية للشركات والحكومات.</p><h2 id='s2'>محركات النمو في سوق الأمن السيبراني</h2><p>يدفع التحول الرقمي العالمي، وتبني الحوسبة السحابية، وانتشار إنترنت الأشياء، الطلب على حلول الأمن السيبراني بشكل هائل. كما تساهم اللوائح التنظيمية المشددة لحماية البيانات، مثل GDPR، في زيادة الإنفاق على هذه التقنيات.</p><h2 id='s3'>مجالات الاستثمار الواعدة</h2><p>تشمل فرص الاستثمار الواعدة شركات الأمن السحابي، وحلول الذكاء الاصطناعي والتعلم الآلي في الكشف عن التهديدات، وحماية نقاط النهاية، وخدمات الأمن المدارة (MSSP). هذه المجالات تشهد ابتكاراً ونمواً سريعاً.</p><h2 id='s4'>نظرة مستقبلية وفرص للمستثمرين</h2><p>يتوقع أن يستمر سوق الأمن السيبراني في التوسع بقوة خلال السنوات القادمة، مدفوعاً بالتطور المستمر للتهديدات والحاجة الملحة للحماية. يمثل هذا القطاع فرصة استثمارية جذابة للمستثمرين الباحثين عن نمو طويل الأجل في سوق حيوي وضروري.</p>",
     "contentEn": "<h2 id='s1'>The Growing Importance of Cybersecurity</h2><p>With increasing reliance on digitalization in all aspects of life and business, cybersecurity has become an absolute necessity, not a luxury. Cyberattacks are growing in complexity and severity, threatening sensitive data and critical infrastructure for companies and governments alike.</p><h2 id='s2'>Growth Drivers in the Cybersecurity Market</h2><p>Global digital transformation, the adoption of cloud computing, and the proliferation of the Internet of Things are massively driving demand for cybersecurity solutions. Strict data protection regulations, such as GDPR, also contribute to increased spending on these technologies.</p><h2 id='s3'>Promising Investment Areas</h2><p>Promising investment opportunities include cloud security companies, AI and machine learning solutions for threat detection, endpoint protection, and Managed Security Service Providers (MSSPs). These areas are experiencing rapid innovation and growth.</p><h2 id='s4'>Future Outlook and Opportunities for Investors</h2><p>The cybersecurity market is expected to continue its strong expansion in the coming years, driven by the continuous evolution of threats and the urgent need for protection. This sector represents an attractive investment opportunity for investors seeking long-term growth in a vital and essential market.</p>"
+  },
+  {
+    "id": 177,
+    "slug": "platinum-the-forgotten-investment-metal",
+    "title": "البلاتينيوم: المعدن المنسي في عالم الاستثمار",
+    "titleEn": "Platinum: The Forgotten Investment Metal",
+    "summary": "البلاتينيوم هو معدن ثمين ونادر ذو استخدامات صناعية حيوية، خاصة في السيارات والطاقة النظيفة، ويقدم فرصة استثمارية استراتيجية رغم تقلباته وتحدياته.",
+    "summaryEn": "Platinum is a rare and precious metal with vital industrial uses, especially in automotive and clean energy sectors, offering a strategic investment opportunity despite its volatility and challenges.",
+    "excerpt": "على الرغم من كونه غالبًا ما يُنسى لصالح الذهب والفضة، يمتلك البلاتينيوم قيمة صناعية واستثمارية كبيرة تستحق الاهتمام.",
+    "excerptEn": "Though often overlooked in favor of gold and silver, platinum possesses significant industrial and investment value that warrants attention.",
+    "category": "الذهب والمعادن",
+    "categoryEn": "Gold & Metals",
+    "categoryIcon": "🧸",
+    "author": "فاطمة الشهري",
+    "authorEn": "Fatima Al-Shahri",
+    "authorInitial": "F",
+    "date": "19 أكتوبر 2026",
+    "dateEn": "October 19, 2026",
+    "dateISO": "2026-10-19",
+    "readTime": "9",
+    "views": "2954",
+    "emoji": "🧸",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article177.jpg",
+    "featured": false,
+    "breadcrumb": "الذهب والمعادن",
+    "breadcrumbEn": "Gold & Metals",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "البلاتينيوم: لمحة عامة"
+      },
+      {
+        "id": "s2",
+        "text": "الاستخدامات الصناعية ومحركات الطلب"
+      },
+      {
+        "id": "s3",
+        "text": "جاذبية الاستثمار والتحديات"
+      },
+      {
+        "id": "s4",
+        "text": "النظرة المستقبلية وخاتمة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Platinum: An Overview"
+      },
+      {
+        "id": "s2",
+        "text": "Industrial Applications and Demand Drivers"
+      },
+      {
+        "id": "s3",
+        "text": "Investment Appeal and Challenges"
+      },
+      {
+        "id": "s4",
+        "text": "Future Outlook and Conclusion"
+      }
+    ],
+    "related": [
+      174
+    ],
+    "content": "<h2 id='s1'>البلاتينيوم: لمحة عامة</h2><p>يُعرف البلاتينيوم، وهو معدن ثمين ونادر، بخصائصه الفريدة ومظهره الأنيق. غالبًا ما يُطغى عليه بريق الذهب والفضة، لكنه يمتلك قيمة جوهرية كبيرة في العديد من الصناعات.</p><p>يتميز بمقاومته للتآكل وقابليته للتفاعل كعامل حفاز، مما يجعله لا غنى عنه في قطاعات حيوية.</p><h2 id='s2'>الاستخدامات الصناعية ومحركات الطلب</h2><p>تعتبر صناعة السيارات أكبر مستهلك للبلاتينيوم، حيث يُستخدم بكثافة في المحولات الحفازة لتقليل الانبعاثات الضارة. هذا الارتباط الوثيق بالقطاع الصناعي يجعل سعره حساساً للتغيرات الاقتصادية العالمية.</p><p>كما يدخل البلاتينيوم في صناعة المجوهرات الفاخرة، المعدات الطبية، وتكرير البترول، مما يوسع قاعدة الطلب عليه.</p><h2 id='s3'>جاذبية الاستثمار والتحديات</h2><p>يمكن أن يوفر البلاتينيوم تنويعًا جيدًا للمحافظ الاستثمارية بفضل ارتباطه بالقطاع الصناعي بدلاً من كونه ملاذًا آمنًا تقليديًا. يمكن الاستثمار فيه عبر السبائك، العملات، أو صناديق المؤشرات المتداولة.</p><p>ومع ذلك، يواجه المستثمرون تحديات مثل تقلبات الأسعار الكبيرة، والسيولة المنخفضة مقارنة بالذهب، وتركيز الإنتاج في عدد قليل من البلدان.</p><h2 id='s4'>النظرة المستقبلية وخاتمة</h2><p>قد تشهد آفاق البلاتينيوم تحسنًا بفضل التوجه العالمي نحو الطاقة النظيفة، حيث يلعب دورًا رئيسيًا في تكنولوجيا خلايا الوقود الهيدروجينية. هذا التطور قد يعزز الطلب المستقبلي عليه بشكل كبير.</p><p>رغم كونه \"المعدن المنسي\" أحيانًا، فإن البلاتينيوم يمثل فرصة استثما��ية استراتيجية لأولئك الذين يبحثون عن التعرض للنمو الصناعي والتكنولوجي.</p>",
+    "contentEn": "<h2 id='s1'>Platinum: An Overview</h2><p>Platinum, a rare and precious metal, is known for its unique properties and elegant appearance. Often overshadowed by the luster of gold and silver, it holds significant intrinsic value across various industries.</p><p>It stands out for its corrosion resistance and catalytic properties, making it indispensable in critical sectors.</p><h2 id='s2'>Industrial Applications and Demand Drivers</h2><p>The automotive industry is the largest consumer of platinum, extensively used in catalytic converters to reduce harmful emissions. This strong link to the industrial sector makes its price sensitive to global economic shifts.</p><p>Platinum is also used in luxury jewelry, medical equipment, and petroleum refining, broadening its demand base.</p><h2 id='s3'>Investment Appeal and Challenges</h2><p>Platinum can offer good diversification for investment portfolios due to its correlation with the industrial sector rather than being a traditional safe haven. It can be invested in through bars, coins, or exchange-traded funds.</p><p>However, investors face challenges such as significant price volatility, lower liquidity compared to gold, and concentrated production in a few countries.</p><h2 id='s4'>Future Outlook and Conclusion</h2><p>Platinum's prospects may improve with the global shift towards clean energy, as it plays a key role in hydrogen fuel cell technology. This development could significantly boost its future demand.</p><p>Despite sometimes being the \"forgotten metal,\" platinum represents a strategic investment opportunity for those seeking exposure to industrial and technological growth.</p>"
   }
 ];
 

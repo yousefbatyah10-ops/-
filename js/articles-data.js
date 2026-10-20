@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-19
-// Total articles: 177
+// Last updated: 2026-10-20
+// Total articles: 178
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -12808,6 +12808,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>البلاتينيوم: لمحة عامة</h2><p>يُعرف البلاتينيوم، وهو معدن ثمين ونادر، بخصائصه الفريدة ومظهره الأنيق. غالبًا ما يُطغى عليه بريق الذهب والفضة، لكنه يمتلك قيمة جوهرية كبيرة في العديد من الصناعات.</p><p>يتميز بمقاومته للتآكل وقابليته للتفاعل كعامل حفاز، مما يجعله لا غنى عنه في قطاعات حيوية.</p><h2 id='s2'>الاستخدامات الصناعية ومحركات الطلب</h2><p>تعتبر صناعة السيارات أكبر مستهلك للبلاتينيوم، حيث يُستخدم بكثافة في المحولات الحفازة لتقليل الانبعاثات الضارة. هذا الارتباط الوثيق بالقطاع الصناعي يجعل سعره حساساً للتغيرات الاقتصادية العالمية.</p><p>كما يدخل البلاتينيوم في صناعة المجوهرات الفاخرة، المعدات الطبية، وتكرير البترول، مما يوسع قاعدة الطلب عليه.</p><h2 id='s3'>جاذبية الاستثمار والتحديات</h2><p>يمكن أن يوفر البلاتينيوم تنويعًا جيدًا للمحافظ الاستثمارية بفضل ارتباطه بالقطاع الصناعي بدلاً من كونه ملاذًا آمنًا تقليديًا. يمكن الاستثمار فيه عبر السبائك، العملات، أو صناديق المؤشرات المتداولة.</p><p>ومع ذلك، يواجه المستثمرون تحديات مثل تقلبات الأسعار الكبيرة، والسيولة المنخفضة مقارنة بالذهب، وتركيز الإنتاج في عدد قليل من البلدان.</p><h2 id='s4'>النظرة المستقبلية وخاتمة</h2><p>قد تشهد آفاق البلاتينيوم تحسنًا بفضل التوجه العالمي نحو الطاقة النظيفة، حيث يلعب دورًا رئيسيًا في تكنولوجيا خلايا الوقود الهيدروجينية. هذا التطور قد يعزز الطلب المستقبلي عليه بشكل كبير.</p><p>رغم كونه \"المعدن المنسي\" أحيانًا، فإن البلاتينيوم يمثل فرصة استثما��ية استراتيجية لأولئك الذين يبحثون عن التعرض للنمو الصناعي والتكنولوجي.</p>",
     "contentEn": "<h2 id='s1'>Platinum: An Overview</h2><p>Platinum, a rare and precious metal, is known for its unique properties and elegant appearance. Often overshadowed by the luster of gold and silver, it holds significant intrinsic value across various industries.</p><p>It stands out for its corrosion resistance and catalytic properties, making it indispensable in critical sectors.</p><h2 id='s2'>Industrial Applications and Demand Drivers</h2><p>The automotive industry is the largest consumer of platinum, extensively used in catalytic converters to reduce harmful emissions. This strong link to the industrial sector makes its price sensitive to global economic shifts.</p><p>Platinum is also used in luxury jewelry, medical equipment, and petroleum refining, broadening its demand base.</p><h2 id='s3'>Investment Appeal and Challenges</h2><p>Platinum can offer good diversification for investment portfolios due to its correlation with the industrial sector rather than being a traditional safe haven. It can be invested in through bars, coins, or exchange-traded funds.</p><p>However, investors face challenges such as significant price volatility, lower liquidity compared to gold, and concentrated production in a few countries.</p><h2 id='s4'>Future Outlook and Conclusion</h2><p>Platinum's prospects may improve with the global shift towards clean energy, as it plays a key role in hydrogen fuel cell technology. This development could significantly boost its future demand.</p><p>Despite sometimes being the \"forgotten metal,\" platinum represents a strategic investment opportunity for those seeking exposure to industrial and technological growth.</p>"
+  },
+  {
+    "id": 178,
+    "slug": "renewable-energy-the-future-investment",
+    "title": "الطاقة المتجددة: استثمار المستقبل",
+    "titleEn": "Renewable Energy: The Future Investment",
+    "summary": "الطاقة المتجددة تمثل فرصة استثمارية واعدة تدفعها الحاجة العالمية للاستدامة والنمو الاقتصادي.",
+    "summaryEn": "Renewable energy represents a promising investment opportunity driven by the global need for sustainability and economic growth.",
+    "excerpt": "استكشف معنا كيف أصبحت الطاقة المتجددة محور اهتمام المستثمرين، بفضل عوائدها المتزايدة وتأثيرها الإيجابي على البيئة والاقتصاد.",
+    "excerptEn": "Explore with us how renewable energy has become a focal point for investors, thanks to its increasing returns and positive impact on the environment and economy.",
+    "category": "تقنية وثروة",
+    "categoryEn": "Tech & Wealth",
+    "categoryIcon": "🤖",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "20 أكتوبر 2026",
+    "dateEn": "October 20, 2026",
+    "dateISO": "2026-10-20",
+    "readTime": "8",
+    "views": "3413",
+    "emoji": "🤖",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article178.jpg",
+    "featured": false,
+    "breadcrumb": "تقنية وثروة",
+    "breadcrumbEn": "Tech & Wealth",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "لماذا الطاقة المتجددة الآن؟"
+      },
+      {
+        "id": "s2",
+        "text": "العوائد الاقتصادية والفرص الاستثمارية"
+      },
+      {
+        "id": "s3",
+        "text": "الاستدامة والمعايير البيئية والاجتماعية والحوكمة (ESG)"
+      },
+      {
+        "id": "s4",
+        "text": "نظرة مستقبلية وتحديات"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Why Renewable Energy Now?"
+      },
+      {
+        "id": "s2",
+        "text": "Economic Returns and Investment Opportunities"
+      },
+      {
+        "id": "s3",
+        "text": "Sustainability and ESG Criteria"
+      },
+      {
+        "id": "s4",
+        "text": "Future Outlook and Challenges"
+      }
+    ],
+    "related": [
+      88
+    ],
+    "content": "<h2 id='s1'>لماذا الطاقة المتجددة الآن؟</h2><p>شهد قطاع الطاقة المتجددة نموًا غير مسبوق، مدفوعًا بالتطور التكنولوجي وتراجع التكاليف والسياسات الحكومية الداعمة. هذا التحول ليس مجرد استجابة لتحديات المناخ، بل هو محرك اقتصادي جديد يخلق فرصًا استثمارية هائلة.</p><p>تتجه الشركات والحكومات بشكل متزايد نحو مصادر الطاقة النظيفة، مما يضمن طلبًا مستمرًا ويزيد من جاذبية هذا القطاع للمستثمرين الباحثين عن نمو طويل الأجل.</p><h2 id='s2'>العوائد الاقتصادية والفرص الاستثمارية</h2><p>تقدم مشاريع الطاقة المتجددة عوائد مالية جذابة ومستقرة، غالبًا ما تكون مدعومة بعقود شراء طاقة طويلة الأجل (PPAs). هذا يقلل من المخاطر ويجعلها خيارًا مفضلاً للمستثمرين الذين يسعون لتحقيق تدفقات نقدية يمكن التنبؤ بها.</p><p>لا تقتصر الفرص على تطوير المشاريع الكبرى فحسب، بل تمتد لتشمل شركات تصنيع المعدات، وخدمات التركيب والصيانة، وحتى صناديق الاستثمار المتخصصة في البنية التحتية الخضراء.</p><h2 id='s3'>الاستدامة والمعايير البيئية والاجتماعية والحوكمة (ESG)</h2><p>تتوافق الاستثمارات في الطاقة المتجددة تمامًا مع مبادئ الاستثمار المستدام ومعايير البيئة والمجتمع والحوكمة (ESG)، التي أصبحت عاملًا حاسمًا للمستثمرين العالميين. يساهم الاستثمار في هذا القطاع في مكافحة تغير المناخ وتعزيز أمن الطاقة.</p><p>يعزز تبني استراتيجيات ESG سمعة الشركات ويجذب رؤوس الأموال التي تولي اهتمامًا متزايدًا للتأثير الاجتماعي والبيئي، مما يزيد من قيمة هذه الاستثمارات على المدى الطويل.</p><h2 id='s4'>نظرة مستقبلية وتحديات</h2><p>يتوقع الخبراء استمرار نمو قطاع الطاقة المتجددة بوتيرة سريعة، مدف��عًا بالابتكار المستمر والحاجة الملحة لتحقيق أهداف الحياد الكربوني. تظهر تقنيات جديدة مثل الهيدروجين الأخضر وتخزين الطاقة كآفاق استثمارية واعدة.</p><p>على الرغم من التوقعات الإيجابية، يواجه القطاع تحديات مثل تقلبات السياسات الحكومية، والحاجة إلى استثمارات ضخمة في البنية التحتية للشبكات. ومع ذلك، تبقى النظرة العامة إيجابية للغاية بفضل الدعم العالمي والالتزام المتزايد بالتحول الأخضر.</p>",
+    "contentEn": "<h2 id='s1'>Why Renewable Energy Now?</h2><p>The renewable energy sector has witnessed unprecedented growth, driven by technological advancements, declining costs, and supportive government policies. This shift is not merely a response to climate challenges but a new economic engine creating immense investment opportunities.</p><p>Companies and governments are increasingly turning towards clean energy sources, ensuring continuous demand and enhancing the sector's appeal for investors seeking long-term growth.</p><h2 id='s2'>Economic Returns and Investment Opportunities</h2><p>Renewable energy projects offer attractive and stable financial returns, often backed by long-term Power Purchase Agreements (PPAs). This reduces risks and makes them a preferred choice for investors seeking predictable cash flows.</p><p>Opportunities are not limited to large-scale project development but extend to equipment manufacturing companies, installation and maintenance services, and even specialized investment funds in green infrastructure.</p><h2 id='s3'>Sustainability and ESG Criteria</h2><p>Investments in renewable energy align perfectly with sustainable investment principles and Environmental, Social, and Governance (ESG) criteria, which have become a crucial factor for global investors. Investing in this sector contributes to combating climate change and enhancing energy security.</p><p>Adopting ESG strategies enhances corporate reputation and attracts capital increasingly focused on social and environmental impact, thereby increasing the long-term value of these investments.</p><h2 id='s4'>Future Outlook and Challenges</h2><p>Experts anticipate the renewable energy sector to continue growing rapidly, driven by continuous innovation and the urgent need to achieve carbon neutrality goals. New technologies like green hydrogen and energy storage are emerging as promising investment prospects.</p><p>Despite positive forecasts, the sector faces challenges such as fluctuating government policies and the need for massive investments in grid infrastructure. However, the overall outlook remains highly positive due to global support and increasing commitment to the green transition.</p>"
   }
 ];
 

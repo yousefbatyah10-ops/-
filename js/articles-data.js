@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-20
-// Total articles: 178
+// Last updated: 2026-10-21
+// Total articles: 179
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -12877,6 +12877,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>لماذا الطاقة المتجددة الآن؟</h2><p>شهد قطاع الطاقة المتجددة نموًا غير مسبوق، مدفوعًا بالتطور التكنولوجي وتراجع التكاليف والسياسات الحكومية الداعمة. هذا التحول ليس مجرد استجابة لتحديات المناخ، بل هو محرك اقتصادي جديد يخلق فرصًا استثمارية هائلة.</p><p>تتجه الشركات والحكومات بشكل متزايد نحو مصادر الطاقة النظيفة، مما يضمن طلبًا مستمرًا ويزيد من جاذبية هذا القطاع للمستثمرين الباحثين عن نمو طويل الأجل.</p><h2 id='s2'>العوائد الاقتصادية والفرص الاستثمارية</h2><p>تقدم مشاريع الطاقة المتجددة عوائد مالية جذابة ومستقرة، غالبًا ما تكون مدعومة بعقود شراء طاقة طويلة الأجل (PPAs). هذا يقلل من المخاطر ويجعلها خيارًا مفضلاً للمستثمرين الذين يسعون لتحقيق تدفقات نقدية يمكن التنبؤ بها.</p><p>لا تقتصر الفرص على تطوير المشاريع الكبرى فحسب، بل تمتد لتشمل شركات تصنيع المعدات، وخدمات التركيب والصيانة، وحتى صناديق الاستثمار المتخصصة في البنية التحتية الخضراء.</p><h2 id='s3'>الاستدامة والمعايير البيئية والاجتماعية والحوكمة (ESG)</h2><p>تتوافق الاستثمارات في الطاقة المتجددة تمامًا مع مبادئ الاستثمار المستدام ومعايير البيئة والمجتمع والحوكمة (ESG)، التي أصبحت عاملًا حاسمًا للمستثمرين العالميين. يساهم الاستثمار في هذا القطاع في مكافحة تغير المناخ وتعزيز أمن الطاقة.</p><p>يعزز تبني استراتيجيات ESG سمعة الشركات ويجذب رؤوس الأموال التي تولي اهتمامًا متزايدًا للتأثير الاجتماعي والبيئي، مما يزيد من قيمة هذه الاستثمارات على المدى الطويل.</p><h2 id='s4'>نظرة مستقبلية وتحديات</h2><p>يتوقع الخبراء استمرار نمو قطاع الطاقة المتجددة بوتيرة سريعة، مدف��عًا بالابتكار المستمر والحاجة الملحة لتحقيق أهداف الحياد الكربوني. تظهر تقنيات جديدة مثل الهيدروجين الأخضر وتخزين الطاقة كآفاق استثمارية واعدة.</p><p>على الرغم من التوقعات الإيجابية، يواجه القطاع تحديات مثل تقلبات السياسات الحكومية، والحاجة إلى استثمارات ضخمة في البنية التحتية للشبكات. ومع ذلك، تبقى النظرة العامة إيجابية للغاية بفضل الدعم العالمي والالتزام المتزايد بالتحول الأخضر.</p>",
     "contentEn": "<h2 id='s1'>Why Renewable Energy Now?</h2><p>The renewable energy sector has witnessed unprecedented growth, driven by technological advancements, declining costs, and supportive government policies. This shift is not merely a response to climate challenges but a new economic engine creating immense investment opportunities.</p><p>Companies and governments are increasingly turning towards clean energy sources, ensuring continuous demand and enhancing the sector's appeal for investors seeking long-term growth.</p><h2 id='s2'>Economic Returns and Investment Opportunities</h2><p>Renewable energy projects offer attractive and stable financial returns, often backed by long-term Power Purchase Agreements (PPAs). This reduces risks and makes them a preferred choice for investors seeking predictable cash flows.</p><p>Opportunities are not limited to large-scale project development but extend to equipment manufacturing companies, installation and maintenance services, and even specialized investment funds in green infrastructure.</p><h2 id='s3'>Sustainability and ESG Criteria</h2><p>Investments in renewable energy align perfectly with sustainable investment principles and Environmental, Social, and Governance (ESG) criteria, which have become a crucial factor for global investors. Investing in this sector contributes to combating climate change and enhancing energy security.</p><p>Adopting ESG strategies enhances corporate reputation and attracts capital increasingly focused on social and environmental impact, thereby increasing the long-term value of these investments.</p><h2 id='s4'>Future Outlook and Challenges</h2><p>Experts anticipate the renewable energy sector to continue growing rapidly, driven by continuous innovation and the urgent need to achieve carbon neutrality goals. New technologies like green hydrogen and energy storage are emerging as promising investment prospects.</p><p>Despite positive forecasts, the sector faces challenges such as fluctuating government policies and the need for massive investments in grid infrastructure. However, the overall outlook remains highly positive due to global support and increasing commitment to the green transition.</p>"
+  },
+  {
+    "id": 179,
+    "slug": "inflation-how-to-protect-your-money",
+    "title": "التضخم: كيف تحمي أموالك منه",
+    "titleEn": "Inflation: How to Protect Your Money",
+    "summary": "التضخم يقلل من قيمة أموالك، ولكن هناك استراتيجيات فعالة لحماية مدخراتك واستثماراتك منه.",
+    "summaryEn": "Inflation erodes the value of your money, but effective strategies exist to protect your savings and investments from it.",
+    "excerpt": "تعرف على التضخم وكيف يمكنك حماية أموالك من تأثيراته السلبية من خلال الاستثمار الذكي والتخطيط المالي السليم.",
+    "excerptEn": "Learn about inflation and how you can protect your money from its negative effects through smart investing and sound financial planning.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "فاطمة الشهري",
+    "authorEn": "Fatima Al-Shahri",
+    "authorInitial": "F",
+    "date": "21 أكتوبر 2026",
+    "dateEn": "October 21, 2026",
+    "dateISO": "2026-10-21",
+    "readTime": "11",
+    "views": "5768",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article179.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "فهم التضخم"
+      },
+      {
+        "id": "s2",
+        "text": "استراتيجيات الاستثمار لمواجهة التضخم"
+      },
+      {
+        "id": "s3",
+        "text": "التنويع والأصول الحقيقية"
+      },
+      {
+        "id": "s4",
+        "text": "إدارة الديون والتخطيط المالي الشخصي"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Understanding Inflation"
+      },
+      {
+        "id": "s2",
+        "text": "Investment Strategies to Combat Inflation"
+      },
+      {
+        "id": "s3",
+        "text": "Diversification and Real Assets"
+      },
+      {
+        "id": "s4",
+        "text": "Debt Management and Personal Financial Planning"
+      }
+    ],
+    "related": [
+      117
+    ],
+    "content": "<h2 id='s1'>فهم التضخم</h2><p>التضخم هو الارتفاع المستمر في المستوى العام لأسعار السلع والخدمات، مما يؤدي إلى تآكل القوة الشرائية للنقود بمرور الوقت. إنه يمثل تحديًا كبيرًا للمدخرات والاستثمارات، حيث تقل قيمة أموالك إذا لم تحقق عوائد تفوق معدل التضخم.</p><h2 id='s2'>استراتيجيات الاستثمار لمواجهة التضخم</h2><p>للتصدي للتضخم، يمكن التفكير في استثمارات توفر عوائد أعلى من معدله. تشمل هذه الاستراتيجيات الاستثمار في الأسهم التي تمثل شركات قوية وذات نمو، أو صناديق الاستثمار العقاري (REITs) التي توفر دخلاً منتظمًا وإمكانية نمو رأس المال.</p><h2 id='s3'>التنويع والأصول الحقيقية</h2><p>تنويع المحفظة الاستثمارية أمر بالغ الأهمية، ويجب أن يشمل الأصول الحقيقية مثل الذهب أو السلع الأساسية، والتي غالبًا ما تحتفظ بقيمتها أو تزداد في أوقات التضخم. هذه الأصول توفر تحوطًا ضد تآكل ق��مة العملة.</p><h2 id='s4'>إدارة الديون والتخطيط المالي الشخصي</h2><p>تقليل الديون ذات الفائدة المتغيرة يمكن أن يحمي ميزانيتك من ارتفاع تكاليف الاقتراض خلال فترات التضخم. كما أن الاستثمار في تطوير مهاراتك الشخصية يمكن أن يزيد من دخلك المستقبلي، مما يعزز قدرتك على مواجهة ارتفاع الأسعار.</p>",
+    "contentEn": "<h2 id='s1'>Understanding Inflation</h2><p>Inflation is the sustained increase in the general price level of goods and services, leading to an erosion of money's purchasing power over time. It poses a significant challenge to savings and investments, as your money's value decreases if returns don't outpace the inflation rate.</p><h2 id='s2'>Investment Strategies to Combat Inflation</h2><p>To counter inflation, consider investments that offer returns higher than its rate. These strategies include investing in stocks of strong, growing companies or Real Estate Investment Trusts (REITs) that provide regular income and potential capital appreciation.</p><h2 id='s3'>Diversification and Real Assets</h2><p>Diversifying your investment portfolio is crucial and should include real assets like gold or commodities, which often retain or increase their value during inflationary periods. These assets provide a hedge against currency value erosion.</p><h2 id='s4'>Debt Management and Personal Financial Planning</h2><p>Reducing variable-interest debt can protect your budget from rising borrowing costs during inflationary periods. Furthermore, investing in personal skill development can increase your future income, enhancing your ability to cope with rising prices.</p>"
   }
 ];
 

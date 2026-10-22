@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-21
-// Total articles: 179
+// Last updated: 2026-10-22
+// Total articles: 180
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -12946,6 +12946,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فهم التضخم</h2><p>التضخم هو الارتفاع المستمر في المستوى العام لأسعار السلع والخدمات، مما يؤدي إلى تآكل القوة الشرائية للنقود بمرور الوقت. إنه يمثل تحديًا كبيرًا للمدخرات والاستثمارات، حيث تقل قيمة أموالك إذا لم تحقق عوائد تفوق معدل التضخم.</p><h2 id='s2'>استراتيجيات الاستثمار لمواجهة التضخم</h2><p>للتصدي للتضخم، يمكن التفكير في استثمارات توفر عوائد أعلى من معدله. تشمل هذه الاستراتيجيات الاستثمار في الأسهم التي تمثل شركات قوية وذات نمو، أو صناديق الاستثمار العقاري (REITs) التي توفر دخلاً منتظمًا وإمكانية نمو رأس المال.</p><h2 id='s3'>التنويع والأصول الحقيقية</h2><p>تنويع المحفظة الاستثمارية أمر بالغ الأهمية، ويجب أن يشمل الأصول الحقيقية مثل الذهب أو السلع الأساسية، والتي غالبًا ما تحتفظ بقيمتها أو تزداد في أوقات التضخم. هذه الأصول توفر تحوطًا ضد تآكل ق��مة العملة.</p><h2 id='s4'>إدارة الديون والتخطيط المالي الشخصي</h2><p>تقليل الديون ذات الفائدة المتغيرة يمكن أن يحمي ميزانيتك من ارتفاع تكاليف الاقتراض خلال فترات التضخم. كما أن الاستثمار في تطوير مهاراتك الشخصية يمكن أن يزيد من دخلك المستقبلي، مما يعزز قدرتك على مواجهة ارتفاع الأسعار.</p>",
     "contentEn": "<h2 id='s1'>Understanding Inflation</h2><p>Inflation is the sustained increase in the general price level of goods and services, leading to an erosion of money's purchasing power over time. It poses a significant challenge to savings and investments, as your money's value decreases if returns don't outpace the inflation rate.</p><h2 id='s2'>Investment Strategies to Combat Inflation</h2><p>To counter inflation, consider investments that offer returns higher than its rate. These strategies include investing in stocks of strong, growing companies or Real Estate Investment Trusts (REITs) that provide regular income and potential capital appreciation.</p><h2 id='s3'>Diversification and Real Assets</h2><p>Diversifying your investment portfolio is crucial and should include real assets like gold or commodities, which often retain or increase their value during inflationary periods. These assets provide a hedge against currency value erosion.</p><h2 id='s4'>Debt Management and Personal Financial Planning</h2><p>Reducing variable-interest debt can protect your budget from rising borrowing costs during inflationary periods. Furthermore, investing in personal skill development can increase your future income, enhancing your ability to cope with rising prices.</p>"
+  },
+  {
+    "id": 180,
+    "slug": "investing-in-undeveloped-land",
+    "title": "كيف تستثمر في الأراضي البيضاء",
+    "titleEn": "Investing in Undeveloped Land",
+    "summary": "يقدم هذا المقال دليلاً موجزاً حول كيفية الاستثمار في الأراضي البيضاء، مع تسليط الضوء على الفرص والتحديات الرئيسية.",
+    "summaryEn": "This article provides a concise guide on how to invest in white lands, highlighting key opportunities and challenges.",
+    "excerpt": "تعرف على أساسيات الاستثمار في الأراضي البيضاء، من تحديد الفرص الواعدة إلى فهم المخاطر وإدارة التحديات.",
+    "excerptEn": "Learn the basics of investing in white lands, from identifying promising opportunities to understanding risks and managing challenges.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "22 أكتوبر 2026",
+    "dateEn": "October 22, 2026",
+    "dateISO": "2026-10-22",
+    "readTime": "12",
+    "views": "2512",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article180.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة عن الأراضي البيضاء"
+      },
+      {
+        "id": "s2",
+        "text": "لماذا الاستثمار في الأراضي البيضاء؟"
+      },
+      {
+        "id": "s3",
+        "text": "التحديات والمخاطر"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح للاستثمار الناجح"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to White Lands"
+      },
+      {
+        "id": "s2",
+        "text": "Why Invest in White Lands?"
+      },
+      {
+        "id": "s3",
+        "text": "Challenges and Risks"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for Successful Investment"
+      }
+    ],
+    "related": [
+      120
+    ],
+    "content": "<h2 id='s1'>مقدمة عن الأراضي البيضاء</h2><p>الأراضي البيضاء هي قطع أراضٍ غير مطورة تقع ضمن النطاق العمراني للمدن، وتُعد فرصة استثمارية واعدة نظرًا لإمكانية ارتفاع قيمتها مع التوسع الحضري.</p><p>الاستثمار فيها يتطلب فهمًا عميقًا للسوق والعوامل المؤثرة على قيمتها المستقبلية، مثل التخطيط الحضري والبنية التحتية القادمة.</p><h2 id='s2'>لماذا الاستثمار في الأراضي البيضاء؟</h2><p>تتمتع الأراضي البيضاء بفرصة نمو رأسمالي كبير، حيث تزداد قيمتها غالبًا بمرور الوقت مع تطور المنطقة المحيطة بها وزيادة الطلب على الأراضي.</p><p>كما أنها تتطلب صيانة أقل مقارنة بالعقارات المبنية، مما يقلل من التكاليف التشغيلية ويجعلها خيارًا جذابًا للمستثمرين على المدى الطويل.</p><h2 id='s3'>التحديات والمخاطر</h2><p>من أبرز التحديات التي تواجه المستثمرين ف�� الأراضي البيضاء هي الرسوم والضرائب المفروضة عليها، خاصة تلك التي تهدف لتحفيز التطوير والبناء.</p><p>قد لا تدر هذه الأراضي أي دخل إيجاري فوري، مما يتطلب رأس مال ثابت لفترة طويلة دون عوائد مباشرة، بالإضافة إلى مخاطر التغيرات التنظيمية والقانونية.</p><h2 id='s4'>نصائح للاستثمار الناجح</h2><p>يجب على المستثمر إجراء بحث شامل عن الموقع، والتأكد من التخطيط العمراني المستقبلي للمنطقة، والتحقق من الجوانب القانونية للأرض والملكية.</p><p>كما يُنصح بالتعاون مع خبراء عقاريين ومحامين لضمان سلامة الاستثمار وتقييم الجدوى الاقتصادية على المدى الطويل قبل اتخاذ أي قرار.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to White Lands</h2><p>White lands are undeveloped plots located within the urban scope of cities, representing a promising investment opportunity due to their potential for appreciation with urban expansion.</p><p>Investing in them requires a deep understanding of the market and factors affecting their future value, such as urban planning and upcoming infrastructure.</p><h2 id='s2'>Why Invest in White Lands?</h2><p>White lands offer significant capital growth potential, as their value often increases over time with the development of the surrounding area and rising demand for land.</p><p>They also require less maintenance compared to built properties, reducing operational costs and making them an attractive long-term option for investors.</p><h2 id='s3'>Challenges and Risks</h2><p>One of the main challenges for investors in white lands is the fees and taxes imposed on them, especially those aimed at incentivizing development and construction.</p><p>These lands may not generate immediate rental income, requiring fixed capital for a long period without direct returns, in addition to risks from regulatory and legal changes.</p><h2 id='s4'>Tips for Successful Investment</h2><p>Investors should conduct thorough research on the location, ascertain the future urban planning of the area, and verify the legal aspects of the land and ownership.</p><p>It is also advisable to collaborate with real estate experts and lawyers to ensure the safety of the investment and assess its long-term economic viability before making any decision.</p>"
   }
 ];
 

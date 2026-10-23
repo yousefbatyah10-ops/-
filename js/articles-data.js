@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-22
-// Total articles: 180
+// Last updated: 2026-10-23
+// Total articles: 181
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -13015,6 +13015,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة عن الأراضي البيضاء</h2><p>الأراضي البيضاء هي قطع أراضٍ غير مطورة تقع ضمن النطاق العمراني للمدن، وتُعد فرصة استثمارية واعدة نظرًا لإمكانية ارتفاع قيمتها مع التوسع الحضري.</p><p>الاستثمار فيها يتطلب فهمًا عميقًا للسوق والعوامل المؤثرة على قيمتها المستقبلية، مثل التخطيط الحضري والبنية التحتية القادمة.</p><h2 id='s2'>لماذا الاستثمار في الأراضي البيضاء؟</h2><p>تتمتع الأراضي البيضاء بفرصة نمو رأسمالي كبير، حيث تزداد قيمتها غالبًا بمرور الوقت مع تطور المنطقة المحيطة بها وزيادة الطلب على الأراضي.</p><p>كما أنها تتطلب صيانة أقل مقارنة بالعقارات المبنية، مما يقلل من التكاليف التشغيلية ويجعلها خيارًا جذابًا للمستثمرين على المدى الطويل.</p><h2 id='s3'>التحديات والمخاطر</h2><p>من أبرز التحديات التي تواجه المستثمرين ف�� الأراضي البيضاء هي الرسوم والضرائب المفروضة عليها، خاصة تلك التي تهدف لتحفيز التطوير والبناء.</p><p>قد لا تدر هذه الأراضي أي دخل إيجاري فوري، مما يتطلب رأس مال ثابت لفترة طويلة دون عوائد مباشرة، بالإضافة إلى مخاطر التغيرات التنظيمية والقانونية.</p><h2 id='s4'>نصائح للاستثمار الناجح</h2><p>يجب على المستثمر إجراء بحث شامل عن الموقع، والتأكد من التخطيط العمراني المستقبلي للمنطقة، والتحقق من الجوانب القانونية للأرض والملكية.</p><p>كما يُنصح بالتعاون مع خبراء عقاريين ومحامين لضمان سلامة الاستثمار وتقييم الجدوى الاقتصادية على المدى الطويل قبل اتخاذ أي قرار.</p>",
     "contentEn": "<h2 id='s1'>Introduction to White Lands</h2><p>White lands are undeveloped plots located within the urban scope of cities, representing a promising investment opportunity due to their potential for appreciation with urban expansion.</p><p>Investing in them requires a deep understanding of the market and factors affecting their future value, such as urban planning and upcoming infrastructure.</p><h2 id='s2'>Why Invest in White Lands?</h2><p>White lands offer significant capital growth potential, as their value often increases over time with the development of the surrounding area and rising demand for land.</p><p>They also require less maintenance compared to built properties, reducing operational costs and making them an attractive long-term option for investors.</p><h2 id='s3'>Challenges and Risks</h2><p>One of the main challenges for investors in white lands is the fees and taxes imposed on them, especially those aimed at incentivizing development and construction.</p><p>These lands may not generate immediate rental income, requiring fixed capital for a long period without direct returns, in addition to risks from regulatory and legal changes.</p><h2 id='s4'>Tips for Successful Investment</h2><p>Investors should conduct thorough research on the location, ascertain the future urban planning of the area, and verify the legal aspects of the land and ownership.</p><p>It is also advisable to collaborate with real estate experts and lawyers to ensure the safety of the investment and assess its long-term economic viability before making any decision.</p>"
+  },
+  {
+    "id": 181,
+    "slug": "how-to-eliminate-debt-permanently",
+    "title": "كيف تتخلص من الديون نهائياً",
+    "titleEn": "How to Eliminate Debt Permanently",
+    "summary": "يقدم هذا المقال دليلاً شاملاً للتخلص من الديون بشكل دائم، بدءاً من فهم وضعك المالي ووصولاً إلى تطبيق استراتيجيات السداد الفعالة.",
+    "summaryEn": "This article provides a comprehensive guide to permanently eliminating debt, starting from understanding your financial situation to implementing effective repayment strategies.",
+    "excerpt": "تعرّف على الخطوات الأساسية لتوديع الديون وبناء مستقبل مالي مستقر وخالٍ من الأعباء.",
+    "excerptEn": "Learn the essential steps to bid farewell to debt and build a stable, burden-free financial future.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "ليلى القحطاني",
+    "authorEn": "Layla Al-Qahtani",
+    "authorInitial": "L",
+    "date": "23 أكتوبر 2026",
+    "dateEn": "October 23, 2026",
+    "dateISO": "2026-10-23",
+    "readTime": "11",
+    "views": "5672",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article181.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "فهم ديونك"
+      },
+      {
+        "id": "s2",
+        "text": "إنشاء ميزانية صارمة"
+      },
+      {
+        "id": "s3",
+        "text": "استراتيجيات سداد الديون"
+      },
+      {
+        "id": "s4",
+        "text": "زيادة الدخل وتقليل النفقات"
+      },
+      {
+        "id": "s5",
+        "text": "طلب المساعدة المتخصصة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Understanding Your Debt"
+      },
+      {
+        "id": "s2",
+        "text": "Creating a Strict Budget"
+      },
+      {
+        "id": "s3",
+        "text": "Debt Repayment Strategies"
+      },
+      {
+        "id": "s4",
+        "text": "Increasing Income & Reducing Expenses"
+      },
+      {
+        "id": "s5",
+        "text": "Seeking Professional Help"
+      }
+    ],
+    "related": [
+      132
+    ],
+    "content": "<h2 id='s1'>فهم ديونك</h2><p>الخطوة الأولى نحو التحرر من الديون هي فهم حجمها ونوعها. اجمع كل فواتير الديون، بما في ذلك بطاقات الائتمان والقروض الشخصية، وحدد المبلغ المستحق، أسعار الفائدة، وتواريخ الاستحقاق لكل دين.</p><p>يساعدك هذا التقييم الشامل على رؤية الصورة الكاملة لوضعك المالي، وتحديد الديون ذات الأولوية التي تتطلب سداداً عاجلاً بسبب ارتفاع أسعار الفائدة.</p><h2 id='s2'>إنشاء ميزانية صارمة</h2><p>بعد فهم ديونك، حان الوقت لإنشاء ميزانية تفصيلية. سجل جميع مصادر دخلك ونفقاتك الشهرية بدقة، وحدد أين تذهب أموالك.</p><p>ستكشف الميزانية عن المجالات التي يمكنك تقليص الإنفاق فيها، مما يوفر لك أموالاً إضافية لتوجيهها نحو سداد الديون بشكل أسرع.</p><h2 id='s3'>استراتيجيات سداد الديون</h2><p>هناك استراتيجيتان شائعتان لسداد الديون: طريقة كرة الثلج (Snowball) وطريقة الانهيار الجليدي (Avalanche). في طريقة كرة الثلج، تبدأ بسداد أصغر دين أولاً، بينما في طريقة الانهيار الجليدي، تركز على الدين ذي أعلى سعر فائدة.</p><p>اختر الاستراتيجية التي تناسب شخصيتك وقدرتك على الالتزام. الأهم هو البدء والالتزام بالخطة حتى ترى النتائج.</p><h2 id='s4'>زيادة الدخل وتقليل النفقات</h2><p>لتسريع عملية سداد الديون، ابحث عن طرق لزيادة دخلك، مثل العمل الحر، أو بيع الأغراض غير الضرورية، أو طلب زيادة في الراتب.</p><p>في الوقت نفسه، قلل من نفقاتك قدر الإمكان. تجنب المشتريات غير الضرورية، وقلل من تناول الطعام خارج المنزل، وابحث عن بدائل أوفر لخدماتك الحالية.</p><h2 id='s5'>طلب المساعدة المتخصصة</h2><p>إذا وجدت نفسك غارقاً في الديون ولا تستطيع إيجاد مخرج بمفردك، فلا تتردد ��ي طلب المساعدة من مستشار مالي أو وكالة لتسوية الديون.</p><p>يمكن لهؤلاء المتخصصين تقديم خطط مخصصة، والتفاوض مع الدائنين نيابة عنك، ومساعدتك على استعادة السيطرة على وضعك المالي.</p>",
+    "contentEn": "<h2 id='s1'>Understanding Your Debt</h2><p>The first step towards financial freedom is to fully understand the scope and nature of your debts. Gather all debt statements, including credit cards and personal loans, and list the amount owed, interest rates, and due dates for each.</p><p>This comprehensive assessment helps you visualize your complete financial situation and prioritize high-interest debts that require immediate attention.</p><h2 id='s2'>Creating a Strict Budget</h2><p>Once you understand your debts, it's time to create a detailed budget. Accurately record all your income sources and monthly expenses to see exactly where your money is going.</p><p>A well-structured budget will reveal areas where you can cut back on spending, freeing up additional funds to direct towards faster debt repayment.</p><h2 id='s3'>Debt Repayment Strategies</h2><p>There are two popular debt repayment strategies: the Debt Snowball and the Debt Avalanche. With the Snowball method, you pay off the smallest debt first, while the Avalanche method focuses on the debt with the highest interest rate.</p><p>Choose the strategy that best suits your personality and commitment level. The most important thing is to start and stick to your plan until you see results.</p><h2 id='s4'>Increasing Income & Reducing Expenses</h2><p>To accelerate your debt repayment process, look for ways to increase your income, such as freelancing, selling unnecessary items, or asking for a raise at work.</p><p>Simultaneously, reduce your expenses as much as possible. Avoid unnecessary purchases, cut down on dining out, and seek cheaper alternatives for your current services.</p><h2 id='s5'>Seeking Professional Help</h2><p>If you find yourself overwhelmed by debt and unable to find a way out on your own, do not hesitate to seek help from a financial advisor or a debt settlement agency.</p><p>These professionals can provide personalized plans, negotiate with creditors on your behalf, and help you regain control of your financial situation.</p>"
   }
 ];
 

@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-27
-// Total articles: 185
+// Last updated: 2026-10-28
+// Total articles: 186
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -13368,6 +13368,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: من جنون إلى واقع؟</h2><p>شهدت الرموز غير القابلة للاستبدال (NFTs) طفرة هائلة في السنوات الأخيرة، حيث بيعت أعمال فنية ومقتنيات رقمية بملايين الدولارات، مما جذب اهتمام المستثمرين والمتحمسين على حد سواء. ومع ذلك، تباطأ هذا الزخم بشكل كبير، مما أثار تساؤلات حول استدامتها.</p><h2 id='s2'>التحديات الحالية والسوق الناضج</h2><p>بعد ذروة عام 2021-2022، شهد سوق الـ NFTs تصحيحًا حادًا، مع انخفاض كبير في أحجام التداول والأسعار. وقد أثرت قضايا مثل الاحتيال والتضخم في السوق وارتفاع رسوم الغاز على ثقة المستثمرين، مما دفع الكثيرين إلى التشكيك في قيمتها الجوهرية.</p><h2 id='s3'>التطور نحو المنفعة والقيمة الحقيقية</h2><p>بحلول عام 2026، من المرجح أن يتحول تركيز الـ NFTs من المضاربة الفنية البحتة إلى تطبيقات ذات منفعة حقيقية. يمكن أن تشمل هذه التطبيقات استخدامات في الألعاب، والعقارات الرقمية، وإدارة الهوية، وحقوق الملكية الفكرية، حيث توفر الـ NFTs إثباتًا فريدًا للملكية والتحقق.</p><p>ستكون المشاريع التي تركز على تقديم قيمة حقيقية وفائدة عملية للمستخدمين هي الأكثر قدرة على البقاء والازدهار في هذا المشهد المتطور، بعيدًا عن الضجيج الأولي.</p><h2 id='s4'>الـ NFTs في عام 2026: فرصة للمستثمر الذكي؟</h2><p>لن تكون الـ NFTs في عام 2026 مجرد صور رقمية باهظة الثمن، بل ستكون جزءًا لا يتجزأ من البنية التحتية الرقمية، مدعومة بحالات استخدام قوية. قد لا تعود الأسعار إلى مستويات الذروة السابقة، لكن السوق سيصبح أكثر استقرارًا ونضجًا.</p><p>المستثمرون الذين يركزون على المشاريع ذات الأسس القوية والمنفعة الواضحة، ويفهمون المخاطر المرتبطة بالاستثمار في الأصول الرقمية، قد يجدون فرصًا مجدية في هذا السوق المتط��ر.</p>",
     "contentEn": "<h2 id='s1'>Introduction: From Hype to Reality?</h2><p>Non-Fungible Tokens (NFTs) experienced an immense boom in recent years, with digital art and collectibles selling for millions of dollars, attracting both investors and enthusiasts. However, this momentum has significantly slowed, raising questions about their sustainability.</p><h2 id='s2'>Current Challenges and a Maturing Market</h2><p>Following their peak in 2021-2022, the NFT market witnessed a sharp correction, with significant drops in trading volumes and prices. Issues like scams, market inflation, and high gas fees have eroded investor confidence, leading many to question their intrinsic value.</p><h2 id='s3'>Evolving Towards Utility and Real Value</h2><p>By 2026, the focus of NFTs is likely to shift from pure artistic speculation to applications with real utility. These applications could include uses in gaming, digital real estate, identity management, and intellectual property rights, where NFTs provide unique proof of ownership and verification.</p><p>Projects concentrating on delivering genuine value and practical benefits to users will be the most capable of surviving and thriving in this evolving landscape, moving beyond initial hype.</p><h2 id='s4'>NFTs in 2026: An Opportunity for the Smart Investor?</h2><p>NFTs in 2026 will not merely be expensive digital images but will be an integral part of digital infrastructure, supported by strong use cases. While prices may not return to previous peak levels, the market will become more stable and mature.</p><p>Investors who focus on projects with strong fundamentals and clear utility, and who understand the risks associated with investing in digital assets, may find worthwhile opportunities in this evolving market.</p>"
+  },
+  {
+    "id": 186,
+    "slug": "index-funds-the-simplest-way-to-invest",
+    "title": "صناديق المؤشرات: أبسط طريقة للاستثمار",
+    "titleEn": "Index Funds: The Simplest Way to Invest",
+    "summary": "صناديق المؤشرات توفر طريقة مبسطة وفعالة للاستثمار في السوق بالكامل بأقل تكاليف ومجهود.",
+    "summaryEn": "Index funds offer a simple and efficient way to invest in the entire market with minimal costs and effort.",
+    "excerpt": "تُعد صناديق المؤشرات خيارًا ممتازًا للمستثمرين الذين يبحثون عن تنويع محفظتهم بتكاليف منخفضة ودون الحاجة لخبرة كبيرة.",
+    "excerptEn": "Index funds are an excellent option for investors seeking diversified portfolios at low costs without requiring extensive expertise.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "28 أكتوبر 2026",
+    "dateEn": "October 28, 2026",
+    "dateISO": "2026-10-28",
+    "readTime": "9",
+    "views": "5338",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article186.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هي صناديق المؤشرات؟"
+      },
+      {
+        "id": "s2",
+        "text": "لماذا تختار صناديق المؤشرات؟"
+      },
+      {
+        "id": "s3",
+        "text": "كيف تعمل صناديق المؤشرات؟"
+      },
+      {
+        "id": "s4",
+        "text": "أبسط طريقة للاستثمار"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What are Index Funds?"
+      },
+      {
+        "id": "s2",
+        "text": "Why Choose Index Funds?"
+      },
+      {
+        "id": "s3",
+        "text": "How Do Index Funds Work?"
+      },
+      {
+        "id": "s4",
+        "text": "The Simplest Way to Invest"
+      }
+    ],
+    "related": [
+      51
+    ],
+    "content": "<h2 id='s1'>ما هي صناديق المؤشرات؟</h2><p>ص��اديق المؤشرات هي أدوات استثمارية تهدف إلى محاكاة أداء مؤشر سوق معين، مثل مؤشر S&P 500 أو مؤشر سوق الأسهم السعودي. بدلاً من اختيار الأسهم الفردية، تستثمر هذه الصناديق في جميع الأوراق المالية المكونة للمؤشر بنفس النسب تقريبًا.</p><p>هذا يعني أنك عندما تستثمر في صندوق مؤشرات، فإنك تشتري فعليًا جزءًا صغيرًا من كل شركة داخل ذلك المؤشر، مما يوفر لك تعرضًا واسعًا للسوق.</p><h2 id='s2'>لماذا تختار صناديق المؤشرات؟</h2><p>السبب الرئيسي لاختيار صناديق المؤشرات يكمن في بساطتها وفعاليتها. إنها توفر تنويعًا فوريًا لمحفظتك، حيث توزع استثماراتك عبر العديد من الشركات والقطاعات، مما يقلل من المخاطر المرتبطة بالاستثمار في سهم واحد.</p><p>كما تتميز بتكاليفها المنخفضة جدًا مقارنة بالصناديق المدارة بنشاط، نظرًا لعدم حاجتها لمديري محافظ يديرون عمليات الشراء والبيع بشكل مستمر.</p><h2 id='s3'>كيف تعمل صناديق المؤشرات؟</h2><p>تعمل صناديق المؤشرات بناءً على استراتيجية استثمار سلبية. بدلاً من محاولة التفوق على السوق، فإنها تهدف ببساطة إلى مطابقة أداء مؤشر مرجعي. يقوم مديرو الصناديق بتعديل مكونات الصندوق بشكل دوري لتعكس التغيرات في المؤشر الأصلي.</p><p>هذا النهج يلغي الحاجة إلى البحث المكثف وتحليل الشركات، مما يقلل من النفقات التشغيلية ويجعلها خيارًا جذابًا للمستثمرين الذين يفضلون عدم التدخل.</p><h2 id='s4'>أبسط طريقة للاستثمار</h2><p>بالنظر إلى ما سبق، تُعد صناديق المؤشرات بحق أبسط طريقة للاستثمار. إنها تسمح للمستثمرين المبتدئين وذوي الخبرة على حد سواء بالوصول إلى عوائد السوق التاريخية دون الحاجة إلى قضاء ساعات في البحث أو القلق بشأن اختيار الأسهم ال��ردية.</p><p>توفر هذه الصناديق مسارًا واضحًا وفعالًا لبناء الثروة على المدى الطويل، مما يجعلها خيارًا مثاليًا لمن يبحث عن استثمار سهل وموثوق.</p>",
+    "contentEn": "<h2 id='s1'>What are Index Funds?</h2><p>Index funds are investment vehicles designed to replicate the performance of a specific market index, such as the S&P 500 or the Saudi Stock Market Index. Instead of selecting individual stocks, these funds invest in all the securities comprising the index in roughly the same proportions.</p><p>This means that when you invest in an index fund, you are effectively buying a small piece of every company within that index, providing you with broad market exposure.</p><h2 id='s2'>Why Choose Index Funds?</h2><p>The primary reason to choose index funds lies in their simplicity and effectiveness. They offer instant diversification for your portfolio, spreading your investments across numerous companies and sectors, which reduces the risks associated with investing in a single stock.</p><p>They also feature very low costs compared to actively managed funds, as they do not require portfolio managers to constantly manage buying and selling operations.</p><h2 id='s3'>How Do Index Funds Work?</h2><p>Index funds operate based on a passive investment strategy. Instead of trying to outperform the market, they simply aim to match the performance of a benchmark index. Fund managers periodically adjust the fund's components to reflect changes in the original index.</p><p>This approach eliminates the need for extensive research and company analysis, reducing operational expenses and making them an attractive option for hands-off investors.</p><h2 id='s4'>The Simplest Way to Invest</h2><p>Given the above, index funds are truly the simplest way to invest. They allow both novice and experienced investors to access historical market returns without spending hours on research or worrying about individual stock selection.</p><p>These funds provide a clear and efficient path to long-term wealth building, making them an ideal choice for anyone seeking an easy and reliable investment.</p>"
   }
 ];
 

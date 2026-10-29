@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-28
-// Total articles: 186
+// Last updated: 2026-10-29
+// Total articles: 187
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -13437,6 +13437,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هي صناديق المؤشرات؟</h2><p>ص��اديق المؤشرات هي أدوات استثمارية تهدف إلى محاكاة أداء مؤشر سوق معين، مثل مؤشر S&P 500 أو مؤشر سوق الأسهم السعودي. بدلاً من اختيار الأسهم الفردية، تستثمر هذه الصناديق في جميع الأوراق المالية المكونة للمؤشر بنفس النسب تقريبًا.</p><p>هذا يعني أنك عندما تستثمر في صندوق مؤشرات، فإنك تشتري فعليًا جزءًا صغيرًا من كل شركة داخل ذلك المؤشر، مما يوفر لك تعرضًا واسعًا للسوق.</p><h2 id='s2'>لماذا تختار صناديق المؤشرات؟</h2><p>السبب الرئيسي لاختيار صناديق المؤشرات يكمن في بساطتها وفعاليتها. إنها توفر تنويعًا فوريًا لمحفظتك، حيث توزع استثماراتك عبر العديد من الشركات والقطاعات، مما يقلل من المخاطر المرتبطة بالاستثمار في سهم واحد.</p><p>كما تتميز بتكاليفها المنخفضة جدًا مقارنة بالصناديق المدارة بنشاط، نظرًا لعدم حاجتها لمديري محافظ يديرون عمليات الشراء والبيع بشكل مستمر.</p><h2 id='s3'>كيف تعمل صناديق المؤشرات؟</h2><p>تعمل صناديق المؤشرات بناءً على استراتيجية استثمار سلبية. بدلاً من محاولة التفوق على السوق، فإنها تهدف ببساطة إلى مطابقة أداء مؤشر مرجعي. يقوم مديرو الصناديق بتعديل مكونات الصندوق بشكل دوري لتعكس التغيرات في المؤشر الأصلي.</p><p>هذا النهج يلغي الحاجة إلى البحث المكثف وتحليل الشركات، مما يقلل من النفقات التشغيلية ويجعلها خيارًا جذابًا للمستثمرين الذين يفضلون عدم التدخل.</p><h2 id='s4'>أبسط طريقة للاستثمار</h2><p>بالنظر إلى ما سبق، تُعد صناديق المؤشرات بحق أبسط طريقة للاستثمار. إنها تسمح للمستثمرين المبتدئين وذوي الخبرة على حد سواء بالوصول إلى عوائد السوق التاريخية دون الحاجة إلى قضاء ساعات في البحث أو القلق بشأن اختيار الأسهم ال��ردية.</p><p>توفر هذه الصناديق مسارًا واضحًا وفعالًا لبناء الثروة على المدى الطويل، مما يجعلها خيارًا مثاليًا لمن يبحث عن استثمار سهل وموثوق.</p>",
     "contentEn": "<h2 id='s1'>What are Index Funds?</h2><p>Index funds are investment vehicles designed to replicate the performance of a specific market index, such as the S&P 500 or the Saudi Stock Market Index. Instead of selecting individual stocks, these funds invest in all the securities comprising the index in roughly the same proportions.</p><p>This means that when you invest in an index fund, you are effectively buying a small piece of every company within that index, providing you with broad market exposure.</p><h2 id='s2'>Why Choose Index Funds?</h2><p>The primary reason to choose index funds lies in their simplicity and effectiveness. They offer instant diversification for your portfolio, spreading your investments across numerous companies and sectors, which reduces the risks associated with investing in a single stock.</p><p>They also feature very low costs compared to actively managed funds, as they do not require portfolio managers to constantly manage buying and selling operations.</p><h2 id='s3'>How Do Index Funds Work?</h2><p>Index funds operate based on a passive investment strategy. Instead of trying to outperform the market, they simply aim to match the performance of a benchmark index. Fund managers periodically adjust the fund's components to reflect changes in the original index.</p><p>This approach eliminates the need for extensive research and company analysis, reducing operational expenses and making them an attractive option for hands-off investors.</p><h2 id='s4'>The Simplest Way to Invest</h2><p>Given the above, index funds are truly the simplest way to invest. They allow both novice and experienced investors to access historical market returns without spending hours on research or worrying about individual stock selection.</p><p>These funds provide a clear and efficient path to long-term wealth building, making them an ideal choice for anyone seeking an easy and reliable investment.</p>"
+  },
+  {
+    "id": 187,
+    "slug": "how-to-read-company-financial-statements",
+    "title": "كيف تقرأ القوائم المالية للشركات",
+    "titleEn": "How to Read Company Financial Statements",
+    "summary": "تعلم قراءة القوائم المالية الأساسية للشركات – قائمة الدخل، الميزانية العمومية، وقائمة التدفقات النقدية – أمر حيوي للمستثمرين لتقييم الأداء المالي واتخاذ قرارات استثمارية مستنيرة.",
+    "summaryEn": "Learning to read a company's core financial statements – the Income Statement, Balance Sheet, and Cash Flow Statement – is vital for investors to assess financial performance and make informed investment decisions.",
+    "excerpt": "هذا الدليل الموجز يقدم لك المفاتيح الأساسية لفهم القوائم المالية وكيفية استخدامها لتحليل صحة أي شركة مالياً.",
+    "excerptEn": "This concise guide provides you with the essential keys to understanding financial statements and how to use them to analyze any company's financial health.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "29 أكتوبر 2026",
+    "dateEn": "October 29, 2026",
+    "dateISO": "2026-10-29",
+    "readTime": "10",
+    "views": "1735",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article187.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: أهمية القوائم المالية"
+      },
+      {
+        "id": "s2",
+        "text": "قائمة الدخل (بيان الأرباح والخسائر)"
+      },
+      {
+        "id": "s3",
+        "text": "الميزانية العمومية (قائمة المركز المالي)"
+      },
+      {
+        "id": "s4",
+        "text": "قائمة التدفقات النقدية"
+      },
+      {
+        "id": "s5",
+        "text": "نصائح إضافية لقراءة فعالة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: Importance of Financial Statements"
+      },
+      {
+        "id": "s2",
+        "text": "Income Statement (Profit and Loss Statement)"
+      },
+      {
+        "id": "s3",
+        "text": "Balance Sheet (Statement of Financial Position)"
+      },
+      {
+        "id": "s4",
+        "text": "Cash Flow Statement"
+      },
+      {
+        "id": "s5",
+        "text": "Additional Tips for Effective Reading"
+      }
+    ],
+    "related": [
+      147
+    ],
+    "content": "<h2 id='s1'>مقدمة: أهمية القوائم المالية</h2><p>تعتبر القوائم المالية بمثابة مرآة تعكس أداء الشركة ووضعها المالي، وهي أدوات لا غنى عنها للمستثمرين لاتخاذ قرارات استثمارية مستنيرة. فهم هذه القوائم يمكنك من تقييم ربحية الشركة، سيولتها، وملاءتها المالية.</p><p>إن القدرة على قراءة هذه البيانات وتحليلها تمكنك من تحديد الشركات الواعدة وتجنب تلك التي قد تواجه صعوبات مالية، مما يعزز فرص نجاح استثماراتك.</p><h2 id='s2'>قائمة الدخل (بيان الأرباح والخسائر)</h2><p>توضح قائمة الدخل إيرادات الشركة ومصروفاتها وصافي ربحها أو خسارتها خلال فترة زمنية محددة، مثل ربع سنة أو سنة مالية. هي تركز على الأداء التشغيلي للشركة وقدرتها ع��ى تحقيق الأرباح من عملياتها الأساسية.</p><p>من خلالها، يمكنك تتبع نمو الإيرادات، تكلفة البضاعة المباعة، المصاريف التشغيلية، وصافي الربح، مما يعطي صورة واضحة عن مدى كفاءة الشركة في إدارة عملياتها.</p><h2 id='s3'>الميزانية العمومية (قائمة المركز المالي)</h2><p>تقدم الميزانية العمومية لمحة عن أصول الشركة وخصومها وحقوق الملكية في نقطة زمنية محددة. إنها تُظهر ما تملكه الشركة (الأصول)، وما تدين به (الخصوم)، وما يتبقى للملاك (حقوق الملكية).</p><p>تكشف هذه القائمة عن الهيكل المالي للشركة وقدرتها على سداد التزاماتها قصيرة وطويلة الأجل، وتقدم نظرة على مصادر تمويل الشركة وكيفية استخدامها لتلك الأموال.</p><h2 id='s4'>قائمة التدفقات النقدية</h2><p>تبين قائمة التدفقات النقدية كيفية تدفق النقد داخل وخارج الشركة من الأنشطة التشغيلية، الاستثمارية، والتمويلية خلال فترة محددة. هي حاسمة لتقييم السيولة والملاءة المالية للشركة.</p><p>تُظهر هذه القائمة ما إذا كانت الشركة تولد ما يكفي من النقد من عملياتها الأساسية، وكيف تستخدم النقد للاستثمار في النمو أو لسداد الديون وتوزيع الأرباح، مما يوفر رؤية أعمق للصحة النقدية للشركة.</p><h2 id='s5'>نصائح إضافية لقراءة فعالة</h2><p>للحصول على رؤية أعمق، لا تكتفِ بقراءة قائمة واحدة؛ قارن القوائم المالية لفترات متعددة لتحديد الاتجاهات، وقارنها أيضًا بشركات مماثلة في الصناعة لتقييم الأداء النسبي. انتبه جيدًا للملاحظات التوضيحية المرفقة بالقوائم، فهي تقدم تفاصيل هامة وشروحات للبنود المالية.</p><p>استخدم النسب المالية لتحليل القوائم بشكل أعمق، مثل نسبة الربحية، السيولة، والديون، فهي توفر مقاييس موحدة تساعد في فهم أفضل لأداء الشركة ومخاطرها.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: Importance of Financial Statements</h2><p>Financial statements serve as a mirror reflecting a company's performance and financial position, essential tools for investors to make informed investment decisions. Understanding these statements enables you to assess a company's profitability, liquidity, and solvency.</p><p>The ability to read and analyze this data empowers you to identify promising companies and avoid those that may face financial difficulties, thereby enhancing your investment success.</p><h2 id='s2'>Income Statement (Profit and Loss Statement)</h2><p>The income statement details a company's revenues, expenses, and net profit or loss over a specific period, such as a quarter or a fiscal year. It focuses on the company's operational performance and its ability to generate profits from its core activities.</p><p>Through it, you can track revenue growth, cost of goods sold, operating expenses, and net profit, providing a clear picture of how efficiently the company manages its operations.</p><h2 id='s3'>Balance Sheet (Statement of Financial Position)</h2><p>The balance sheet offers a snapshot of a company's assets, liabilities, and equity at a specific point in time. It shows what the company owns (assets), what it owes (liabilities), and what remains for the owners (equity).</p><p>This statement reveals the company's financial structure and its ability to meet short-term and long-term obligations, offering insight into the company's funding sources and how those funds are utilized.</p><h2 id='s4'>Cash Flow Statement</h2><p>The cash flow statement illustrates how cash flows in and out of the company from operating, investing, and financing activities over a defined period. It is crucial for assessing the company's liquidity and solvency.</p><p>This statement shows whether the company generates sufficient cash from its core operations, and how it uses cash for growth investments, debt repayment, or dividend distribution, providing a deeper insight into the company's cash health.</p><h2 id='s5'>Additional Tips for Effective Reading</h2><p>For deeper insight, don't just read one statement; compare financial statements across multiple periods to identify trends, and also compare them with similar companies in the industry to assess relative performance. Pay close attention to the explanatory notes accompanying the statements, as they provide vital details and clarifications for financial items.</p><p>Utilize financial ratios for a more in-depth analysis of the statements, such as profitability, liquidity, and debt ratios, as they provide standardized metrics that help in better understanding the company's performance and risks.</p>"
   }
 ];
 

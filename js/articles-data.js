@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-30
-// Total articles: 188
+// Last updated: 2026-10-31
+// Total articles: 189
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -13583,6 +13583,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>لماذا الاستثمار في الذات؟</h2><p>في عالم مليء بالفرص والتحديات، يبرز الاستثمار في نفسك كأهم وأذكى قرار مالي يمكن أن تتخذه. فهو ليس مجرد إنفاق، بل هو بناء رأس مال بشري يعود عليك بفوائد لا تضاهيها أي استثمارات مادية أخرى.</p><p>هذا النوع من الاستثمار يضمن لك النمو المستمر، ويفتح لك آفاقًا جديدة، ويحميك من تقلبات السوق، ويمنحك مرونة وقدرة على التكيف مع المتغيرات.</p><h2 id='s2'>أشكال الاستثمار في نفسك</h2><p>يتخذ الاستثمار في الذات أشكالاً متعددة. يشمل ذلك التعليم المستمر وتطوير المهارات الجديدة، سواء كان ذلك من خلال الدورات التدريبية، القراءة، أو حتى التعلم الذاتي عبر الإنترنت. كما يتضمن العناية بالصحة الجسدية والعقلية، فهما أساس أي إنتاجية أو إبداع.</p><p>لا تنسَ أيضًا بناء شبكة علاقات قوية وتوسيع معارفك، فهذا يفتح لك أبوابًا للتعاون والفرص التي قد لا تج��ها بمفردك.</p><h2 id='s3'>العوائد طويلة الأجل</h2><p>عوائد الاستثمار في نفسك تتجاوز بكثير المكاسب المالية المباشرة. فمع تحسين مهاراتك، تزداد فرصك للحصول على وظائف أفضل، ترقيات، وزيادة في الدخل.</p><p>على الصعيد الشخصي، يعزز هذا الاستثمار ثقتك بنفسك، ويحسن جودة حياتك، ويمنحك شعورًا بالإنجاز والرضا، مما يؤثر إيجابًا على سعادتك ورفاهيتك بشكل عام.</p><h2 id='s4'>كيف تبدأ رحلة الاستثمار في ذاتك؟</h2><p>ابدأ بتحديد المجالات التي تحتاج إلى تطويرها أو التي تثير اهتمامك. ضع خطة واضحة تتضمن أهدافًا قابلة للتحقيق، سواء كانت تعلم لغة جديدة، اكتساب مهارة تقنية، أو تحسين لياقتك البدنية.</p><p>خصص وقتًا وموارد بانتظام لهذا الغرض، وتذكر أن الاستمرارية هي مفتاح النجاح. كل خطوة صغيرة هي استثمار يضيف قيمة كبيرة لمستقبلك.</p>",
     "contentEn": "<h2 id='s1'>Why Invest in Yourself?</h2><p>In a world full of opportunities and challenges, investing in yourself stands out as the most important and smartest financial decision you can make. It's not just spending; it's building human capital that yields benefits unmatched by any other material investments.</p><p>This type of investment ensures continuous growth, opens new horizons, protects you from market fluctuations, and grants you flexibility and adaptability to changes.</p><h2 id='s2'>Forms of Investing in Yourself</h2><p>Self-investment takes many forms. This includes continuous education and developing new skills, whether through training courses, reading, or even self-learning online. It also encompasses caring for physical and mental health, which are fundamental to any productivity or creativity.</p><p>Don't forget to build a strong network of relationships and expand your acquaintances, as this opens doors to collaboration and opportunities you might not find alone.</p><h2 id='s3'>Long-Term Returns</h2><p>The returns from investing in yourself far exceed direct financial gains. As your skills improve, your chances of securing better jobs, promotions, and increased income grow significantly.</p><p>On a personal level, this investment boosts your self-confidence, improves your quality of life, and gives you a sense of accomplishment and satisfaction, positively impacting your overall happiness and well-being.</p><h2 id='s4'>How to Start Your Self-Investment Journey?</h2><p>Begin by identifying areas you need to develop or that pique your interest. Create a clear plan with achievable goals, whether learning a new language, acquiring a technical skill, or improving your physical fitness.</p><p>Allocate time and resources regularly for this purpose, and remember that consistency is key to success. Every small step is an investment that adds significant value to your future.</p>"
+  },
+  {
+    "id": 189,
+    "slug": "how-to-buy-gold-bars-in-saudi-arabia",
+    "title": "كيف تشتري سبائك ذهب في السعودية",
+    "titleEn": "How to Buy Gold Bars in Saudi Arabia",
+    "summary": "يقدم هذا الدليل خطوات أساسية لشراء سبائك الذهب في السعودية، من تحديد أماكن البيع الموثوقة إلى نصائح التخزين الآمن.",
+    "summaryEn": "This guide provides essential steps for buying gold bars in Saudi Arabia, from identifying reputable vendors to secure storage tips.",
+    "excerpt": "استكشف الدليل الشامل لشراء سبائك الذهب في السعودية، مع التركيز على الأمان والأصالة.",
+    "excerptEn": "Explore a comprehensive guide to buying gold bars in Saudi Arabia, focusing on security and authenticity.",
+    "category": "الذهب والمعادن",
+    "categoryEn": "Gold & Metals",
+    "categoryIcon": "🧸",
+    "author": "فاطمة الشهري",
+    "authorEn": "Fatima Al-Shahri",
+    "authorInitial": "F",
+    "date": "31 أكتوبر 2026",
+    "dateEn": "October 31, 2026",
+    "dateISO": "2026-10-31",
+    "readTime": "9",
+    "views": "2910",
+    "emoji": "🧸",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article189.jpg",
+    "featured": false,
+    "breadcrumb": "الذهب والمعادن",
+    "breadcrumbEn": "Gold & Metals",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "لماذا الاستثمار في الذهب؟"
+      },
+      {
+        "id": "s2",
+        "text": "أين تشتري سبائك الذهب في السعودية؟"
+      },
+      {
+        "id": "s3",
+        "text": "ماذا يجب مراعاته قبل الشراء؟"
+      },
+      {
+        "id": "s4",
+        "text": "التخزين والأمان"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Why Invest in Gold?"
+      },
+      {
+        "id": "s2",
+        "text": "Where to Buy Gold Bars in Saudi Arabia?"
+      },
+      {
+        "id": "s3",
+        "text": "What to Consider Before Buying?"
+      },
+      {
+        "id": "s4",
+        "text": "Storage and Security"
+      }
+    ],
+    "related": [
+      30
+    ],
+    "content": "<h2 id='s1'>لماذا الاستثمار في الذهب؟</h2><p>الذهب ملاذ آمن تقليديًا ضد التضخم وتقلبات السوق، ويُعتبر وسيلة ممتازة للحفاظ على القيمة على المدى الطويل. يفضل المستثمرون سبائك الذهب لقيمتها الجوهرية وسهولة تداولها.</p><h2 id='s2'>أين تشتري سبائك الذهب في السعودية؟</h2><p>يمكن شراء سبائك الذهب من تجار الذهب المعتمدين والموثوقين في المدن الكبرى مثل الرياض وجدة والدمام. كما توفر بعض البنوك الكبرى وشركات الاستثمار هذه الخدمة.</p><p>تأكد دائمًا من التعامل مع جهات ذات سمعة جيدة تقدم شهادات أصالة للسبائك لضمان جودة استثمارك.</p><h2 id='s3'>ماذا يجب مراعاته قبل الشراء؟</h2><p>قبل الشراء، قارن الأسعار بين عدة بائعين وتأكد من فهمك لرسوم التصنيع والضرائب إن وجدت. تحقق من نقاوة الذهب (عادة 999.9) ووزن السبيكة.</p><p>اطلب فاتورة مفصلة وشهادة أصالة لضمان جودة استثمارك وحقوقك كمشترٍ، وتجنب الشراء من مصادر غير موثوقة.</p><h2 id='s4'>التخزين والأمان</h2><p>بعد الشراء، فكر في خيارات التخزين الآمنة. يمكنك الاحتفاظ بالسبائك في خزنة منزلية آمنة أو استئجار صندوق ودائع آمن في أحد البنوك.</p><p>التخزين الاحترافي يوفر حماية أكبر ضد السرقة أو الضياع، ويمنحك راحة البال، خاصةً للكميات الكبيرة من الذهب.</p>",
+    "contentEn": "<h2 id='s1'>Why Invest in Gold?</h2><p>Gold has traditionally been a safe haven against inflation and market volatility, making it an excellent way to preserve value long-term. Investors prefer gold bars for their intrinsic value and ease of trading.</p><h2 id='s2'>Where to Buy Gold Bars in Saudi Arabia?</h2><p>Gold bars can be purchased from authorized and reputable gold dealers in major cities like Riyadh, Jeddah, and Dammam. Some major banks and investment firms also offer this service.</p><p>Always ensure you deal with well-reputed entities that provide certificates of authenticity for the bars to guarantee the quality of your investment.</p><h2 id='s3'>What to Consider Before Buying?</h2><p>Before purchasing, compare prices among several sellers and ensure you understand any manufacturing fees and taxes. Verify the gold's purity (typically 999.9) and the bar's weight.</p><p>Request a detailed invoice and a certificate of authenticity to guarantee the quality of your investment and your rights as a buyer, avoiding purchases from unreliable sources.</p><h2 id='s4'>Storage and Security</h2><p>After purchasing, consider secure storage options. You can keep the bars in a secure home safe or rent a safe deposit box at a bank.</p><p>Professional storage offers greater protection against theft or loss, providing you with peace of mind, especially for larger quantities of gold.</p>"
   }
 ];
 

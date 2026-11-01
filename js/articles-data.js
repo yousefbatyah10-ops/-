@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-10-31
-// Total articles: 189
+// Last updated: 2026-11-01
+// Total articles: 190
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -13652,6 +13652,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>لماذا الاستثمار في الذهب؟</h2><p>الذهب ملاذ آمن تقليديًا ضد التضخم وتقلبات السوق، ويُعتبر وسيلة ممتازة للحفاظ على القيمة على المدى الطويل. يفضل المستثمرون سبائك الذهب لقيمتها الجوهرية وسهولة تداولها.</p><h2 id='s2'>أين تشتري سبائك الذهب في السعودية؟</h2><p>يمكن شراء سبائك الذهب من تجار الذهب المعتمدين والموثوقين في المدن الكبرى مثل الرياض وجدة والدمام. كما توفر بعض البنوك الكبرى وشركات الاستثمار هذه الخدمة.</p><p>تأكد دائمًا من التعامل مع جهات ذات سمعة جيدة تقدم شهادات أصالة للسبائك لضمان جودة استثمارك.</p><h2 id='s3'>ماذا يجب مراعاته قبل الشراء؟</h2><p>قبل الشراء، قارن الأسعار بين عدة بائعين وتأكد من فهمك لرسوم التصنيع والضرائب إن وجدت. تحقق من نقاوة الذهب (عادة 999.9) ووزن السبيكة.</p><p>اطلب فاتورة مفصلة وشهادة أصالة لضمان جودة استثمارك وحقوقك كمشترٍ، وتجنب الشراء من مصادر غير موثوقة.</p><h2 id='s4'>التخزين والأمان</h2><p>بعد الشراء، فكر في خيارات التخزين الآمنة. يمكنك الاحتفاظ بالسبائك في خزنة منزلية آمنة أو استئجار صندوق ودائع آمن في أحد البنوك.</p><p>التخزين الاحترافي يوفر حماية أكبر ضد السرقة أو الضياع، ويمنحك راحة البال، خاصةً للكميات الكبيرة من الذهب.</p>",
     "contentEn": "<h2 id='s1'>Why Invest in Gold?</h2><p>Gold has traditionally been a safe haven against inflation and market volatility, making it an excellent way to preserve value long-term. Investors prefer gold bars for their intrinsic value and ease of trading.</p><h2 id='s2'>Where to Buy Gold Bars in Saudi Arabia?</h2><p>Gold bars can be purchased from authorized and reputable gold dealers in major cities like Riyadh, Jeddah, and Dammam. Some major banks and investment firms also offer this service.</p><p>Always ensure you deal with well-reputed entities that provide certificates of authenticity for the bars to guarantee the quality of your investment.</p><h2 id='s3'>What to Consider Before Buying?</h2><p>Before purchasing, compare prices among several sellers and ensure you understand any manufacturing fees and taxes. Verify the gold's purity (typically 999.9) and the bar's weight.</p><p>Request a detailed invoice and a certificate of authenticity to guarantee the quality of your investment and your rights as a buyer, avoiding purchases from unreliable sources.</p><h2 id='s4'>Storage and Security</h2><p>After purchasing, consider secure storage options. You can keep the bars in a secure home safe or rent a safe deposit box at a bank.</p><p>Professional storage offers greater protection against theft or loss, providing you with peace of mind, especially for larger quantities of gold.</p>"
+  },
+  {
+    "id": 190,
+    "slug": "how-to-eliminate-debt-permanently",
+    "title": "كيف تتخلص من الديون نهائياً",
+    "titleEn": "How to Eliminate Debt Permanently",
+    "summary": "دليل شامل للتخلص من الديون نهائياً يبدأ بفهمها وينتهي بالانضباط المالي لبناء مستقبل خالٍ من الأعباء.",
+    "summaryEn": "A comprehensive guide to permanently eliminating debt, starting with understanding it and ending with financial discipline to build a burden-free future.",
+    "excerpt": "تعلم الخطوات الأساسية للتخلص من الديون، من تصنيفها ووضع الميزانية إلى اختيار استراتيجية السداد الفعالة والحفاظ على الانضباط المالي.",
+    "excerptEn": "Learn the essential steps to get rid of debt, from categorizing it and budgeting to choosing an effective repayment strategy and maintaining financial discipline.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "1 نوفمبر 2026",
+    "dateEn": "November 1, 2026",
+    "dateISO": "2026-11-01",
+    "readTime": "10",
+    "views": "4005",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article190.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "فهم ديونك وتصنيفها"
+      },
+      {
+        "id": "s2",
+        "text": "إنشاء ميزانية صارمة"
+      },
+      {
+        "id": "s3",
+        "text": "اختيار استراتيجية السداد الفعالة"
+      },
+      {
+        "id": "s4",
+        "text": "زيادة الدخل وتقليل النفقات"
+      },
+      {
+        "id": "s5",
+        "text": "الالتزام والانضباط المالي"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Understand and Categorize Your Debts"
+      },
+      {
+        "id": "s2",
+        "text": "Create a Strict Budget"
+      },
+      {
+        "id": "s3",
+        "text": "Choose an Effective Repayment Strategy"
+      },
+      {
+        "id": "s4",
+        "text": "Increase Income and Reduce Expenses"
+      },
+      {
+        "id": "s5",
+        "text": "Commitment and Financial Discipline"
+      }
+    ],
+    "related": [
+      74
+    ],
+    "content": "<h2 id='s1'>فهم ديونك وتصنيفها</h2><p>الخطوة الأولى للتخلص من الديون هي معرفة حجمها وتفاصيلها. قم بجمع كل فواتير الديون، بما في ذلك بطاقات الائتمان والقروض الشخصية والرهون العقارية.</p><p>صنف ديونك حسب سعر الفائدة والمبلغ المستحق، فهذا سيساعدك على تحديد الأولويات في خطة السداد.</p><h2 id='s2'>إنشاء ميزانية صارمة</h2><p>لتحرير الأموال اللازمة لسداد الديون، يجب عليك وضع ميزانية مفصلة. سجل جميع مصادر دخلك ونفقاتك الشهرية بدقة.</p><p>ابحث عن المجالات التي يمكنك تقليل الإنفاق فيها، مثل الترفيه أو تناول الطعام خارج المنزل، ووجه هذه المدخرات نحو سداد ديونك.</p><h2 id='s3'>اختيار استراتيجية السداد الفعالة</h2><p>هناك استراتيجيتان شائعتان: طريقة كرة الثلج (سداد أصغر دين أولاً) وطريقة ال��نهيار الجليدي (سداد الدين ذي الفائدة الأعلى أولاً). اختر الطريقة التي تناسبك وتحفزك.</p><p>التزم بالخطة التي تختارها وكن ثابتًا في دفعاتك، حتى لو كانت صغيرة في البداية.</p><h2 id='s4'>زيادة الدخل وتقليل النفقات</h2><p>فكر في طرق لزيادة دخلك، مثل العمل الحر أو بيع الأغراض غير الضرورية. كل مبلغ إضافي يمكن أن يسرع عملية التخلص من الديون.</p><p>بالتوازي، استمر في البحث عن فرص لخفض نفقاتك اليومية والشهرية، مثل إعادة التفاوض على الفواتير أو تقليل الاشتراكات غير الأساسية.</p><h2 id='s5'>الالتزام والانضباط المالي</h2><p>التخلص من الديون يتطلب صبرًا والتزامًا طويل الأمد. ضع أهدافًا واضحة وتتبع تقدمك بانتظام للحفاظ على حماسك.</p><p>بعد سداد الديون، استمر في تطبيق المبادئ المالية السليمة لتجنب الوقوع في فخ الديون مرة أخرى، وابنِ صندوق طوارئ قويًا.</p>",
+    "contentEn": "<h2 id='s1'>Understand and Categorize Your Debts</h2><p>The first step to getting rid of debt is knowing its size and details. Gather all debt statements, including credit cards, personal loans, and mortgages.</p><p>Categorize your debts by interest rate and amount due; this will help you prioritize your repayment plan.</p><h2 id='s2'>Create a Strict Budget</h2><p>To free up money for debt repayment, you must create a detailed budget. Accurately record all your monthly income sources and expenses.</p><p>Look for areas where you can reduce spending, such as entertainment or dining out, and direct these savings towards paying off your debts.</p><h2 id='s3'>Choose an Effective Repayment Strategy</h2><p>Two common strategies are the Debt Snowball (paying off the smallest debt first) and the Debt Avalanche (paying off the highest interest debt first). Choose the method that suits and motivates you.</p><p>Stick to your chosen plan and be consistent with your payments, even if they are small initially.</p><h2 id='s4'>Increase Income and Reduce Expenses</h2><p>Consider ways to increase your income, such as freelancing or selling unnecessary items. Every extra amount can accelerate the debt elimination process.</p><p>In parallel, continue to look for opportunities to cut your daily and monthly expenses, such as renegotiating bills or reducing non-essential subscriptions.</p><h2 id='s5'>Commitment and Financial Discipline</h2><p>Getting rid of debt requires patience and long-term commitment. Set clear goals and track your progress regularly to maintain your motivation.</p><p>After paying off your debts, continue to apply sound financial principles to avoid falling back into debt, and build a strong emergency fund.</p>"
   }
 ];
 

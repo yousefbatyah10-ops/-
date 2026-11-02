@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-01
-// Total articles: 190
+// Last updated: 2026-11-02
+// Total articles: 191
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -13729,6 +13729,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>فهم ديونك وتصنيفها</h2><p>الخطوة الأولى للتخلص من الديون هي معرفة حجمها وتفاصيلها. قم بجمع كل فواتير الديون، بما في ذلك بطاقات الائتمان والقروض الشخصية والرهون العقارية.</p><p>صنف ديونك حسب سعر الفائدة والمبلغ المستحق، فهذا سيساعدك على تحديد الأولويات في خطة السداد.</p><h2 id='s2'>إنشاء ميزانية صارمة</h2><p>لتحرير الأموال اللازمة لسداد الديون، يجب عليك وضع ميزانية مفصلة. سجل جميع مصادر دخلك ونفقاتك الشهرية بدقة.</p><p>ابحث عن المجالات التي يمكنك تقليل الإنفاق فيها، مثل الترفيه أو تناول الطعام خارج المنزل، ووجه هذه المدخرات نحو سداد ديونك.</p><h2 id='s3'>اختيار استراتيجية السداد الفعالة</h2><p>هناك استراتيجيتان شائعتان: طريقة كرة الثلج (سداد أصغر دين أولاً) وطريقة ال��نهيار الجليدي (سداد الدين ذي الفائدة الأعلى أولاً). اختر الطريقة التي تناسبك وتحفزك.</p><p>التزم بالخطة التي تختارها وكن ثابتًا في دفعاتك، حتى لو كانت صغيرة في البداية.</p><h2 id='s4'>زيادة الدخل وتقليل النفقات</h2><p>فكر في طرق لزيادة دخلك، مثل العمل الحر أو بيع الأغراض غير الضرورية. كل مبلغ إضافي يمكن أن يسرع عملية التخلص من الديون.</p><p>بالتوازي، استمر في البحث عن فرص لخفض نفقاتك اليومية والشهرية، مثل إعادة التفاوض على الفواتير أو تقليل الاشتراكات غير الأساسية.</p><h2 id='s5'>الالتزام والانضباط المالي</h2><p>التخلص من الديون يتطلب صبرًا والتزامًا طويل الأمد. ضع أهدافًا واضحة وتتبع تقدمك بانتظام للحفاظ على حماسك.</p><p>بعد سداد الديون، استمر في تطبيق المبادئ المالية السليمة لتجنب الوقوع في فخ الديون مرة أخرى، وابنِ صندوق طوارئ قويًا.</p>",
     "contentEn": "<h2 id='s1'>Understand and Categorize Your Debts</h2><p>The first step to getting rid of debt is knowing its size and details. Gather all debt statements, including credit cards, personal loans, and mortgages.</p><p>Categorize your debts by interest rate and amount due; this will help you prioritize your repayment plan.</p><h2 id='s2'>Create a Strict Budget</h2><p>To free up money for debt repayment, you must create a detailed budget. Accurately record all your monthly income sources and expenses.</p><p>Look for areas where you can reduce spending, such as entertainment or dining out, and direct these savings towards paying off your debts.</p><h2 id='s3'>Choose an Effective Repayment Strategy</h2><p>Two common strategies are the Debt Snowball (paying off the smallest debt first) and the Debt Avalanche (paying off the highest interest debt first). Choose the method that suits and motivates you.</p><p>Stick to your chosen plan and be consistent with your payments, even if they are small initially.</p><h2 id='s4'>Increase Income and Reduce Expenses</h2><p>Consider ways to increase your income, such as freelancing or selling unnecessary items. Every extra amount can accelerate the debt elimination process.</p><p>In parallel, continue to look for opportunities to cut your daily and monthly expenses, such as renegotiating bills or reducing non-essential subscriptions.</p><h2 id='s5'>Commitment and Financial Discipline</h2><p>Getting rid of debt requires patience and long-term commitment. Set clear goals and track your progress regularly to maintain your motivation.</p><p>After paying off your debts, continue to apply sound financial principles to avoid falling back into debt, and build a strong emergency fund.</p>"
+  },
+  {
+    "id": 191,
+    "slug": "how-to-build-a-strong-personal-brand",
+    "title": "كيف تبني علامة تجارية شخصية قوية",
+    "titleEn": "How to Build a Strong Personal Brand",
+    "summary": "بناء علامة تجارية شخصية قوية أمر حيوي لتعزيز مسيرتك المهنية وجذب الفرص الاستثمارية، ويتطلب تحديد هويتك، بناء حضور رقمي، ومشاركة خبراتك بصدق.",
+    "summaryEn": "Building a strong personal brand is crucial for advancing your career and attracting investment opportunities, requiring you to define your identity, establish a digital presence, and authentically share your expertise.",
+    "excerpt": "اكتشف الخطوات الأساسية لبناء علامة تجارية شخصية قوية تميزك في سوق العمل والاستثمار.",
+    "excerptEn": "Discover the essential steps to build a powerful personal brand that distinguishes you in the job and investment market.",
+    "category": "ريادة الأعمال",
+    "categoryEn": "Entrepreneurship",
+    "categoryIcon": "🚀",
+    "author": "فاطمة الشهري",
+    "authorEn": "Fatima Al-Shahri",
+    "authorInitial": "F",
+    "date": "2 نوفمبر 2026",
+    "dateEn": "November 2, 2026",
+    "dateISO": "2026-11-02",
+    "readTime": "11",
+    "views": "1254",
+    "emoji": "🚀",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article191.jpg",
+    "featured": false,
+    "breadcrumb": "ريادة الأعمال",
+    "breadcrumbEn": "Entrepreneurship",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "حدد هويتك وقيمك"
+      },
+      {
+        "id": "s2",
+        "text": "ابنِ حضوراً رقمياً متسقاً"
+      },
+      {
+        "id": "s3",
+        "text": "شارك خبراتك وقدم قيمة"
+      },
+      {
+        "id": "s4",
+        "text": "ابنِ شبكة علاقات استراتيجية"
+      },
+      {
+        "id": "s5",
+        "text": "حافظ على الأصالة والمصداقية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Define Your Identity and Values"
+      },
+      {
+        "id": "s2",
+        "text": "Build a Consistent Digital Presence"
+      },
+      {
+        "id": "s3",
+        "text": "Share Your Expertise and Add Value"
+      },
+      {
+        "id": "s4",
+        "text": "Build Strategic Relationships"
+      },
+      {
+        "id": "s5",
+        "text": "Maintain Authenticity and Credibility"
+      }
+    ],
+    "related": [
+      20
+    ],
+    "content": "<h2 id='s1'>حدد هويتك وقيمك</h2><p>الخطوة الأولى هي فهم نقاط قوتك الفريدة، شغفك، والقيم التي تمثلها. اسأل نفسك: ما الذي يجعلك مختلفاً؟ وما الرسالة التي تريد إيصالها للعالم؟</p><p>تحديد هذه الجوانب الأساسية سيشكل جوهر علامتك التجارية الشخصية، ويساعدك على صياغة رؤية واضحة لما تريد أن تُعرف به في مجالك الاستثماري والمهني.</p><h2 id='s2'>ابنِ حضوراً رقمياً متسقاً</h2><p>في العصر الرقمي، تواجدك عبر الإنترنت هو واجهتك. تأكد من أن ملفاتك الشخصية على LinkedIn ومنصات التواصل الاجتماعي الأخرى تعكس صورتك المهنية بوضوح وتناسق.</p><p>استخدم صورة احترافية، وصفاً موجزاً وجذاباً، وحافظ على لهجة موحدة في كل تفاعلاتك لتعزيز رسالتك وترك انطباع دائم.</p><h2 id='s3'>شارك خبراتك وقدم قيمة</h2><p>كن ��صدراً موثوقاً للمعرفة في مجالك. اكتب مقالات، شارك تحليلات، أو شارك في نقاشات تثري مجتمع الاستثمار. هذا يبني سلطتك ويعزز مكانتك كخبير.</p><p>تقديم محتوى قيم ومفيد للآخرين لا يجذب الانتباه فحسب، بل يرسخ أيضاً تصوراً إيجابياً عنك وعن قدرتك على المساهمة بفعالية.</p><h2 id='s4'>ابنِ شبكة علاقات استراتيجية</h2><p>لا تقتصر العلامة التجارية الشخصية على ما تقوله عن نفسك، بل على ما يقوله الآخرون عنك. احضر الفعاليات، شارك في المنتديات، وتواصل مع القادة والمؤثرين في مجالك.</p><p>بناء علاقات قوية ومتبادلة المنفعة يفتح الأبواب لفرص جديدة ويعزز مصداقيتك من خلال توصيات ومراجعات الآخرين.</p><h2 id='s5'>حافظ على الأصالة والمصداقية</h2><p>الأهم من كل شيء هو أن تكون صادقاً مع نفسك ومع جمهورك. لا تحاول أن تكون شخصاً آخر. الأصال�� تبني الثقة، وهي حجر الزاوية لأي علامة تجارية قوية.</p><p>حافظ على وعودك، وكن شفافاً في تعاملاتك. المصداقية هي عملة لا تقدر بثمن في عالم الأعمال والاستثمار، وهي ما يميز العلامات التجارية الشخصية الناجحة على المدى الطويل.</p>",
+    "contentEn": "<h2 id='s1'>Define Your Identity and Values</h2><p>The first step is to understand your unique strengths, passions, and the values you represent. Ask yourself: What makes you different? What message do you want to convey to the world?</p><p>Defining these core aspects will form the essence of your personal brand, helping you articulate a clear vision of what you want to be known for in your investment and professional field.</p><h2 id='s2'>Build a Consistent Digital Presence</h2><p>In the digital age, your online presence is your storefront. Ensure your profiles on LinkedIn and other social media platforms clearly and consistently reflect your professional image.</p><p>Use a professional photo, a concise and engaging bio, and maintain a consistent tone in all your interactions to reinforce your message and leave a lasting impression.</p><h2 id='s3'>Share Your Expertise and Add Value</h2><p>Become a trusted source of knowledge in your field. Write articles, share analyses, or participate in discussions that enrich the investment community. This builds your authority and strengthens your position as an expert.</p><p>Providing valuable and useful content not only attracts attention but also solidifies a positive perception of you and your ability to contribute effectively.</p><h2 id='s4'>Build Strategic Relationships</h2><p>A personal brand is not just what you say about yourself, but what others say about you. Attend events, participate in forums, and connect with leaders and influencers in your field.</p><p>Building strong, mutually beneficial relationships opens doors to new opportunities and enhances your credibility through others' recommendations and reviews.</p><h2 id='s5'>Maintain Authenticity and Credibility</h2><p>Most importantly, be true to yourself and your audience. Don't try to be someone you're not. Authenticity builds trust, which is the cornerstone of any strong brand.</p><p>Keep your promises and be transparent in your dealings. Credibility is an invaluable currency in the world of business and investment, and it's what distinguishes successful personal brands in the long run.</p>"
   }
 ];
 

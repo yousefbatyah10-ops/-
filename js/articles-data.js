@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-03
-// Total articles: 192
+// Last updated: 2026-11-04
+// Total articles: 193
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -13875,6 +13875,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مفهوم الأراضي البيضاء وأهميتها الاستثمارية</h2><p>الأراضي البيضاء هي الأراضي غير المطورة داخل النطاق العمراني للمدن أو المخططات المعتمدة. يُعد الاستثمار فيها فرصة واعدة لتحقيق عوائد رأسمالية جيدة على المدى الطويل، خاصة مع النمو السكاني والتوسع العمراني المستمر.</p><p>تكتسب هذه الأراضي قيمتها من إمكانية تطويرها مستقبلاً لمشاريع سكنية أو تجارية أو صناعية، مما يجعلها جاذبة للمستثمرين الباحثين عن فرص نمو.</p><h2 id='s2'>مزايا الاستثمار في الأراضي البيضاء</h2><p>من أبرز مزايا الاستثمار في الأراضي البيضاء أنها توفر تحوطًا ممتازًا ضد التضخم، حيث تميل قيمتها للارتفاع بمرور الوقت. كما أن الطلب الم��زايد على الأراضي في المدن يعزز من فرص تحقيق أرباح رأسمالية مجزية عند البيع.</p><p>لا تتطلب الأراضي البيضاء صيانة مستمرة أو إدارة للمستأجرين، مما يقلل من الأعباء التشغيلية مقارنة بالاستثمار في العقارات المطورة.</p><h2 id='s3'>التحديات والمخاطر المحتملة</h2><p>على الرغم من المزايا، يواجه المستثمرون في الأراضي البيضاء تحديات مثل طول فترة الاستثمار للحصول على عوائد كبيرة. كما قد تفرض الحكومات رسومًا على الأراضي غير المطورة، مما يزيد من التكاليف.</p><p>توجد أيضًا مخاطر تتعلق بتقلبات السوق العقاري، والتغيرات في الأنظمة والتشريعات المحلية التي قد تؤثر على إمكانية التطوير أو تزيد من تكاليفه.</p><h2 id='s4'>نصائح لاستثمار ناجح</h2><p>لتحقيق استثمار ناجح، يجب إجراء بحث شامل عن الموقع، مع التركيز على المناطق ذات النمو العمراني المخطط والبنية التحتية المستقبلية. من الضروري أيضًا فهم السيولة المحتملة للأرض قبل الشراء.</p><p>ينصح بالتشاور مع خبراء عقاريين ومحامين متخصصين لتقييم الجدوى الاقتصادية والمخاطر القانونية، والتحقق من صكوك الملكية والتراخيص المطلوبة.</p>",
     "contentEn": "<h2 id='s1'>Understanding White Lands and Their Investment Importance</h2><p>White lands are undeveloped plots within urban boundaries or approved master plans. Investing in them presents a promising opportunity for significant long-term capital gains, especially given continuous population growth and urban expansion.</p><p>These lands derive their value from their potential for future development into residential, commercial, or industrial projects, making them attractive to investors seeking growth opportunities.</p><h2 id='s2'>Advantages of Investing in White Lands</h2><p>A key advantage of investing in white lands is their excellent hedge against inflation, as their value tends to appreciate over time. The increasing demand for land in cities also enhances the prospects of achieving substantial capital gains upon sale.</p><p>White lands do not require continuous maintenance or tenant management, which reduces operational burdens compared to investing in developed properties.</p><h2 id='s3'>Potential Challenges and Risks</h2><p>Despite the advantages, investors in white lands face challenges such as the long investment horizon required for significant returns. Governments may also impose fees on undeveloped lands, increasing costs.</p><p>There are also risks associated with real estate market fluctuations and changes in local regulations and legislation that could affect development potential or increase its costs.</p><h2 id='s4'>Tips for Successful Investment</h2><p>For a successful investment, thorough research on the location is crucial, focusing on areas with planned urban growth and future infrastructure. It is also essential to understand the potential liquidity of the land before purchase.</p><p>Consulting real estate experts and specialized lawyers is advisable to assess economic feasibility and legal risks, and to verify ownership deeds and required permits.</p>"
+  },
+  {
+    "id": 193,
+    "slug": "best-day-trading-strategies",
+    "title": "أفضل استراتيجيات التداول اليومي",
+    "titleEn": "Best Day Trading Strategies",
+    "summary": "يقدم هذا المقال نظرة عامة على أفضل استراتيجيات التداول اليومي لمساعدة المستثمرين العرب على تحقيق أقصى استفادة من تحركات السوق السريعة.",
+    "summaryEn": "This article provides an overview of the best day trading strategies to help Arab investors maximize profits from rapid market movements.",
+    "excerpt": "تعرف على استراتيجيات السكالبينج، تداول الزخم، الاختراق، والانعكاس، بالإضافة إلى أهمية إدارة المخاطر في التداول اليومي.",
+    "excerptEn": "Learn about scalping, momentum, breakout, and reversal strategies, along with the importance of risk management in day trading.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "د. سامي القحطاني",
+    "authorEn": "Dr. Sami Al-Qahtani",
+    "authorInitial": "S",
+    "date": "4 نوفمبر 2026",
+    "dateEn": "November 4, 2026",
+    "dateISO": "2026-11-04",
+    "readTime": "8",
+    "views": "2462",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article193.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة لأفضل استراتيجيات التداول اليومي"
+      },
+      {
+        "id": "s2",
+        "text": "استراتيجيات السكالبينج وتداول الزخم"
+      },
+      {
+        "id": "s3",
+        "text": "استراتيجيات الاختراق والانعكاس"
+      },
+      {
+        "id": "s4",
+        "text": "إدارة المخاطر والنجاح في التداول اليومي"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Best Day Trading Strategies"
+      },
+      {
+        "id": "s2",
+        "text": "Scalping and Momentum Strategies"
+      },
+      {
+        "id": "s3",
+        "text": "Breakout and Reversal Strategies"
+      },
+      {
+        "id": "s4",
+        "text": "Risk Management and Day Trading Success"
+      }
+    ],
+    "related": [
+      81
+    ],
+    "content": "<h2 id='s1'>مقدمة لأفضل استراتيجيات التداول اليومي</h2><p>التداول اليومي هو أسلوب استثماري يتضمن فتح وإغلاق الصفقات المالية في نفس اليوم، بهدف تحقيق أرباح من تحركات الأسعار الصغيرة. يتطلب هذا النوع من التداول انضباطًا عاليًا وفهمًا عميقًا لديناميكيات السوق.</p><p>لتحقيق النجاح في هذا المجال المتقلب، يحتاج المتداولون إلى استراتيجيات قوية ومجربة تساعدهم على اتخاذ قرارات سريعة ومستنيرة، مع تحديد نقاط الدخول والخروج بدقة.</p><h2 id='s2'>استراتيجيات السكالبينج وتداول الزخم</h2><p>تعد استراتيجية السكالبينج من الأكثر شعبية، حيث يهدف المتداول إلى تحقيق أرباح صغيرة ومتكررة من تحركات الأسعار الضئيلة جدًا خلال فترات زمنية قصيرة للغاية، مع التركيز على السيولة العالية.</p><p>أما تداول الزخم فيستند إلى تحديد الأصول التي تشهد تحركات سعرية قوية ومستمرة مدعومة بحجم تداول كبير، ويهدف المتداول إلى الركوب على موجة الزخم والخروج قبل أن يتلاشى.</p><h2 id='s3'>استراتيجيات الاختراق والانعكاس</h2><p>تركز استراتيجية الاختراق على تحديد مستويات الدعم والمقاومة الرئيسية، والدخول في الصفقات عندما يخترق السعر هذه المستويات بقوة، مما يشير إلى بداية اتجاه جديد أو استمراره.</p><p>تستهدف استراتيجية الانعكاس تحديد نقاط التحول المحتملة في اتجاه السوق، حيث يحاول المتداولون الدخول في صفقات عكس الاتجاه السائد عندما تظهر مؤشرات على ضعفه أو نهايته.</p><h2 id='s4'>إدارة المخاطر والنجاح في التداول اليومي</h2><p>بغض النظر عن الاستراتيجية المختارة، تظل إدارة المخاطر حجر الزاوية في التداول اليومي الناجح. يجب دائمًا تحديد حجم الصفقة المناسب ووضع أوامر وقف الخسارة لحماية رأس المال.</p><p>التداول اليومي محفوف بالمخاطر، لذا فإن الالتزام بخطة تداول واضحة، والتدرب المستمر، وعدم المخاطرة بأكثر مما يمكن تحمل خسارته، أمر بالغ الأهمية للحفاظ على الاستمرارية في السوق.</h>",
+    "contentEn": "<h2 id='s1'>Introduction to Best Day Trading Strategies</h2><p>Day trading is an investment style that involves opening and closing financial positions within the same day, aiming to profit from small price movements. This type of trading demands high discipline and a deep understanding of market dynamics.</p><p>To succeed in this volatile field, traders need robust, tested strategies that help them make quick, informed decisions, accurately identifying optimal entry and exit points.</p><h2 id='s2'>Scalping and Momentum Strategies</h2><p>Scalping is one of the most popular strategies, where traders aim to make small, frequent profits from very tiny price movements over extremely short timeframes, focusing on high liquidity.</p><p>Momentum trading, on the other hand, identifies assets experiencing strong, sustained price movements supported by significant trading volume, with the trader aiming to ride the momentum wave and exit before it fades.</p><h2 id='s3'>Breakout and Reversal Strategies</h2><p>Breakout trading focuses on identifying key support and resistance levels, entering trades when the price forcefully breaks through these levels, signaling the start or continuation of a new trend.</p><p>Reversal strategies aim to identify potential turning points in market trends, with traders attempting to enter positions against the prevailing trend when indicators suggest its weakening or end.</p><h2 id='s4'>Risk Management and Day Trading Success</h2><p>Regardless of the chosen strategy, risk management remains the cornerstone of successful day trading. Traders must always determine appropriate position sizing and place stop-loss orders to protect their capital.</p><p>Day trading is inherently risky, so adhering to a clear trading plan, continuous practice, and never risking more than one can afford to lose, are crucial for long-term sustainability in the market.</h>"
   }
 ];
 

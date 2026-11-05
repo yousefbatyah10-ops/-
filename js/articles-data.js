@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-04
-// Total articles: 193
+// Last updated: 2026-11-05
+// Total articles: 194
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -13944,6 +13944,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة لأفضل استراتيجيات التداول اليومي</h2><p>التداول اليومي هو أسلوب استثماري يتضمن فتح وإغلاق الصفقات المالية في نفس اليوم، بهدف تحقيق أرباح من تحركات الأسعار الصغيرة. يتطلب هذا النوع من التداول انضباطًا عاليًا وفهمًا عميقًا لديناميكيات السوق.</p><p>لتحقيق النجاح في هذا المجال المتقلب، يحتاج المتداولون إلى استراتيجيات قوية ومجربة تساعدهم على اتخاذ قرارات سريعة ومستنيرة، مع تحديد نقاط الدخول والخروج بدقة.</p><h2 id='s2'>استراتيجيات السكالبينج وتداول الزخم</h2><p>تعد استراتيجية السكالبينج من الأكثر شعبية، حيث يهدف المتداول إلى تحقيق أرباح صغيرة ومتكررة من تحركات الأسعار الضئيلة جدًا خلال فترات زمنية قصيرة للغاية، مع التركيز على السيولة العالية.</p><p>أما تداول الزخم فيستند إلى تحديد الأصول التي تشهد تحركات سعرية قوية ومستمرة مدعومة بحجم تداول كبير، ويهدف المتداول إلى الركوب على موجة الزخم والخروج قبل أن يتلاشى.</p><h2 id='s3'>استراتيجيات الاختراق والانعكاس</h2><p>تركز استراتيجية الاختراق على تحديد مستويات الدعم والمقاومة الرئيسية، والدخول في الصفقات عندما يخترق السعر هذه المستويات بقوة، مما يشير إلى بداية اتجاه جديد أو استمراره.</p><p>تستهدف استراتيجية الانعكاس تحديد نقاط التحول المحتملة في اتجاه السوق، حيث يحاول المتداولون الدخول في صفقات عكس الاتجاه السائد عندما تظهر مؤشرات على ضعفه أو نهايته.</p><h2 id='s4'>إدارة المخاطر والنجاح في التداول اليومي</h2><p>بغض النظر عن الاستراتيجية المختارة، تظل إدارة المخاطر حجر الزاوية في التداول اليومي الناجح. يجب دائمًا تحديد حجم الصفقة المناسب ووضع أوامر وقف الخسارة لحماية رأس المال.</p><p>التداول اليومي محفوف بالمخاطر، لذا فإن الالتزام بخطة تداول واضحة، والتدرب المستمر، وعدم المخاطرة بأكثر مما يمكن تحمل خسارته، أمر بالغ الأهمية للحفاظ على الاستمرارية في السوق.</h>",
     "contentEn": "<h2 id='s1'>Introduction to Best Day Trading Strategies</h2><p>Day trading is an investment style that involves opening and closing financial positions within the same day, aiming to profit from small price movements. This type of trading demands high discipline and a deep understanding of market dynamics.</p><p>To succeed in this volatile field, traders need robust, tested strategies that help them make quick, informed decisions, accurately identifying optimal entry and exit points.</p><h2 id='s2'>Scalping and Momentum Strategies</h2><p>Scalping is one of the most popular strategies, where traders aim to make small, frequent profits from very tiny price movements over extremely short timeframes, focusing on high liquidity.</p><p>Momentum trading, on the other hand, identifies assets experiencing strong, sustained price movements supported by significant trading volume, with the trader aiming to ride the momentum wave and exit before it fades.</p><h2 id='s3'>Breakout and Reversal Strategies</h2><p>Breakout trading focuses on identifying key support and resistance levels, entering trades when the price forcefully breaks through these levels, signaling the start or continuation of a new trend.</p><p>Reversal strategies aim to identify potential turning points in market trends, with traders attempting to enter positions against the prevailing trend when indicators suggest its weakening or end.</p><h2 id='s4'>Risk Management and Day Trading Success</h2><p>Regardless of the chosen strategy, risk management remains the cornerstone of successful day trading. Traders must always determine appropriate position sizing and place stop-loss orders to protect their capital.</p><p>Day trading is inherently risky, so adhering to a clear trading plan, continuous practice, and never risking more than one can afford to lose, are crucial for long-term sustainability in the market.</h>"
+  },
+  {
+    "id": 194,
+    "slug": "inflation-how-to-protect-your-money",
+    "title": "التضخم: كيف تحمي أموالك منه",
+    "titleEn": "Inflation: How to Protect Your Money",
+    "summary": "التضخم يقلل من القوة الشرائية لأموالك، ولكن هناك استراتيجيات فعالة لحماية ثروتك منه.",
+    "summaryEn": "Inflation reduces the purchasing power of your money, but there are effective strategies to protect your wealth from it.",
+    "excerpt": "تعرف على مفهوم التضخم وكيف يؤثر على مدخراتك، بالإضافة إلى أهم الطرق والاستثمارات لحماية أموالك من تآكل قيمتها.",
+    "excerptEn": "Learn about inflation and how it affects your savings, along with key methods and investments to protect your money from value erosion.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "5 نوفمبر 2026",
+    "dateEn": "November 5, 2026",
+    "dateISO": "2026-11-05",
+    "readTime": "8",
+    "views": "4440",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#0A1628,#1A3A5C)",
+    "image": "images/article194.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هو التضخم؟"
+      },
+      {
+        "id": "s2",
+        "text": "لماذا حماية أموالك ضرورية؟"
+      },
+      {
+        "id": "s3",
+        "text": "استراتيجيات الاستثمار في الأصول"
+      },
+      {
+        "id": "s4",
+        "text": "التنويع وإدارة الديون"
+      },
+      {
+        "id": "s5",
+        "text": "الخلاصة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What is Inflation?"
+      },
+      {
+        "id": "s2",
+        "text": "Why Protecting Your Money is Essential?"
+      },
+      {
+        "id": "s3",
+        "text": "Asset Investment Strategies"
+      },
+      {
+        "id": "s4",
+        "text": "Diversification and Debt Management"
+      },
+      {
+        "id": "s5",
+        "text": "Conclusion"
+      }
+    ],
+    "related": [
+      150
+    ],
+    "content": "<h2 id='s1'>ما هو التضخم؟</h2><p>التضخم هو الارتفاع المستمر في المستوى العام لأسعار السلع والخدمات بمرور الوقت. هذا يعني أن القوة الشرائية لأموالك تتآكل، فما تشتريه اليوم بمبلغ معين سيكلفك أكثر غداً.</p><h2 id='s2'>لماذا حماية أموالك ضرورية؟</h2><p>مع تزايد معدلات التضخم، تتناقص قيمة مدخراتك تدريجياً. إذا تركت أموالك في حساب توفير عادي، فإنها ستفقد جزءاً من قدرتها الشرائية كل عام، مما يهدد أهدافك المالية.</p><h2 id='s3'>استراتيجيات الاستثمار في الأصول</h2><p>للتصدي للتضخم، فكر في الاستثمار في الأصول التي تحتفظ بقيمتها أو تزداد مع ارتفاع الأسعار. يشمل ذلك الذهب والعقارات، والأسهم في الشركات القوية التي يمكنها تمرير التكاليف.</p><p>يمكن أيضاً النظر في السلع أو السندات المحمية من التضخم (مثل TIPS).</p><h2 id='s4'>التنويع وإدارة الديون</h2><p>نَوِّع استثماراتك عبر فئات أصول مختلفة لتقليل المخاطر وحماية محفظتك. لا تضع كل بيضك في سلة واحدة.</p><p>سداد الديون ذات الفائدة المرتفعة يعد استراتيجية حكيمة، حيث أن التضخم يقلل من القيمة الحقيقية للديون الثابتة، لكن الديون المتغيرة ذات الفائدة العالية قد تزيد العبء.</p><h2 id='s5'>الخلاصة</h2><p>الوعي بالتضخم واتخاذ خطوات استباقية أمر بالغ الأهمية للحفاظ على ثروتك. من خلال التخطيط المالي السليم والاستثمار الذكي، يمكنك حماية أموالك من تأثيراته السلبية وضمان مستقبل مالي مستقر.</p>",
+    "contentEn": "<h2 id='s1'>What is Inflation?</h2><p>Inflation is the sustained increase in the general price level of goods and services over time. This means the purchasing power of your money erodes, so what you buy today for a certain amount will cost more tomorrow.</p><h2 id='s2'>Why Protecting Your Money is Essential?</h2><p>As inflation rates rise, the value of your savings gradually diminishes. If you leave your money in a regular savings account, it will lose some of its purchasing power each year, threatening your financial goals.</p><h2 id='s3'>Asset Investment Strategies</h2><p>To combat inflation, consider investing in assets that tend to hold or increase their value as prices rise. This includes gold, real estate, and stocks in strong companies that can pass increased costs to consumers.</p><p>Commodities or inflation-protected bonds (like TIPS) can also be considered.</p><h2 id='s4'>Diversification and Debt Management</h2><p>Diversify your investments across different asset classes to reduce risk and protect your portfolio. Don't put all your eggs in one basket.</p><p>Paying off high-interest debt is a wise strategy, as inflation reduces the real value of fixed-rate debt, but variable high-interest debt can increase the burden.</p><h2 id='s5'>Conclusion</h2><p>Being aware of inflation and taking proactive steps is crucial for preserving your wealth. Through sound financial planning and smart investing, you can protect your money from its negative effects and ensure a stable financial future.</p>"
   }
 ];
 

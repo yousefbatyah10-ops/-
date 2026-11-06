@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-05
-// Total articles: 194
+// Last updated: 2026-11-06
+// Total articles: 195
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -14021,6 +14021,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هو التضخم؟</h2><p>التضخم هو الارتفاع المستمر في المستوى العام لأسعار السلع والخدمات بمرور الوقت. هذا يعني أن القوة الشرائية لأموالك تتآكل، فما تشتريه اليوم بمبلغ معين سيكلفك أكثر غداً.</p><h2 id='s2'>لماذا حماية أموالك ضرورية؟</h2><p>مع تزايد معدلات التضخم، تتناقص قيمة مدخراتك تدريجياً. إذا تركت أموالك في حساب توفير عادي، فإنها ستفقد جزءاً من قدرتها الشرائية كل عام، مما يهدد أهدافك المالية.</p><h2 id='s3'>استراتيجيات الاستثمار في الأصول</h2><p>للتصدي للتضخم، فكر في الاستثمار في الأصول التي تحتفظ بقيمتها أو تزداد مع ارتفاع الأسعار. يشمل ذلك الذهب والعقارات، والأسهم في الشركات القوية التي يمكنها تمرير التكاليف.</p><p>يمكن أيضاً النظر في السلع أو السندات المحمية من التضخم (مثل TIPS).</p><h2 id='s4'>التنويع وإدارة الديون</h2><p>نَوِّع استثماراتك عبر فئات أصول مختلفة لتقليل المخاطر وحماية محفظتك. لا تضع كل بيضك في سلة واحدة.</p><p>سداد الديون ذات الفائدة المرتفعة يعد استراتيجية حكيمة، حيث أن التضخم يقلل من القيمة الحقيقية للديون الثابتة، لكن الديون المتغيرة ذات الفائدة العالية قد تزيد العبء.</p><h2 id='s5'>الخلاصة</h2><p>الوعي بالتضخم واتخاذ خطوات استباقية أمر بالغ الأهمية للحفاظ على ثروتك. من خلال التخطيط المالي السليم والاستثمار الذكي، يمكنك حماية أموالك من تأثيراته السلبية وضمان مستقبل مالي مستقر.</p>",
     "contentEn": "<h2 id='s1'>What is Inflation?</h2><p>Inflation is the sustained increase in the general price level of goods and services over time. This means the purchasing power of your money erodes, so what you buy today for a certain amount will cost more tomorrow.</p><h2 id='s2'>Why Protecting Your Money is Essential?</h2><p>As inflation rates rise, the value of your savings gradually diminishes. If you leave your money in a regular savings account, it will lose some of its purchasing power each year, threatening your financial goals.</p><h2 id='s3'>Asset Investment Strategies</h2><p>To combat inflation, consider investing in assets that tend to hold or increase their value as prices rise. This includes gold, real estate, and stocks in strong companies that can pass increased costs to consumers.</p><p>Commodities or inflation-protected bonds (like TIPS) can also be considered.</p><h2 id='s4'>Diversification and Debt Management</h2><p>Diversify your investments across different asset classes to reduce risk and protect your portfolio. Don't put all your eggs in one basket.</p><p>Paying off high-interest debt is a wise strategy, as inflation reduces the real value of fixed-rate debt, but variable high-interest debt can increase the burden.</p><h2 id='s5'>Conclusion</h2><p>Being aware of inflation and taking proactive steps is crucial for preserving your wealth. Through sound financial planning and smart investing, you can protect your money from its negative effects and ensure a stable financial future.</p>"
+  },
+  {
+    "id": 195,
+    "slug": "ethereum-more-than-just-a-cryptocurrency",
+    "title": "الإيثيريوم: أكثر من مجرد عملة رقمية",
+    "titleEn": "Ethereum: More Than Just a Cryptocurrency",
+    "summary": "الإيثيريوم هي منصة بلوكتشين قوية تتجاوز كونها مجرد عملة رقمية، حيث تمكّن العقود الذكية وتطبيقات DeFi و NFTs من تشكيل مستقبل الاقتصاد اللامركزي.",
+    "summaryEn": "Ethereum is a powerful blockchain platform that goes beyond being just a digital currency, enabling smart contracts, DeFi, and NFTs to shape the future of the decentralized economy.",
+    "excerpt": "استكشف كيف أصبحت الإيثيريوم، بفضل عقودها الذكية وتطبيقاتها اللامركزية، ركيزة أساسية للابتكار في عالم البلوكتشين والتمويل الرقمي.",
+    "excerptEn": "Discover how Ethereum, with its smart contracts and decentralized applications, has become a cornerstone for innovation in the world of blockchain and digital finance.",
+    "category": "العملات الرقمية",
+    "categoryEn": "Cryptocurrency",
+    "categoryIcon": "₿",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "6 نوفمبر 2026",
+    "dateEn": "November 6, 2026",
+    "dateISO": "2026-11-06",
+    "readTime": "10",
+    "views": "3093",
+    "emoji": "₿",
+    "gradient": "linear-gradient(135deg,#2D1B00,#8B6914)",
+    "image": "images/article195.jpg",
+    "featured": false,
+    "breadcrumb": "العملات الرقمية",
+    "breadcrumbEn": "Cryptocurrency",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة للإيثيريوم"
+      },
+      {
+        "id": "s2",
+        "text": "العقود الذكية"
+      },
+      {
+        "id": "s3",
+        "text": "التطبيقات اللامركزية (DApps)"
+      },
+      {
+        "id": "s4",
+        "text": "التمويل اللامركزي (DeFi) ورموز NFT"
+      },
+      {
+        "id": "s5",
+        "text": "مستقبل الإيثيريوم"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Ethereum"
+      },
+      {
+        "id": "s2",
+        "text": "Smart Contracts"
+      },
+      {
+        "id": "s3",
+        "text": "Decentralized Applications (DApps)"
+      },
+      {
+        "id": "s4",
+        "text": "Decentralized Finance (DeFi) and NFTs"
+      },
+      {
+        "id": "s5",
+        "text": "The Future of Ethereum"
+      }
+    ],
+    "related": [
+      148
+    ],
+    "content": "<h2 id='s1'>مقدمة للإيثيريوم</h2><p>الإيثيريوم ليست مجرد عملة رقمية (إيثر)، بل هي منصة بلوكتشين مفتوحة المصدر تمكّن المطورين من بناء تطبيقات لا مركزية. أطلقت في عام 2015، وتعتبر ثاني أكبر عملة مشفرة من حيث القيمة السوقية.</p><p>هدفها يتجاوز حدود البيتكوين لتقديم نظام بيئي أوسع يدعم الابتكار التكنولوجي والمالي.</p><h2 id='s2'>العقود الذكية</h2><p>السمة المميزة للإيثيريوم هي العقود الذكية، وهي اتفاقيات ذاتية التنفيذ يتم كتابتها مباشرة في سطور من التعليمات البرمجية. تعمل هذه العقود تلقائياً عند استيفاء شروط محددة، دون الحاجة لوسيط.</p><p>توفر العقود الذكية الشفافية والأمان، حيث لا يمكن تغييرها بمجرد نشرها على البلوكتشين، مما يفتح آفاقاً جد��دة للثقة الرقمية.</p><h2 id='s3'>التطبيقات اللامركزية (DApps)</h2><p>بفضل العقود الذكية، أصبحت الإيثيريوم أرضاً خصبة لتطوير التطبيقات اللامركزية (DApps). هذه التطبيقات تعمل على شبكة الإيثيريوم ولا تتحكم فيها سلطة مركزية واحدة.</p><p>تشمل هذه التطبيقات مجموعة واسعة من الخدمات من الألعاب إلى الشبكات الاجتماعية، وتقدم بديلاً لا مركزياً للخدمات الرقمية التقليدية.</p><h2 id='s4'>التمويل اللامركزي (DeFi) ورموز NFT</h2><p>لقد أحدثت الإيثيريوم ثورة في قطاع التمويل اللامركزي (DeFi)، حيث توفر خدمات مالية مثل الإقراض والاقتراض والتداول دون الحاجة للبنوك التقليدية. كما أنها المنصة الأساسية لرموز NFT (الرموز غير القابلة للاستبدال).</p><p>أتاحت رموز NFT إنشاء ملكية رقمية فريدة للفنون والمقتنيات والأصول الأخرى، مما فتح أسواقاً جديدة بالكامل للمبدعين والمستثمرين.</p><h2 id='s5'>مستقبل الإيثيريوم</h2><p>يشهد الإيثيريوم تطورات مستمرة، أبرزها الانتقال إلى آلية إثبات الحصة (Proof of Stake) المعروفة بـ \"الدمج\" (The Merge)، والتي تهدف إلى تحسين كفاءة الشبكة وتقليل استهلاك الطاقة.</p><p>هذه التحديثات تعد بجعل الإيثيريوم أكثر قابلية للتوسع واستدامة، مما يعزز مكانتها كعمود فقري للاقتصاد الرقمي اللامركزي.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Ethereum</h2><p>Ethereum is not just a digital currency (Ether); it's an open-source blockchain platform that enables developers to build decentralized applications. Launched in 2015, it is considered the second-largest cryptocurrency by market capitalization.</p><p>Its goal is to transcend Bitcoin's limitations by offering a broader ecosystem that supports technological and financial innovation.</p><h2 id='s2'>Smart Contracts</h2><p>The distinctive feature of Ethereum is smart contracts, which are self-executing agreements directly written into lines of code. These contracts automatically operate when specific conditions are met, without the need for an intermediary.</p><p>Smart contracts provide transparency and security, as they cannot be altered once deployed on the blockchain, opening new horizons for digital trust.</p><h2 id='s3'>Decentralized Applications (DApps)</h2><p>Thanks to smart contracts, Ethereum has become fertile ground for developing Decentralized Applications (DApps). These applications run on the Ethereum network and are not controlled by a single central authority.</p><p>These applications encompass a wide range of services from games to social networks, offering a decentralized alternative to traditional digital services.</p><h2 id='s4'>Decentralized Finance (DeFi) and NFTs</h2><p>Ethereum has revolutionized the Decentralized Finance (DeFi) sector, providing financial services like lending, borrowing, and trading without the need for traditional banks. It is also the primary platform for NFTs (Non-Fungible Tokens).</p><p>NFTs have enabled the creation of unique digital ownership for art, collectibles, and other assets, opening entirely new markets for creators and investors.</p><h2 id='s5'>The Future of Ethereum</h2><p>Ethereum is undergoing continuous developments, most notably the transition to the Proof of Stake mechanism known as \"The Merge,\" which aims to improve network efficiency and reduce energy consumption.</p><p>These updates promise to make Ethereum more scalable and sustainable, reinforcing its position as a backbone for the decentralized digital economy.</p>"
   }
 ];
 

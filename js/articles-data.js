@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-06
-// Total articles: 195
+// Last updated: 2026-11-07
+// Total articles: 196
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -14098,6 +14098,91 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة للإيثيريوم</h2><p>الإيثيريوم ليست مجرد عملة رقمية (إيثر)، بل هي منصة بلوكتشين مفتوحة المصدر تمكّن المطورين من بناء تطبيقات لا مركزية. أطلقت في عام 2015، وتعتبر ثاني أكبر عملة مشفرة من حيث القيمة السوقية.</p><p>هدفها يتجاوز حدود البيتكوين لتقديم نظام بيئي أوسع يدعم الابتكار التكنولوجي والمالي.</p><h2 id='s2'>العقود الذكية</h2><p>السمة المميزة للإيثيريوم هي العقود الذكية، وهي اتفاقيات ذاتية التنفيذ يتم كتابتها مباشرة في سطور من التعليمات البرمجية. تعمل هذه العقود تلقائياً عند استيفاء شروط محددة، دون الحاجة لوسيط.</p><p>توفر العقود الذكية الشفافية والأمان، حيث لا يمكن تغييرها بمجرد نشرها على البلوكتشين، مما يفتح آفاقاً جد��دة للثقة الرقمية.</p><h2 id='s3'>التطبيقات اللامركزية (DApps)</h2><p>بفضل العقود الذكية، أصبحت الإيثيريوم أرضاً خصبة لتطوير التطبيقات اللامركزية (DApps). هذه التطبيقات تعمل على شبكة الإيثيريوم ولا تتحكم فيها سلطة مركزية واحدة.</p><p>تشمل هذه التطبيقات مجموعة واسعة من الخدمات من الألعاب إلى الشبكات الاجتماعية، وتقدم بديلاً لا مركزياً للخدمات الرقمية التقليدية.</p><h2 id='s4'>التمويل اللامركزي (DeFi) ورموز NFT</h2><p>لقد أحدثت الإيثيريوم ثورة في قطاع التمويل اللامركزي (DeFi)، حيث توفر خدمات مالية مثل الإقراض والاقتراض والتداول دون الحاجة للبنوك التقليدية. كما أنها المنصة الأساسية لرموز NFT (الرموز غير القابلة للاستبدال).</p><p>أتاحت رموز NFT إنشاء ملكية رقمية فريدة للفنون والمقتنيات والأصول الأخرى، مما فتح أسواقاً جديدة بالكامل للمبدعين والمستثمرين.</p><h2 id='s5'>مستقبل الإيثيريوم</h2><p>يشهد الإيثيريوم تطورات مستمرة، أبرزها الانتقال إلى آلية إثبات الحصة (Proof of Stake) المعروفة بـ \"الدمج\" (The Merge)، والتي تهدف إلى تحسين كفاءة الشبكة وتقليل استهلاك الطاقة.</p><p>هذه التحديثات تعد بجعل الإيثيريوم أكثر قابلية للتوسع واستدامة، مما يعزز مكانتها كعمود فقري للاقتصاد الرقمي اللامركزي.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Ethereum</h2><p>Ethereum is not just a digital currency (Ether); it's an open-source blockchain platform that enables developers to build decentralized applications. Launched in 2015, it is considered the second-largest cryptocurrency by market capitalization.</p><p>Its goal is to transcend Bitcoin's limitations by offering a broader ecosystem that supports technological and financial innovation.</p><h2 id='s2'>Smart Contracts</h2><p>The distinctive feature of Ethereum is smart contracts, which are self-executing agreements directly written into lines of code. These contracts automatically operate when specific conditions are met, without the need for an intermediary.</p><p>Smart contracts provide transparency and security, as they cannot be altered once deployed on the blockchain, opening new horizons for digital trust.</p><h2 id='s3'>Decentralized Applications (DApps)</h2><p>Thanks to smart contracts, Ethereum has become fertile ground for developing Decentralized Applications (DApps). These applications run on the Ethereum network and are not controlled by a single central authority.</p><p>These applications encompass a wide range of services from games to social networks, offering a decentralized alternative to traditional digital services.</p><h2 id='s4'>Decentralized Finance (DeFi) and NFTs</h2><p>Ethereum has revolutionized the Decentralized Finance (DeFi) sector, providing financial services like lending, borrowing, and trading without the need for traditional banks. It is also the primary platform for NFTs (Non-Fungible Tokens).</p><p>NFTs have enabled the creation of unique digital ownership for art, collectibles, and other assets, opening entirely new markets for creators and investors.</p><h2 id='s5'>The Future of Ethereum</h2><p>Ethereum is undergoing continuous developments, most notably the transition to the Proof of Stake mechanism known as \"The Merge,\" which aims to improve network efficiency and reduce energy consumption.</p><p>These updates promise to make Ethereum more scalable and sustainable, reinforcing its position as a backbone for the decentralized digital economy.</p>"
+  },
+  {
+    "id": 196,
+    "slug": "bond-investing-a-complete-guide",
+    "title": "الاستثمار في السندات: دليل شامل",
+    "titleEn": "Bond Investing: A Complete Guide",
+    "summary": "السندات هي أداة استثمارية توفر عوائد ثابتة وتعتبر ملاذًا آمنًا في محافظ الاستثمار المتنوعة.",
+    "summaryEn": "Bonds are an investment tool that provides fixed returns and are considered a safe haven in diversified investment portfolios.",
+    "excerpt": "يقدم هذا الدليل الشامل نظرة عميقة على عالم الاستثمار في السندات، موضحًا أساسياتها، أنواعها، ومزاياها وعيوبها.",
+    "excerptEn": "This comprehensive guide offers an in-depth look into the world of bond investing, explaining its fundamentals, types, and its pros and cons.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "7 نوفمبر 2026",
+    "dateEn": "November 7, 2026",
+    "dateISO": "2026-11-07",
+    "readTime": "10",
+    "views": "4300",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article196.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة إلى السندات"
+      },
+      {
+        "id": "s2",
+        "text": "أنواع السندات الرئيسية"
+      },
+      {
+        "id": "s3",
+        "text": "مزايا وعيوب الاستثمار في السندات"
+      },
+      {
+        "id": "s4",
+        "text": "كيفية الاستثمار في السندات"
+      },
+      {
+        "id": "s5",
+        "text": "العوامل المؤثرة على أسعار السندات"
+      },
+      {
+        "id": "s6",
+        "text": "استراتيجيات الاستثمار في السندات"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Bonds"
+      },
+      {
+        "id": "s2",
+        "text": "Key Types of Bonds"
+      },
+      {
+        "id": "s3",
+        "text": "Pros and Cons of Bond Investing"
+      },
+      {
+        "id": "s4",
+        "text": "How to Invest in Bonds"
+      },
+      {
+        "id": "s5",
+        "text": "Factors Affecting Bond Prices"
+      },
+      {
+        "id": "s6",
+        "text": "Bond Investment Strategies"
+      }
+    ],
+    "related": [
+      41
+    ],
+    "content": "<h2 id='s1'>مقدمة إلى السندات</h2><p>السندات هي قروض تقدمها للمصدر (حكومة أو شركة) مقابل مدفوعات فائدة دورية (كوبون) وإعادة المبلغ الأصلي عند الاستحقاق. تُعد السندات أداة لجمع رأس المال للمصدرين.</p><p>تعتبر السندات خيارًا شائعًا للمستثمرين الذين يبحثون عن دخل ثابت ومخاطر أقل مقارنة بالأسهم، مما يجعلها مكونًا أساسيًا في محفظة استثمارية متوازنة.</p><h2 id='s2'>أنواع السندات الرئيسية</h2><p>تتنوع السندات لتشمل السندات الحكومية التي تصدرها الدول لتمويل نفقاتها، وتعتبر عادةً الأقل مخاطرة.</p><p>هناك أيضًا سندات الشركات التي تصدرها الشركات لتمويل عملياتها وتوسعاتها، وسندات البلديات التي تصدرها الهيئات المحلية لمشاريع البنية التحتية، وتختلف مخاطرها وعوائدها.</p><h2 id='s3'>مزايا وعيوب الاستثمار في السندات</h2><p><b>المزايا</b>: توفر السندات دخلًا ثابتًا يمكن التنبؤ به، وتعتبر أقل تقلبًا من الأسهم، مما يقلل من المخاطر الإجمالية للمحفظة وتساهم في الحفاظ على رأس المال.</p><p><b>العيوب</b>: غالبًا ما تكون عوائد السندات أقل من الأسهم على المدى الطويل، وهي عرضة لمخاطر التضخم التي قد تقلل من القوة الشرائية للعائدات، بالإضافة إلى مخاطر أسعار الفائدة.</p><h2 id='s4'>كيفية الاستثمار في السندات</h2><p>يمكن للمستثمرين شراء السندات بشكل مباشر من خلال وسطاء ماليين أو البنوك التي تقدم هذه الخدمات.</p><p>بدلًا من ذلك، يمكن الاستثمار في السندات بشكل غير مباشر عبر صناديق السندات المشتركة أو صناديق المؤشرات المتداولة (ETFs) التي تستثمر في سلة متنوعة من السندات، مما يوفر تنوعًا ومرونة أكبر.</p><h2 id='s5'>العوامل المؤثرة على أسعار السندات</h2><p>تتأثر أسعار السندات بشكل كبير بأسعار الفائدة؛ فعندما ترتفع أسعار الفائدة الجديدة، تنخفض قيمة السندات القديمة ذات الفوائد الأقل.</p><p>كما تؤثر التصنيفات الائتمانية للمصدرين، ومخاطر التضخم، والظروف الاقتصادية العامة على جاذبية السندات وبالتالي على أسعارها في السوق الثانوية.</p><h2 id='s6'>استراتيجيات الاستثمار في السندات</h2><p>لتقليل المخاطر وتعظيم العوائد، يُنصح بتنويع محفظة السندات عبر أنواع مختلفة من السندات والآجال الزمنية والمصدرين.</p><p>يمكن استخدام استراتيجية \"السلم\" (Bond Laddering) حيث يتم شراء سندات بآجال استحقاق مختلفة لتوفير سيولة منتظمة وإعادة استثمار العوائد بأسعار فائدة متغيرة.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Bonds</h2><p>Bonds are loans you make to an issuer (government or corporation) in exchange for periodic interest payments (coupon) and the return of the principal amount at maturity. They serve as a capital-raising tool for issuers.</p><p>Bonds are a popular choice for investors seeking stable income and lower risk compared to stocks, making them a fundamental component of a balanced investment portfolio.</p><h2 id='s2'>Key Types of Bonds</h2><p>Bonds vary to include government bonds, issued by nations to finance their expenditures, which are typically considered the least risky.</p><p>There are also corporate bonds, issued by companies to fund operations and expansions, and municipal bonds, issued by local entities for infrastructure projects, with varying risks and returns.</p><h2 id='s3'>Pros and Cons of Bond Investing</h2><p><b>Pros</b>: Bonds offer predictable fixed income and are generally less volatile than stocks, reducing overall portfolio risk and helping preserve capital.</p><p><b>Cons</b>: Bond returns are often lower than stocks over the long term, and they are susceptible to inflation risk, which can erode the purchasing power of returns, in addition to interest rate risk.</p><h2 id='s4'>How to Invest in Bonds</h2><p>Investors can purchase bonds directly through financial brokers or banks that offer these services.</p><p>Alternatively, bonds can be invested in indirectly through bond mutual funds or Exchange Traded Funds (ETFs) that invest in a diversified basket of bonds, offering greater diversification and flexibility.</p><h2 id='s5'>Factors Affecting Bond Prices</h2><p>Bond prices are significantly influenced by interest rates; when new interest rates rise, the value of older bonds with lower interest rates typically falls.</p><p>Issuer credit ratings, inflation risk, and general economic conditions also affect the attractiveness of bonds and, consequently, their prices in the secondary market.</p><h2 id='s6'>Bond Investment Strategies</h2><p>To mitigate risk and optimize returns, it is advisable to diversify a bond portfolio across different types of bonds, maturities, and issuers.</p><p>A \"bond laddering\" strategy can be employed, where bonds with different maturity dates are purchased to provide regular liquidity and allow for reinvestment of proceeds at varying interest rates.</p>"
   }
 ];
 

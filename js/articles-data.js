@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-07
-// Total articles: 196
+// Last updated: 2026-11-08
+// Total articles: 197
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -14183,6 +14183,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة إلى السندات</h2><p>السندات هي قروض تقدمها للمصدر (حكومة أو شركة) مقابل مدفوعات فائدة دورية (كوبون) وإعادة المبلغ الأصلي عند الاستحقاق. تُعد السندات أداة لجمع رأس المال للمصدرين.</p><p>تعتبر السندات خيارًا شائعًا للمستثمرين الذين يبحثون عن دخل ثابت ومخاطر أقل مقارنة بالأسهم، مما يجعلها مكونًا أساسيًا في محفظة استثمارية متوازنة.</p><h2 id='s2'>أنواع السندات الرئيسية</h2><p>تتنوع السندات لتشمل السندات الحكومية التي تصدرها الدول لتمويل نفقاتها، وتعتبر عادةً الأقل مخاطرة.</p><p>هناك أيضًا سندات الشركات التي تصدرها الشركات لتمويل عملياتها وتوسعاتها، وسندات البلديات التي تصدرها الهيئات المحلية لمشاريع البنية التحتية، وتختلف مخاطرها وعوائدها.</p><h2 id='s3'>مزايا وعيوب الاستثمار في السندات</h2><p><b>المزايا</b>: توفر السندات دخلًا ثابتًا يمكن التنبؤ به، وتعتبر أقل تقلبًا من الأسهم، مما يقلل من المخاطر الإجمالية للمحفظة وتساهم في الحفاظ على رأس المال.</p><p><b>العيوب</b>: غالبًا ما تكون عوائد السندات أقل من الأسهم على المدى الطويل، وهي عرضة لمخاطر التضخم التي قد تقلل من القوة الشرائية للعائدات، بالإضافة إلى مخاطر أسعار الفائدة.</p><h2 id='s4'>كيفية الاستثمار في السندات</h2><p>يمكن للمستثمرين شراء السندات بشكل مباشر من خلال وسطاء ماليين أو البنوك التي تقدم هذه الخدمات.</p><p>بدلًا من ذلك، يمكن الاستثمار في السندات بشكل غير مباشر عبر صناديق السندات المشتركة أو صناديق المؤشرات المتداولة (ETFs) التي تستثمر في سلة متنوعة من السندات، مما يوفر تنوعًا ومرونة أكبر.</p><h2 id='s5'>العوامل المؤثرة على أسعار السندات</h2><p>تتأثر أسعار السندات بشكل كبير بأسعار الفائدة؛ فعندما ترتفع أسعار الفائدة الجديدة، تنخفض قيمة السندات القديمة ذات الفوائد الأقل.</p><p>كما تؤثر التصنيفات الائتمانية للمصدرين، ومخاطر التضخم، والظروف الاقتصادية العامة على جاذبية السندات وبالتالي على أسعارها في السوق الثانوية.</p><h2 id='s6'>استراتيجيات الاستثمار في السندات</h2><p>لتقليل المخاطر وتعظيم العوائد، يُنصح بتنويع محفظة السندات عبر أنواع مختلفة من السندات والآجال الزمنية والمصدرين.</p><p>يمكن استخدام استراتيجية \"السلم\" (Bond Laddering) حيث يتم شراء سندات بآجال استحقاق مختلفة لتوفير سيولة منتظمة وإعادة استثمار العوائد بأسعار فائدة متغيرة.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Bonds</h2><p>Bonds are loans you make to an issuer (government or corporation) in exchange for periodic interest payments (coupon) and the return of the principal amount at maturity. They serve as a capital-raising tool for issuers.</p><p>Bonds are a popular choice for investors seeking stable income and lower risk compared to stocks, making them a fundamental component of a balanced investment portfolio.</p><h2 id='s2'>Key Types of Bonds</h2><p>Bonds vary to include government bonds, issued by nations to finance their expenditures, which are typically considered the least risky.</p><p>There are also corporate bonds, issued by companies to fund operations and expansions, and municipal bonds, issued by local entities for infrastructure projects, with varying risks and returns.</p><h2 id='s3'>Pros and Cons of Bond Investing</h2><p><b>Pros</b>: Bonds offer predictable fixed income and are generally less volatile than stocks, reducing overall portfolio risk and helping preserve capital.</p><p><b>Cons</b>: Bond returns are often lower than stocks over the long term, and they are susceptible to inflation risk, which can erode the purchasing power of returns, in addition to interest rate risk.</p><h2 id='s4'>How to Invest in Bonds</h2><p>Investors can purchase bonds directly through financial brokers or banks that offer these services.</p><p>Alternatively, bonds can be invested in indirectly through bond mutual funds or Exchange Traded Funds (ETFs) that invest in a diversified basket of bonds, offering greater diversification and flexibility.</p><h2 id='s5'>Factors Affecting Bond Prices</h2><p>Bond prices are significantly influenced by interest rates; when new interest rates rise, the value of older bonds with lower interest rates typically falls.</p><p>Issuer credit ratings, inflation risk, and general economic conditions also affect the attractiveness of bonds and, consequently, their prices in the secondary market.</p><h2 id='s6'>Bond Investment Strategies</h2><p>To mitigate risk and optimize returns, it is advisable to diversify a bond portfolio across different types of bonds, maturities, and issuers.</p><p>A \"bond laddering\" strategy can be employed, where bonds with different maturity dates are purchased to provide regular liquidity and allow for reinvestment of proceeds at varying interest rates.</p>"
+  },
+  {
+    "id": 197,
+    "slug": "nfts-still-an-opportunity-in-2026",
+    "title": "NFTs: هل لا تزال فرصة في 2026؟",
+    "titleEn": "NFTs: Still an Opportunity in 2026?",
+    "summary": "بحلول عام 2026، من المتوقع أن تتحول الرموز غير القابلة للاستبدال (NFTs) من مجرد أصول مضاربة إلى أدوات ذات منفعة حقيقية في مجالات واسعة، رغم استمرار التحديات والمخاطر.",
+    "summaryEn": "By 2026, Non-fungible tokens (NFTs) are expected to transition from speculative assets to tools with real utility across broad sectors, despite ongoing challenges and risks.",
+    "excerpt": "هل لا تزال الـ NFTs فرصة استثمارية واعدة في عام 2026؟ تستكشف هذه المقالة التطورات المحتملة للرموز غير القابلة للاستبدال، من التركيز على المنفعة إلى التحديات ال��ي تواجه المستثمرين.",
+    "excerptEn": "Are NFTs still a promising investment opportunity in 2026? This article explores the potential evolution of non-fungible tokens, from a focus on utility to the challenges facing investors.",
+    "category": "العملات الرقمية",
+    "categoryEn": "Cryptocurrency",
+    "categoryIcon": "₿",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "8 نوفمبر 2026",
+    "dateEn": "November 8, 2026",
+    "dateISO": "2026-11-08",
+    "readTime": "9",
+    "views": "4873",
+    "emoji": "₿",
+    "gradient": "linear-gradient(135deg,#112244,#1a3a5c)",
+    "image": "images/article197.jpg",
+    "featured": false,
+    "breadcrumb": "العملات الرقمية",
+    "breadcrumbEn": "Cryptocurrency",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: صعود وهبوط جنون الـ NFT"
+      },
+      {
+        "id": "s2",
+        "text": "الوضع الحالي: تحول نحو المنفعة"
+      },
+      {
+        "id": "s3",
+        "text": "فرص 2026: استخدامات أوسع وتكامل أكبر"
+      },
+      {
+        "id": "s4",
+        "text": "المخاطر والتحديات: نظرة المستثمر"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: The Rise and Fall of the NFT Craze"
+      },
+      {
+        "id": "s2",
+        "text": "The Current Landscape: Shifting Towards Utility"
+      },
+      {
+        "id": "s3",
+        "text": "2026 Opportunities: Broader Uses and Greater Integration"
+      },
+      {
+        "id": "s4",
+        "text": "Risks, Challenges & Investor Outlook"
+      }
+    ],
+    "related": [
+      148
+    ],
+    "content": "<h2 id='s1'>مقدمة: صعود وهبوط جنون الـ NFT</h2><p>شهدت الرموز غير القابلة للاستبدال (NFTs) طفرة هائلة في السنوات الماضية، حيث تحولت من مفهوم تقني غامض إلى ظاهرة ثقافية واقتصادية، جذبت المستثمرين والفنانين على حد سواء.</p><p>ومع ذلك، بعد ذروة جنونية شهدت أسعارًا فلكية لبعض الأعمال، بدأت السوق في التباطؤ، مما أثار تساؤلات حول مستقبلها.</p><h2 id='s2'>الوضع الحالي: تحول نحو المنفعة</h2><p>تجاوزت سوق الـ NFTs مرحلة المضاربة البحتة، وبدأت تتجه نحو التركيز على المنفعة الحقيقية والتطبيقات العملية.</p><p>نرى الآن مشاريع تركز على الهوية الرقمية، تذاكر الفعاليات، أصول الألعاب داخ�� الميتافيرس، وحقوق الملكية الفكرية، مما يشير إلى نضج تدريجي في كيفية استخدام هذه التقنية.</p><h2 id='s3'>فرص 2026: استخدامات أوسع وتكامل أكبر</h2><p>بحلول عام 2026، من المتوقع أن تتجذر الـ NFTs بشكل أعمق في قطاعات متنوعة مثل العقارات الرقمية، سلاسل الإمداد، وحوكمة الشركات.</p><p>سيساهم هذا التوسع في زيادة اعتمادها، خاصة مع تطور البنية التحتية للبلوكتشين وتسهيل تجربة المستخدم، مما يفتح آفاقًا جديدة للاستثمار والابتكار.</p><h2 id='s4'>المخاطر والتحديات: نظرة المستثمر</h2><p>لا تزال سوق الـ NFTs تحمل مخاطر كبيرة، بما في ذلك التقلبات الشديدة، التحديات التنظيمية، ومخاطر الاحتيال.</p><p>يجب على المستثمرين المحتملين إجراء بحث دقيق وفهم عميق للمشاريع، والتركيز على الرموز ذات المنفعة الواضحة والمجتمعات القوية، بدلاً من مجرد ملاحقة الضجيج.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: The Rise and Fall of the NFT Craze</h2><p>Non-fungible tokens (NFTs) experienced an immense boom in recent years, transforming from an obscure technical concept into a cultural and economic phenomenon, attracting investors and artists alike.</p><p>However, after a frenzied peak that saw astronomical prices for some works, the market began to slow down, raising questions about its future.</p><h2 id='s2'>The Current Landscape: Shifting Towards Utility</h2><p>The NFT market has moved beyond pure speculation, beginning to focus on real utility and practical applications.</p><p>We now see projects centered on digital identity, event tickets, in-game metaverse assets, and intellectual property rights, indicating a gradual maturation in how this technology is used.</p><h2 id='s3'>2026 Opportunities: Broader Uses and Greater Integration</h2><p>By 2026, NFTs are expected to become more deeply embedded in diverse sectors such as digital real estate, supply chains, and corporate governance.</p><p>This expansion will contribute to their increased adoption, especially with the development of blockchain infrastructure and improved user experience, opening new avenues for investment and innovation.</p><h2 id='s4'>Risks, Challenges & Investor Outlook</h2><p>The NFT market still carries significant risks, including extreme volatility, regulatory challenges, and the potential for fraud.</p><p>Prospective investors should conduct thorough research and have a deep understanding of projects, focusing on tokens with clear utility and strong communities, rather than simply chasing hype.</p>"
   }
 ];
 

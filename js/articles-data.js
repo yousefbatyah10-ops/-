@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-08
-// Total articles: 197
+// Last updated: 2026-11-09
+// Total articles: 198
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -14252,6 +14252,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: صعود وهبوط جنون الـ NFT</h2><p>شهدت الرموز غير القابلة للاستبدال (NFTs) طفرة هائلة في السنوات الماضية، حيث تحولت من مفهوم تقني غامض إلى ظاهرة ثقافية واقتصادية، جذبت المستثمرين والفنانين على حد سواء.</p><p>ومع ذلك، بعد ذروة جنونية شهدت أسعارًا فلكية لبعض الأعمال، بدأت السوق في التباطؤ، مما أثار تساؤلات حول مستقبلها.</p><h2 id='s2'>الوضع الحالي: تحول نحو المنفعة</h2><p>تجاوزت سوق الـ NFTs مرحلة المضاربة البحتة، وبدأت تتجه نحو التركيز على المنفعة الحقيقية والتطبيقات العملية.</p><p>نرى الآن مشاريع تركز على الهوية الرقمية، تذاكر الفعاليات، أصول الألعاب داخ�� الميتافيرس، وحقوق الملكية الفكرية، مما يشير إلى نضج تدريجي في كيفية استخدام هذه التقنية.</p><h2 id='s3'>فرص 2026: استخدامات أوسع وتكامل أكبر</h2><p>بحلول عام 2026، من المتوقع أن تتجذر الـ NFTs بشكل أعمق في قطاعات متنوعة مثل العقارات الرقمية، سلاسل الإمداد، وحوكمة الشركات.</p><p>سيساهم هذا التوسع في زيادة اعتمادها، خاصة مع تطور البنية التحتية للبلوكتشين وتسهيل تجربة المستخدم، مما يفتح آفاقًا جديدة للاستثمار والابتكار.</p><h2 id='s4'>المخاطر والتحديات: نظرة المستثمر</h2><p>لا تزال سوق الـ NFTs تحمل مخاطر كبيرة، بما في ذلك التقلبات الشديدة، التحديات التنظيمية، ومخاطر الاحتيال.</p><p>يجب على المستثمرين المحتملين إجراء بحث دقيق وفهم عميق للمشاريع، والتركيز على الرموز ذات المنفعة الواضحة والمجتمعات القوية، بدلاً من مجرد ملاحقة الضجيج.</p>",
     "contentEn": "<h2 id='s1'>Introduction: The Rise and Fall of the NFT Craze</h2><p>Non-fungible tokens (NFTs) experienced an immense boom in recent years, transforming from an obscure technical concept into a cultural and economic phenomenon, attracting investors and artists alike.</p><p>However, after a frenzied peak that saw astronomical prices for some works, the market began to slow down, raising questions about its future.</p><h2 id='s2'>The Current Landscape: Shifting Towards Utility</h2><p>The NFT market has moved beyond pure speculation, beginning to focus on real utility and practical applications.</p><p>We now see projects centered on digital identity, event tickets, in-game metaverse assets, and intellectual property rights, indicating a gradual maturation in how this technology is used.</p><h2 id='s3'>2026 Opportunities: Broader Uses and Greater Integration</h2><p>By 2026, NFTs are expected to become more deeply embedded in diverse sectors such as digital real estate, supply chains, and corporate governance.</p><p>This expansion will contribute to their increased adoption, especially with the development of blockchain infrastructure and improved user experience, opening new avenues for investment and innovation.</p><h2 id='s4'>Risks, Challenges & Investor Outlook</h2><p>The NFT market still carries significant risks, including extreme volatility, regulatory challenges, and the potential for fraud.</p><p>Prospective investors should conduct thorough research and have a deep understanding of projects, focusing on tokens with clear utility and strong communities, rather than simply chasing hype.</p>"
+  },
+  {
+    "id": 198,
+    "slug": "index-funds-the-simplest-way-to-invest",
+    "title": "صناديق المؤشرات: أبسط طريقة للاستثمار",
+    "titleEn": "Index Funds: The Simplest Way to Invest",
+    "summary": "صناديق المؤشرات هي طريقة بسيطة وفعالة للاستثمار تتيح لك التنوع وتقليل المخاطر بأقل التكاليف.",
+    "summaryEn": "Index funds offer a simple and effective investment approach, providing diversification and risk reduction at minimal costs.",
+    "excerpt": "اكتشف كيف يمكن لصناديق المؤشرات أن تكون بوابتك للاستثمار السهل والمربح، حتى لو كنت مبتدئًا.",
+    "excerptEn": "Discover how index funds can be your gateway to easy and profitable investing, even if you're a beginner.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "9 نوفمبر 2026",
+    "dateEn": "November 9, 2026",
+    "dateISO": "2026-11-09",
+    "readTime": "8",
+    "views": "2336",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#1A2040,#2A3A6C)",
+    "image": "images/article198.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "صناديق المؤشرات: مقدمة سهلة"
+      },
+      {
+        "id": "s2",
+        "text": "ما هي صناديق المؤشرات؟"
+      },
+      {
+        "id": "s3",
+        "text": "لماذا هي الأبسط؟"
+      },
+      {
+        "id": "s4",
+        "text": "مزاياها الرئيسية"
+      },
+      {
+        "id": "s5",
+        "text": "كيف تبدأ الاستثمار؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Index Funds: An Easy Introduction"
+      },
+      {
+        "id": "s2",
+        "text": "What Are Index Funds?"
+      },
+      {
+        "id": "s3",
+        "text": "Why Are They The Simplest?"
+      },
+      {
+        "id": "s4",
+        "text": "Key Advantages"
+      },
+      {
+        "id": "s5",
+        "text": "How to Start Investing?"
+      }
+    ],
+    "related": [
+      2
+    ],
+    "content": "<h2 id='s1'>صناديق المؤشرات: مقدمة سهلة</h2><p>هل تبحث عن طريقة بسيطة وفعالة لدخول عالم الاستثمار دون الحاجة لخبرة عميقة؟ صناديق المؤشرات (ETFs) تقدم لك الحل الأمثل. إنها خيار شائع للمستثمرين الجدد والمخضرمين على حد سواء.</p><h2 id='s2'>ما هي صناديق المؤشرات؟</h2><p>صندوق المؤشرات هو نوع من الصناديق الاستثمارية التي تهدف إلى تتبع أداء مؤشر سوق معين، مثل S&P 500 أو مؤشر تاسي. بدلاً من محاولة التفوق على السوق، يهدف الصندوق إلى محاكاة أدائه فقط.</p><p>يعني هذا أنك تستثمر في مجموعة متنوعة من الأصول الموجودة ضمن المؤشر، مما يوفر لك تنوعًا فوريًا.</p><h2 id='s3'>لماذا هي الأبسط؟</h2><p>تكمن بساطتها في كونها لا تتطلب اختيار أسهم فردية أو متابعة مستمرة للسوق. بمجرد شراء حصة في صندوق مؤشرات، فإنك تستثمر تلقائيًا في محفظة متنوعة.</p><p>كما أن رسوم إدارتها غالبًا ما تكون أقل بكثير مقارنة بالصناديق المدارة بنشاط، مما يحافظ على جزء أكبر من عائداتك.</p><h2 id='s4'>مزاياها الرئيسية</h2><p>توفر صناديق المؤشرات تنوعًا كبيرًا، مما يقلل من المخاطر المرتبطة بالاستثمار في سهم واحد. كما أنها تتميز بالشفافية والسيولة العالية، حيث يمكن تداولها مثل الأسهم العادية طوال اليوم.</p><p>هذه المزايا تجعلها أداة قوية لبناء ثروة طويلة الأجل بطريقة سهلة وميسورة التكلفة.</p><h2 id='s5'>كيف تبدأ الاستثمار؟</h2><p>البدء في الاستثمار بصناديق المؤشرات سهل للغاية. كل ما تحتاجه هو فتح حساب وساطة لدى شركة استثمارية، ثم يمكنك شراء وبيع وحدات الصندوق بكل سهولة.</p>",
+    "contentEn": "<h2 id='s1'>Index Funds: An Easy Introduction</h2><p>Are you looking for a simple and effective way to enter the world of investing without needing deep expertise? Index Funds (ETFs) offer the perfect solution. They are a popular choice for both new and experienced investors alike.</p><h2 id='s2'>What Are Index Funds?</h2><p>An index fund is a type of investment fund that aims to track the performance of a specific market index, such as the S&P 500 or the TASI index. Instead of trying to beat the market, the fund aims only to replicate its performance.</p><p>This means you invest in a diverse group of assets included in the index, providing instant diversification.</p><h2 id='s3'>Why Are They The Simplest?</h2><p>Their simplicity lies in not requiring you to pick individual stocks or constantly monitor the market. Once you buy a share in an index fund, you automatically invest in a diversified portfolio.</p><p>Their management fees are also often significantly lower compared to actively managed funds, preserving more of your returns.</p><h2 id='s4'>Key Advantages</h2><p>Index funds offer extensive diversification, reducing the risk associated with investing in a single stock. They also boast transparency and high liquidity, as they can be traded like regular stocks throughout the day.</p><p>These advantages make them a powerful tool for building long-term wealth in an easy and affordable manner.</p><h2 id='s5'>How to Start Investing?</h2><p>Getting started with index fund investing is very straightforward. All you need is to open a brokerage account with an investment firm, and then you can easily buy and sell fund units.</p>"
   }
 ];
 

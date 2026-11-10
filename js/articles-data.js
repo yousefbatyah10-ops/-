@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-09
-// Total articles: 198
+// Last updated: 2026-11-10
+// Total articles: 199
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -14329,6 +14329,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>صناديق المؤشرات: مقدمة سهلة</h2><p>هل تبحث عن طريقة بسيطة وفعالة لدخول عالم الاستثمار دون الحاجة لخبرة عميقة؟ صناديق المؤشرات (ETFs) تقدم لك الحل الأمثل. إنها خيار شائع للمستثمرين الجدد والمخضرمين على حد سواء.</p><h2 id='s2'>ما هي صناديق المؤشرات؟</h2><p>صندوق المؤشرات هو نوع من الصناديق الاستثمارية التي تهدف إلى تتبع أداء مؤشر سوق معين، مثل S&P 500 أو مؤشر تاسي. بدلاً من محاولة التفوق على السوق، يهدف الصندوق إلى محاكاة أدائه فقط.</p><p>يعني هذا أنك تستثمر في مجموعة متنوعة من الأصول الموجودة ضمن المؤشر، مما يوفر لك تنوعًا فوريًا.</p><h2 id='s3'>لماذا هي الأبسط؟</h2><p>تكمن بساطتها في كونها لا تتطلب اختيار أسهم فردية أو متابعة مستمرة للسوق. بمجرد شراء حصة في صندوق مؤشرات، فإنك تستثمر تلقائيًا في محفظة متنوعة.</p><p>كما أن رسوم إدارتها غالبًا ما تكون أقل بكثير مقارنة بالصناديق المدارة بنشاط، مما يحافظ على جزء أكبر من عائداتك.</p><h2 id='s4'>مزاياها الرئيسية</h2><p>توفر صناديق المؤشرات تنوعًا كبيرًا، مما يقلل من المخاطر المرتبطة بالاستثمار في سهم واحد. كما أنها تتميز بالشفافية والسيولة العالية، حيث يمكن تداولها مثل الأسهم العادية طوال اليوم.</p><p>هذه المزايا تجعلها أداة قوية لبناء ثروة طويلة الأجل بطريقة سهلة وميسورة التكلفة.</p><h2 id='s5'>كيف تبدأ الاستثمار؟</h2><p>البدء في الاستثمار بصناديق المؤشرات سهل للغاية. كل ما تحتاجه هو فتح حساب وساطة لدى شركة استثمارية، ثم يمكنك شراء وبيع وحدات الصندوق بكل سهولة.</p>",
     "contentEn": "<h2 id='s1'>Index Funds: An Easy Introduction</h2><p>Are you looking for a simple and effective way to enter the world of investing without needing deep expertise? Index Funds (ETFs) offer the perfect solution. They are a popular choice for both new and experienced investors alike.</p><h2 id='s2'>What Are Index Funds?</h2><p>An index fund is a type of investment fund that aims to track the performance of a specific market index, such as the S&P 500 or the TASI index. Instead of trying to beat the market, the fund aims only to replicate its performance.</p><p>This means you invest in a diverse group of assets included in the index, providing instant diversification.</p><h2 id='s3'>Why Are They The Simplest?</h2><p>Their simplicity lies in not requiring you to pick individual stocks or constantly monitor the market. Once you buy a share in an index fund, you automatically invest in a diversified portfolio.</p><p>Their management fees are also often significantly lower compared to actively managed funds, preserving more of your returns.</p><h2 id='s4'>Key Advantages</h2><p>Index funds offer extensive diversification, reducing the risk associated with investing in a single stock. They also boast transparency and high liquidity, as they can be traded like regular stocks throughout the day.</p><p>These advantages make them a powerful tool for building long-term wealth in an easy and affordable manner.</p><h2 id='s5'>How to Start Investing?</h2><p>Getting started with index fund investing is very straightforward. All you need is to open a brokerage account with an investment firm, and then you can easily buy and sell fund units.</p>"
+  },
+  {
+    "id": 199,
+    "slug": "ethereum-more-than-just-a-cryptocurrency",
+    "title": "الإيثيريوم: أكثر من مجرد عملة رقمية",
+    "titleEn": "Ethereum: More Than Just a Cryptocurrency",
+    "summary": "الإيثيريوم هو منصة بلوكتشين قوية تتجاوز كونها مجرد عملة رقمية، فهي تمكن من بناء العقود الذكية والتطبيقات اللامركزية التي تشكل أساس الويب 3.0.",
+    "summaryEn": "Ethereum is a powerful blockchain platform that goes beyond being just a digital currency, enabling the creation of smart contracts and decentralized applications forming the foundation of Web 3.0.",
+    "excerpt": "اكتشف كيف أن الإيثيريوم يمثل ثورة تكنولوجية أوسع من مجرد تداول عملة ETH، فهو يبني مستقبلًا لامركزيًا للعالم الرقمي.",
+    "excerptEn": "Discover how Ethereum represents a broader technological revolution than just trading ETH, building a decentralized future for the digital world.",
+    "category": "العملات الرقمية",
+    "categoryEn": "Cryptocurrency",
+    "categoryIcon": "₿",
+    "author": "عمر الخالدي",
+    "authorEn": "Omar Al-Khalidi",
+    "authorInitial": "O",
+    "date": "10 نوفمبر 2026",
+    "dateEn": "November 10, 2026",
+    "dateISO": "2026-11-10",
+    "readTime": "12",
+    "views": "1686",
+    "emoji": "₿",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article199.jpg",
+    "featured": false,
+    "breadcrumb": "العملات الرقمية",
+    "breadcrumbEn": "Cryptocurrency",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة إلى الإيثيريوم"
+      },
+      {
+        "id": "s2",
+        "text": "العقود الذكية: جوهر الابتكار"
+      },
+      {
+        "id": "s3",
+        "text": "التطبيقات اللامركزية (dApps)"
+      },
+      {
+        "id": "s4",
+        "text": "الإيثيريوم ومستقبل الويب"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Ethereum"
+      },
+      {
+        "id": "s2",
+        "text": "Smart Contracts: The Core Innovation"
+      },
+      {
+        "id": "s3",
+        "text": "Decentralized Applications (dApps)"
+      },
+      {
+        "id": "s4",
+        "text": "Ethereum and the Future of the Web"
+      }
+    ],
+    "related": [
+      138
+    ],
+    "content": "<h2 id='s1'>مقدمة إلى الإيثيريوم</h2><p>الإيثيريوم ليس مجرد عملة رقمية (ETH)؛ بل هو منصة بلوكتشين لامركزية قوية تتيح للمطورين بناء ونشر تطبيقات عليها.</p><p>يعتبر بمثابة \"كمبيوتر عالمي\" يمكن لأي شخص الوصول إليه واستخدامه لبناء مشاريع مبتكرة.</p><h2 id='s2'>العقود الذكية: جوهر الابتكار</h2><p>تكمن قوة الإيثيريوم في العقود الذكية، وهي اتفاقيات ذاتية التنفيذ يتم تخزينها وتشغيلها على شبكة البلوكتشين.</p><p>تلغي هذه العقود الحاجة إلى وسطاء، مما يضمن الشفافية والأمان في المعاملات والاتفاقيات.</p><h2 id='s3'>التطبيقات اللامركزية (dApps)</h2><p>بفضل العقود الذكية، شهدت الإيثيريوم ازدهارًا في التطبيقات اللامركزية (dApps) التي تعمل دون سيطرة مركزية.</p><p>تشمل هذه التطبيقات كل شيء من ألعاب البلوكتشين والشبكات الاجتماعية إلى حلول التمويل اللامركزي (DeFi).</p><h2 id='s4'>الإيثيريوم ومستقبل الويب</h2><p>لعب الإيثيريوم دورًا محوريًا في ظهور التمويل اللامركزي (DeFi) والرموز غير القابلة للاستبدال (NFTs)، مما يغير مفهوم الملكية والأصول.</p><p>إنه حجر الزاوية في بناء \"الويب 3.0\" اللامركزي، حيث يمتلك المستخدمون بياناتهم وأصولهم بشكل حقيقي.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Ethereum</h2><p>Ethereum is not merely a digital currency (ETH); it's a robust decentralized blockchain platform enabling developers to build and deploy applications.</p><p>It functions as a \"world computer,\" accessible to anyone for creating innovative projects.</p><h2 id='s2'>Smart Contracts: The Core Innovation</h2><p>Ethereum's power lies in smart contracts, self-executing agreements stored and run on the blockchain network.</p><p>These contracts eliminate the need for intermediaries, ensuring transparency and security in transactions and agreements.</p><h2 id='s3'>Decentralized Applications (dApps)</h2><p>Thanks to smart contracts, Ethereum has seen a boom in decentralized applications (dApps) that operate without central control.</p><p>These applications range from blockchain games and social networks to decentralized finance (DeFi) solutions.</p><h2 id='s4'>Ethereum and the Future of the Web</h2><p>Ethereum has been pivotal in the emergence of Decentralized Finance (DeFi) and Non-Fungible Tokens (NFTs), redefining ownership and assets.</p><p>It serves as a cornerstone for building the decentralized \"Web 3.0,\" where users genuinely own their data and assets.</p>"
   }
 ];
 

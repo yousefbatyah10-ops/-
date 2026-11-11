@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-10
-// Total articles: 199
+// Last updated: 2026-11-11
+// Total articles: 200
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -14398,6 +14398,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة إلى الإيثيريوم</h2><p>الإيثيريوم ليس مجرد عملة رقمية (ETH)؛ بل هو منصة بلوكتشين لامركزية قوية تتيح للمطورين بناء ونشر تطبيقات عليها.</p><p>يعتبر بمثابة \"كمبيوتر عالمي\" يمكن لأي شخص الوصول إليه واستخدامه لبناء مشاريع مبتكرة.</p><h2 id='s2'>العقود الذكية: جوهر الابتكار</h2><p>تكمن قوة الإيثيريوم في العقود الذكية، وهي اتفاقيات ذاتية التنفيذ يتم تخزينها وتشغيلها على شبكة البلوكتشين.</p><p>تلغي هذه العقود الحاجة إلى وسطاء، مما يضمن الشفافية والأمان في المعاملات والاتفاقيات.</p><h2 id='s3'>التطبيقات اللامركزية (dApps)</h2><p>بفضل العقود الذكية، شهدت الإيثيريوم ازدهارًا في التطبيقات اللامركزية (dApps) التي تعمل دون سيطرة مركزية.</p><p>تشمل هذه التطبيقات كل شيء من ألعاب البلوكتشين والشبكات الاجتماعية إلى حلول التمويل اللامركزي (DeFi).</p><h2 id='s4'>الإيثيريوم ومستقبل الويب</h2><p>لعب الإيثيريوم دورًا محوريًا في ظهور التمويل اللامركزي (DeFi) والرموز غير القابلة للاستبدال (NFTs)، مما يغير مفهوم الملكية والأصول.</p><p>إنه حجر الزاوية في بناء \"الويب 3.0\" اللامركزي، حيث يمتلك المستخدمون بياناتهم وأصولهم بشكل حقيقي.</p>",
     "contentEn": "<h2 id='s1'>Introduction to Ethereum</h2><p>Ethereum is not merely a digital currency (ETH); it's a robust decentralized blockchain platform enabling developers to build and deploy applications.</p><p>It functions as a \"world computer,\" accessible to anyone for creating innovative projects.</p><h2 id='s2'>Smart Contracts: The Core Innovation</h2><p>Ethereum's power lies in smart contracts, self-executing agreements stored and run on the blockchain network.</p><p>These contracts eliminate the need for intermediaries, ensuring transparency and security in transactions and agreements.</p><h2 id='s3'>Decentralized Applications (dApps)</h2><p>Thanks to smart contracts, Ethereum has seen a boom in decentralized applications (dApps) that operate without central control.</p><p>These applications range from blockchain games and social networks to decentralized finance (DeFi) solutions.</p><h2 id='s4'>Ethereum and the Future of the Web</h2><p>Ethereum has been pivotal in the emergence of Decentralized Finance (DeFi) and Non-Fungible Tokens (NFTs), redefining ownership and assets.</p><p>It serves as a cornerstone for building the decentralized \"Web 3.0,\" where users genuinely own their data and assets.</p>"
+  },
+  {
+    "id": 200,
+    "slug": "how-to-eliminate-debt-permanently",
+    "title": "كيف تتخلص من الديون نهائياً",
+    "titleEn": "How to Eliminate Debt Permanently",
+    "summary": "التخلص من الديون نهائياً يتطلب فهماً شاملاً لوضعك المالي، وضع خطة سداد استراتيجية، زيادة الدخل وتقليل النفقات، وبناء عادات مالية مستدامة للمستقبل.",
+    "summaryEn": "Permanently eliminating debt requires a comprehensive understanding of your financial situation, developing a strategic repayment plan, increasing income while reducing expenses, and building sustainable financial habits for the future.",
+    "excerpt": "استكشف الخطوات الأساسية للتخلص من الديون نهائياً وبناء مستقبل مالي مستقر من خلال التخطيط الذكي وتغيير العادات.",
+    "excerptEn": "Explore the essential steps to permanently eliminate debt and build a stable financial future through smart planning and habit changes.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "11 نوفمبر 2026",
+    "dateEn": "November 11, 2026",
+    "dateISO": "2026-11-11",
+    "readTime": "11",
+    "views": "2794",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article200.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "تقييم وضعك المالي الحالي"
+      },
+      {
+        "id": "s2",
+        "text": "وضع خطة سداد فعالة"
+      },
+      {
+        "id": "s3",
+        "text": "زيادة الدخل وتقليل النفقات"
+      },
+      {
+        "id": "s4",
+        "text": "بناء عادات مالية صحية للمستقبل"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Assessing Your Current Financial Situation"
+      },
+      {
+        "id": "s2",
+        "text": "Developing an Effective Repayment Plan"
+      },
+      {
+        "id": "s3",
+        "text": "Increasing Income and Reducing Expenses"
+      },
+      {
+        "id": "s4",
+        "text": "Building Healthy Financial Habits for the Future"
+      }
+    ],
+    "related": [
+      17
+    ],
+    "content": "<h2 id='s1'>تقييم وضعك المالي الحالي</h2><p>الخطوة الأولى للتخلص من الديون هي فهم حجمها وأنواعها. قم بإعداد قائمة مفصلة بكل ديونك، بما في ذلك المبلغ الأصلي، سعر الفائدة، والحد الأدنى للدفع الشهري.</p><p>هذا التقييم سيوفر لك صورة واضحة لوضعك المالي ويساعدك على تحديد الأولويات في خطة السداد.</p><h2 id='s2'>وضع خطة سداد فعالة</h2><p>بعد معرفة ديونك، اختر استراتيجية سداد. يمكنك البدء بالديون ذات الفائدة الأعلى لتوفير المال على المدى الطويل (طريقة كرة الانهيار الثلجي)، أو البدء بأصغر الديون لتحقيق انتصارات سريعة وزيادة الدافع (طريقة كرة الثلج).</p><p>المهم هو الالتزام بالخطة وتخصيص مبلغ إضافي كل شهر لسداد الديون بشكل أسرع من الحد الأدنى.</p><h2 id='s3'>زيادة الدخل وتقليل النفقات</h2><p>لتحرير المزيد من الأموال لسداد الديون، ابحث عن طرق لزيادة دخلك، مثل العمل الحر أو وظيفة جانبية. في الوقت نفسه، قم بمراجعة نفقاتك الشهرية بعناية وحدد المجالات التي يمكنك تقليصها.</p><p>كل درهم توفره أو تكسبه إضافياً يمكن أن يسرع من رحلتك نحو التحرر من الديون.</p><h2 id='s4'>بناء عادات مالية صحية للمستقبل</h2><p>التخلص من الديون ليس نهاية المطاف، بل هو بداية لرحلة بناء مستقبل مالي مستقر. قم بإنشاء صندوق طوارئ لتجنب الوقوع في الديون مرة أخرى بسبب النفقات غير المتوقعة.</p><p>مارس الإنفاق الواعي، وضع أهدافاً مالية واضحة، واستمر في تثقيف نفسك مالياً لضمان بقائك بعيداً عن الديون.</p>",
+    "contentEn": "<h2 id='s1'>Assessing Your Current Financial Situation</h2><p>The first step to eliminating debt is understanding its size and types. Make a detailed list of all your debts, including the original amount, interest rate, and minimum monthly payment.</p><p>This assessment will provide a clear picture of your financial situation and help you prioritize your repayment plan.</p><h2 id='s2'>Developing an Effective Repayment Plan</h2><p>Once you know your debts, choose a repayment strategy. You can start with the highest-interest debts to save money in the long run (debt avalanche method), or begin with the smallest debts for quick wins and increased motivation (debt snowball method).</p><p>The key is to commit to the plan and allocate an additional amount each month to pay off debts faster than the minimum.</p><h2 id='s3'>Increasing Income and Reducing Expenses</h2><p>To free up more money for debt repayment, look for ways to increase your income, such as freelancing or a side job. Simultaneously, carefully review your monthly expenses and identify areas where you can cut back.</p><p>Every extra dirham you save or earn can accelerate your journey towards becoming debt-free.</p><h2 id='s4'>Building Healthy Financial Habits for the Future</h2><p>Eliminating debt is not the end, but the beginning of a journey to build a stable financial future. Create an emergency fund to avoid falling back into debt due to unexpected expenses.</p><p>Practice mindful spending, set clear financial goals, and continue educating yourself financially to ensure you remain debt-free.</p>"
   }
 ];
 

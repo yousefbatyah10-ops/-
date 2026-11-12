@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-11
-// Total articles: 200
+// Last updated: 2026-11-12
+// Total articles: 201
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -14467,6 +14467,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>تقييم وضعك المالي الحالي</h2><p>الخطوة الأولى للتخلص من الديون هي فهم حجمها وأنواعها. قم بإعداد قائمة مفصلة بكل ديونك، بما في ذلك المبلغ الأصلي، سعر الفائدة، والحد الأدنى للدفع الشهري.</p><p>هذا التقييم سيوفر لك صورة واضحة لوضعك المالي ويساعدك على تحديد الأولويات في خطة السداد.</p><h2 id='s2'>وضع خطة سداد فعالة</h2><p>بعد معرفة ديونك، اختر استراتيجية سداد. يمكنك البدء بالديون ذات الفائدة الأعلى لتوفير المال على المدى الطويل (طريقة كرة الانهيار الثلجي)، أو البدء بأصغر الديون لتحقيق انتصارات سريعة وزيادة الدافع (طريقة كرة الثلج).</p><p>المهم هو الالتزام بالخطة وتخصيص مبلغ إضافي كل شهر لسداد الديون بشكل أسرع من الحد الأدنى.</p><h2 id='s3'>زيادة الدخل وتقليل النفقات</h2><p>لتحرير المزيد من الأموال لسداد الديون، ابحث عن طرق لزيادة دخلك، مثل العمل الحر أو وظيفة جانبية. في الوقت نفسه، قم بمراجعة نفقاتك الشهرية بعناية وحدد المجالات التي يمكنك تقليصها.</p><p>كل درهم توفره أو تكسبه إضافياً يمكن أن يسرع من رحلتك نحو التحرر من الديون.</p><h2 id='s4'>بناء عادات مالية صحية للمستقبل</h2><p>التخلص من الديون ليس نهاية المطاف، بل هو بداية لرحلة بناء مستقبل مالي مستقر. قم بإنشاء صندوق طوارئ لتجنب الوقوع في الديون مرة أخرى بسبب النفقات غير المتوقعة.</p><p>مارس الإنفاق الواعي، وضع أهدافاً مالية واضحة، واستمر في تثقيف نفسك مالياً لضمان بقائك بعيداً عن الديون.</p>",
     "contentEn": "<h2 id='s1'>Assessing Your Current Financial Situation</h2><p>The first step to eliminating debt is understanding its size and types. Make a detailed list of all your debts, including the original amount, interest rate, and minimum monthly payment.</p><p>This assessment will provide a clear picture of your financial situation and help you prioritize your repayment plan.</p><h2 id='s2'>Developing an Effective Repayment Plan</h2><p>Once you know your debts, choose a repayment strategy. You can start with the highest-interest debts to save money in the long run (debt avalanche method), or begin with the smallest debts for quick wins and increased motivation (debt snowball method).</p><p>The key is to commit to the plan and allocate an additional amount each month to pay off debts faster than the minimum.</p><h2 id='s3'>Increasing Income and Reducing Expenses</h2><p>To free up more money for debt repayment, look for ways to increase your income, such as freelancing or a side job. Simultaneously, carefully review your monthly expenses and identify areas where you can cut back.</p><p>Every extra dirham you save or earn can accelerate your journey towards becoming debt-free.</p><h2 id='s4'>Building Healthy Financial Habits for the Future</h2><p>Eliminating debt is not the end, but the beginning of a journey to build a stable financial future. Create an emergency fund to avoid falling back into debt due to unexpected expenses.</p><p>Practice mindful spending, set clear financial goals, and continue educating yourself financially to ensure you remain debt-free.</p>"
+  },
+  {
+    "id": 201,
+    "slug": "early-retirement-an-achievable-dream",
+    "title": "التقاعد المبكر: حلم قابل للتحقيق",
+    "titleEn": "Early Retirement: An Achievable Dream",
+    "summary": "التقاعد المبكر حلم ممكن التحقيق من خلال التخطيط المالي الدقيق والادخار الذكي والاستثمار الفعال.",
+    "summaryEn": "Early retirement is an achievable dream through meticulous financial planning, smart saving, and effective investing.",
+    "excerpt": "اكتشف كيف يمكنك تحويل حلم التقاعد المبكر إلى واقع ملموس بخطوات عملية واستراتيجيات مالية ذكية.",
+    "excerptEn": "Discover how you can turn the dream of early retirement into a tangible reality with practical steps and smart financial strategies.",
+    "category": "المالية الشخصية",
+    "categoryEn": "Personal Finance",
+    "categoryIcon": "🎯",
+    "author": "عمر الخالدي",
+    "authorEn": "Omar Al-Khalidi",
+    "authorInitial": "O",
+    "date": "12 نوفمبر 2026",
+    "dateEn": "November 12, 2026",
+    "dateISO": "2026-11-12",
+    "readTime": "8",
+    "views": "1127",
+    "emoji": "🎯",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article201.jpg",
+    "featured": false,
+    "breadcrumb": "المالية الشخصية",
+    "breadcrumbEn": "Personal Finance",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "التقاعد المبكر: ما هو ولماذا يجذب الكثيرين؟"
+      },
+      {
+        "id": "s2",
+        "text": "الركائز الأساسية لتحقيق الحلم"
+      },
+      {
+        "id": "s3",
+        "text": "استراتيجيات عملية للوصول إلى هدفك"
+      },
+      {
+        "id": "s4",
+        "text": "رحلة التقاعد المبكر: استمتع بالحرية"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Early Retirement: What Is It and Why Is It Appealing?"
+      },
+      {
+        "id": "s2",
+        "text": "Key Pillars to Achieve the Dream"
+      },
+      {
+        "id": "s3",
+        "text": "Practical Strategies to Reach Your Goal"
+      },
+      {
+        "id": "s4",
+        "text": "The Early Retirement Journey: Embrace Freedom"
+      }
+    ],
+    "related": [
+      200
+    ],
+    "content": "<h2 id='s1'>التقاعد المبكر: ما هو ولماذا يجذب الكثيرين؟</h2><p>التقاعد المبكر هو هدف مالي يطمح إليه الكثيرون، يتيح للفرد التوقف عن العمل قبل السن التقليدية للتقاعد، مانحًا إياه حرية استغلال وقته وطاقته في ما يحب.</p><p>جاذبيته تكمن في البحث عن الحرية الشخصية، قضاء وقت أطول مع العائلة، متابعة الشغف، أو التخلص من ضغوط العمل الروتينية، مما يفتح آفاقًا لحياة أكثر مرونة وإشباعًا.</p><h2 id='s2'>الركائز الأساسية لتحقيق الحلم</h2><p>لتحقيق التقاعد المبكر، يجب التركيز على ثلاث ركائز أساسية: التخطيط المالي المحكم، الادخار الكفيل، والاستثمار الذكي. هذه الأعمدة هي التي ستبني أساسًا صلبًا لمستقبلك المالي.</p><p>يتطلب الأمر تحديد أهداف مالية واقعية وتقدير المبلغ المطلوب للعيش براحة دون الحاجة للدخل المنتظم، مع الأخذ في الاعتبار التضخم والنفقات غير المتوقعة.</p><h2 id='s3'>اس��راتيجيات عملية للوصول إلى هدفك</h2><p>تشمل الاستراتيجيات العملية بناء ميزانية صارمة لتقليل النفقات، وتسريع سداد الديون ذات الفوائد العالية، وزيادة الدخل النشط والسلبي قدر الإمكان.</p><p>كما يجب استكشاف خيارات الاستثمار المتنوعة مثل الأسهم، العقارات، صناديق المؤشرات المتداولة (ETFs)، أو تأسيس مشاريع تدر دخلاً سلبياً لتحقيق نمو رأسمالي مستدام.</p><h2 id='s4'>رحلة التقاعد المبكر: استمتع بالحرية</h2><p>التقاعد المبكر ليس مجرد نهاية للعمل، بل هو بداية فصل جديد في الحياة مليء بالخيارات والفرص لاستكشاف اهتمامات جديدة وتحقيق أحلام مؤجلة.</p><p>يتطلب الأمر التزامًا وانضباطًا على المدى الطويل، لكن المكافأة هي حرية لا تقدر بثمن تتيح لك العيش وفقًا لشروطك الخاصة.</p>",
+    "contentEn": "<h2 id='s1'>Early Retirement: What Is It and Why Is It Appealing?</h2><p>Early retirement is a financial goal many aspire to, allowing individuals to cease working before the traditional retirement age, granting them the freedom to utilize their time and energy on what they love.</p><p>Its appeal lies in the pursuit of personal freedom, spending more time with family, pursuing passions, or escaping routine work pressures, opening horizons for a more flexible and fulfilling life.</p><h2 id='s2'>Key Pillars to Achieve the Dream</h2><p>To achieve early retirement, focus on three fundamental pillars: meticulous financial planning, diligent saving, and smart investing. These columns will build a solid foundation for your financial future.</p><p>It requires setting realistic financial goals and estimating the capital needed to live comfortably without the need for regular income, taking into account inflation and unexpected expenses.</p><h2 id='s3'>Practical Strategies to Reach Your Goal</h2><p>Practical strategies include building a strict budget to reduce expenses, accelerating the repayment of high-interest debts, and increasing both active and passive income as much as possible.</p><p>One should also explore diverse investment options such as stocks, real estate, exchange-traded funds (ETFs), or establishing ventures that generate passive income to achieve sustainable capital growth.</p><h2 id='s4'>The Early Retirement Journey: Embrace Freedom</h2><p>Early retirement is not merely an end to work; it's the beginning of a new chapter in life, rich with choices and opportunities to explore new interests and fulfill deferred dreams.</p><p>It demands long-term commitment and discipline, but the reward is invaluable freedom, allowing you to live life on your own terms.</p>"
   }
 ];
 

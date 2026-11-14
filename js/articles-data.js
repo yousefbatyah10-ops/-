@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-13
-// Total articles: 202
+// Last updated: 2026-11-14
+// Total articles: 203
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -14605,6 +14605,83 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هي الأراضي البيضاء؟</h2><p>الأراضي البيضاء هي قطع أراضٍ غير مطورة تقع عادةً ضمن النطاق العمراني أو على أطرافه، وتكون مخصصة للتطوير المستقبلي. تفتقر هذه الأراضي إلى البنية التحتية الأساسية وقد تكون خالية تمامًا من أي مبانٍ.</p><p>تمثل هذه الأراضي فرصة استثمارية للمستثمرين الذين يتطلعون للاستفادة من النمو العمراني والتوسع السكاني في المدن.</p><h2 id='s2'>لماذا الاستثمار فيها؟</h2><p>الاستثمار في الأراضي البيضاء يجذب العديد لما يحمله من إمكانات نمو رأسمالي كبير على المدى الطويل. غالبًا ما تكون أسعارها الأولية أقل مقارنة بالعقارات المطورة، مما يتيح دخول السوق برأس مال أقل نسبيًا.</p><p>مع تطور البنية التحتية وتوسع المدن، تزداد قيمة هذه الأراضي بشكل ملحوظ، مما يحقق عوائد مجزية للمستثمرين الصبورين.</p><h2 id='s3'>عوامل يجب مراعاتها قبل الاستثمار</h2><p>تتطلب دراسة الموقع بعناية فائقة، مع التركيز على قربها من المدن والمراكز الخدمية وخطط التوسع العمراني المستقبلية. يجب التحقق من قوانين التخطيط العمراني وتصنيف الأرض والاطلاع على أي مشاريع حكومية أو خاصة قادمة في المنطقة.</p><p>كما يجب الأخذ في الاعتبار التكاليف المحتملة مثل رسوم الصيانة وضرائب الأراضي البيضاء، التي قد تؤثر على العائد الإجمالي للاستثمار.</p><h2 id='s4'>المخاطر والتحديات</h2><p>على الرغم من جاذبيتها، تحمل الأراضي البيضاء بعض المخاطر، أبرزها السيولة المنخفضة حيث قد يستغرق بيعها وقتًا طويلاً. كما أن هناك عدم يقين بشأن توقيت مشاريع التطوير الحكومية أو الخاصة التي قد ترفع قيمتها.</p><p>التغيرات في الأنظمة والضرائب، بالإضافة إلى تقلبات السوق العقاري، يمكن أن تؤثر سلبًا على قيمة الاستثمار. لذا، يتطلب هذا النوع من الاستثمار رؤية طويلة الأمد وتحملًا للمخاطر.</p>",
     "contentEn": "<h2 id='s1'>What are White Lands?</h2><p>White lands are undeveloped plots of land typically located within or on the outskirts of urban areas, designated for future development. These lands often lack basic infrastructure and may be completely vacant.</p><p>They represent an investment opportunity for those looking to capitalize on urban growth and population expansion in cities.</p><h2 id='s2'>Why Invest in Them?</h2><p>Investing in white lands is appealing due to its potential for significant long-term capital appreciation. Their initial prices are often lower compared to developed properties, allowing for market entry with relatively less capital.</p><p>As infrastructure develops and cities expand, the value of these lands tends to increase substantially, yielding rewarding returns for patient investors.</p><h2 id='s3'>Factors to Consider Before Investing</h2><p>Careful consideration of the location is crucial, focusing on proximity to cities, service centers, and future urban expansion plans. It's essential to verify zoning laws, land classification, and research any upcoming government or private projects in the area.</p><p>Potential holding costs, such as maintenance fees and white land taxes, must also be factored in, as they can impact the overall return on investment.</p><h2 id='s4'>Risks and Challenges</h2><p>Despite their appeal, white lands carry certain risks, primarily low liquidity, as selling them can take a long time. There's also uncertainty regarding the timing of government or private development projects that could boost their value.</p><p>Changes in regulations and taxes, along with real estate market fluctuations, can negatively affect investment value. Therefore, this type of investment requires a long-term vision and a tolerance for risk.</p>"
+  },
+  {
+    "id": 203,
+    "slug": "platinum-the-forgotten-investment-metal",
+    "title": "البلاتينيوم: المعدن المنسي في عالم الاستثمار",
+    "titleEn": "Platinum: The Forgotten Investment Metal",
+    "summary": "البلاتينيوم، المعدن الثمين الذي غالبًا ما يُغفل عنه، يمتلك خصائص فريدة وتطبيقات صناعية واسعة تجعله خيارًا استثماريًا مثيرًا للاهتمام.",
+    "summaryEn": "Platinum, a precious metal often overlooked, possesses unique properties and widespread industrial applications that make it an intriguing investment option.",
+    "excerpt": "يستكشف هذا المقال إمكانات البلاتينيوم الاستثمارية، مسلطًا الضوء على استخداماته المتنوعة وعوامل العرض والطلب التي تؤثر على قيمته.",
+    "excerptEn": "This article explores platinum's investment potential, highlighting its diverse uses and the supply and demand factors influencing its value.",
+    "category": "الذهب والمعادن",
+    "categoryEn": "Gold & Metals",
+    "categoryIcon": "🧸",
+    "author": "خالد المحسن",
+    "authorEn": "Khalid Al-Muhsen",
+    "authorInitial": "K",
+    "date": "14 نوفمبر 2026",
+    "dateEn": "November 14, 2026",
+    "dateISO": "2026-11-14",
+    "readTime": "11",
+    "views": "3689",
+    "emoji": "🧸",
+    "gradient": "linear-gradient(135deg,#1A3A5C,#2A5A8C)",
+    "image": "images/article203.jpg",
+    "featured": false,
+    "breadcrumb": "الذهب والمعادن",
+    "breadcrumbEn": "Gold & Metals",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: البلاتينيوم المعدن المنسي"
+      },
+      {
+        "id": "s2",
+        "text": "استخدامات البلاتينيوم المتعددة"
+      },
+      {
+        "id": "s3",
+        "text": "إمكانات البلاتينيوم كاستثمار"
+      },
+      {
+        "id": "s4",
+        "text": "التحديات والمخاطر الاستثمارية"
+      },
+      {
+        "id": "s5",
+        "text": "خاتمة: هل يستحق البلاتينيوم اهتمامك؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: Platinum, The Forgotten Metal"
+      },
+      {
+        "id": "s2",
+        "text": "Diverse Applications of Platinum"
+      },
+      {
+        "id": "s3",
+        "text": "Platinum's Investment Potential"
+      },
+      {
+        "id": "s4",
+        "text": "Investment Challenges and Risks"
+      },
+      {
+        "id": "s5",
+        "text": "Conclusion: Is Platinum Worth Your Attention?"
+      }
+    ],
+    "related": [
+      93
+    ],
+    "content": "<h2 id='s1'>مقدمة: البلاتينيوم المعدن المنسي</h2><p>يُعرف البلاتينيوم بكونه أحد أندر وأثمن المعادن في العالم، لكنه غالبًا ما يتوارى عن الأنظار مقارنة بالذهب والفضة. يتميز بخصائص فريدة مثل مقاومته للتآكل وقدرته التحفيزية الفائقة.</p><p>على الرغم من أهميته الصناعية ومكانته في المجوهرات، يظل البلاتينيوم \"الجوهرة المخفية\" في محافظ العديد من المستثمرين، مما يدعو إلى استكشاف إمكاناته الحقيقية.</p><h2 id='s2'>استخدامات البلاتينيوم المتعددة</h2><p>تعتمد صناعة السيارات بشكل كبير على البلاتينيوم في المحولات الحفازة التي تقلل الانبعاثات الضارة. كما يدخل في تصنيع المجوهرات الفاخرة، حيث يفضله الكثيرون لمتانته ولمعانه.</p><p>بالإضافة إلى ذلك، يُستخدم البلاتينيوم في المجال ��لطبي (مثل أجهزة تنظيم ضربات القلب) وصناعات الكيماويات والبترول، مما يبرز الطلب الصناعي الثابت عليه.</p><h2 id='s3'>إمكانات البلاتينيوم كاستثمار</h2><p>يعتبر البلاتينيوم أندر بكثير من الذهب، مما يمنحه قيمة جوهرية مدعومة بمحدودية العرض. يمكن للمستثمرين الوصول إليه عبر السبائك، العملات المعدنية، أو صناديق المؤشرات المتداولة (ETFs).</p><p>غالبًا ما تتأثر قيمته بالطلب الصناعي، خاصة من قطاع السيارات، مما يجعله استثمارًا حساسًا للنمو الاقتصادي العالمي.</p><h2 id='s4'>التحديات والمخاطر الاستثمارية</h2><p>تتسم أسعار البلاتينيوم بتقلبات كبيرة، متأثرة بالتغيرات في إنتاج السيارات واللوائح البيئية العالمية. كما يمكن أن تؤثر الاضطرابات الجيوسياسية في مناطق التعدين الرئيسية، مثل جنوب أفريقيا، على إمداداته.</p><p>يج�� على المستثمرين تقييم هذه المخاطر بعناية، مع الأخذ في الاعتبار أن الطلب الصناعي، على الرغم من كونه نقطة قوة، يمكن أن يكون أيضًا مصدرًا لعدم اليقين.</p><h2 id='s5'>خاتمة: هل يستحق البلاتينيوم اهتمامك؟</h2><p>يمثل البلاتينيوم فرصة استثمارية فريدة للمستثمرين الباحثين عن تنويع محافظهم بأصول ذات قيمة صناعية عالية وندرة طبيعية.</p><p>مع فهم عميق لديناميكياته، قد يكون البلاتينيوم هو المعدن الذي ينتظر أن يكتشفه المستثمرون الأذكياء.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: Platinum, The Forgotten Metal</h2><p>Platinum is known as one of the world's rarest and most precious metals, yet it often remains overlooked compared to gold and silver. It boasts unique properties like corrosion resistance and superior catalytic capabilities.</p><p>Despite its industrial importance and prominence in jewelry, platinum remains a \"hidden gem\" in many investors' portfolios, prompting an exploration of its true potential.</p><h2 id='s2'>Diverse Applications of Platinum</h2><p>The automotive industry heavily relies on platinum for catalytic converters, which reduce harmful emissions. It is also used in fine jewelry, favored for its durability and luster.</p><p>Additionally, platinum finds applications in medicine (e.g., pacemakers), chemical, and petroleum industries, underscoring its consistent industrial demand.</p><h2 id='s3'>Platinum's Investment Potential</h2><p>Platinum is significantly rarer than gold, giving it intrinsic value supported by limited supply. Investors can access it through physical bullion, coins, or Exchange Traded Funds (ETFs).</p><p>Its value is often influenced by industrial demand, particularly from the automotive sector, making it an investment sensitive to global economic growth.</p><h2 id='s4'>Investment Challenges and Risks</h2><p>Platinum prices are characterized by significant volatility, affected by changes in auto production and global environmental regulations. Geopolitical instability in key mining regions, such as South Africa, can also impact its supply.</p><p>Investors must carefully assess these risks, considering that industrial demand, while a strength, can also be a source of uncertainty.</p><h2 id='s5'>Conclusion: Is Platinum Worth Your Attention?</h2><p>Platinum presents a unique investment opportunity for those seeking to diversify their portfolios with assets offering high industrial value and natural scarcity.</p><p>With a deep understanding of its dynamics, platinum might just be the metal smart investors are waiting to discover.</p>"
   }
 ];
 

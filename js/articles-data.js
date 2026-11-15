@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-14
-// Total articles: 203
+// Last updated: 2026-11-15
+// Total articles: 204
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -14682,6 +14682,91 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مقدمة: البلاتينيوم المعدن المنسي</h2><p>يُعرف البلاتينيوم بكونه أحد أندر وأثمن المعادن في العالم، لكنه غالبًا ما يتوارى عن الأنظار مقارنة بالذهب والفضة. يتميز بخصائص فريدة مثل مقاومته للتآكل وقدرته التحفيزية الفائقة.</p><p>على الرغم من أهميته الصناعية ومكانته في المجوهرات، يظل البلاتينيوم \"الجوهرة المخفية\" في محافظ العديد من المستثمرين، مما يدعو إلى استكشاف إمكاناته الحقيقية.</p><h2 id='s2'>استخدامات البلاتينيوم المتعددة</h2><p>تعتمد صناعة السيارات بشكل كبير على البلاتينيوم في المحولات الحفازة التي تقلل الانبعاثات الضارة. كما يدخل في تصنيع المجوهرات الفاخرة، حيث يفضله الكثيرون لمتانته ولمعانه.</p><p>بالإضافة إلى ذلك، يُستخدم البلاتينيوم في المجال ��لطبي (مثل أجهزة تنظيم ضربات القلب) وصناعات الكيماويات والبترول، مما يبرز الطلب الصناعي الثابت عليه.</p><h2 id='s3'>إمكانات البلاتينيوم كاستثمار</h2><p>يعتبر البلاتينيوم أندر بكثير من الذهب، مما يمنحه قيمة جوهرية مدعومة بمحدودية العرض. يمكن للمستثمرين الوصول إليه عبر السبائك، العملات المعدنية، أو صناديق المؤشرات المتداولة (ETFs).</p><p>غالبًا ما تتأثر قيمته بالطلب الصناعي، خاصة من قطاع السيارات، مما يجعله استثمارًا حساسًا للنمو الاقتصادي العالمي.</p><h2 id='s4'>التحديات والمخاطر الاستثمارية</h2><p>تتسم أسعار البلاتينيوم بتقلبات كبيرة، متأثرة بالتغيرات في إنتاج السيارات واللوائح البيئية العالمية. كما يمكن أن تؤثر الاضطرابات الجيوسياسية في مناطق التعدين الرئيسية، مثل جنوب أفريقيا، على إمداداته.</p><p>يج�� على المستثمرين تقييم هذه المخاطر بعناية، مع الأخذ في الاعتبار أن الطلب الصناعي، على الرغم من كونه نقطة قوة، يمكن أن يكون أيضًا مصدرًا لعدم اليقين.</p><h2 id='s5'>خاتمة: هل يستحق البلاتينيوم اهتمامك؟</h2><p>يمثل البلاتينيوم فرصة استثمارية فريدة للمستثمرين الباحثين عن تنويع محافظهم بأصول ذات قيمة صناعية عالية وندرة طبيعية.</p><p>مع فهم عميق لديناميكياته، قد يكون البلاتينيوم هو المعدن الذي ينتظر أن يكتشفه المستثمرون الأذكياء.</p>",
     "contentEn": "<h2 id='s1'>Introduction: Platinum, The Forgotten Metal</h2><p>Platinum is known as one of the world's rarest and most precious metals, yet it often remains overlooked compared to gold and silver. It boasts unique properties like corrosion resistance and superior catalytic capabilities.</p><p>Despite its industrial importance and prominence in jewelry, platinum remains a \"hidden gem\" in many investors' portfolios, prompting an exploration of its true potential.</p><h2 id='s2'>Diverse Applications of Platinum</h2><p>The automotive industry heavily relies on platinum for catalytic converters, which reduce harmful emissions. It is also used in fine jewelry, favored for its durability and luster.</p><p>Additionally, platinum finds applications in medicine (e.g., pacemakers), chemical, and petroleum industries, underscoring its consistent industrial demand.</p><h2 id='s3'>Platinum's Investment Potential</h2><p>Platinum is significantly rarer than gold, giving it intrinsic value supported by limited supply. Investors can access it through physical bullion, coins, or Exchange Traded Funds (ETFs).</p><p>Its value is often influenced by industrial demand, particularly from the automotive sector, making it an investment sensitive to global economic growth.</p><h2 id='s4'>Investment Challenges and Risks</h2><p>Platinum prices are characterized by significant volatility, affected by changes in auto production and global environmental regulations. Geopolitical instability in key mining regions, such as South Africa, can also impact its supply.</p><p>Investors must carefully assess these risks, considering that industrial demand, while a strength, can also be a source of uncertainty.</p><h2 id='s5'>Conclusion: Is Platinum Worth Your Attention?</h2><p>Platinum presents a unique investment opportunity for those seeking to diversify their portfolios with assets offering high industrial value and natural scarcity.</p><p>With a deep understanding of its dynamics, platinum might just be the metal smart investors are waiting to discover.</p>"
+  },
+  {
+    "id": 204,
+    "slug": "bond-investing-a-complete-guide",
+    "title": "الاستثمار في السندات: دليل شامل",
+    "titleEn": "Bond Investing: A Complete Guide",
+    "summary": "يقدم هذا الدليل الشامل نظرة متعمقة على الاستثمار في السندات، موضحًا ماهيتها وفوائدها ومخاطرها وكيفية البدء بها.",
+    "summaryEn": "This comprehensive guide offers an in-depth look at bond investing, explaining what bonds are, their benefits, risks, and how to get started.",
+    "excerpt": "تعتبر السندات أداة استثمارية أساسية توفر الاستقرار وتدفق دخل منتظم للمستثمرين.",
+    "excerptEn": "Bonds are a fundamental investment tool providing stability and a regular income stream for investors.",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "عمر الخالدي",
+    "authorEn": "Omar Al-Khalidi",
+    "authorInitial": "O",
+    "date": "15 نوفمبر 2026",
+    "dateEn": "November 15, 2026",
+    "dateISO": "2026-11-15",
+    "readTime": "9",
+    "views": "5153",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#112244,#1a3a5c)",
+    "image": "images/article204.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هي السندات؟"
+      },
+      {
+        "id": "s2",
+        "text": "أنواع السندات"
+      },
+      {
+        "id": "s3",
+        "text": "فوائد الاستثمار في السندات"
+      },
+      {
+        "id": "s4",
+        "text": "مخاطر الاستثمار في السندات"
+      },
+      {
+        "id": "s5",
+        "text": "كيفية الاستثمار في السندات؟"
+      },
+      {
+        "id": "s6",
+        "text": "الخاتمة"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What Are Bonds?"
+      },
+      {
+        "id": "s2",
+        "text": "Types of Bonds"
+      },
+      {
+        "id": "s3",
+        "text": "Benefits of Investing in Bonds"
+      },
+      {
+        "id": "s4",
+        "text": "Risks of Investing in Bonds"
+      },
+      {
+        "id": "s5",
+        "text": "How to Invest in Bonds?"
+      },
+      {
+        "id": "s6",
+        "text": "Conclusion"
+      }
+    ],
+    "related": [
+      113
+    ],
+    "content": "<h2 id='s1'>ما هي السندات؟</h2><p>السند هو أداة دين تص��رها الحكومات أو الشركات لجمع الأموال. عند شراء سند، فإنك في الأساس تقرض المال للمُصدر مقابل مدفوعات فائدة دورية (كوبون) وإعادة رأس المال الأصلي عند تاريخ الاستحقاق.</p><h2 id='s2'>أنواع السندات</h2><p>تتنوع السندات لتشمل السندات الحكومية، التي تعتبر عادةً الأكثر أمانًا، وسندات الشركات التي تصدرها الشركات لتمويل عملياتها، بالإضافة إلى السندات البلدية. يختلف كل نوع في مستوى المخاطر والعائد المتوقع.</p><h2 id='s3'>فوائد الاستثمار في السندات</h2><p>توفر السندات تدفق دخل ثابت ومنتظم من خلال مدفوعات الفائدة، وتعتبر ملاذًا آمنًا في أوقات تقلبات السوق، مما يضيف الاستقرار إلى المحفظة الاستثمارية. كما تساعد في تنويع المخاطر بعيدًا عن الأسهم.</p><h2 id='s4'>مخاطر الاستثمار في السندات</h2><p>لا تخلو السندات من المخاطر، مثل مخاطر أسعار الفائدة حيث يمكن أن تنخفض قيمة السندات القائمة عند ارتفاع أسعار الفائدة الجديدة. هناك أيضًا مخاطر الائتمان، وهي احتمال عدم قدرة المُصدر على سداد المدفوعات، ومخاطر التضخم التي قد تقلل من القوة الشرائية للعائدات.</p><h2 id='s5'>كيفية الاستثمار في السندات؟</h2><p>يمكن للمستثمرين شراء السندات مباشرة من خلال الوسطاء، أو بشكل غير مباشر عبر صناديق السندات المتداولة في البورصة (ETFs) أو صناديق الاستثمار المشتركة. توفر الصناديق تنويعًا وإدارة احترافية.</p><h2 id='s6'>الخاتمة</h2><p>يمثل الاستثمار في السندات جزءًا أساسيًا من استراتيجية المحفظة المتوازنة، حيث يجمع بين الاستقرار وتوليد الدخل. فهم خصائصها ومخاطرها أمر بالغ الأهمية لاتخاذ قرارات استثمارية مستنيرة تتناسب مع أهدافك المالية.</p>",
+    "contentEn": "<h2 id='s1'>What Are Bonds?</h2><p>A bond is a debt instrument issued by governments or corporations to raise capital. When you buy a bond, you are essentially lending money to the issuer in exchange for periodic interest payments (coupon) and the return of your original principal at maturity.</p><h2 id='s2'>Types of Bonds</h2><p>Bonds vary widely, including government bonds, generally considered the safest, corporate bonds issued by companies to fund operations, and municipal bonds issued by local governments. Each type differs in its risk level and expected return.</p><h2 id='s3'>Benefits of Investing in Bonds</h2><p>Bonds provide a stable and regular income stream through interest payments and act as a safe haven during market volatility, adding stability to an investment portfolio. They also help diversify risks away from equities.</p><h2 id='s4'>Risks of Investing in Bonds</h2><p>Bonds are not without risks, such as interest rate risk, where the value of existing bonds can fall when new interest rates rise. There's also credit risk, the possibility that the issuer may default on payments, and inflation risk, which can erode the purchasing power of returns.</p><h2 id='s5'>How to Invest in Bonds?</h2><p>Investors can purchase bonds directly through brokers or indirectly via bond exchange-traded funds (ETFs) or mutual funds. Funds offer diversification and professional management.</p><h2 id='s6'>Conclusion</h2><p>Investing in bonds is a crucial part of a balanced portfolio strategy, combining stability with income generation. Understanding their characteristics and risks is vital for making informed investment decisions aligned with your financial goals.</p>"
   }
 ];
 

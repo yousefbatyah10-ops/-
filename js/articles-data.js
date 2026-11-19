@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-18
-// Total articles: 207
+// Last updated: 2026-11-19
+// Total articles: 208
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -14982,6 +14982,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>تحديد هويتك وقيمك</h2><p>ابدأ بتحديد ما يميزك، شغفك، خبراتك الفريدة، والقيم التي تؤمن بها. هذه العناصر هي جوهر علامتك التجارية الشخصية التي ستجذب الفرص المناسبة لك في السوق.</p><p>فكر في الرسالة التي تريد إيصالها للآخرين وما هو الانطباع الذي ترغب في تركه، فهذا الوضوح هو أساس كل خطواتك اللاحقة لبناء سمعتك.</p><h2 id='s2'>بناء حضورك الرقمي</h2><p>استخدم منصات التواصل الاجتماعي الاحترافية مثل LinkedIn والمدونات لعرض خبراتك ومشاركة أفكارك. انشر محتوى قيماً يعكس معرفتك المتخصصة ويثبت مكانتك كخبير في مجالك.</p><p>حافظ على صورة احترافية متسقة عبر جميع قنواتك الرقمية، من ملفك الشخصي إلى منشوراتك اليومية، لتعزيز مصداقيتك وتأثيرك.</p><h2 id='s3'>التواصل وبناء العلاقات</h2><p>شارك بنشاط في الفعاليات الصناعية والمؤتمرات، سواء عبر الإنترنت أو شخصياً. تعرف على أشخاص جدد وتبادل المعرفة والخبرات مع الزملاء والقادة.</p><p>بناء شبكة علاقات قوية أمر حيوي لنمو علامتك التجارية. دعم الآخرين وتقديم المساعدة يعزز من سمعتك ويفتح لك أبواباً جديدة للتعاون والفرص.</p><h2 id='s4'>الاستمرارية والمصداقية</h2><p>علامة تجارية شخصية قوية لا تُبنى بين عشية وضحاها. تتطلب الاستمرارية في تقديم القيمة، والتفاعل مع جمهورك، وتحديث مهاراتك باستمرار لتظل ذا صلة.</p><p>كن دائماً صادقاً مع نفسك ومع جمهورك. المصداقية هي حجر الزاوية الذي يبني الثقة ويجعل علامتك التجارية دائمة التأثير ومحترمة في مجالك.</p>",
     "contentEn": "<h2 id='s1'>Define Your Identity and Values</h2><p>Start by identifying what makes you unique: your passions, distinct expertise, and core values. These elements are the essence of your personal brand, attracting the right opportunities in the market.</p><p>Consider the message you want to convey to others and the impression you wish to leave. This clarity is the foundation for all your subsequent steps in building your reputation.</p><h2 id='s2'>Build Your Digital Presence</h2><p>Utilize professional social media platforms like LinkedIn and blogs to showcase your expertise and share your insights. Publish valuable content that reflects your specialized knowledge and establishes you as an expert in your field.</p><p>Maintain a consistent professional image across all your digital channels, from your profile to your daily posts, to enhance your credibility and influence.</p><h2 id='s3'>Network and Build Relationships</h2><p>Actively participate in industry events and conferences, both online and in person. Meet new people and exchange knowledge and experiences with peers and leaders.</p><p>Building a strong network is vital for your brand's growth. Supporting others and offering help enhances your reputation and opens new doors for collaboration and opportunities.</p><h2 id='s4'>Consistency and Authenticity</h2><p>A strong personal brand isn't built overnight. It requires consistency in delivering value, engaging with your audience, and continuously updating your skills to remain relevant.</p><p>Always be true to yourself and your audience. Authenticity is the cornerstone that builds trust and makes your brand lastingly impactful and respected in your field.</p>"
+  },
+  {
+    "id": 208,
+    "slug": "ipos-opportunity-or-trap",
+    "title": "الاكتتابات العامة: فرصة أم فخ؟",
+    "titleEn": "IPOs: Opportunity or Trap?",
+    "summary": "الاكتتابات العامة قد تكون فرصة ذهبية لتحقيق عوائد مجزية أو فخاً محفوفاً بالمخاطر، ويعتمد ذلك على التحليل الدقيق للسوق والشركة المطروحة.",
+    "summaryEn": "Initial Public Offerings (IPOs) can be a golden opportunity for significant returns or a risky trap, depending on careful market and company analysis.",
+    "excerpt": "هل الاكتتابات العامة فرصة لتحقيق الثراء السريع أم أنها مجرد فخ للمستثمرين غير المدروسين؟",
+    "excerptEn": "Are IPOs an opportunity for quick wealth or merely a trap for uninformed investors?",
+    "category": "الأسهم",
+    "categoryEn": "Stocks",
+    "categoryIcon": "📈",
+    "author": "مروان العمودي",
+    "authorEn": "Marwan Al-Amoudi",
+    "authorInitial": "M",
+    "date": "19 نوفمبر 2026",
+    "dateEn": "November 19, 2026",
+    "dateISO": "2026-11-19",
+    "readTime": "8",
+    "views": "1874",
+    "emoji": "📈",
+    "gradient": "linear-gradient(135deg,#201040,#402080)",
+    "image": "images/article208.jpg",
+    "featured": false,
+    "breadcrumb": "الأسهم",
+    "breadcrumbEn": "Stocks",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة: ما هي الاكتتابات العامة؟"
+      },
+      {
+        "id": "s2",
+        "text": "الفرصة: لماذا يشارك المستثمرون؟"
+      },
+      {
+        "id": "s3",
+        "text": "الفخ: ما هي المخاطر؟"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح للمستثمرين: كيف تتعامل مع الاكتتابات؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction: What are IPOs?"
+      },
+      {
+        "id": "s2",
+        "text": "The Opportunity: Why do investors participate?"
+      },
+      {
+        "id": "s3",
+        "text": "The Trap: What are the risks?"
+      },
+      {
+        "id": "s4",
+        "text": "Tips for Investors: How to approach IPOs?"
+      }
+    ],
+    "related": [
+      80
+    ],
+    "content": "<h2 id='s1'>مقدمة: ما هي الاكتتاب��ت العامة؟</h2><p>الاكتتاب العام هو العملية التي تطرح من خلالها شركة أسهمها لأول مرة للجمهور في سوق الأوراق المالية. يهدف هذا الطرح إلى جمع رأس مال لتوسيع الأعمال أو سداد الديون أو تمويل الابتكارات.</p><h2 id='s2'>الفرصة: لماذا يشارك المستثمرون؟</h2><p>ينجذب المستثمرون إلى الاكتتابات العامة لفرصة تحقيق عوائد سريعة، خاصة إذا كان هناك طلب قوي على أسهم الشركة المطروحة. يمكن لنجاح الاكتتاب أن يحقق مكاسب رأسمالية كبيرة في الأيام أو الأسابيع الأولى للتداول.</p><h2 id='s3'>الفخ: ما هي المخاطر؟</h2><p>مع ذلك، تحمل الاكتتابات العامة مخاطر كبيرة؛ فغالباً ما تكون أسعار الأسهم متقلبة للغاية بعد الطرح الأولي، وقد تتعرض لتقييم مبالغ فيه. كما يمكن أن تؤثر فترات الحظر (Lock-up periods) على سيولة الأسهم وتزيد من التقلبات عند انتهائها.</p><h2 id='s4'>نصائح للمستثمرين: كيف تتعامل مع الاكتتابات؟</h2><p>لتقليل المخاطر، يجب على المستثمرين إجراء بحث شامل عن الشركة وتقييم أساسياتها المالية ونموذج أعمالها. يُنصح بالتركيز على الاستثمار طويل الأجل بدلاً من المضاربة قصيرة الأجل، وتوزيع الاستثمارات لتجنب التركيز في اكتتاب واحد.</p>",
+    "contentEn": "<h2 id='s1'>Introduction: What are IPOs?</h2><p>An Initial Public Offering (IPO) is the process by which a private company offers its shares to the public for the first time on a stock exchange. This offering aims to raise capital for business expansion, debt repayment, or funding innovations.</p><h2 id='s2'>The Opportunity: Why do investors participate?</h2><p>Investors are attracted to IPOs by the opportunity for quick returns, especially if there is strong demand for the offered company's shares. A successful IPO can yield significant capital gains in the initial days or weeks of trading.</p><h2 id='s3'>The Trap: What are the risks?</h2><p>However, IPOs carry significant risks; share prices are often highly volatile after the initial offering and can be subject to overvaluation. Lock-up periods can also affect share liquidity and increase volatility upon their expiration.</p><h2 id='s4'>Tips for Investors: How to approach IPOs?</h2><p>To mitigate risks, investors should conduct thorough research on the company, evaluating its financial fundamentals and business model. It is advisable to focus on long-term investment rather than short-term speculation, and to diversify investments to avoid concentration in a single IPO.</p>"
   }
 ];
 

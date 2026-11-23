@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-22
-// Total articles: 211
+// Last updated: 2026-11-23
+// Total articles: 212
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -15290,6 +15290,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>لماذا الاستثمار العالمي من السعودية؟</h2><p>يعد الاستثمار في الأسواق العالمية فرصة حيوية للمستثمرين السعوديين لتنويع محافظهم الاستثمارية وتقليل المخاطر المرتبطة بالاعتماد الكلي على السوق المحلي. يتيح هذا النهج الاستفادة من النمو الاقتصادي في مختلف أنحاء العالم.</p><p>كما يمنح الوصول إلى شركات عالمية رائدة في قطاعات متنوعة مثل التكنولوجيا والرعاية الصحية، مما يوفر إمكانية تحقيق عوائد أعلى واستغلال فرص استثمارية فريدة غير متوفرة محليًا.</p><h2 id='s2'>التحديات والاعتبارات الرئيسية</h2><p>يتطلب الاستثمار العالمي فهمًا عميقًا للوائح والقوانين الضريبية في الدول الأجنبية، بالإضافة إلى تقلب��ت أسعار الصرف التي قد تؤثر على قيمة العوائد. يجب على المستثمر تقييم هذه المخاطر بعناية.</p><p>كما أن هناك حاجة لمعرفة كافية بالأسواق العالمية المختلفة، وتحليل المخاطر الجيوسياسية والاقتصادية التي قد تؤثر على أداء الاستثمارات، مما يستدعي بحثًا دقيقًا ومستمرًا.</p><h2 id='s3'>كيفية البدء بالاستثمار العالمي</h2><p>للبدء، يجب اختيار وسيط مالي مرخص يوفر الوصول للأسواق العالمية، سواء كان بنكًا محليًا يقدم هذه الخدمة أو منصة تداول دولية موثوقة. تأكد من أن الوسيط يقدم الأدوات والموارد التعليمية اللازمة.</p><p>يمكن للمستثمرين البدء بأصول متنوعة مثل الأسهم العالمية، صناديق المؤشرات المتداولة (ETFs) التي توفر تنوعًا واسعًا، أو صناديق الاستثمار المشتركة التي يديرها محترفون.</p><h2 id='s4'>نصائح لنجاح استثمارك العالمي</h2><p>إجراء بحث شامل قبل أي استثمار وتحديد أهداف واضحة ومخاطر مقبولة هو أمر أساسي. لا تستثمر في ما لا تفهمه، وقم بتقييم الأداء التاريخي والتوقعات المستقبلية.</p><p>ينصح بالبدء بمبالغ صغيرة وزيادتها تدريجيًا مع اكتساب الخبرة، والتركيز على الاستثمار طويل الأجل لتجاوز التقلبات قصيرة المدى والاستفادة من النمو المركب.</p>",
     "contentEn": "<h2 id='s1'>Why Global Investment from Saudi Arabia?</h2><p>Investing in global markets is a vital opportunity for Saudi investors to diversify their portfolios and reduce risks associated with relying solely on the local market. This approach allows for benefiting from economic growth across the world.</p><p>It also grants access to leading global companies in various sectors such as technology and healthcare, offering the potential for higher returns and unique investment opportunities not available locally.</p><h2 id='s2'>Key Challenges and Considerations</h2><p>Global investing requires a deep understanding of foreign market regulations and tax laws, in addition to currency exchange rate fluctuations that can impact the value of returns. Investors must carefully assess these risks.</p><p>There is also a need for sufficient knowledge of different global markets, and an analysis of geopolitical and economic risks that may affect investment performance, necessitating thorough and continuous research.</p><h2 id='s3'>How to Start Global Investing</h2><p>To begin, choose a licensed financial broker that provides access to global markets, whether it's a local bank offering this service or a reputable international trading platform. Ensure the broker provides the necessary tools and educational resources.</p><p>Investors can start with diversified assets such as global stocks, Exchange Traded Funds (ETFs) which offer broad diversification, or mutual funds managed by professionals.</p><h2 id='s4'>Tips for Successful Global Investment</h2><p>Conducting thorough research before any investment and setting clear goals and acceptable risks is essential. Do not invest in what you do not understand, and evaluate historical performance and future prospects.</p><p>It is advisable to start with small amounts and gradually increase them as experience is gained, focusing on long-term investment to overcome short-term fluctuations and benefit from compound growth.</p>"
+  },
+  {
+    "id": 212,
+    "slug": "hotel-real-estate-investment",
+    "title": "الاستثمار في العقارات الفندقية",
+    "titleEn": "Hotel Real Estate Investment",
+    "summary": "الاستثمار في العقارات الفندقية يجمع بين قيمة العقار ودخل التشغيل، موفرًا عوائد محتملة وتنويعًا للمحفظة رغم تحدياته.",
+    "summaryEn": "Investing in hotel real estate combines property value with operational income, offering potential returns and portfolio diversification despite its challenges.",
+    "excerpt": "اكتشف أساسيات الاستثمار في العقارات الفندقية، مزاياه، تحدياته، وأفضل الطرق لدخول هذا السوق الواعد.",
+    "excerptEn": "Explore the fundamentals of hotel real estate investment, its advantages, challenges, and the best ways to enter this promising market.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "23 نوفمبر 2026",
+    "dateEn": "November 23, 2026",
+    "dateISO": "2026-11-23",
+    "readTime": "12",
+    "views": "5842",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article212.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "ما هو الاستثمار في العقارات الفندقية؟"
+      },
+      {
+        "id": "s2",
+        "text": "مزايا الاستثمار الفندقي"
+      },
+      {
+        "id": "s3",
+        "text": "التحديات والمخاطر المحتملة"
+      },
+      {
+        "id": "s4",
+        "text": "كيف تستثمر في العقارات الفندقية؟"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "What is Hotel Real Estate Investment?"
+      },
+      {
+        "id": "s2",
+        "text": "Advantages of Hotel Investment"
+      },
+      {
+        "id": "s3",
+        "text": "Potential Challenges and Risks"
+      },
+      {
+        "id": "s4",
+        "text": "How to Invest in Hotel Real Estate?"
+      }
+    ],
+    "related": [
+      131
+    ],
+    "content": "<h2 id='s1'>ما هو الاستثمار في العقارات الفندقية؟</h2><p>الاستثمار في العقارات الفندقية هو شراء أو امتلاك عقارات مخصصة للضيافة، مثل الفنادق، المنتجعات، أو الشقق الفندقية. يختلف هذا النوع عن العقارات السكنية أو التجارية التقليدية لأنه يجمع بين قيمة العقار والدخل الناتج عن تشغيل الأعمال الفندقية اليومية.</p><h2 id='s2'>مزايا الاستثمار الفندقي</h2><p>يقدم الاستثمار الفندقي إمكانية تحقيق عوائد مجزية من خلال الإيرادات التشغيلية اليومية من الغرف والخدمات، بالإضافة إلى تقدير قيمة العقار بمرور الوقت. كما يوفر تنويعًا جيدًا للمحفظة الاستثمارية، حيث يرتبط أداؤه بقطاع السياحة والضيافة.</p><h2 id='s3'>التحديات والمخاطر المحتملة</h2><p>على الرغم من جاذبيته، ينطوي الاستثمار الفندقي على تحديات مثل حساسيته للتقلبات الاقتصادية ومواسم السياحة. يتطلب أيضًا إدارة معقدة ومستمرة، وتكاليف صيانة وتشغيل مرتفعة، مما قد يؤثر على صافي الأرباح.</p><h2 id='s4'>كيف تستثمر في العقارات الفندقية؟</h2><p>يمكن الاستثمار بشكل مباشر بشراء فندق كامل أو حصة فيه، أو بشكل غير مباشر عبر صناديق الاستثمار العقاري (REITs) المتخصصة في الفنادق. هناك أيضًا خيار شراء وحدات فندقية فردية ضمن مشاريع أكبر، والتي غالبًا ما تأتي مع عقود إدارة.</p>",
+    "contentEn": "<h2 id='s1'>What is Hotel Real Estate Investment?</h2><p>Hotel real estate investment involves purchasing or owning properties dedicated to hospitality, such as hotels, resorts, or serviced apartments. This type differs from traditional residential or commercial real estate as it combines property value with income generated from daily hotel operations.</p><h2 id='s2'>Advantages of Hotel Investment</h2><p>Hotel investment offers the potential for attractive returns through daily operational revenues from rooms and services, alongside property value appreciation over time. It also provides good portfolio diversification, as its performance is linked to the tourism and hospitality sector.</p><h2 id='s3'>Potential Challenges and Risks</h2><p>Despite its appeal, hotel investment carries challenges such as its sensitivity to economic fluctuations and tourism seasons. It also requires complex and continuous management, along with high maintenance and operating costs, which can impact net profits.</p><h2 id='s4'>How to Invest in Hotel Real Estate?</h2><p>One can invest directly by purchasing an entire hotel or a share in one, or indirectly through Hotel Real Estate Investment Trusts (REITs). Another option is buying individual hotel units within larger projects, often accompanied by management contracts.</p>"
   }
 ];
 

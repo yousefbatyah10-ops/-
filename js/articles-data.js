@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-23
-// Total articles: 212
+// Last updated: 2026-11-24
+// Total articles: 213
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -15359,6 +15359,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>ما هو الاستثمار في العقارات الفندقية؟</h2><p>الاستثمار في العقارات الفندقية هو شراء أو امتلاك عقارات مخصصة للضيافة، مثل الفنادق، المنتجعات، أو الشقق الفندقية. يختلف هذا النوع عن العقارات السكنية أو التجارية التقليدية لأنه يجمع بين قيمة العقار والدخل الناتج عن تشغيل الأعمال الفندقية اليومية.</p><h2 id='s2'>مزايا الاستثمار الفندقي</h2><p>يقدم الاستثمار الفندقي إمكانية تحقيق عوائد مجزية من خلال الإيرادات التشغيلية اليومية من الغرف والخدمات، بالإضافة إلى تقدير قيمة العقار بمرور الوقت. كما يوفر تنويعًا جيدًا للمحفظة الاستثمارية، حيث يرتبط أداؤه بقطاع السياحة والضيافة.</p><h2 id='s3'>التحديات والمخاطر المحتملة</h2><p>على الرغم من جاذبيته، ينطوي الاستثمار الفندقي على تحديات مثل حساسيته للتقلبات الاقتصادية ومواسم السياحة. يتطلب أيضًا إدارة معقدة ومستمرة، وتكاليف صيانة وتشغيل مرتفعة، مما قد يؤثر على صافي الأرباح.</p><h2 id='s4'>كيف تستثمر في العقارات الفندقية؟</h2><p>يمكن الاستثمار بشكل مباشر بشراء فندق كامل أو حصة فيه، أو بشكل غير مباشر عبر صناديق الاستثمار العقاري (REITs) المتخصصة في الفنادق. هناك أيضًا خيار شراء وحدات فندقية فردية ضمن مشاريع أكبر، والتي غالبًا ما تأتي مع عقود إدارة.</p>",
     "contentEn": "<h2 id='s1'>What is Hotel Real Estate Investment?</h2><p>Hotel real estate investment involves purchasing or owning properties dedicated to hospitality, such as hotels, resorts, or serviced apartments. This type differs from traditional residential or commercial real estate as it combines property value with income generated from daily hotel operations.</p><h2 id='s2'>Advantages of Hotel Investment</h2><p>Hotel investment offers the potential for attractive returns through daily operational revenues from rooms and services, alongside property value appreciation over time. It also provides good portfolio diversification, as its performance is linked to the tourism and hospitality sector.</p><h2 id='s3'>Potential Challenges and Risks</h2><p>Despite its appeal, hotel investment carries challenges such as its sensitivity to economic fluctuations and tourism seasons. It also requires complex and continuous management, along with high maintenance and operating costs, which can impact net profits.</p><h2 id='s4'>How to Invest in Hotel Real Estate?</h2><p>One can invest directly by purchasing an entire hotel or a share in one, or indirectly through Hotel Real Estate Investment Trusts (REITs). Another option is buying individual hotel units within larger projects, often accompanied by management contracts.</p>"
+  },
+  {
+    "id": 213,
+    "slug": "investing-in-undeveloped-land",
+    "title": "كيف تستثمر في الأراضي البيضاء",
+    "titleEn": "Investing in Undeveloped Land",
+    "summary": "الاستثمار في الأراضي البيضاء يوفر فرصاً واعدة للنمو الرأسمالي، لكنه يتطلب فهماً عميقاً للمخاطر والعوامل المؤثرة لتحقيق النجاح.",
+    "summaryEn": "Investing in white lands offers promising opportunities for capital growth, but requires a deep understanding of risks and influencing factors to achieve success.",
+    "excerpt": "تُعد الأراضي البيضاء، وهي الأراضي غير المطورة داخل النطاق العمراني، خياراً استثمارياً جذاباً للمستثمرين الباحثين عن نمو طويل الأجل.",
+    "excerptEn": "White lands, undeveloped plots within urban areas, are an attractive investment option for investors seeking long-term growth.",
+    "category": "العقارات",
+    "categoryEn": "Real Estate",
+    "categoryIcon": "🏙️",
+    "author": "د. هند التويجري",
+    "authorEn": "Dr. Hind Al-Tuwaijri",
+    "authorInitial": "H",
+    "date": "24 نوفمبر 2026",
+    "dateEn": "November 24, 2026",
+    "dateISO": "2026-11-24",
+    "readTime": "9",
+    "views": "5904",
+    "emoji": "🏙️",
+    "gradient": "linear-gradient(135deg,#1a0a00,#4a2800)",
+    "image": "images/article213.jpg",
+    "featured": false,
+    "breadcrumb": "العقارات",
+    "breadcrumbEn": "Real Estate",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مفهوم الأراضي البيضاء وجاذبيتها الاستثمارية"
+      },
+      {
+        "id": "s2",
+        "text": "مزايا وتحديات الاستثمار فيها"
+      },
+      {
+        "id": "s3",
+        "text": "عوامل حاسمة قبل الشراء"
+      },
+      {
+        "id": "s4",
+        "text": "نصائح عملية للمستثمرين"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Concept of White Lands and their Investment Appeal"
+      },
+      {
+        "id": "s2",
+        "text": "Advantages and Challenges of Investing in Them"
+      },
+      {
+        "id": "s3",
+        "text": "Crucial Factors Before Purchase"
+      },
+      {
+        "id": "s4",
+        "text": "Practical Tips for Investors"
+      }
+    ],
+    "related": [
+      159
+    ],
+    "content": "<h2 id='s1'>مفهوم الأراضي البيضاء وجاذبيتها الاستثمارية</h2><p>تُعرف الأراضي البيضاء بأنها الأراضي غير المطورة أو غير المستغلة الواقعة ضمن النطاق العمراني للمدن، وهي غالباً ما تكون مخصصة للتطوير المستقبلي. تكتسب هذه الأراضي جاذبيتها الاستثمارية من إمكانية تحولها إلى مشاريع سكنية أو تجارية أو صناعية مع توسع المدن.</p><p>يمثل الاستثمار فيها رهاناً على النمو المستقبلي والتوسع العمراني، حيث يتوقع أن تزداد قيمتها مع مرور الوقت وتحولها إلى أراضٍ مطورة، مما يوفر عوائد رأسمالية مجزية للمستثمرين الصبورين.</p><h2 id='s2'>مزايا وتحديات الاستثمار فيها</h2><p>من أبرز مزايا الاستثمار في الأراضي البيضاء هو انخفاض تكاليف صيانتها مقارنة بالعقارات المبنية، وإمكانية تحقيق أرباح رأسمالية كبيرة مع تطور البنية التحتية والنمو السكاني. كما أنها توفر مرونة للمستثمر في تحديد نوع التطوير المستقبلي.</p><p>مع ذلك، يواجه هذا النوع من الاستثمار تحديات مثل طول فترة الانتظار لتحقيق العوائد، والمخاطر التنظيمية المتعلقة بتغيير تصنيفات الأراضي أو فرض رسوم عليها. كما أن السيولة قد تكون منخفضة نسبياً في بعض الأحيان، مما يتطلب تخطيطاً مالياً دقيقاً.</p><h2 id='s3'>عوامل حاسمة قبل الشراء</h2><p>لتحقيق أقصى استفادة، يجب على المستثمر دراسة الموقع بعناية فائقة، مع التركيز على قرب الأرض من الخدمات الأساسية، وشبكات الطرق، ومراكز النمو السكاني. كما أن فهم خطط التطوير العمراني المستقبلية للمنطقة أمر حيوي لتقييم إمكانات الأرض.</p><p>يُعد التحقق من التصنيف التخطيطي للأرض (Zoning) والقيود المفروضة عليها، إن وجدت، خطوة أساسية. يجب أيضاً البحث عن وجود أي رسوم أو ضرائب حكومية محتملة على الأراضي البيضاء في المنطقة، والتي قد تؤثر على جدوى الاستثمار.</p><h2 id='s4'>نصائح عملية للمستثمرين</h2><p>ينصح المستثمرون بإجراء بحث شامل وعناية واجبة قبل اتخاذ قرار الشراء، بما في ذلك الاستعانة بخبراء عقاريين ومحامين متخصصين. يجب مراجعة جميع الوثائق القانونية والتأكد من خلو الأرض من أي نزاعات أو رهون.</p><p>كذلك، يجب أن يكون المستثمر مستعداً للاستثمار طويل الأجل، حيث أن تحقيق العوائد المرتفعة في الأراضي البيضاء غالباً ما يستغرق عدة سنوات. تنويع المحفظة الاستثمارية وعدم الاعتماد الكلي على هذا النوع من الأصول يقلل من المخاطر الكلية.</p>",
+    "contentEn": "<h2 id='s1'>Concept of White Lands and their Investment Appeal</h2><p>White lands are defined as undeveloped or unutilized plots located within the urban scope of cities, often designated for future development. These lands gain their investment appeal from their potential to be transformed into residential, commercial, or industrial projects as cities expand.</p><p>Investing in them represents a bet on future growth and urban expansion, as their value is expected to increase over time as they become developed lands, offering rewarding capital returns for patient investors.</p><h2 id='s2'>Advantages and Challenges of Investing in Them</h2><p>One of the main advantages of investing in white lands is their lower maintenance costs compared to built properties, and the potential for significant capital gains with infrastructure development and population growth. They also offer investors flexibility in determining the type of future development.</p><p>However, this type of investment faces challenges such as long waiting periods for returns, and regulatory risks related to changes in land classifications or the imposition of fees. Liquidity can also be relatively low at times, requiring careful financial planning.</p><h2 id='s3'>Crucial Factors Before Purchase</h2><p>To maximize benefits, investors must carefully study the location, focusing on the land's proximity to essential services, road networks, and population growth centers. Understanding future urban development plans for the area is also vital for assessing the land's potential.</p><p>Verifying the land's zoning classification and any imposed restrictions, if any, is an essential step. It is also important to research any potential government fees or taxes on white lands in the area, which could affect the investment's viability.</p><h2 id='s4'>Practical Tips for Investors</h2><p>Investors are advised to conduct thorough research and due diligence before making a purchase decision, including consulting real estate experts and specialized lawyers. All legal documents must be reviewed, and the land must be free from any disputes or encumbrances.</p><p>Furthermore, investors should be prepared for long-term investment, as achieving high returns in white lands often takes several years. Diversifying the investment portfolio and not relying solely on this type of asset reduces overall risk.</p>"
   }
 ];
 

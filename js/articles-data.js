@@ -1,6 +1,6 @@
 // Auto-generated articles data file
-// Last updated: 2026-11-24
-// Total articles: 213
+// Last updated: 2026-11-25
+// Total articles: 214
 // DO NOT EDIT MANUALLY - use scripts/generate-article.js to add new articles
 
 window.ARTICLES = [
@@ -15428,6 +15428,75 @@ window.ARTICLES = [
     ],
     "content": "<h2 id='s1'>مفهوم الأراضي البيضاء وجاذبيتها الاستثمارية</h2><p>تُعرف الأراضي البيضاء بأنها الأراضي غير المطورة أو غير المستغلة الواقعة ضمن النطاق العمراني للمدن، وهي غالباً ما تكون مخصصة للتطوير المستقبلي. تكتسب هذه الأراضي جاذبيتها الاستثمارية من إمكانية تحولها إلى مشاريع سكنية أو تجارية أو صناعية مع توسع المدن.</p><p>يمثل الاستثمار فيها رهاناً على النمو المستقبلي والتوسع العمراني، حيث يتوقع أن تزداد قيمتها مع مرور الوقت وتحولها إلى أراضٍ مطورة، مما يوفر عوائد رأسمالية مجزية للمستثمرين الصبورين.</p><h2 id='s2'>مزايا وتحديات الاستثمار فيها</h2><p>من أبرز مزايا الاستثمار في الأراضي البيضاء هو انخفاض تكاليف صيانتها مقارنة بالعقارات المبنية، وإمكانية تحقيق أرباح رأسمالية كبيرة مع تطور البنية التحتية والنمو السكاني. كما أنها توفر مرونة للمستثمر في تحديد نوع التطوير المستقبلي.</p><p>مع ذلك، يواجه هذا النوع من الاستثمار تحديات مثل طول فترة الانتظار لتحقيق العوائد، والمخاطر التنظيمية المتعلقة بتغيير تصنيفات الأراضي أو فرض رسوم عليها. كما أن السيولة قد تكون منخفضة نسبياً في بعض الأحيان، مما يتطلب تخطيطاً مالياً دقيقاً.</p><h2 id='s3'>عوامل حاسمة قبل الشراء</h2><p>لتحقيق أقصى استفادة، يجب على المستثمر دراسة الموقع بعناية فائقة، مع التركيز على قرب الأرض من الخدمات الأساسية، وشبكات الطرق، ومراكز النمو السكاني. كما أن فهم خطط التطوير العمراني المستقبلية للمنطقة أمر حيوي لتقييم إمكانات الأرض.</p><p>يُعد التحقق من التصنيف التخطيطي للأرض (Zoning) والقيود المفروضة عليها، إن وجدت، خطوة أساسية. يجب أيضاً البحث عن وجود أي رسوم أو ضرائب حكومية محتملة على الأراضي البيضاء في المنطقة، والتي قد تؤثر على جدوى الاستثمار.</p><h2 id='s4'>نصائح عملية للمستثمرين</h2><p>ينصح المستثمرون بإجراء بحث شامل وعناية واجبة قبل اتخاذ قرار الشراء، بما في ذلك الاستعانة بخبراء عقاريين ومحامين متخصصين. يجب مراجعة جميع الوثائق القانونية والتأكد من خلو الأرض من أي نزاعات أو رهون.</p><p>كذلك، يجب أن يكون المستثمر مستعداً للاستثمار طويل الأجل، حيث أن تحقيق العوائد المرتفعة في الأراضي البيضاء غالباً ما يستغرق عدة سنوات. تنويع المحفظة الاستثمارية وعدم الاعتماد الكلي على هذا النوع من الأصول يقلل من المخاطر الكلية.</p>",
     "contentEn": "<h2 id='s1'>Concept of White Lands and their Investment Appeal</h2><p>White lands are defined as undeveloped or unutilized plots located within the urban scope of cities, often designated for future development. These lands gain their investment appeal from their potential to be transformed into residential, commercial, or industrial projects as cities expand.</p><p>Investing in them represents a bet on future growth and urban expansion, as their value is expected to increase over time as they become developed lands, offering rewarding capital returns for patient investors.</p><h2 id='s2'>Advantages and Challenges of Investing in Them</h2><p>One of the main advantages of investing in white lands is their lower maintenance costs compared to built properties, and the potential for significant capital gains with infrastructure development and population growth. They also offer investors flexibility in determining the type of future development.</p><p>However, this type of investment faces challenges such as long waiting periods for returns, and regulatory risks related to changes in land classifications or the imposition of fees. Liquidity can also be relatively low at times, requiring careful financial planning.</p><h2 id='s3'>Crucial Factors Before Purchase</h2><p>To maximize benefits, investors must carefully study the location, focusing on the land's proximity to essential services, road networks, and population growth centers. Understanding future urban development plans for the area is also vital for assessing the land's potential.</p><p>Verifying the land's zoning classification and any imposed restrictions, if any, is an essential step. It is also important to research any potential government fees or taxes on white lands in the area, which could affect the investment's viability.</p><h2 id='s4'>Practical Tips for Investors</h2><p>Investors are advised to conduct thorough research and due diligence before making a purchase decision, including consulting real estate experts and specialized lawyers. All legal documents must be reviewed, and the land must be free from any disputes or encumbrances.</p><p>Furthermore, investors should be prepared for long-term investment, as achieving high returns in white lands often takes several years. Diversifying the investment portfolio and not relying solely on this type of asset reduces overall risk.</p>"
+  },
+  {
+    "id": 214,
+    "slug": "blockchain-the-technology-changing-the-world",
+    "title": "البلوكشين: التقنية التي تغير العالم",
+    "titleEn": "Blockchain: The Technology Changing the World",
+    "summary": "البلوكشين هي تقنية دفتر أستاذ موزع لا مركزي وآمن تُحدث ثورة في كيفية تسجيل المعاملات وتبادل المعلومات عبر الصناعات المتعددة.",
+    "summaryEn": "Blockchain is a decentralized, secure, distributed ledger technology revolutionizing how transactions are recorded and information is exchanged across multiple industries.",
+    "excerpt": "تستكشف هذه المقالة تقنية البلوكشين، موضحًا آليات عملها وتطبيقاتها المتنوعة التي تتجاوز العملات الرقمية، وتأثيرها المحتمل على مستقبل الاقتصاد العالمي.",
+    "excerptEn": "This article explores blockchain technology, detailing its mechanisms and diverse applications beyond cryptocurrencies, and its potential impact on the future of the global economy.",
+    "category": "تقنية وثروة",
+    "categoryEn": "Tech & Wealth",
+    "categoryIcon": "🤖",
+    "author": "أحمد بن علي",
+    "authorEn": "Ahmed Bin Ali",
+    "authorInitial": "A",
+    "date": "25 نوفمبر 2026",
+    "dateEn": "November 25, 2026",
+    "dateISO": "2026-11-25",
+    "readTime": "12",
+    "views": "4056",
+    "emoji": "🤖",
+    "gradient": "linear-gradient(135deg,#0A1628,#112244)",
+    "image": "images/article214.jpg",
+    "featured": false,
+    "breadcrumb": "تقنية وثروة",
+    "breadcrumbEn": "Tech & Wealth",
+    "breadcrumbHref": "index.html#strategies",
+    "toc": [
+      {
+        "id": "s1",
+        "text": "مقدمة إلى البلوكشين"
+      },
+      {
+        "id": "s2",
+        "text": "كيف يعمل البلوكشين؟"
+      },
+      {
+        "id": "s3",
+        "text": "تطبيقات البلوكشين أبعد من العملات الرقمية"
+      },
+      {
+        "id": "s4",
+        "text": "تأثير البلوكشين ومستقبله"
+      }
+    ],
+    "tocEn": [
+      {
+        "id": "s1",
+        "text": "Introduction to Blockchain"
+      },
+      {
+        "id": "s2",
+        "text": "How Blockchain Works?"
+      },
+      {
+        "id": "s3",
+        "text": "Blockchain Applications Beyond Cryptocurrencies"
+      },
+      {
+        "id": "s4",
+        "text": "Blockchain's Impact and Future"
+      }
+    ],
+    "related": [
+      54
+    ],
+    "content": "<h2 id='s1'>مقدمة إلى البلوكشين</h2><p>\"البلوكشين\" أو سلسلة الكتل، هي تقنية دفتر أستاذ موزع لا مركزي وآمن، صُممت لتسجيل المعاملات بطريقة لا يمكن تغييرها أو التلاعب بها. ظهرت أولاً مع عملة البيتكوين لكن تطبيقاتها تجاوزت العملات الرقمية بكثير.</p><h2 id='s2'>كيف يعمل البلوكشين؟</h2><p>تتكون سلسلة الكتل من مجموعة من \"الكتل\" المرتبطة ببعضها البعض باستخدام التشفير. كل كتلة تحتوي على مجموعة من المعاملات وتُضاف بشكل تسلسلي، مما يخلق سجلاً شفافًا وغير قابل للتغيير.</p><p>تعتمد هذه التقنية على مبدأ اللامركزية، حيث لا يوجد سلطة مركزية تتحكم بالشبكة، بل يشارك جميع المستخدمين في التحقق من صحة المعاملات وتأمينها.</p><h2 id='s3'>تطبيقات ال��لوكشين أبعد من العملات الرقمية</h2><p>بالإضافة إلى العملات المشفرة، تجد تقنية البلوكشين تطبيقات واسعة في مجالات مثل إدارة سلاسل الإمداد، حيث تضمن تتبع المنتجات بشفافية من المنشأ إلى المستهلك. كما تُستخدم في أنظمة التصويت الرقمي لضمان النزاهة والأمان.</p><p>كذلك، يمكن للبلوكشين أن يُحدث ثورة في قطاعات العقارات والرعاية الصحية، من خلال تبسيط المعاملات وتأمين السجلات الحساسة، مما يقلل من الاحتيال ويزيد الثقة.</p><h2 id='s4'>تأثير البلوكشين ومستقبله</h2><p>يمثل البلوكشين تحولًا جذريًا في كيفية تبادل المعلومات والقيم، مقدمًا نموذجًا جديدًا للثقة والشفافية في العصر الرقمي. قدرتها على إزالة الوسطاء وتقديم سجلات غير قابلة للتغيير تجعلها محركًا قويًا للابتكار.</p><p>مع استمرار تطورها، من المتوقع أن تُعيد تقنية البلوكشين تشكيل العديد من الصناعات، مما يفتح آفاقًا جديدة للنمو الاقتصادي ويعزز الكفاءة والأمان في العمليات التجارية العالمية.</p>",
+    "contentEn": "<h2 id='s1'>Introduction to Blockchain</h2><p>\"Blockchain\" is a decentralized, secure, distributed ledger technology designed to record transactions in an immutable and tamper-proof manner. It first emerged with Bitcoin but its applications have expanded far beyond digital currencies.</p><h2 id='s2'>How Blockchain Works?</h2><p>A blockchain consists of a series of \"blocks\" linked together using cryptography. Each block contains a set of transactions and is added sequentially, creating a transparent and unchangeable record.</p><p>This technology relies on the principle of decentralization, where no central authority controls the network; instead, all users participate in validating and securing transactions.</p><h2 id='s3'>Blockchain Applications Beyond Cryptocurrencies</h2><p>Beyond cryptocurrencies, blockchain technology finds wide applications in areas like supply chain management, ensuring transparent product tracking from origin to consumer. It is also used in digital voting systems to guarantee integrity and security.</p><p>Furthermore, blockchain can revolutionize real estate and healthcare sectors by streamlining transactions and securing sensitive records, thereby reducing fraud and increasing trust.</p><h2 id='s4'>Blockchain's Impact and Future</h2><p>Blockchain represents a fundamental shift in how information and value are exchanged, offering a new paradigm of trust and transparency in the digital age. Its ability to remove intermediaries and provide immutable records makes it a powerful engine for innovation.</p><p>As it continues to evolve, blockchain technology is expected to reshape numerous industries, opening new avenues for economic growth and enhancing efficiency and security in global business operations.</p>"
   }
 ];
 
